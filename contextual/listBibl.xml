@@ -415,5 +415,17 @@
     <pubPlace>Bombay</pubPlace>
     <date when="1881">1881</date>
   </bibl>
+  <bibl xml:id="Kan" type="book">
+    <author>
+      <name>
+	<surname>Poonacha</surname>
+	<forename>K. P.</forename>
+      </name>
+    </author>
+    <title>Excavations at Kanaganahalli</title>
+    <pubPlace>Delhi</pubPlace>
+    <publisher>Archaeological Survey of India</publisher>
+    <date when="2013">2013</date>
+  </bibl>
 
 </listBibl>
