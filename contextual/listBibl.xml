@@ -427,5 +427,17 @@
     <publisher>Archaeological Survey of India</publisher>
     <date when="2013">2013</date>
   </bibl>
+  <bibl xml:id="LL" type="book">
+    <author>
+      <name>
+	<surname>Lüders</surname>
+	<forename>Heinrich</forename>
+      </name>
+    </author>
+    <title>Appendix to Epigraphia Indica and Record of the Archaeological Survey of India, Vol. X: A List of Brahmi Inscriptions from the Earliest Times to about A.D. 400 with the Exception of Those of Asoka</title>
+    <pubPlace>Calcutta</pubPlace>
+    <publisher>Superintendent Government Printing</publisher>
+    <date when="1912">1912</date>
+  </bibl>
 
 </listBibl>
