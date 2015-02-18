@@ -1,0 +1,191 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N15">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 15</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N15</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the left wall of the court in Cave No. 10.
+	      </origPlace>
+	      <origDate notBefore-custom="0225"
+			notAfter-custom="0275"
+			precision="medium">mid-3rd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="sa-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ rājñaḥ <app
+	    ><lem wit="#N">māḍha</lem>
+	     <rdg wit="#AS"><gap reason="lost"
+				 quantity="2"
+				 unit="character"/></rdg>
+	     <note xml:lang="en"><p>Senart notes that many
+	     readings in this inscription are risky owing
+	     to the poor state of preservation.</p></note>
+	  </app>rīputrasya <persName key="pers:Śivadatta">śivadattābhīra</persName>putrasya
+	  <lb n="2"/>
+	  <persName key="pers:MpĪśvarasena">abhīrasyeśvarasenasya</persName>
+	  <app><lem wit="#N">saṃvatsare</lem>
+	       <rdg wit="#AS">savatsare</rdg>
+	       <rdg wit="#G">saṃvatsara</rdg></app> 2 
+	  <app
+	      ><lem wit="#N">navama<gap reason="missing"
+	                                quantity="1"
+					unit="character"/></lem>
+	       <rdg wit="#AS">navame <supplied reason="missing">9</supplied> <note xml:lang="en"><p>(reading <foreign xml:lang="sa-Latn">gi</foreign> at the beginning of line 3)</p></note></rdg>
+	       <rdg wit="#G">navama <supplied reason="missing">gi</supplied></rdg>
+	  </app>
+	  <lb n="3"/>
+	  mhapakhe cothe 4 divase trayoda<app
+	    ><lem wit="#N">śa 13</lem>
+	     <note xml:lang="en"><p>Senart: “Of the <foreign xml:lang="sa-Latn">śa</foreign> and of the number I cannot make out anything.”</p></note>
+	  </app><gap reason="lost"
+	             quantity="2"
+		     unit="character"/>
+	  <lb n="4"/>
+	  <app><lem wit="#N">ya puvaya</lem>
+	       <rdg wit="#AS">yā puvāya</rdg>
+	  </app> <persName key="pers:Agnivarman">śakāgnivarmmaṇaḥ</persName> 
+	  <app><lem wit="#N">duhitā</lem>
+	       <rdg wit="#AS">duhitrā</rdg>
+	  </app> <app
+	      ><lem wit="#N">gaṇapa</lem>
+	       <rdg wit="#AS">gaṇāpa</rdg>
+          </app>ka<gap reason="lost"
+	                      quantity="1"
+			      unit="character"/>
+	  <lb n="5"/>
+	  <persName key="pers:Rebhila">rebhilasya</persName> 
+	  <app><lem wit="#N">bharyayā</lem>
+	       <rdg wit="#G #AS">bhāryayā</rdg>
+          </app> <app
+	      ><lem wit="#N">gaṇapa</lem>
+	       <rdg wit="#AS">gaṇāpa</rdg>
+	  </app>kasya <persName key="pers:Viśvavarman">viśvavarmasya</persName>
+	  <gap reason="lost"
+	       quantity="1"
+	       unit="character"/>
+	  <lb n="6"/>
+	  <app><lem wit="#N">trā śakanikayā</lem>
+	       <rdg wit="#AS"><gap reason="lost"
+				   quantity="2"
+				   unit="character"/>gāśākānikāyā</rdg>
+	  </app> upāsikāya <persName key="pers:Viṣṇudattā">viṣṇu<app
+	    ><lem wit="#N">datāyā</lem>
+	     <rdg wit="#G">dattayā</rdg>
+          </app></persName> sarva<app
+	    ><lem wit="#N">satva</lem>
+	     <rdg wit="#G">sattva</rdg>
+          </app>hi<lb n="7" break="no"/>ta<app
+	    ><lem wit="#N">sukhārthaṃ</lem>
+	     <rdg wit="#AS">sukhārtha</rdg>
+	  </app> 
+	  <placeName key="pl:Tiraṇhu">triraśmi</placeName>parvatavihāravāstavyasya 
+	  <app><lem wit="#N">cāturdiśa</lem>
+	       <rdg wit="#AS">cātudiśa<supplied reason="lost">ya</supplied></rdg>
+	  </app>
+	  <lb n="8"/>
+	  <app><lem wit="#N">bhikṣusaṃghasya</lem>
+	       <rdg wit="#AS">bhikhusaghasya</rdg>
+	  </app> <app
+	    ><lem wit="#N">gilāna</lem>
+	     <rdg wit="#AS">gilina</rdg>
+          </app>bheṣajārtham akṣayanivī 
+	  prayuktā <app
+	    ><lem wit="#N"><gap reason="lost"
+	                        quantity="5"
+	                        unit="character"/></lem>
+	     <rdg wit="#AS"><gap reason="lost" quantity="1" unit="character"/>va<gap reason="lost" quantity="1" unit="character"/>na<gap reason="lost" quantity="2" unit="character"/></rdg>
+          </app>
+	  vāsta<lb n="9"/>vyasu <app
+	    ><lem wit="#N">āgatānāgatāsu</lem>
+	     <rdg wit="#G">āgatā<supplied reason="lost">nā</supplied>gatāsu</rdg>
+	     <rdg wit="#AS">sugatāgatāsu</rdg>
+	  </app> <app
+	    ><lem wit="#N">śreṇīṣu</lem>
+	     <rdg wit="#AS">sreṇiṣu</rdg>
+          </app> yataḥ kularikaśreṇyā haste 
+	  karṣāpaṇa<lb n="10"/>sahasra 1000 <app
+	    ><lem wit="#N">odayaṃtrikaśreṇyā</lem>
+	     <rdg wit="#G">oḍayaṃtrikaśreṇyāḥ</rdg>
+	     <rdg wit="#AS">deuyatrikaśreṇyā<supplied reason="lost">ṃ</supplied></rdg>
+	  </app> sahasrāṇi dve <app
+	    ><lem wit="#N"><gap reason="lost"
+	                        quantity="5"
+				unit="character"/></lem>
+	     <rdg wit="#G">2<gap reason="lost"
+	                         quantity="5"
+	                         unit="character"/><supplied reason="lost"
+				 >śre</supplied></rdg>
+	  </app>
+	  <lb n="11"/>
+	  <app><lem wit="#N">ṇyāḥ</lem>
+	       <rdg wit="#AS">ṇyā<supplied reason="lost">ṃ</supplied></rdg>
+	  </app> śatāni paṃca 500 tilapiśaka<app
+	    ><lem wit="#N">śreṇ<gap reason="lost"
+	                            quantity="3"
+				    unit="character"/></lem>
+	     <rdg wit="#G">śreṇyā śatā <gap reason="lost"
+	                                    quantity="4"
+					    unit="character"/></rdg>
+	     <rdg wit="#AS">śreṇyā<supplied reason="lost">ṃ</supplied> śatā
+	       <gap reason="lost"
+		    quantity="5"
+		    unit="character"/></rdg>
+	  </app>
+	  <lb n="12"/>
+	  ete ca karṣāpaṇā <app
+	    ><lem wit="#N">catālepa</lem>
+	     <rdg wit="#AS"><supplied reason="lost">cata</supplied>lopa</rdg>
+	  </app><app
+	    ><lem wit="#N"><gap reason="lost"
+	                        quantity="5"
+		                unit="character"/></lem>
+	     <note xml:lang="en">
+	       <p>Senart notes that G and AS add fragments of one more line (of which he can discern nothing on the estampages): <foreign xml:lang="sa-Latn">sya ma</foreign> (AS <foreign xml:lang="sa-Latn">mā</foreign>) . . . . <foreign xml:lang="sa-Latn">sarva</foreign> (AS <foreign xml:lang="sa-Latn">sarva[ṃ]</foreign>) <foreign xml:lang="sa-Latn">rakṣāti</foreign> (AS <foreign xml:lang="sa-Latn">rakṣati</foreign>) <foreign xml:lang="sa-Latn">vidya</foreign> (AS <foreign xml:lang="sa-Latn">viṣṇ[udatā]</foreign>) . . . . . 
+	       </p>
+	     </note>
+	  </app>
+	</p> 
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! In the ninth year of king <persName key="pers:MpĪśvarasena">Īśvarasena</persName>, the Ābhīra, son of <persName key="pers:Śivadatta">Śivadatta</persName>, the Ābhīra, son of Māḍharī, on the thirteenth—13th—day of the fourth—4th—fortnight of summer onh the above, by the lay devotee <persName key="pers:Viṣṇudattā">Viṣṇudattā</persName>, the Śakānī, mother of the <foreign xml:lang="sa-Latn">Gaṇapaka</foreign> <persName key="pers:Viśvavarman">Viśvavarman</persName>, wife of the <foreign xml:lang="sa-Latn">Gaṇapaka</foreign> <persName key="pers:Rebhila">Rebhila</persName>, daughter of <persName key="pers:Agnivarman">Agnivarman</persName>, the Śaka, for the well-being and happiness of all beings, in order to provide medicines for the sick of the <foreign xml:lang="sa-Latn">saṃgha</foreign> of monks of whatever sect and origin dwelling in this monastery on mount <placeName key="pl:Tiraṇhu">Triraśmi</placeName>, a perpetual endowment has been invested for all time to come with the guilds dwelling [at Govardhana], vis. in the hands of the guild of Kularikas, one-thousand—1000—<foreign xml:lang="sa-Latn">kārṣāpaṇa</foreign>s, of the guild of Odayantrikas, two-thousand, of the guild of . . . . . five-hundred—500—, of the guild of oil-millers . . . . . . . . . . and those <foreign xml:lang="sa-Latn">kārṣāpaṇa</foreign>s. . . . . . . . . .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,386 @@
+<listBibl xmlns="http://www.tei-c.org/ns/1.0">>
+  <bibl xml:id="N" type="article">
+    <author>
+      <name>
+        <surname>Senart</surname>
+        <forename>Emile</forename>
+      </name>
+    </author>
+    <title level="a">The Inscriptions in the Caves at Nasik</title>
+    <title level="j">Epigraphica Indica</title>
+    <biblScope unit="vol">8</biblScope>
+    <biblScope unit="pp" from="59" to="96">59–96</biblScope>
+    <date when="1905-1906">1905–1906</date>
+  </bibl>
+  <bibl xml:id="K" type="article">
+    <author>
+      <name>
+        <surname>Senart</surname>
+        <forename>Emile</forename>
+      </name>
+    </author>
+    <title level="a">The Inscriptions in the Caves at Karle</title>
+    <title level="j">Epigraphica Indica</title>
+    <biblScope unit="vol">7</biblScope>
+    <biblScope unit="pp" from="47" to="74">47–74</biblScope>
+    <date when="1902-1903">1902–1903</date>
+  </bibl>
+  <bibl xml:id="Ka" type="book">
+    <author>
+      <name>
+        <surname>Gokhale</surname>
+        <forename>Shobhana</forename>
+      </name>
+    </author>
+    <title level="m">Kanheri Inscriptions</title>
+    <publisher>Deccan College Post-Graduate and Research Institute</publisher>
+    <pubPlace>Pune</pubPlace>
+    <date when="1991">1991</date>
+  </bibl>
+  <bibl xml:id="Levi1936" type="article">
+    <author>
+      <name>
+        <surname>Lévi</surname>
+        <forename>Sylvain</forename>
+      </name>
+    </author>
+    <title level="a">Kaniṣka et Sātavāhana: Deux figures symboliques de l'Inde au premier siècle</title>
+    <title level="j">Journal Asiatique</title>
+    <biblScope unit="vol">228</biblScope>
+    <biblScope unit="pp" from="61" to="121">61–121</biblScope>
+    <date when="1936">1936</date>
+  </bibl>
+  <bibl xml:id="Bühler1892" type="article">
+    <author>
+      <name>
+        <surname>Bühler</surname>
+        <forename>Georg</forename>
+      </name>
+    </author>
+    <title level="a">A New Inscription of the Andhra King Yajñaśrī Gautamīputra</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">1</biblScope>
+    <biblScope unit="pp" from="95" to="96">95–96</biblScope>
+    <date when="1892">1892</date>
+  </bibl>
+  <bibl xml:id="Sarkar1971" type="article">
+    <author>
+      <name>
+        <surname>Sarkar</surname>
+        <forename>H.</forename>
+      </name>
+    </author>
+    <title level="a">Some Early Inscriptions in the Amaravati Museum</title>
+    <title level="j">Journal of Ancient Indian History</title>
+    <biblScope unit="vol">4</biblScope>
+    <biblScope unit="issue">1–2</biblScope>
+    <biblScope unit="pp" from="1" to="13">1–13</biblScope>
+    <date when="1971">1971</date>
+  </bibl>
+  <bibl xml:id="Sukthankar1917" type="article">
+    <author>
+      <name>
+        <surname>Sukthankar</surname>
+        <forename>V. S.</forename>
+      </name>
+    </author>
+    <title level="a">A New Andhra Inscription of Siri-Pulumavi</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">14</biblScope>
+    <biblScope unit="pp" from="153" to="155">153–155</biblScope>
+    <date when="1917–1918">1917–1918</date>
+  </bibl>
+  <bibl xml:id="NarasimhaMurthy1975" type="article">
+    <author>
+      <name>
+        <surname>Narasimha Murthy</surname>
+        <forename>A. V.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+        <surname>Raghunatha Bhat</surname>
+        <forename>H. R.</forename>
+      </name>
+    </author>
+    <title level="a">Banavāsi Inscription of Siva Siri Puḷumāvi</title>
+    <title level="m">Studies in Indian Epigraphy</title>
+    <biblScope unit="vol">1</biblScope>
+    <biblScope unit="pp" from="34" to="39">34–39</biblScope>
+    <date when="1975">1975</date>
+  </bibl>
+  <bibl xml:id="AS" type="book">
+    <author>
+      <name>
+        <surname>Bühler</surname>
+        <forename>George</forename>
+      </name>
+    </author>
+    <title level="m">Archæological Survey of Western India</title>
+    <biblScope unit="vol">4</biblScope>
+    <pubPlace>London</pubPlace>
+    <publisher>Trübner and Co.</publisher>
+  </bibl>
+  <bibl xml:id="BuhlerNa" type="inbook">
+    <author>
+      <name>
+        <surname>Bühler</surname>
+        <forename>George</forename>
+      </name>
+    </author>
+    <title level="a">Nânâghâṭ Inscriptions</title>
+    <biblScope unit="pp" from="59" to="74">59–74</biblScope>
+    <title level="m">Archæological Survey of Western India</title>
+    <editor>
+      <name>
+        <surname>Burgess</surname>
+        <forename>J. A. S.</forename>
+      </name>
+    </editor>
+    <biblScope unit="vol">5</biblScope>
+    <pubPlace>London</pubPlace>
+    <publisher>Trübner and Co.</publisher>
+    <date when="1883">1883</date>
+  </bibl>
+  <bibl xml:id="BuhlerKa" type="inbook">
+    <author>
+      <name>
+        <surname>Bühler</surname>
+        <forename>George</forename>
+      </name>
+    </author>
+    <title level="a">Kaṇheri Inscriptions</title>
+    <biblScope unit="pp" from="74" to="86">74–86</biblScope>
+    <title level="m">Archæological Survey of Western India</title>
+    <editor>
+      <name>
+        <surname>Burgess</surname>
+        <forename>J. A. S.</forename>
+      </name>
+    </editor>
+    <biblScope unit="vol">5</biblScope>
+    <pubPlace>London</pubPlace>
+    <publisher>Trübner and Co.</publisher>
+    <date when="1883">1883</date>
+  </bibl>
+  <bibl xml:id="BuhlerDa" type="inbook">
+    <author>
+      <name>
+        <surname>Bühler</surname>
+        <forename>George</forename>
+      </name>
+    </author>
+    <title level="a">Daśa Avatâra Inscription from Elurâ</title>
+    <biblScope unit="pp" from="87" to="89">87–89</biblScope>
+    <title level="m">Archæological Survey of Western India</title>
+    <editor>
+      <name>
+        <surname>Burgess</surname>
+        <forename>J. A. S.</forename>
+      </name>
+    </editor>
+    <biblScope unit="vol">5</biblScope>
+    <pubPlace>London</pubPlace>
+    <publisher>Trübner and Co.</publisher>
+    <date when="1883">1883</date>
+  </bibl>
+  <bibl xml:id="Sarma1993" type="book">
+    <author>
+      <name>
+        <surname>Sarma</surname>
+        <forename>I. K.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+        <surname>Varaprasada Rao</surname>
+        <forename>J.</forename>
+      </name>
+    </author>
+    <title level="m">Early Brāhmī Inscriptions from Sannati</title>
+    <pubPlace>New Delhi</pubPlace>
+    <publisher>Harman Publishing House</publisher>
+    <date when="1993">1993</date>
+  </bibl>
+  <bibl xml:id="G" type="book">
+    <author>
+      <name>
+        <surname>Indraji</surname>
+        <forename>Bhagwanlal</forename>
+      </name>
+    </author>
+    <title level="m">Bombay Gazetteer, vol. 16, pp. 544ff.</title>
+  </bibl>
+  <bibl xml:id="CTI" type="book">
+    <author>
+      <name>
+        <surname>Burgess</surname>
+        <forename>J. A. S.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+        <surname>Indraji</surname>
+        <forename>Bhagwanlal</forename>
+      </name>
+    </author>
+    <title level="m">Inscriptions from the Cave-Temples of Western India</title>
+    <publisher>Government Central Press</publisher>
+    <pubPlace>Bombay</pubPlace>
+    <date when="1881">1881</date>
+  </bibl>
+  <bibl xml:id="BT" type="book">
+    <author>
+      <name>
+        <surname>Cunningham</surname>
+        <forename>Alexander</forename>
+      </name>
+    </author>
+    <title level="m">The Bhilsa Topes; or, Buddhist Monuments of Central India</title>
+    <publisher>Smith, Elder and Co.</publisher>
+    <pubPlace>London</pubPlace>
+    <date when="1854">1854</date>
+  </bibl>
+  <bibl xml:id="Falk2004" type="article">
+    <author>
+      <name>
+        <surname>Falk</surname>
+        <forename>Harry</forename>
+      </name>
+    </author>
+    <title level="a">Two Dated Sātavāhana Epigraphs</title>
+    <title level="j">Indo-Iranian Journal</title>
+    <biblScope unit="vol">52</biblScope>
+    <biblScope unit="pp" from="197" to="206">197–206</biblScope>
+    <date when="2004">2004</date>
+  </bibl>
+
+  <bibl xml:id="Reddy2000" type="incollection">
+    <author>
+      <name>
+        <surname>Reddy</surname>
+        <forename>A. K. V. S.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+        <surname>Krishna Reddy</surname>
+        <forename>N.</forename>
+      </name>
+    </author>
+    <title level="a">A Newly Discovered Prākrit Copper Plate Grant of Pallava Viṣṇugōpavarman, Year 1</title>
+    <title level="m">Śāṅkaram: Recent Researches on Indian Culture (Professor Srinivasa Sankaranarayanan Festschrift)</title>
+    <editor>
+      <name>
+        <surname>Ramachandra Murthy</surname>
+        <forename>S. S.</forename>
+      </name>
+    </editor>
+    <editor>
+      <name>
+        <surname>Rajendra Prasad</surname>
+        <forename>B.</forename>
+      </name>
+    </editor>
+    <editor>
+      <name>
+        <surname>Kiran Kranth Chaudhary</surname>
+        <forename>D.</forename>
+      </name>
+    </editor>
+    <biblScope unit="pp" from="68" to="70">68–70</biblScope>
+    <pubPlace>New Delhi</pubPlace>
+    <publisher>Harman Publishing House</publisher>
+    <date when="2000">2000</date>
+  </bibl>
+
+  <bibl xml:id="Tsu" type="book">
+    <author>
+      <name>
+	<surname>Tsukamoto</surname>
+	<forename>Keisho</forename>
+      </name>
+    </author>
+    <title>A Comprehensive Study of the Indian Buddhist Inscriptions</title>
+    <pubPlace>Kyoto</pubPlace>
+    <publisher>Heirakuji Shoten</publisher>
+    <date when="1996">1996</date>
+  </bibl>
+
+  <bibl xml:id="Sircar" type="book">
+    <author>
+      <name>
+	<surname>Sircar</surname>
+	<forename>Dinesh Chandra</forename>
+      </name>
+    </author>
+    <title>Select Inscriptions</title>
+    <pubPlace>Calcutta</pubPlace>
+    <publisher>University of Calcutta</publisher>
+    <date when="1965">1965</date>
+    <edition>2nd edition</edition>
+  </bibl>
+
+  <bibl xml:id="Mirashi1981" type="book">
+    <author>
+      <name>
+	<surname>Mirashi</surname>
+	<forename>V. V.</forename>
+      </name>
+    </author>
+    <title>The History and Inscriptions of the Sātavāhanas and the Western Kshatrapas</title>
+    <pubPlace>Bombay</pubPlace>
+    <publisher>Maharashtra State Board for Literature and Culture</publisher>
+    <date when="1981">1981</date>
+  </bibl>
+
+  <bibl xml:id="Srinivasan1979" type="book">
+    <author>
+      <name>
+	<surname>Srinivasan</surname>
+	<forename>P. R.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Sankaranarayanan</surname>
+	<forename>S.</forename>
+      </name>
+    </author>
+    <title>Inscriptions of the Ikshvaku Period</title>
+    <pubPlace>Hyderabad</pubPlace>
+    <publisher>Government of Andhra Pradesh</publisher>
+    <date when="1979">1979</date>
+  </bibl>
+  <bibl xml:id="HanumathaRao1998" type="book">
+    <author>
+      <name>
+	<surname>Hanumatha Rao</surname>
+	<forename>B. S. L.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Ramachandra Murthy</surname>
+	<forename>N. S.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Subrahmanyam</surname>
+	<forename>B.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Sivanagi</surname>
+	<forename>E.</forename>
+      </name>
+    </author>
+    <title>Buddhist Inscriptions of Andhradesa</title>
+    <pubPlace>Secundarabad</pubPlace>
+    <publisher>Ananda Buddha Vihara Trust</publisher>
+    <date when="1998">1998</date>
+  </bibl>
+
+</listBibl>

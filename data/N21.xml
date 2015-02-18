@@ -1,0 +1,92 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N21">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 21</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N21</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		above the image of a yakṣa in Cave No. 18.
+	      </origPlace>
+	      <!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <app><lem wit="#N"><gap reason="lost"
+	       quantity="5"
+	       unit="character"/></lem>
+	       <rdg><note xml:lang="en"><p>Senart discerns 
+	       traces of <foreign xml:lang="pra-Latn">sidhaṃ
+	       kuṭuṃ</foreign> before 
+	       <foreign xml:lang="pra-Latn">bena</foreign>.</p></note></rdg>
+	  </app>bena ca
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>ni<app
+	    ><lem wit="#N"
+	      ><gap reason="lost"
+	            quantity="5"
+		    unit="character"/></lem>
+	     <rdg wit="#AS"
+	      ><gap reason="lost"
+		    quantity="1"
+		    unit="character"/>e<gap
+		    reason="lost"
+		    quantity="3"
+		    unit="character"/></rdg>
+	    </app><app
+	      ><lem wit="#N #AS">yāva</lem>
+	       <rdg wit="#G">yāca</rdg>
+	    </app> <app
+	      ><lem wit="#N">nadā</lem>
+	       <rdg wit="#G">nada</rdg>
+	    </app>siriyāva ca <app
+	      ><lem wit="#N">veikā</lem>
+	       <rdg wit="#G">veyikā</rdg>
+	    </app> yakho ca <app
+	      ><lem wit="#N">kāritā</lem>
+	       <rdg wit="#G">kārito</rdg>
+	    </app>
+	</p> 
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>. . . . . and by <persName key="pers:Nadāśrī">Nadāśrī</persName> the rail pattern and the Yakṣa have been caused to be made.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

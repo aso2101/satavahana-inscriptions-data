@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ka4">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanheri No. 4</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ka4</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <layoutDesc>
+		<layout>
+		  <dimensions>
+		    <width quantity="2.38" unit="m">2.38m</width>
+		    <height quantity="99" unit="cm">99cm</height>
+		  </dimensions>
+		</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
+		in front of Cave No. 2, just above the cistern.
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Ka">Gokhale 1991</ref>. Some of the readings seem unsecure to me (AO), so I have not tagged them.</p>
+	<!-- NB Gokhale also refers to Burgess and Indraji (CTI)
+	     and Bühler (BuhlerKa) !-->
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <placeName key="pl:Kalyāṇa">kaliaṇa</placeName>sa 
+	  negamasa cita
+	  <lb n="2"/>kiyasa 
+	  <persName key="pers:Punarvasu">punavasuya</persName> tasa
+	  poḍhi deyadhamaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This is the meritorious gift of a cistern by 
+	  <persName key="pers:Punarvasu">Punarvasu</persName>,
+	  the son of a trader Cita from 
+	  <placeName key="pl:Kalyāṇa">Kalyāṇa</placeName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N5">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 5 (of Gautamīputra Śrī Sātakarṇi, year 24)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N5</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		engraved in continuation of No. 4, from which it is separated
+		only by a Svastika.
+	      </origPlace>
+	      <origDate
+		  when-custom="0084"
+		  precision="low">ca. 84 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:N"/>
+	  <citedRange>5</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="6"/>
+	  si<app><lem>ddha</lem><rdg wit="#AS">ddhaṃ</rdg></app> 
+	  <placeName key="pl:Govardhana">govadhane</placeName>
+	  amacasa <persName key="pers:Śyāmaka"><app
+	    ><lem>sā</lem><rdg wit="#G #AS">sa</rdg></app>makasa</persName>
+	  <unclear>de</unclear>yo 
+	  rā<app><lem>jāṇi</lem><rdg wit="#G">jani</rdg><rdg wit="#AS">jaṇi</rdg></app>to
+	  <lb n="7"/>
+	  raño <persName key="pers:GpŚrīSātakarṇi">gotamiputasa
+	  <app><lem>sā</lem><rdg wit="#G">sa</rdg></app>takaṇisa</persName>
+	  mahāde<app><lem>vī</lem><rdg wit="#AS">vi</rdg></app>ya ca
+	  jīvasutāya <persName key="pers:Balaśrī">rājamātuya</persName>
+	  vacanena 
+	  <placeName key="pl:Govardhana">govadha<app><lem>ne</lem><rdg wit="#G">na</rdg></app></placeName>
+	  <supplied reason="lost">ama</supplied>co 
+	  <persName key="pers:Śyāmaka">sāmako</persName>
+	  arogavatavo tato eva
+	  <app><lem>ca</lem><rdg wit="#G #AS"></rdg></app>
+	  <lb n="8"/>
+	  vatavo <app><lem>etha</lem><rdg wit="#AS">eṭha</rdg></app>
+	  amhehi pavate
+	  <placeName key="pl:Tiraṇhu">tiraṇhumi</placeName>
+	  amhadhamadāne leṇe pativasatā<app
+	    ><lem>naṃ</lem>
+	     <rdg wit="#G #AS">na</rdg>
+	  </app> pavajitāna bhikhūna gāme
+	  <placeName key="pl:Kakhaḍi">kakhaḍīsu</placeName>
+	  puva khetaṃ data ta ca kheta
+	  <lb n="9"/>
+	  <gap reason="lost" quantity="1" unit="character"/>
+	  <app>
+	    <lem><unclear>na</unclear>ka</lem>
+	    <rdg wit="#G">vaka</rdg>
+	    <rdg wit="#AS">vakaṃ</rdg>
+	  </app> so ca gāmo na vasati 
+	  <app><lem>evaṃ</lem><rdg wit="#AS">eva</rdg></app>
+	  sati <app><lem>ya</lem><rdg wit="#G #AS">yaṃ</rdg></app>
+	  dāni <app><lem>etha</lem><rdg wit="#AS">eṭha</rdg></app>
+	  nagarasīma rājakaṃ 
+	  khe<app><lem>ta</lem><rdg wit="#G #AS">taṃ</rdg></app>
+	  <app><lem>amha</lem><rdg wit="#AS">ama</rdg></app>satakaṃ
+	  tato e<app><lem>te</lem><rdg wit="#G">ta</rdg></app>sa
+	  pavajitāna bhikhūnaṃ 
+	  <placeName key="pl:Tiraṇhu">teraṇhukānaṃ</placeName>
+	  dadama
+	  <lb n="10"/>
+	  khetasa nivataṇasataṃ 100 tasa ca khetasa 
+	  parihā<app><lem>ra</lem><rdg wit="#G">raṃ</rdg></app>
+	  vitarāma apāvesa anomasa aloṇakhādaka araṭhasavinayika
+	  savajārapārihārika <app><lem>ca</lem><rdg wit="#AS"></rdg></app>
+	  <lb n="11"/>
+	  etehi na parihārehi pari<app
+	     ><lem>hareṭha</lem>
+	      <rdg wit="#G">haratha</rdg>
+	      <rdg wit="#AS">hereṭha</rdg>
+	  </app> eta casa khetapa<app
+	     ><lem>rīhāre</lem>
+	      <rdg wit="#G">rihāra</rdg>
+	      <rdg wit="#AS">rihāra</rdg>
+	  </app> ca <app><lem>etha</lem><rdg wit="#AS">eṭha</rdg></app>
+	  nibadhā<app><lem>petha</lem><rdg wit="#AS">laṭha</rdg></app>
+	  <app><lem>a</lem><rdg wit="#G">su</rdg></app>viyena
+	  āṇata paṭihārakhiya 
+	  <app>
+	    <lem>
+	      <persName key="pers:Loṭā">loṭāya</persName> chato
+	    </lem>
+	    <rdg wit="#G">lājanīyamatā</rdg>
+	    <rdg wit="#AS">loṭāya matā</rdg>
+	  </app> le<app><lem>kho</lem><rdg wit="#G #AS">khe</rdg></app>
+	  <date when-custom="24"
+		datingPoint="pers:GpŚrīSātakarṇi"
+		datingMethod="regnal">savachare 24</date>
+	  <lb n="12"/>
+	  <app>
+	    <lem>vā</lem>
+	    <rdg wit="#AS"><unclear>va</unclear></rdg>
+	  </app>sāna pakhe 4 divase 
+	  <app><lem>pa</lem><rdg wit="#G">paṃ</rdg></app>chame
+	  5 <persName key="pers:Sujīvin"><app
+	    ><lem>sujivinā</lem>
+	     <rdg wit="#G">pu<unclear>va</unclear>jitinā</rdg>
+	     <rdg wit="#AS">pujitinā</rdg>
+	  </app></persName> kaṭā
+	  niba<app><lem>dho</lem><rdg wit="#G">dhā</rdg></app>
+	  nibadho 
+	  <date when-custom="24"
+		datingPoint="pers:GpŚrīSātakarṇi"
+		datingMethod="regnal"><app><lem>sava</lem><rdg wit="#AS">saṃvā</rdg></app>chare
+	  24</date> gimhāṇa pakhe 2 divase 10
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! Order of the king, to be made over to
+	  <persName key="pers:Śyāmaka">Śyāmaka</persName>,
+	  the officer at 
+	  <placeName key="pl:Govardhana">Govardhana</placeName>. 
+	  In the name of the king
+	  <persName key="pers:GpŚrīSātakarṇi">Gautamīputra
+	    Śrī Sātakarṇi</persName>
+	  and of the king’s 
+	  <persName key="pers:Balaśrī">queen mother</persName>
+	  whose son is living,
+	  <persName key="pers:Śyāmaka">Śyāmaka</persName>,
+	  the officer at
+	  <placeName key="pl:Govardhana">Govardhana</placeName>,
+	  shall be addressed with the usual civility and then
+	  shall be told thus:
+	</p>
+	<p>
+	  We have here on mount
+	  <placeName key="pl:Tiraṇhu">Tiraṇhu</placeName> formerly
+	  given to the mendicant ascetics dwelling in the cave which is
+	  a pious gift of ours, a field in the village of 
+	  <placeName key="pl:Kakhaḍi">Kakhaḍi</placeName>; but
+	  this field is not tilled, nor is the village inhabited.
+	  Matters being so, that royal village of ours, which is
+	  now here on the limits of the town, from that field we give 
+	  to the mendicant ascetics of
+	  <placeName key="pl:Tiraṇhu">Tiraṇhu</placeName> one hundred —
+	  100 — nivartanas of land, and to that field we grant immunity,
+	  (making it) not to be entered (by royal officers), not to be
+	  touched (by any of them), not to be dug for salt,
+	  not to be interfered with by the district police, and (in short)
+	  to enjoy all kinds of immunities; investi it with those 
+	  immunities, and take care that the donation of the field 
+	  and the immunities are duly registered.
+	</p>
+	<p>
+	  Verbally ordered; the deed written down by
+	  <persName key="pers:Loṭā">Loṭā</persName>, the door-keeper;
+	  (the charter) executed by 
+	  <persName key="pers:Sujīvin">Sujīvin</persName> in the 
+	  <date when-custom="24"
+		datingMethod="regnal"
+		datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
+	  in the 4th fortnight of the rainy season, on the fifth —
+	  5th — day. The donation had been made in the 
+	  <date when-custom="24"
+		datingMethod="regnal"
+		datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
+	  in the 2nd fortnight of summer, on the 10th day.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

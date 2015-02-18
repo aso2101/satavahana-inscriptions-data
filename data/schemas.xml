@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <uri resource="N5.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="Ka6.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="Ka6.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="Ka4.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="Ka3.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="Ka2.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="Ka5.xml" uri="../tei-epidoc.rnc"/>
+</locatingRules>

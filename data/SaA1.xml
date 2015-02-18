@@ -1,0 +1,116 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaA1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati A.1 (Stele of Gautamīputra Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaA1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>Limestone slab, 1.55m x 0.83m x 0.32m. The
+	      inscription is at the lower broad border of a sculptured
+	      stele, in two lines.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>, 
+		discovered by J. Varaprasada Rao in the field 
+		behind the Inspection Bungalow during excavations
+		in 1989.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0084"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="nomenclature">late 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>; the translation is by Andrew Ollett.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       extent="unknown"
+	       unit="character"/>
+	  <persName key="pers:GpŚrīSātakarṇi">
+	    <supplied reason="lost">putas</supplied>iri
+	    sātakaṇisa
+	  </persName>
+	  samuditabalavāhanasa abhagavāhanasa
+	  sātavāhanasa 
+	  <placeName key="pl:Beṇākaṭa"
+	     >beṃṇākaṭa</placeName>-<placeName key="pl:Vidarbha"
+	     >vidabha</placeName>-<placeName key="pl:Uparagiri"
+	     >uparigirā</placeName><placeName key="pl:Aparānta"
+	     >paranta</placeName>-<placeName key="pl:Aśmaka"
+	     >asaka</placeName>-<placeName key="pl:Mulaka"
+	     >mūḍakasa</placeName>
+	  jayavi <placeName key="pl:Cakora">cakora</placeName>valaraṭha
+	  dakhina
+	  <gap reason="lost"
+	       extent="unknown"
+	       unit="character"/>
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       extent="unknown"
+	       unit="character"/>
+	  sūsakasa pitusatuveraniyātakasa 
+	  anekasaṃgāmavijitavijayasa
+	  khakharatakulaghātakasa 
+	  anekarājamathakapatigahitasa
+	  padanasāsanasa 
+	  ekakusasa
+	  ekadhanudha<supplied reason="lost">rasa</supplied>
+	  <gap reason="lost"
+	       extent="unknown"
+	       unit="character"/>
+	</p>
+      </div>
+      <div type="translation">
+	<p>
+	... <persName key="pers:GpŚrīSātakarṇi">(Gautamīputra) 
+	Śrī Sātakarṇi</persName>, whose mounts and forces were on the rise,
+	whose mounts were unstoppable ... the Sātavāhana, (lord of)
+	<placeName key="pl:Beṇākaṭa">Beṇākaṭa</placeName>,
+	<placeName key="pl:Vidarbha">Vidarbha</placeName>,
+	<placeName key="pl:Uparagiri">Uparagiri</placeName>,
+	<placeName key="pl:Aparānta">Aparānta</placeName>,
+	<placeName key="pl:Aśmaka">Aśmaka</placeName>,
+	<placeName key="pl:Mulaka">Mūlaka,</placeName>,
+	(lord of) Jayavi, 
+	<placeName key="pl:Cakora">Cakora</placeName>,
+	... obedient (to his mother),
+	chastener of the enmity of his father’s foes, 
+	who achieved victory in countless battles, 
+	who extinguished the Kṣaharāta race,
+	who accepted the heads of countless kings,
+	the primary source of rule, 
+	the single elephant-goad,
+	the single archer ...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB9">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B.9 (of Siṃhadhara)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB9</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+		in a stone of the bathing ghāṭ.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0100"
+		  notAfter-custom="0200"
+		  precision="medium"
+		  evidence="nomenclature">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  bhoju jana agiṭhoma
+	  <lb n="2"/>
+	  <unclear>ravi</unclear>naka asabhaḍa<unclear>sa</unclear>
+	  <lb n="3"/>
+	  <gap reason="lost"
+	       quantity="unknown"
+	       unti="character"/>ya 
+	  aṭha<unclear>sa</unclear>na<unclear>me</unclear>
+	  <lb n="4"/>
+	  pālitasa
+	</p>
+      </div>
+      <div type="translation">
+	<p>
+	  (No translation was offered by the editors.)
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

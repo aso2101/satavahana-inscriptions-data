@@ -1,0 +1,80 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N11">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 11 (of Dakṣamitrā, time of Nahapāna)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N11</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		in the veranda of Cave No> 10, over the doorway of the
+		left cell.
+	      </origPlace>
+	      <origDate notBefore-custom="0060"
+			notAfter-custom="0084"
+			precision="medium">ca. 60–84 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="sa-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <app>
+	    <lem wit="#N">sīdhaṃ</lem>
+	    <rdg wit="#G #AS">sidhaṃ</rdg>
+	  </app>
+	  <app>
+	    <lem wit="#N">rāṃño</lem>
+	    <rdg wit="#G">rāño</rdg>
+	    <rdg wit="#AS">raño</rdg>
+	  </app>
+	  kṣaharātasa kṣatrapasa
+	  <persName key="pers:Nahapāna">nahapānasa</persName>
+	  dīhi<lb n="2" break="no"/>tu
+	  <persName key="pers:Dīnīka">dīnīka</persName>putrasa
+	  <persName key="pers:Uṣavadāta">uṣavadātasa</persName>
+	  kuḍumbiniya <persName key="pers:Dakṣamitrā">dakha<app
+	    ><lem wit="#N">mitrāya</lem>
+	     <rdg wit="#AS">mitāya</rdg></app></persName>
+	  deya<app><lem wit="#N">dhaṃmaṃ</lem>
+	           <rdg wit="#G">dhammaṃ</rdg></app>
+	  ovarako
+	</p> 
+      </div>
+      <div type="translation">
+	<p>Success! This cell, the gift of <persName key="pers:Dakṣamitrā">Dakṣamitrā</persName>, wife of <persName key="pers:Uṣavadāta">Uṣavadāta</persName>, son of <persName key="pers:Dīnīka">Dīnīka</persName>, and daughter of king <persName key="pers:Nahapāna">Nahapāna</persName>, the Kṣaharāta Kṣatrapa.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

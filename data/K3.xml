@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K3">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 3 (of Indradeva)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K3</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave, below the feet of the three elephants at the
+		right end of the verandah.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0050"
+		  notAfter-custom="0050"
+		  precision="medium">late 1st c. BCE or 
+	      early 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  therānaṃ 
+	  <app><lem>bhaṃ</lem><rdg wit="#AS #CTI">bha</rdg
+	    ></app>yaṃta-<persName key="pers:Indradeva"
+	    >i<unclear>ṃ</unclear>dadevasa</persName>
+	  hathi ca puvādo hathinaṃ ca uparimā hethimā ca veyikā dānaṃ
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The elephants and, before the elepehants, the rail-mouldings
+	  above and below (are) the gift of the Sthavira, 
+	  the venerable
+	  <persName key="pers:Indradeva">Indradeva</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

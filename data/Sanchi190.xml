@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Sanchi190">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sanchi No. 190 (of Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Sanchi1901</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Sāñcī">Sanchi</placeName>,
+		on the bas-relief of a stupa in the middle of the upper
+		architrave of the south gateway.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="-0075"
+		  precision="medium">early 1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:BT">Cunningham 1854</ref>, pp. 264–265.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  rajño 
+	  <persName key="pers:ŚrīSātakarṇi">
+	    siri sātakanisa
+	  </persName>
+	  <lb n="2"/>avesanisa
+	  vāsithi-putasa
+	  <lb n="3"/>
+	  <persName key="pers:Ānanda">anandasa</persName>
+	  dānaṃ
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Gift of Vāsiṣṭhīputra 
+	  <persName key="pers:Ānanda">Ānanda</persName>,
+	  the chief architect of 
+	  the king 
+	  <persName key="pers:ŚrīSātakarṇi">Śrī Sātakarṇi</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

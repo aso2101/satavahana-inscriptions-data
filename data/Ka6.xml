@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ka6">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanheri No. 6</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ka6</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <layoutDesc>
+		<layout>
+		  <dimensions>
+		    <width quantity="1.43" unit="m">1.43m</width>
+		    <height quantity="1.7" unit="m">1.7m</height>
+		  </dimensions>
+		</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
+		on the left hand gate post of Caitya Cave No. 3.
+	      </origPlace>
+	      <origDate notBefore-custom="0050"
+			notAfter-custom="0150"
+			precision="low">ca. 50-150 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Ka">Gokhale 1991</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="5"
+	       unit="character"/>khabhālakaresu adha<gap
+	       reason="lost"
+	       quantity="1"
+	       unit="character"/>
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       quantity="5"
+	       unit="character"/>a<unclear>ka</unclear><gap
+	       reason="lost"
+	       quantity="2"
+	       unit="character"/>c<unclear>e</unclear>tiasa 
+	  bha<lb n="3" break="no"/>
+	  <gap reason="lost"
+	       extent="unknown"
+	       unit="character"/>lakārasa<gap
+	       reason="lost"
+	       quantity="3"
+	       unit="character"/>
+	  <supplied reason="lost">pa</supplied>vayitāṇa ya
+	  <lb n="4"/>
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>akhayanivi
+	  <supplied reason="lost">da</supplied>tā 
+	  <placeName key="pl:Śūrpāraka">sopārakā</placeName>vihāre 
+	  ha<lb n="5" break="no"/><unclear>āni</unclear>
+	  ṇi 3 kalia<unclear>ṇe</unclear> 
+	  <placeName key="pl:Ambālikā">abālikā</placeName>vihāre ceti
+	  <lb n="6"/>
+	  upaṭhāṇasāl<unclear>ā</unclear> ovarakāni 
+	  patiṭhāṇevihā<lb n="7" break="no"/>tigupasadari
+	  <unclear>ya</unclear> cetiyaghara ovarakā terasa
+	  <lb n="8"/>
+	  sa-akhayanivikā rājatalāka 
+	  <placeName key="pl:Pratiṣṭhāna">païṭhāṇa</placeName>pathe<lb n="9" break="no"/>
+	  saṇa culika ya kuṭi koḍhi ca 
+	  <app><lem>khani</lem><rdg wit="#BuhlerKa">coṇi</rdg></app>ta
+	  sada
+	  <lb n="10"/>
+	  sevājuya <unclear>vihā</unclear>re saghāramo sa-akhayaniviko
+	  kā<lb n="11"/>rāpito pu<supplied reason="lost">ña</supplied>ṭha
+	  deyadhamāni ca anāni pi 
+	  <supplied reason="lost">kāri</supplied>tāni
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (I have not reproduced Gokhale’s translation,
+	  because the inscription is fragmentary and I am
+	  not convinced by Gokhale’s interpretation of
+	  the parts that are legible.)
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

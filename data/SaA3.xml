@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaA3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati A.3 (of the time of Vāsiṣṭhīputra Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaA3</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>An inscribed limestone slab 
+	      measuring 46x35x17 cm.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>, 
+		located in the compound wall of a house in the village
+		by J. Varaprasada Rao.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0148"
+		  notAfter-custom="0156"
+		  precision="medium"
+		  evidence="nomenclature">ca. 148–156 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	</div>
+	<p>
+	  <div
+	      type="textpart"
+	      subtype="face"
+	      n="1">
+	    <ab>
+	      <lb n="1"/>
+	      <persName key="pers:VpŚivaśrīPuḷumāvi">
+		<supplied reason="lost">vāsiṭhī</supplied>puto 
+	        śivasiri puḍu<unclear>ma</unclear></persName>
+	      <lb n="2"/>
+	      <gap reason="lost"
+		   extent="unknown"
+		   unit="character"/>
+	      <unclear>na</unclear>su kinādikesu kadamūla<gap reason="lost"
+		   extent="unknown"
+		   unit="character"/>
+	      <lb n="3"/>
+	      <gap reason="lost"
+		   extent="unknown"
+		   unit="character"/>
+	      yayatelasa
+h	      <lb n="4"/>
+	      <gap reason="lost"
+		   extent="unknown"
+		   unit="character"/>
+	      tapānakaretenam navasi
+	    </ab>
+	  </div>
+	  <div type="textpart"
+	       subtype="face"
+	       n="2">
+	    <ab>
+	      <lb n="5"/>
+	      <gap reason="lost"
+		   extent="unknown"
+		   unit="character"/>
+	      atāpasanevānavasitavadāranā<unclear>la</unclear>
+	      <lb n="6"/>
+	      <gap reason="lost"
+		   extent="unknown"
+		   unit="character"/>
+	      tavosudhāvāsikenachakaratiparivuthe
+	    </ab>
+	  </div>
+	</p>
+      </div>
+      <div type="translation">
+	<p>
+	  (No translation was offered by the editors.)
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

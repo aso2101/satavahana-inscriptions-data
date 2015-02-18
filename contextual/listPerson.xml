@@ -1,0 +1,264 @@
+<listPerson xmlns="http://www.tei-c.org/ns/1.0">
+<!-- THIS FILE
+     lists the people associated with 
+     each inscription. References point
+     from the inscription to the entries
+     in this file, not vice versa. 
+
+     Basic format (can easily be imported
+     from a spreadsheet):
+     persName
+     sex
+     occupation
+     nationality (e.g., Śaka, Ābhīra) 
+     faith
+     trait
+       label: caste
+       desc: Brāhmaṇa, etc.
+     affiliation
+
+!-->
+  <person xml:id="Dāmacika" sex="male">
+    <persName>Dāmacika Vudhika</persName>
+    <occupation>writer</occupation>
+    <trait type="ethnicity">Śaka</trait>
+  </person>
+
+  <person xml:id="Mammā" sex="female">
+    <persName>Mammā</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Layperson</state>
+  </person>
+
+  <person xml:id="Bhavagopa" sex="male">
+    <persName>Bhavagopa</persName>
+    <state type="political">Mahāsenāpati</state>
+    <trait type="gotra">Kauśika</trait>
+  </person>
+
+  <person xml:id="Vāsu" sex="female">
+    <persName>Vāsu</persName>
+    <state type="political">Mahāsenāpatinī</state>
+  </person>
+
+  <person xml:id="Bopaki" sex="male">
+    <persName>Bopaki</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Monk</state>
+  </person>
+
+  <person xml:id="Śivaskandila" sex="male">
+    <persName>Śivaskandila</persName>
+    <state type="political">Amātya</state>
+  </person>
+
+  <person xml:id="Medhuna" sex="male">
+    <persName>Medhuna (?)</persName>
+    <state type="political">Mahāsenāpati</state>
+  </person>
+
+  <person xml:id="Viṣṇupāla" sex="male">
+    <persName>Viṣṇupāla</persName>
+    <faith>Buddhist</faith>
+  </person>
+
+  <person xml:id="Agnimitraṇaka" sex="male">
+    <persName>Agnimitraṇaka</persName>
+    <state type="political">Mahārāṣṭri</state>
+  </person>
+
+  <person xml:id="Indradeva" sex="male">
+    <persName>Indradeva</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Sthavira</state>
+  </person>
+
+  <person xml:id="BhAcala" sex="male">
+    <persName>Acala</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+  </person>
+  
+  <person xml:id="BhGahala" sex="male">
+    <persName>Gahala</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+  </person>
+
+  <person xml:id="BhVijayamitra" sex="male">
+    <persName>Vijayamitra</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+  </person>
+
+  <person xml:id="BhBodhika" sex="male">
+    <persName>Bodhika</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+  </person>
+  
+  <person xml:id="BhDharmapāla" sex="male">
+    <persName>Dharmapāla</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+    <p>He was evidently one of the main leaders of the Buddhist 
+       community near Kṛṣṇagiri, since the stūpa there was
+       donated (by the laywoman Śivapālitanikā) in his name.</p>
+  </person>
+
+  <person xml:id="Apareṇuka" sex="male">
+    <persName>Apareṇuka</persName>
+  </person>
+
+  <person xml:id="Ānanda" sex="male">
+    <persName>Ānanda</persName>
+  </person>
+
+  <person xml:id="Gajasena" sex="male">
+    <persName>Gajasena</persName>
+    <!-- See the listRelation element !-->
+  </person>
+
+  <person xml:id="Gajamitra" sex="male">
+    <persName>Gajamitra</persName>
+    <!-- See the listRelation element !-->
+  </person>
+
+  <person xml:id="Svāmidatta" sex="male">
+    <persName>Svāmidatta</persName>
+    <occupation>goldsmith</occupation>
+    <residence><placeName key="pl:Kalyāṇa">Kalyāṇa</placeName></residence>
+  </person>
+
+  <person xml:id="Nāgaṇaka" sex="male">
+    <persName>Nāgaṇaka</persName>
+    <residence><placeName key="pl:Nasik">Nāsikya</placeName></residence>
+  </person>
+
+  <person xml:id="Śivapālitanikā" sex="female">
+    <persName>Śivapālitanikā</persName>
+  </person>
+
+  <person xml:id="Dharmaṇaka" sex="male">
+    <persName>Dharmaṇaka</persName>
+    <occupation>goldsmith</occupation>
+  </person>
+
+<!-- Sātavāhana Kings, Queens, etc. !-->
+
+  <person xml:id="VpŚrīChimuka" sex="male">
+    <persName>Vāsiṣṭhīputra Śrī Chimuka</persName>
+    <state type="political">Mahārāṣṭri</state>
+    <state type="political">King</state>
+  </person>
+
+  <person xml:id="Kṛṣṇa" sex="male">
+    <persName>Kṛṣṇa</persName>
+    <state type="political"
+	   notBefore-custom="-0100"
+	   notAfter-custom="-0090"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="ŚrīSātakarṇi" sex="male">
+    <persName>Śrī Sātakarṇi</persName>
+    <state type="political"
+	   notBefore-custom="-0090"
+	   notAfter-custom="-0050"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="Balaśrī" sex="female">
+    <persName>Gautamī Balaśrī</persName>
+    <state type="political"
+	   notBefore-custom="0040"
+	   notAfter-custom="0105"
+	   precision="low">Queen</state>
+  </person>
+
+  <person xml:id="GpŚivaSātakarṇi" sex="male">
+    <persName>Gautamīputra Śiva Sātakarṇi</persName>
+    <state type="political"
+	   notAfter-custom="0060"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="GpŚrīSātakarṇi" sex="male">
+    <persName>Gautamīputra Śrī Sātakarṇi</persName>
+    <state type="political"
+	   notBefore-custom="0060"
+	   notAfter-custom="0084"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="VpŚrīPuḷumāvi" sex="male">
+    <persName>Vāsiṣṭhīputra Śrī Puḷumāvi</persName>
+    <state type="political"
+	   notBefore-custom="0084"
+	   notAfter-custom="0119"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="VpŚrīSātakarṇi" sex="male">
+    <persName>Vāsiṣṭhīputra Śrī Satakarṇi</persName>
+    <state type="political"
+	   notBefore-custom="0119"
+	   notAfter-custom="0148"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="VpŚivaśrīPuḷumāvi" sex="male">
+    <persName>Vāsiṣṭhīputra Śivaśrī Puḷumāvi</persName>
+    <state type="political"
+	   notBefore-custom="0148"
+	   notAfter-custom="0156"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="VpŚrīskandaSātakarṇi" sex="male">
+    <persName>Vāsiṣṭhīputra Śrīskanda Sātakarṇi</persName>
+    <state type="political"
+	   notBefore-custom="0156"
+	   notAfter-custom="0170"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="GpŚrīyajñaSātakarṇi" sex="male">
+    <persName>Gautamīputra Śrīyajña Sātakarṇi</persName>
+    <state type="political"
+	   notBefore-custom="0171"
+	   notAfter-custom="0199"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="GpŚrīvijayaSātakarṇi" sex="male">
+    <persName>Gautamīputra Śrīvijaya Sātakarṇi</persName>
+    <state type="political"
+	   notBefore-custom="0200"
+	   notAfter-cusom="0205"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="VpŚrīcaṇḍaSātakarṇi" sex="male">
+    <persName>Vāsiṣṭhīputra Śrīcaṇḍa Sātakarṇi</persName>
+    <state type="political"
+	   notBefore-custom="0206"
+	   notAfter-custom="0215"
+	   precision="low">King</state>
+  </person>
+
+  <person xml:id="MpŚrīPuḷumāvi" sex="male">
+    <persName>Māḍharīputra Śrī Puḷumāvi</persName>
+    <state type="political"
+	   notBefore-custom="0216"
+	   notAfter-custom="0226"
+	   precision="low">King</state>
+  </person>
+
+  <!-- LIST OF RELATIONSHIPS !-->
+  <listRelation>
+    <relation name="sibling" mutual="#Gajasena #Gajamitra"/>
+    <relation name="parent" active="#Ānanda" passive="#Apareṇuka"/>
+    <relation name="spouse" mutual="#Śivapālitanikā #Dharmaṇaka"/>
+  </listRelation>
+</listPerson>

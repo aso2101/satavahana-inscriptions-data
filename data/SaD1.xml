@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaD1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati D.1 (of Nāganikā and Girija)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaD1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>An āyaka-slab, with three caitya window arches
+	      with a railing in front. The upper portion has a
+	      representation of two figures, and the lower part
+	      has a representation of two attendants (one male
+	      and one female).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+		in a field halfway between between the Canralāmbā
+		and Durgā temples.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0100"
+		  notAfter-custom="0200"
+		  precision="medium"
+		  evidence="nomenclature">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic 
+	url="images/SaD1-001.jpg">
+      <desc>Photograph from Annual Report on 
+        Indian Epigraphy 1966-1967.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  ahimarikāya 
+	  <persName key="pers:Nāganikā-1">nāganikāya</persName>
+	  <lb n="2"/>
+	  arikābhātuno
+	  <persName key="pers:Girija">girijagaṇakasa</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>
+	  (Pillar) of <persName key="pers:Nāganikā-1">Nāganikā</persName>
+	  of Ahimarikā and of <persName key="pers:Girija">Girija</persName>,
+	  the accountant, brother of Arika.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

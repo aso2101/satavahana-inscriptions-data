@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N6">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 6 (of Vīra)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N6</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 6.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0060"
+		  notAfter-custom="0100"
+		  precision="medium">later 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ 
+	  <persName key="pers:Vīra">viragahapatisa</persName>
+	  nye<app><lem>gamaṃsa</lem><rdg wit="#AS">gamasa</rdg></app>
+	  le<app><lem>ṇaṃ</lem><rdg wit="#G #AS">ṇa</rdg></app>
+	  <lb n="2"/>
+	  deyadhama kuṭumbi<app><lem>ṇiya</lem><rdg wit="#G">niya</rdg></app>
+	  casa 
+	  <persName key="pers:Nandaśrī">nanda<app
+	    ><lem>siriya</lem>
+	     <rdg wit="#AS">sarāya</rdg>
+	  </app></persName> ovarako
+	  duhutu<lb n="3" break="no"/>ya
+	  casa <persName key="pers:Puruṣadattā">purisadatāva</persName>
+	  ovarako eva leṇaṃ catugabhaṃ
+	  <lb n="4"/>
+	  <app><lem>ṇi</lem><rdg wit="#G">ni</rdg></app>yuta
+	  bhikhusaṃghasa cātudisasa ṇiyācitaṃ
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! This cave, a pious gift of the householder 
+	  <persName key="pers:Vīra">Vīra</persName>, a merchant,
+	  a cell of his wive 
+	  <persName key="pers:Nandaśrī">Nandaśrī</persName>, and
+	  a cell of his daughter 
+	  <persName key="pers:Puruṣadattā">Puruṣadattā</persName>;
+	  the cave thus completed to four cells has been
+	  bequeated to the universal saṃgha.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

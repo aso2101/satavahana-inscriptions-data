@@ -1,0 +1,157 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Pallava-01">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Copper Plate Grant of Pallava Viṣṇugōpavarman,
+	  Year 1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pallava-01</idno><!-- How should the 
+	                       Pallava inscriptions 
+			       be named? !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <objectType>Copper Plates</objectType>
+		  <p>Four playes. Each of the plates is 18.6 cm
+		     long and 6.5 cm wide. They are passed through
+		     an oval-shaped ring, the ends of which are soldered
+		     to a low-based seal. The set weighs 622 gms with the
+		     seal, and the seal weights 277.100 gms.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kurnool">Kurnool</placeName>,
+		immediately below the preceding inscription.
+	      </origPlace>
+	      <origDate notBefore-custom="0325"
+			notAfter-custom="0350"
+			precision="medium">second quarter of the 4th c.</origDate>
+	    </origin>
+	    <provenance type="found">
+	      <placeName type="modern" key="pl:Alavakoṇḍa">Alavakoṇḍa</placeName>, in 
+	      the <placeName type="modern" key="pl:Sanjamala">Sanjamala</placeName> mandal,
+	      <placeName type="modern" key="pl:Kurnool">Kurnool</placeName> district,
+	      <placeName type="modern" key="pl:AndhraPradesh">Andhra Pradesh</placeName>.
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="sa-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <bibl key="bibl:Reddy2000">Reddy and Krishna Reddy 2000</bibl>. 
+	  Emendations by Andrew Ollett on the basis of the plates provided in that article.</p>
+	</div>
+	<div type="textpart"
+	     subtype="plate"
+	     n="1A">
+	  <lb n="1"/>
+	  siddhaṃ <supplied reason="omitted">||</supplied> 
+	  <placeName key="pl:Vijayasthāna">vijayathāṇā</placeName> 
+	  mahārājassa appadihatasāsaṇassa
+	  sāma<lb n="2" break="no"/>ntavinītavikrātayasassa
+	  a<supplied reason="lost">ṇē</supplied>kahiraṇṇakoṭigohalasata<lb n="3" break="no"/>sahassa patāyiṇo bhāraddāyasagōttassa pallavāṇaṃ siri
+	  <persName key="pers:Buddhavarman">buddhavammassa</persName>
+	  <lb n="4"/>
+	  puttō bhagavatā nārāyaṇasamapātaparigahītassa bhāraddāya
+	  sagōtta
+	</div>
+      </div>
+      <div type="textpart"
+	   subtype="plate"
+	   n="2A">
+	<lb n="5" break="no"/>ssa pallavāṇaṃ mahārāja siri
+	<persName key="pers:Viṣṇugopa">viṣṇugōpassa</persName> vacanēna
+	<gap reason="lost" quantity="2" unit="character"/>
+	kasa<gap reason="lost" quantity="2" unit="character"/>
+	<lb n="6" break="no"/>vva bhōjakā savvaṇōttiri puttā
+	gāmā gāma bhōjaka mutuda mudirika
+	<lb n="7"/>ammacō ārakṣika vācanā vallava talavara mādapika
+	kulputtaka ya<gap reason="lost" quantity="1" unit="character"/>
+	bha<lb n="8" break="no"/>vissa mahāpurasā sañcarantakā
+	bhatta maṇusā a<gap reason="lost" quantity="2" unit="character"/>va
+	<gap reason="lost" quantity="1" unit="character"/> matikā bhāṇitā
+      </div>
+      <div type="textpart"
+	   subtype="plate"
+	   n="2B">
+	<lb n="9"/>pandhājanām <placeName type="premodern" key="pl:Cirippālikā">cirippālikārajje</placeName> 
+	<placeName type="premodern" key="pl:Mimala">mimalaraṭṭhe</placeName> 
+	gāmo khaṇhaṇappā kuṇḍūra a<lb n="10" break="no"/>mhēhi appaṇō
+	kulagōtta <persName key="pers:Buddhavarman">buddhavammā</persName> 
+	avaṭṭhaṇīkaṃ vijayavijaṇi<lb n="11" break="no"/>yā
+	<gap reason="lost" quantity="2" unit="character"/>kātaṇajāmassē
+	bamhaṇassa kaṇvasagōttassa 
+	<persName key="pers:Sivandajja">sivandajja<lb n="12" break="no"/>ssa</persName> ayandatārakaṃ bamhadijjaṃ kāttaṇa danakānika
+	saṃppatattō tatēva
+      </div>
+      <div type="textpart"
+	   subtype="plate"
+	   n="3A">
+	<lb n="13"/>cātvajjam agnahēva bamhaṇajja savva
+	parihārēhim pariharadha pari<lb n="14" break="no"/>harā
+	cōdhay<unclear>ye cata</unclear> sāsaṇam
+	atitāmidi kulōbhēṇa mānēna vā
+	<lb n="15"/>pīrdā pādākarēti kāriti 
+	<unclear>vāsōkhu sa punnē</unclear>
+	<gap reason="lost" quantity="2" unit="character"/> ggahaṇa
+	sāsana cōtthi
+      </div>
+      <div type="textpart"
+	   subtype="plate"
+	   n="3B">
+	<lb n="16"/><gap reason="lost" quantity="2" unit="character"/>
+	tpaṇa devā bujja parihārēdha parihārāvēdha ya taja ca aṇṇō
+	<lb n="17"/>masam alōṇa khārikam araṭṭha samviṇāyikam
+	apārapa<lb n="18" break="no"/>gōbalivadam acōllaka
+	<unclear>cā</unclear>ṭa bhaṭa ppavēsam ahiraktika
+      </div>
+      <div type="textpart"
+	   subtyle="plate"
+	   n="4">
+	<lb n="19"/>sampadattā paṭikā savaccharam padhamam 
+	hēmanta pakhē padhamō diva
+	<gap reason="lost" quantity="3" unit="character"/>
+	<lb n="20"/>ñcamī 5 <supplied reason="omitted">||</supplied>
+	bahubhivvasudhā dattā bahubhiscānupālitā 
+	yasya yasya ya<lb n="21" break="no"/>dā bhūmistasya tasya
+	tadāphalam <supplied reason="omitted">||</supplied> 
+	svadattām paradattām vā yō harēta vasu<lb n="22" break="no"/>ndharām
+	gavāśata sahasrasya hantyaḥ harē duṣkrutam
+	<supplied reason="omitted">||</supplied> iti svasti 
+	<supplied reason="omitted">||</supplied>
+      </div>
+      <div type="translation">
+	<p></p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N8">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 8 (of Mugūdāsa)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N8</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 8,
+		right of the doorway.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0060"
+		  notAfter-custom="0100"
+		  precision="medium">later 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  dāsakasa
+	  <persName key="pers:Mugūdāsa">mu<app
+	    ><lem>gū</lem><rdg wit="#AS">gu</rdg></app>dāsasa</persName>
+	  saparivārasa le<app><lem>ṇa</lem><rdg wit="#G">ṇaṃ</rdg></app>
+	  deya<app><lem>dha</lem><rdg wit="#G">dhaṃ</rdg></app>ma
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This cave, a pious gift of
+	  <persName key="pers:Mugūdāsa">Mugūdāsa</persName>, 
+	  a fisherman, together with his next.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N20">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 20</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N20</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		under the arch of the doorway of Cave No. 18.
+	      </origPlace>
+	      <!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <placeName key="pl:Nāsikya">nāsikanaṃ</placeName>
+	  <placeName key="pl:Dhaṃbhika">dhaṃbhikagāmasa</placeName>
+	  dānaṃ
+	</p> 
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>The gift of the village of <placeName key="pl:Dhaṃbhika">Dhaṃbhika</placeName> of the <placeName key="pl:Nasik">Nasik</placeName> people.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Chi1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>China Inscription, year 27 of Gautamīputra Śrīyajña Sātakarṇi</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Chi1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:China">China</placeName>.
+	      </origPlace>
+	      <origDate
+		  when-custom="0198"
+		  precision="low">ca. 198 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Bühler1892">Bühler 1892</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ na<unclear>mo bha</unclear>gavato
+	  <gap reason="lost" quantity="3" unit="character"/>
+	  <unclear>vasa</unclear>raño
+	  <persName key="pers:GpŚrīyajñaSātakarṇi">
+	    gotami<lb n="2" break="no"/>putasa
+	    araka-siriyaña-sātakaṇisa
+	  </persName>
+	  vasasatāya 
+	  <date when-custom="27"
+		datingMethod="regnal"
+		datingPoint="pers:GpŚrīyajñaSātakarṇi">saṃvachara 
+	        sata<unclear>vi</unclear><lb n="3" break="no"/>maṃ
+	        20 + 7</date>
+	  hematānaṃ pakhaṃ catuthaṃ 4 
+	  di<supplied reason="lost">vasaṃ paṃca</supplied>maṃ 5
+	  etiya
+	  <lb n="4"/>
+	  puvāya arakamahatarakena 
+	  mahā<gap reason="lost" quantity="6" unit="character"/><lb n="5"/>
+	  yājinā 
+	  mahādaṃ<gap reason="lost" quantity="6" unit="character"/><lb n="6"/>
+	  dhāya<gap reason="lost" quantity="6" unit="character"/>
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! Adoration to the divine. . . va!
+	  The year 
+	  <date when-custom="27"
+		datingPoint="pers:GpŚrīyajñaSātakarṇi"
+		datingMethod="regnal">twenty-seven (20+7)</date>
+	  of the existence of the power of the king, the lord
+	  <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra 
+	  Śrīyajña Sātakarṇi</persName>, the fourth (4) fortnight of summer,
+	  the fifth (5) day—on the above (date) by the lord, the 
+	  Mahataraka Mahā. . . a sacrificer . . . to (Bud)dha(?) . . .
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

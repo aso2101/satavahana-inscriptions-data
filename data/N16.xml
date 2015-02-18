@@ -1,0 +1,64 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N16">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 16</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N16</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 11, right
+		of the doorway.
+	      </origPlace>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ <persName key="pers:Śivamitra">sivamita</persName>lekhakaputasa 
+	  <lb n="2"/>
+	  <persName key="pers:Rāmaṇaka-2">rāmaṃṇakasa</persName> leṇam
+	  deya<app
+	    ><lem wit="#N">dhaṃmaṃ</lem>
+	     <rdg wit="#G">dhamaṃ</rdg>
+	  </app>
+	</p> 
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! This cave, a pious gift of <persName key="pers:Rāmaṇaka-2">Rāmaṇaka</persName>, son of the writer <persName key="pers:Śivamitra">Śivamitra</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

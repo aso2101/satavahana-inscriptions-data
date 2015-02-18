@@ -1,0 +1,82 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N26">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 26</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N26</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the ruined back of the veranda in Cave No. 24.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0025"
+		  notAfter-custom="0075"
+		  precision="medium"
+		  evidence="nomenclature">mid-1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ śakasa <app
+	    ><lem wit="#N">dāma</lem>
+	     <rdg wit="#G">dama</rdg>
+	    </app>cikasa
+	  lekhakasa vudhikasa 
+	  <lb n="2"/>
+	  viṣṇudata<app
+	    ><lem wit="#N">putasa</lem>
+	     <rdg wit="#G">putrasa</rdg>
+	    </app>
+	  daśapuravāthavasa leṇa po<lb n="3" break="no"/>dhiyo
+	  ca <app><lem wit="#N">do </lem>
+	          <rdg wit="#G">de </rdg>
+	     </app> 2 ato ekā podhi yā 
+	     <app><lem wit="#N">aparadha sa</lem>
+	          <rdg wit="#G">apara esa</rdg>
+		  <rdg wit="#AS">apara<supplied reason="lost">dhā</supplied></rdg>
+	     </app> me mātā
+	  <lb n="4"/>
+	  <gap 
+	    reason="lost"
+	    quantity="1"
+	    unit="character"/>taro udisa
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! (The gift) of the Śaka Dāmacika Vudhika, a writer, son of Viṣṇudatta, an inhabitant of Daśapura, the cave and the two—2—cisterns. Out of them the one which has a small opening is on behalf of my father and mother.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

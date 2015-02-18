@@ -1,0 +1,76 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N25">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 25 (Vāsiṣṭhīputra Śrī Puḷumāvi year 2)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N25</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the front wall of an unfinished cave beyond Cave No. 23.
+	      </origPlace>
+	      <origDate
+		  when-custom="0086"
+		  precision="low">ca. 86 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <bibl key="bibl:N">Senart 1905-1906</bibl>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ raño <persName key="pers:VpŚrīPuḷumāvi">vāsiṭhiputasa 
+	  sāmi-siri-pulu<lb n="2" break="no"/>māisa</persName>
+	  saṃvachare 2 hemaṃtā pakhe 4 divase <app
+	    ><lem wit="#N">1</lem>
+	     <rdg wit="#G">6</rdg>
+	     <rdg wit="#AS">8</rdg>
+	   </app>
+	   <lb n="3"/>
+	   etiya puvāya kuṭuṃbikeṇa <persName key="pers:Dhaṇama">dhaṇameṇa</persName> iṇa
+	   <lb n="4"/>
+	   kāritaṃ saha m<gap reason="lost"
+	                      quantity="2"
+			      unit="character"/>pituhi
+	   saha<app><lem><gap reason="lost"
+	                      quantity="5"
+			      unit="character"/></lem>
+	             <note><p>Senart notes <foreign xml:lang="mi-Latn">bhagine</foreign>, faintly.</p></note></app>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! On the 6th (or 8th) day of the 4th fortnight of winter, in the year 2 of the king, the lord <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Śrī Puḷumāvi</persName>, on the above, the husbandman <persName key="pers:Dhaṇama">Dhaṇama</persName> has caused this to be made, together with his father and mother, with . . . . . .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

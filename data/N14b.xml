@@ -1,0 +1,92 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N14b">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 14b (time of Nahapāna)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N14b</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		immediately below the preceding inscription.
+	      </origPlace>
+	      <origDate notBefore-custom="0060"
+			notAfter-custom="0084"
+			precision="medium">ca. 60-84 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="sa-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="7"
+	       unit="character"/>gavatā brāhmaṇā
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       quantity="9"
+	       unit="character"/><app
+	     ><lem wit="#N"><gap reason="lost"
+	                         quantity="1"
+				 unit="character"/>ṇi
+	        paṃcāśaṃ <gap reason="lost"
+	                      quantity="1"
+			      unit="character"/> 000</lem>
+	      <rdg wit="#G">srāṇi paṃcāśa 50000</rdg>
+	      <rdg wit="#AS"><gap reason="lost"
+				  quantity="1"
+				  unit="character"/>do sahaśa 2000</rdg>
+	  </app>
+	  <lb n="3"/>
+	  <gap reason="lost"
+	       quantity="6"
+	       unit="character"/>
+	  <app>
+	    <lem wit="#N">māsāya tīrthe</lem>
+	    <rdg wit="#AS">māsiyaṃ tithe</rdg>
+	  </app>
+	  <lb n="4"/>
+	  <gap reason="lost"
+	       quantity="6"
+	       unit="character"/>
+	  <app>
+	    <lem wit="#N #G">deya na japa</lem>
+	    <rdg wit="#AS">he<gap reason="lost" quantity="1"
+	      unit="character"/>yāna ja<gap reason="lost"
+	      quantity="2" unit="character"/></rdg>
+	  </app>
+	</p> 
+      </div>
+    </body>
+  </text>
+</TEI>

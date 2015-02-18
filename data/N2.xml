@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N2">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 2 (of Vāsiṣṭhīputra Śrī Puḷumāvi, year 19)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N2</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 3,
+		above the entrance.
+	      </origPlace>
+	      <origDate
+		  when-custom="0103"
+		  precision="low">ca. 103 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  si<app><lem>ddhaṃ ra</lem><rdg wit="#G">ddha ra</rdg></app>ño
+	  vāsi<app><lem>ṭhī</lem><rdg wit="#G #AS">ṭhi</rdg></app>putasa
+	  <persName key="pers:VpŚrīPuḷumāvi">siri-puḷumāyisa</persName>
+	  <app><lem>savī</lem><rdg wit="#G">sava</rdg>
+	                      <rdg wit="#AS">saṃva</rdg></app>chare
+	  ekunavise
+	  <date when-custom="19" 
+		datingPoint="pers:VpŚrīPuḷumāvi"
+		datingMethod="regnal">19</date>
+	  gimhā<app><lem>ṇa</lem><rdg wit="#G #AS">na</rdg></app>
+	  pakhe bitīye 2 divase terase 13 rājaraño 
+	  <persName key="pers:GpŚrīSātakarṇi">gotamīputasa</persName>
+	  himavata-meru<lb n="2" break="no"/>madara-pavatasamasārasa
+	  <placeName key="pl:Ṛṣika">asika</placeName
+	  ><placeName key="pl:Aśmaka">a<app><lem>saka</lem>
+	              <rdg wit="#G">sika</rdg></app></placeName
+	  ><placeName key="pl:Mulaka"><app><lem>muḷa</lem><rdg wit="#G">susa</rdg></app>ka</placeName
+          ><placeName key="pl:Surāṣṭra">suraṭha</placeName
+	  ><placeName key="pl:Kukura">kukur</placeName
+	  ><placeName key="pl:Aparānta">āpa<app
+	    ><lem>raṃ</lem><rdg wit="#G">rā</rdg></app>ta</placeName
+	  ><placeName key="pl:Anupa">anupa</placeName
+	  ><placeName key="pl:Vidarbha">vidabha</placeName
+	  ><placeName key="pl:Ākarāvantī">ākarāvati</placeName>rājasa
+	  <placeName key="pl:Vindhya"
+	    >vijha</placeName>-chavata-<placeName key="pl:Pārijāta"
+	    ><app><lem>pāricā</lem><rdg wit="#AS">parivā</rdg></app
+	    >ta</placeName>-<placeName key="pl:Sahya"
+	    >sahya</placeName>-<placeName key="pl:Kṛṣṇagiri"
+	    >kaṇhagiri</placeName>-maca-siriṭana-<placeName key="pl:Malaya"
+	    >malaya</placeName>-<placeName key="pl:Mahendra"
+	    >mahida</placeName><lb n="3" break="no"/>seṭagiri-<placeName key="pl:Cakora"
+	    >cakora</placeName>-pavatapatisa
+	  savarāja<app
+	    >
+	     <lem>lo</lem>
+	     <note xml:lang="en">
+	       <p>The character <em>lo</em> is all but clear.</p>
+	     </note>
+	  </app>ka<app><lem>ma</lem><rdg wit="#AS">maṃ</rdg></app>ḍalapatigahītasāsanasa
+	  divasakara<app
+	    >
+	     <lem>ka</lem>
+	     <note xml:lang="en">
+	       <p>Very indistinct.</p>
+	     </note>
+	  </app>ravibodhitakamalavimalasadisavadanasa
+	  tisamudatoyapītavāhanasa
+	  paṭipuṇacadamaḍalasasirīka<lb n="4" break="no"/>piyadasanasa
+	  varavāraṇavikamacāruvikamasa
+	  bhujagapatibhogapīna<app><lem>vā</lem><rdg wit="#G #AS">va</rdg></app>ṭa-vipuladīghasuda<supplied reason="lost">ra</supplied>bhujasa
+	  abhayodakadānakilinanibhayakarasa
+	  avipanamātu<app><lem>sasū</lem><rdg wit="#G">susu</rdg></app>sākasa
+	  suvibhatativagadesakālasa
+          <lb n="5"/>
+	  porajananivisesasamasukhadukhasa
+	  khatiyadapamāna<app
+	    >
+	     <lem>madanasa</lem>
+	     <note xml:lang="en">
+	       <p>The top of the <em>na</em> of <em>dana</em> seems to
+	       bear a horizontal stroke, and I am inclined to think that 
+	       <foreign xml:lang="mi=Latn">madaṇasa</foreign> was intended.</p>
+	     </note>
+	  </app> saka-yavana-palhava-nisūdanasa
+	  dhamapajitakaraviniyogakarasa
+	  kitāparādhe pi satujane apāṇahisārucisa
+	  dijāvarakuṭubavivadha<lb n="6" break="no"/>nasa
+	  khakharāta<app><lem>va</lem><rdg wit="#AS">vaṃ</rdg></app>saniravasesakarasa
+	  sātavāhanakulayasapati<app><lem>thā</lem><rdg wit="#AS">ṭhā</rdg></app>panakarasa
+	  sava<app><lem>ma</lem><rdg wit="#AS">maṃ</rdg></app>ḍalābhivāditaca<supplied reason="lost">ra</supplied>ṇasa
+	  vinivatitacātuvaṇasakarasa
+	  anekasamarāvajitasatusaghasa
+	  aparājitavijayapatākasatujanadupadha<app><lem>sa</lem><rdg wit="#AS">sasa</rdg></app>nīya<lb n="7" break="no"/>puravarasa
+	  kulapurisaparaparāgatavipularājasadasa
+	  āgamā<app><lem>na</lem><rdg wit="#G">naṃ</rdg></app>
+	  nilayasa sapurisānaṃ asayasa sirīy[a] adhiṭhānasa
+	  upacārā<app><lem>na</lem><rdg wit="#G">naṃ</rdg></app>
+	  pabhavasa ekakusasa ekadhanudharasa
+	  <app><lem>ekasūrasa</lem><rdg wit="#AS"></rdg></app> ekabamhaṇasa
+	  rāma<lb n="8" break="no"/>kesavājunabhīmasenatulapa<app><lem>ra</lem><rdg wit="#AS">rā</rdg></app>kamasa
+	  chaṇa<app><lem>gha</lem><rdg wit="#G">ya</rdg></app>nusavasamājakārakasa
+	  <app><lem>nā</lem><rdg wit="#AS">na</rdg></app>bhāganahusajanamejayasakarayayātirāmābarīsasamatejasa
+	  aparimitam akhayam acitam abhu<app><lem>ta</lem><rdg wit="#G">taṃ</rdg></app>
+	  pavanagaru<app><lem>ḷa</lem><rdg wit="#G">ḍa</rdg></app>sidhayakharakhasavijādharabhūtagadhavacāraṇa<lb n="9" break="no"/>cadadivākaranakhatagahaviciṇasamarasirasi
+	  jitaripusaghasa <app><lem>nā</lem><rdg wit="#G">ṇa</rdg><rdg wit="#AS">na</rdg></app>gavarakhadhā
+	  gaganatalam abhivigāḍhasa kulavipulasirikarasa
+	  <persName key="pers:GpŚrīSātakarṇi">sirisātakaṇisa</persName> mātuya
+	  mahāde<app><lem>vī</lem><rdg wit="#AS">vi</rdg></app>ya 
+	  gotamiya <persName key="pers:Balaśrī">balasirīya</persName>
+	  sacavacanadānakha<app
+	    >
+	     <lem>mā</lem>
+	     <note xml:lang="en">
+	       <p><em>ā</em> seems at least doubtful.</p>
+	     </note>
+          </app><app><lem>hi</lem><rdg wit="#G">hiṃ</rdg></app>sāniratāya
+	  tapadamaniya<lb n="10" break="no"/>mopavāsataparāya
+	  rājarisiva<app><lem>dhu</lem><rdg wit="#AS">dhū</rdg></app>sadam
+	  akhilam anuvidhīyamānāya kārita deyadhama
+	  <supplied reason="lost">kelāsa</supplied>pa<supplied reason="lost">vata</supplied>sikharasadise
+	  <placeName key="pl:Tiraṇhu">tiraṇhu</placeName>pavatasikhare
+	  vi<supplied reason="lost">māna</supplied> varanivisesamahiḍhīka
+	  leṇa eta ca leṇa mahādevī mahārājamātā
+	  mahārāja<app><lem><supplied reason="lost">pi</supplied></lem><rdg wit="#G">pa</rdg></app>tāmahī
+	  dadāti nikāyasa bhadāva<app><lem>nī</lem><rdg wit="#G #AS">ni</rdg></app>yā<app><lem>naṃ</lem><rdg wit="#G #AS">na</rdg></app> 
+	  bhikhu<app><lem>sa</lem><rdg wit="#G">saṃ</rdg></app>ghasa
+          <lb n="11"/>
+	  etasa ca leṇasa
+	  cita<app><lem>ṇa</lem><rdg wit="#AS">nā</rdg></app>nimita
+	  mahādevīya ayakāya se<app><lem>va</lem><rdg wit="#G">vā</rdg></app>kāmo
+	  piyakāmo ca 
+	  <app><lem
+	    >ṇat<supplied reason="lost">ā</supplied>
+	         <gap reason="lost" unit="character" quantity="6"/>
+	  </lem><rdg wit="#AS">ṇa<supplied reason="lost">tā</supplied>
+	         <gap reason="lost" unit="character" quantity="4"/>
+		 <supplied reason="lost">dakhiṇā</supplied>
+	  </rdg></app> pa<app><lem>the</lem><rdg wit="#AS">ṭhi</rdg></app>saro
+	  pitupatiyo dhamasetusa dadāti 
+	  gā<app><lem>ma</lem><rdg wit="#AS">maṃ</rdg></app> tiraṇhupavatasa
+	  aparadakhiṇapase 
+	  <placeName key="pl:Pisājīpadaka"><app><lem>pisājī</lem><rdg wit="#AS">pisāci</rdg></app>padakaṃ</placeName>
+	  savajātabhoganirathi.
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! In the nineteenth—19th—year of king 
+	<persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Śrī Puḷumāvi</persName>, in the second—2nd—fortnight of summer, on the
+	thirteenth—13th—day, the great queen
+	<persName key="pers:Balaśrī">Gautamī Balaśrī</persName>,
+	delighting in truth, charity, patience and respect for life;
+	bent on penance, self-control, restraint and abstinence;
+	fully working out the type of a royal Ṛṣi’s wife; the
+	mother of the king of kings,
+	<persName key="pers:GpŚrīSātakarṇi">Gautamīputra Śrī
+	Sātakarṇi</persName>, who was in strength equal to 
+	mount Himavat, mount Meru, mount Mandara; king of 
+	<placeName key="pl:Ṛṣika">Ṛṣika</placeName>,
+	<placeName key="pl:Aśmaka">Aśmaka</placeName>,
+	<placeName key="pl:Mulaka">Mulaka</placeName>,
+	<placeName key="pl:Surāṣṭra">Surāṣṭra</placeName>,
+	<placeName key="pl:kukura">Kukura</placeName>,
+	<placeName key="pl:Aparānta">Aparānta</placeName>,
+	<placeName key="pl:Anupa">Anupa</placeName>,
+	<placeName key="pl:Vidarbha">Vidarbha</placeName>,
+	<placeName key="pl:Ākarāvantī">Ākarāvantī</placeName>;
+	lord of the mountains 
+	<placeName key="pl:Vindhya">Vindhya</placeName>, Chavata, 
+	<placeName key="pl:Pārijāta">Pārcāta</placeName>, 
+	<placeName key="pl:Sahya">Sahya</placeName>, 
+	<placeName key="pl:Kṛṣṇagiri">Kaṇhagiri</placeName>, 
+	Maca, Siriṭana, 
+	<placeName key="pl:Malaya">Malaya</placeName>,
+	<placeName key="pl:Mahendra">Mahendra</placeName>, 
+	Seṭagiri, 
+	<placeName key="pl:Cakora">Cakora</placeName>; obeyed by the
+	circle of all kings on earth; whose face was 
+	beautiful and pure like the lotus opened by the rays
+	of the sun; whose chargers had drunk the water of 
+	three oceans; whose face was lovely and 
+	radiant like the orb of the full moon; whose gait
+	was beautiful  like the gait of a choice elephant;
+	whose arms were as muscular and rounded, broad and
+	long as the folds of the lord of serpents;
+	whose fearless hand was wet by the water poured out
+	to impart fearlessness; of unchecked obedience toward
+	his mother; who properly devised time and place for the
+	pursuit of the triple object (of human activity); who
+	sympthasied fully with the weal and woe of the citizens;
+	who crushed down the pride and conceit of the Kṣatriyas;
+	who destroyed the Śakas, Yavanas and Palhavas;
+	who enver levied nor employed taxes but in conformity to
+	justice; alien to hurting life even towards an offending
+	enemy; the furtherer of the homesteads of the low
+	as well as of the twice-born; who rooted out the Khakharāta
+	race; who restored the glory of the Sātavāhana family;
+	whose feet were saluted by all provinces; who stopped
+	the contamination of the four varṇas; who conquered 
+	multitudes of enemies in many battles;
+	whose victorious banner was unvanquished; whose 
+	capital was unassailable to his foes;
+	who had inherited from a long line of ancestors
+	the privilege of kingly music; the abode of traditional lore;
+	the refuge of the virtuous; the asylum of Fortune; the
+	fountain of good manners; the unique controller; the
+	unique archer; the unique hero; the unique Brāhmaṇa; in
+	prowess equal to Rāma, Keśava, Arjuna and Bhīmasena;
+	liberal on festive days in unceasing festivities and
+	assemblies; not inferior in lustre to Nābhāga, Nahuṣa, 
+	Janamejaya, Sagara, Yayāti Rāma and Ambarīṣa; who,
+	vanquishing his enemies in a way as constant as inexhaustible,
+	unthinkable and marvellous in battles fought by the Wind,
+	Garuḍa, the Siddhas, the Yakṣas, the Rākṣasas, the Vidyādharas,
+	the Bhūtas, the Gandharvas, the Cāraṇas, the Moon, the Sun,
+	the Asterisms and the Planets, (appeared to be himself) plunging
+	into the sky from the shoulder of his choice elephant; (and)
+	who (thus) raised his family to high fortune — caused, as a 
+	pious gift, on the top of the
+	<placeName key="pl:Tiraṇhu">Tiraṇhu</placeName>
+	mountain similar to the top of the Kailāsa, (this) cave to be
+	made quite equal to the divine mansions (there). And that
+	cave the great queen, the mother of a Mahārāja and 
+	grandmother of a Mahārāja, gives to the Saṅgha of monks in
+	the person of the fraternity of the Bhadāvanīyas;
+	and for the sake of the embellishment of that cave,
+	with a view to honour and please the great queen his grandmother,
+	her grandson . . . . . lord of [Dakṣiṇā]patha, making over the 
+	merit of the gift to his father, grants to this meritorious
+	donation (vis. the cave) the village of
+	<placeName key="pl:Pisājīpadaka">Pisājīpadaka</placeName> 
+	on the south-west side of mount
+	<placeName key="pl:Tiraṇhu">Tiraṇhu</placeName>.
+	Renunciation to the enjoyments of every kind.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

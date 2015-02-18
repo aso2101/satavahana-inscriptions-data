@@ -1,0 +1,70 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N22">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 22</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N22</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>, 
+		on the upper sill of the right window in Cave No. 19.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="-0050"
+		  precision="medium">early 1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sādavāhana<app
+	    ><lem wit="#N">kule</lem>
+	     <rdg wit="#AS">kula</rdg>
+	   </app> <persName key="pers:Kṛṣṇa">kanhe</persName>
+	  rājini <placeName key="pl:Nāsikya">nāsikakena</placeName>
+	  <lb n="2"/>
+	  samaṇena mahāmāteṇa leṇa <app
+	    ><lem wit="#N">kārita</lem>
+	     <rdg wit="#G">kāritaṃ</rdg>
+	    </app>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Under king <persName key="pers:Kṛṣṇa">Kṛṣṇa</persName> of the Sātavāhana family this cave has been caused to be made by the officer in charge of the Śramaṇas at <placeName key="pl:Nasik">Nasik</placeName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

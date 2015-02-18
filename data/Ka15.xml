@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ka15">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanheri No. 15</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ka15</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <layoutDesc>
+		<layout>
+		  <dimensions>
+		    <width quantity="67" unit="cm">1.43m</width>
+		    <height quantity="1.7" unit="m">1.7m</height>
+		  </dimensions>
+		</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
+		cut into one side of the squarre stepped-out top
+		of the dagoba in the small circular chamber just to the
+		left side of the caitya.
+	      </origPlace>
+	      <origDate notBefore-custom="0050"
+			notAfter-custom="0150"
+			precision="low">ca. 50-150 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Ka">Gokhale 1991</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  siddhaṃ heraṇikasa 
+	  <persName key="pers:Dharmaṇaka">dhamaṇakasa</persName> bhayā
+	  <lb n="2"/>
+	  <persName key="pers:Śivapālitanikā">sivapālitanikāya</persName>
+	  deyadhaṃma
+	  <lb n="3"/>
+	  therāna bhayata 
+	  <persName key="pers:BhDharmapāla">dhaṃmapālānaṃ</persName>
+	  <lb n="4"/>
+	  thuba
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! The stūpa of the thera, the 
+	  reverend <persName key="pers:BhDharmapāla">Dharmapāla</persName>,
+	  the meritorious gift of 
+	  <persName key="pers:Śivapālitanikā">Śivapālitanikā</persName>,
+	  the wife of the goldsmith 
+	  <persName key="pers:Dharmaṇaka">Dharmaṇaka</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

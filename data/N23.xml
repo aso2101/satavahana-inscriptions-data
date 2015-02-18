@@ -1,0 +1,64 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N23">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 23</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N23</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>, 
+		over the doorway of the last cell in Cave No. 20.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0150"
+		  notAfter-custom="0250"
+		  precision="medium"
+		  evidence="language">ca. 150–250 (language)</origDate>
+	      <!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  deyadharmmo yaṃ upāsi<lb n="2" break="no"/>kāyā
+	  <persName key="pers:Mammā">mammāyā</persName> layanaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>This gift, a cave, of the lay devotee <persName key="pers:Mammā">Mammā</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

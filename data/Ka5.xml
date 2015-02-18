@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ka5">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanheri No. 5</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ka5</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <layoutDesc>
+		<layout>
+		  <dimensions>
+		    <width quantity="2.30" unit="m">2.30m</width>
+		    <height quantity="1" unit="m">1m</height>
+		  </dimensions>
+		</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
+		on the right hand gate post of the Caitya Cave, No. 3.
+	      </origPlace>
+	      <origDate notBefore-custom="0171"
+			notAfter-custom="0199"
+			precision="low">ca. 171–199 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Ka">Gokhale 1991</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  raño <persName key="pers:GpŚrīyajñaSātakarṇi">gotam<supplied reason="lost">iputasa sāmi siri yaṇasa</supplied>
+	  <lb n="2"/>
+	  sotakaṃṇissa</persName> <supplied reason="lost">saṃvachare</supplied>
+	  <gap reason="lost"
+	       quantity="5"
+	       unit="character"/><supplied reason="lost">gi</supplied><lb n="3" break="no"/>mhapakhe paṃcame <supplied reason="lost">5 divase</supplied>
+	  <gap reason="lost"
+	       quantity="5"
+	       unit="character"/>
+	  <lb n="4"/>
+	  vāṇijakehi utu<gap reason="lost"
+	                     quantity="9"
+	                     unit="character"/>
+	  <lb n="5"/>
+	  ṇuya upaṃnehi gā<gap reason="lost"
+	                       quantity="10"
+			       unit="character"/>
+	  <lb n="6"/>
+	  khātiyehi bhātuhi<gap reason="lost"
+	                        extent="unknown"
+				unit="character"/>
+	  <lb n="7"/>
+	  <persName key="pers:Gajasena">gajaseṇena</persName> 
+	  <persName key="pers:Gajamitra">gajami<supplied reason="lost">tena</supplied></persName>
+	  <gap reason="lost"
+	       extent="unknown"
+	       unit="character"/>
+	  <lb n="8"/>
+	  kapaṭhāyi ceti<supplied reason="lost">ya</supplied>
+	  <gap reason="lost"
+	       quantity="9"
+	       unit="character"/>
+	  <lb n="9"/>
+	  ācariyāṇaṃ nikā<supplied reason="lost">yasa</supplied>
+	  <gap reason="lost"
+	       quantity="5"
+	       unit="character"/>
+	  <supplied reason="lost">bhādāya</supplied>
+	  <lb n="10"/>
+	  nīyānaṃ parigahe pa<supplied reason="lost">tiṭhāpitaṃ</supplied>
+	  <gap reason="lost"
+	       quantity="5"
+	       unit="character"/>
+	  <supplied reason="lost">mā</supplied>
+	  <lb n="11"/>
+	  tapitunaṃ abhatītā<supplied reason="lost">naṃ</supplied>
+	  <gap reason="lost"
+	       quantity="7"
+	       unit="character"/>
+	  <lb n="12"/>
+	  pūjāya kuṭuṃbini<supplied reason="lost">na bāla</supplied><app>
+	    <lem>kānaṃ bāli</lem>
+	    <note xml:lang="en"><p>Gokhale notes that “at present these letters are not in existence.”</p></note>
+	  </app><supplied reason="lost">kānaṃ</supplied>
+	  <lb n="13"/>
+	  savatasa bhāgineyāna nik<supplied reason="lost">ā</supplied>yasa nāti
+	  <lb n="14"/>
+	  vagasa ca aga paṭiasiya savvasa<supplied reason="lost">tānaṃ</supplied>
+	  <lb n="15"/>
+	  ca hitasukhāya hetu etha ca nave
+	  <gap reason="lost"
+	       quantity="4"
+	       unit="character"/>
+	  <lb n="16"/>
+	  kā pavajito therā bhadata <persName key="pers:BhAcala">acala</persName> bhadaṃ<supplied reason="lost">ta</supplied>
+	  <lb n="17"/>
+	  <persName key="pers:BhGahala">gahala</persName> 
+	  bhadaṃta-<persName key="pers:BhVijayamitra">vijayamita</persName>
+	  bhadata <persName key="pers:BhBodhika">bo<supplied reason="lost">dhiko</supplied></persName>
+	  <lb n="18"/>
+	  bhadata <persName key="pers:BhDharmapāla">dhamapālā</persName> upasako ca negamo ā<supplied reason="lost">nada</supplied><lb n="19" break="no"/>puto
+	  <persName key="pers:Apareṇuka">apareṇuko</persName> samāpitā acariāna therāṇaṃ
+	  <lb n="20"/>
+	  bhadata seuṃlānaṃ siseṇa uparakhitana bha<lb n="21" break="no"/>data
+	  <persName key="pers:BhBodhika">bodhikena</persName> kata selavaḍhakīhi 
+	  <supplied reason="lost">nāya</supplied>kami<lb n="22" break="no"/>sehi
+	  kaḍhicak<supplied reason="lost">e</supplied>hi
+	  mahākaṭak<supplied reason="lost">e</supplied>hi 
+	  khadara<lb n="23" break="no"/>kina ca miṭhikenā
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (I have not reproduced Gokhale’s translation,
+	  because the inscription is fragmentary and I am
+	  not convinced by Gokhale’s interpretation of
+	  the parts that are legible.)
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

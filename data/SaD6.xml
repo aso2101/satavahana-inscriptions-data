@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaD6">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati D.6 (of the Nāṭikās)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaD6</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+		on a large pillar lying in the field of Channabasappa
+		Gowda.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0100"
+		  notAfter-custom="0200"
+		  precision="medium"
+		  evidence="nomenclature">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic 
+	url="images/SaD6-001.jpg">
+      <desc>Photograph from Annual Report on 
+        Indian Epigraphy 1966-1967.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with minor corrections by AO based on the photograph.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  siri<gap reason="lost"
+	           quantity="3"
+		   unit="character"/>mi
+	  putasa hathilasa nāṭikāya budhaseniyāna 
+	  munāḍiya-nāṭikāya pākārayatiyāya 
+	  govidasiya
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>ikāya naḍiya-khaḍaputīya a
+	  ayadāsīya 
+	  naḍiya-vālukiyāya
+	  mukhādiko yaṃ
+	</p>
+      </div>
+      <div type="translation">
+	<p>
+	  (No translation was offered by the editors.)
+	</p>
+      </div>
+      <div type="commentary">
+	<p>The interpretation of the editors is unsatisfactory. All but the last word seem to be names to me. (Andrew Ollett, 01/10/2015)</p>
+      </div>
+    </body>
+  </text>
+</TEI>

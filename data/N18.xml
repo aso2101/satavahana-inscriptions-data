@@ -1,0 +1,100 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N18">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 18</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N18</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 17.
+	      </origPlace>
+	      <origDate notBefore-custom="0050"
+			notAfter-custom="0100"
+			precision="medium">latter half of 1st c. CE.</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ otarāhasa <placeName key="pl:Dattāmitrī"><app
+	    ><lem wit="#N">dātā</lem>
+	     <rdg wit="#G #AS">daṃtā</rdg>
+           </app>mitiyakasa</placeName> teṇakasa 
+	   <persName key="pers:Dharmadeva">dhaṃmadeva</persName>putasa
+	   <persName key="pers:Indrāgnidatta"><app
+	     ><lem wit="#N">īdrāgni</lem>
+	      <rdg wit="#G">iṃdrāgni</rdg>
+	      <rdg wit="#AS">īdāgni</rdg>
+	   </app>datasa</persName>
+	   dhaṃmātma<app
+	     ><lem wit="#N">nā</lem>
+	      <rdg>
+		<note xml:lang="sa">
+		  <p>Senart notes: “The stroke which, rising perpendicularly,
+		  makes the <foreign xml:lang="sa-Latn">ā</foreign> look
+		  somewhat like <foreign xml:lang="sa-Latn">i</foreign>, 
+		  is thinner and certainly accidental.”</p>
+		</note>
+	      </rdg>
+	   </app>
+	   <lb n="2"/>
+	   <app>
+	     <lem wit="#N">imaṃ le</lem>
+	     <rdg wit="#G #AS">ima te</rdg>
+	   </app>ṇaṃ pavate <placeName key="pl:Tiraṇhu">tiraṃṇhumhi</placeName>
+	   khānitaṃ abhaṃtaraṃ ca leṇasa cetiyagharo <app
+	     ><lem wit="#N">poḍhiyo</lem>
+	      <rdg wit="#G">podhiṃyo</rdg>
+	      <rdg wit="#AS">poṃdhiyo</rdg>
+	   </app> ca mātāpi<lb n="3" break="no"/>taro
+	   udisa ima <app
+	     ><lem wit="#N">leṇa</lem>
+	      <rdg wit="#AS">leṇaṃ</rdg>
+	   </app> kāritaṃ sava-budha-pujāya
+	   cātudiśasa <app
+	     ><lem wit="#N">bhikhū</lem>
+	      <rdg wit="#G">bhikhu</rdg>
+           </app>saṃghasa niyātitaṃ
+	   sa<lb n="4" break="no"/>ha putena 
+	   <persName key="pers:Dharmarakṣita">dhaṃmarakhitena</persName>
+	</p> 
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! (The gift) of <persName key="pers:Indrāgnidatta">Indrāgnidatta</persName>, son of <persName key="pers:Dharmadeva">Dharmadeva</persName>, the Yavana, a notherner from <placeName key="pl:Dattāmitrī">Dattāmitrī</placeName>. By him, inspired by true religion, this cave has bene caused to be excavated in mount <placeName key="pl:Tiraṇhu">Tiraṇhu</placeName>, and inside the cave a <foreign xml:lang="sa-Latn">caityagṛha</foreign> and cisterns. This cave made for the sake of his father and mother has been, in order to honour all Buddhas, bestowed on the universal <foreign xml:lang="sa-Latn">saṃgha</foreign> of monks, together with his son <persName key="pers:Dharmarakṣita">Dharmarakṣita</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N17">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nāsik No. 17</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N17</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 12.
+	      </origPlace>
+	      <origDate notBefore-custom="0050"
+			notAfter-custom="0100"
+			precision="medium">latter half of 1st c. CE.</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Velīdāta">ve<app
+	    ><lem wit="#N">līdāta</lem>
+	     <rdg wit="#G">līdata</rdg>
+	     <rdg wit="#AS">lidata</rdg>
+	  </app></persName>putasa nekamasa
+	  <persName key="pers:Rāmaṇaka">rāmaṇakasa</persName>
+	  <lb n="2"/>
+	  <placeName key="pl:Chākalepa">chākalepakiyasa</placeName>
+	  lenaṃ deyadhaṃmaṃ ca <app
+	    ><lem wit="#N">catu</lem>
+	     <rdg wit="#G #AS">cātu</rdg>
+	  </app>di<lb n="3" break="no"/>sasa
+	  bhikusaṃghasa niyātitaṃ data ca
+	  <lb n="4"/>
+	  nena akhayanivi kāhāpanasata 100
+	  <lb n="5"/>
+	  saṃghasa hathe eto vasavuthasa pavaitasa
+	  civari<lb n="6" break="no"/>kaṃ dātavaṃ bārasakaṃ
+	</p> 
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! This cave, a pious gift of the merchant <persName key="pers:Rāmaṇaka">Rāmaṇaka</persName>, son of <persName key="pers:Velīdāta">Velīdāta</persName>, from <placeName key="pl:Chākalepa">Chākalepa</placeName>, bestowed on the universal <foreign xml:lang="sa-Latn">saṃgha</foreign> of monks generally; and by the same have been given as a perpetual endowment one-hundred—100—<foreign xml:lang="sa-Latn">kāhāpaṇa</foreign>s in the hands of the <foreign xml:lang="sa-Latn">saṃgha</foreign>. Out of this a cloth money of twelve <foreign xml:lang="sa-Latn">kāhāpaṇa</foreign>s is to be given to the ascetic who keeps the <foreign xml:lang="sa-Latn">vassa</foreign> (here).</p>
+      </div>
+    </body>
+  </text>
+</TEI>

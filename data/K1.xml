@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 1 (of Bhūtapāla)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave, left end of the verandah.
+	      </origPlace>
+	      <origDate><!-- I don't have a date for these. !-->
+	      </origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <placeName key="pl:Vaijayantī">vejayaṃtito</placeName>
+	  seṭhiṇā
+	  <persName key="pers:Bhūtapāla"><app
+             ><lem>bhu</lem>
+	      <rdg wit="#CTI">bhū</rdg>
+	  </app>tapālen<unclear>ā</unclear></persName>
+	  selagha<app><lem>ra</lem><rdg wit="#AS #CTL">raṃ</rdg></app>
+	  pariniṭhapita<unclear>ṃ</unclear>
+	 ja<unclear>ṃ</unclear>budipamhi
+	 <app
+	     ><lem>ūtama<unclear>ṃ</unclear></lem>
+	      <rdg wit="#AS">utama</rdg>
+	      <rdg wit="#CTI">uttama</rdg>
+	 </app>
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (This) rock-mansion, the most excellent one in 
+	  Jambūdvīpa, has been completed
+	  by the Seṭṭhi
+	  <persName key="pers:Bhūtapāla">Bhūtapāla</persName>
+	  from 
+	  <placeName key="pl:Vaijayantī">Vaijayantī</placeName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ka3">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanheri No. 3</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ka3</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <layoutDesc>
+		<layout>
+		  <dimensions>
+		    <width quantity="90" unit="cm">90cm</width>
+		    <height quantity="25" unit="cm">25cm</height>
+		  </dimensions>
+		</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
+		near a small tank in Cave No. 2.
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Ka">Gokhale 1991</ref>.</p>
+	<!-- NB Gokhale also refers to Burgess and Indraji (CTI)
+	     and Bühler (BuhlerKa) !-->
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <placeName key="pl:Kalyāṇa">kaliyaṇa<unclear>ṇa</unclear></placeName>
+	  suvaṇakorasa <persName key="pers:Svāmidatta">sāmida<lb n="2" break="no"/>tasa</persName> saha saghana paniyaka deyadhamma
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  A cistern, the meritorious gift of the goldsmith
+	  <persName key="pers:Svāmidatta">Svāmidatta</persName>
+	  of <placeName key="pl:Kalyāṇa">Kalyāṇa</placeName> together
+	  with the community of ascetics and lay-brothers.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

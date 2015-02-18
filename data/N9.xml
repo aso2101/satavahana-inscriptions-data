@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N9">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 9 (of Mugūdāsa)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N9</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 8,
+		left of the doorway.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0060"
+		  notAfter-custom="0100"
+		  precision="medium">later 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  chetika-upāsakiyasa 
+	  <persName key="pers:Mugūdāsa"><app
+	    ><lem>mugū</lem>
+	     <rdg wit="#AS">mūgū</rdg>
+	  </app>dāsasa</persName>
+	  saparivārasa le<app><lem>ṇaṃ</lem><rdg wit="#G #AS">ṇa</rdg></app>
+	  deyadha<app><lem>ma</lem><note xml:lang="en"><p>Perhaps
+	    <foreign xml:lang="mi-Latn">-dhamo</foreign>, but the 
+	    vowel-mark would then, contrary to use, be attached to the
+	    top of the <foreign xml:lang="mi-Latn">m</foreign>.</p></note>
+	  </app> etasa le<app><lem>ṇa</lem><rdg wit="#AS">na</rdg></app>sa
+	  <persName key="pers:Bodhigupta">bodhiguta</persName><lb n="2" break="no"/>
+	  upāsakasa putena
+	  <persName key="pers:Dharmanandin">dhamanaṃdinā</persName>
+	  da<app><lem>taṃ</lem><rdg wit="#AS">ta</rdg></app>
+	  khe<app><lem>taṃ</lem><rdg wit="#G #AS">ta</rdg></app>
+	  aparilīya
+	  <placeName key="pl:Kaṇhahini">kaṇhahiniya</placeName>
+	  eto ca khetāto 
+	  <app><lem>cīvarikaṃ</lem><rdg wit="#G #AS">civarika</rdg></app>
+	  pavaïtasa
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This cave, a pious gift of
+	  <persName key="pers:Mugūdāsa">Mugūdāsa</persName>, 
+	  of the lay community of Chetikas,
+	  together with his next. To this cave has been given by
+	  <persName key="pers:Dharmanandin">Dharmanandin</persName>,
+	  son of the lay worshipper 
+	  <persName key="pers:Bodhigupta">Bodhigupta</persName>,
+	  a field in 
+	  <placeName key="pl:Kaṇhahini">Western Kaṇhahini</placeName>,
+	  and from this field (accrues) the providing of clothes
+	  for the ascetic (living here).
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

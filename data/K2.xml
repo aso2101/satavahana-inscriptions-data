@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K2">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 2 (of Agnimitraṇaka)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K2</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		on the lion-pillar in front of the chaitya cave.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0050"
+		  notAfter-custom="0050"
+		  precision="medium">late 1st c. BCE or 
+	      early 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  mahāraṭhisa 
+	  <persName key="pers:Gaupti">goti</persName>putrasa 
+	  <persName key="pers:Agnimitraṇaka">agimitraṇakasa</persName>
+	  sihathabho dānaṃ
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (This) lion-pillar (is) the gift of the 
+	  Mahāraṭṭhi
+	  <persName key="pers:Agnimitraṇaka">Agnimitraṇaka</persName>,
+	  the son of <persName key="pers:Gaupti">Gaupti</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

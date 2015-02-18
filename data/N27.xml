@@ -1,0 +1,65 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N27">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 27 (Dāmacika Vudhika)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N27</idno><!-- ID follows Senart. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Nāsikya">Nasik</placeName>, on 
+	        one of the two cisterns to the right of Cave No. 24.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0025"
+		  notAfter-custom="0075"
+		  precision="medium"
+		  evidence="nomenclature">mid-1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ sakaśa
+	    <app>
+	      <lem wit="#N">dāma</lem>
+	      <rdg wit="#G">dama</rdg>
+	      </app>cikasa
+	  <lb n="2"/>
+	  leghakasa vudhikasa 
+	    <app>
+	      <lem wit="#N">poḍhī</lem>
+	      <rdg wit="#G">poḍhi</rdg>
+	      <rdg wit="#AS">podhi</rdg>
+	    </app>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Success! A cistern, (the gift) of the Śaka Dāmacika, the writer Vudhika.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

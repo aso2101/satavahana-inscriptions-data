@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ca1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Candankhedā Seal (of Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ca1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Candankhedā">Candankhedā</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="-0075"
+		  precision="medium">early 1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Falk2004">Falk 2004</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  raño 
+	  <persName key="pers:ŚrīSātakarṇi">
+	    siri sātakaṃṇi<lb n="2" break="no"/>sa
+	  </persName>
+	  <date when-custom="30"
+		datingMethod="regnal"
+		datingPoint="pers:ŚrīSātakarṇi">tise saṃvachare</date>
+	  sava<lb n="3" break="no"/>tobhada-donamukhasa
+	  ka<lb n="4" break="no"/>kāpsasa kaṭakāraṃ
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  In the 
+	  <date when-custom="30"
+		datingPoint="pers:ŚrīSātakarṇi"
+		datingMethod="regnal">year thirty</date>
+	  of king
+	  <persName key="pers:ŚrīSātakarṇi">Śrī Sātakarṇi</persName>—(this
+	  is) the toll in cotton harvest of the Droṇamukha named
+	  Sarvatobhadra.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

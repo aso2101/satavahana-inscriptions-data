@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 1 (of Vāsiṣṭhīputra Śrī Puḷumāvi, year 6)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda of Cave No. 2.
+	      </origPlace>
+	      <origDate
+		  when-custom="0090"
+		  precision="low">ca. 90 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  si<app><lem>dha</lem><rdg wit="#AS">dhaṃ</rdg></app>
+	  raño
+	  <persName key="pers:VpŚrīPuḷumāvi">
+	    vā<app><lem>si</lem><rdg wit="#G #AS">sa</rdg></app>ṭhiputasa
+	    siripuḷumayisa
+	  </persName>
+	  <app><lem>saṃ</lem><rdg wit="#G #AS">sa</rdg></app>vachare
+	  <date when-custom="6"
+		datingPoint="pers:VpŚrīPuḷumāvi"
+		datingMethod="regnal">chaṭe 6</date>
+	  gi<app><lem>mha</lem><rdg wit="#AS">ma</rdg></app>pakhe
+	  pacame 5 divase
+	  <app><lem><gap reason="lost"
+			 quantity="5"
+			 unit="character"/></lem>
+	       <rdg wit="#AS">
+		1<gap reason="lost" quantity="1" unit="character"/>
+		po<gap reason="lost" quantity="1" unit="character"/>
+		hi<gap reason="lost" quantity="1" unit="character"/>
+		ti<gap reason="lost" quantity="1" unit="character"/>
+		ā
+	       </rdg>
+	  </app>
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! On the . . . . . day of the fifth—5th—fortnight of
+	summer in the sixth—6th—year of king 
+	<persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
+	  Śrī Puḷumāvi</persName>. . . . . </p>
+      </div>
+    </body>
+  </text>
+</TEI>

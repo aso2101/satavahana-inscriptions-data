@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ba1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Banavāsi inscription of Vāsiṣṭhīputra Śivaśrī Puḷumāvi</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ba1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>Inscribed on a basalt slab in front of the
+	      Madhukeśvara temple in Banavāsi, 
+	      4.8' x 1.1' x 0.5'.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Vaijayantī">Banavāsi</placeName>,
+		in front of the Madhukeśvara temple.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0150"
+		  notAfter-custom="0200"
+		  precision="medium">later 2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:NarasimhaMurthy1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ
+	  <supplied reason="omitted">||</supplied>
+	  raño 
+	  <persName key="pers:VpŚivaśrīPuḷumāvi">
+	    vāsiṭhīputasa sivasiri<lb n="2" break="no"/>puḷumāvisa
+	  </persName>
+	  mahādeviya chaā patharo
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! This is the memorial stone of the queen of 
+	  the king
+	  <persName key="pers:VpŚivaśrīPuḷumāvi">Vāsiṣṭhīputra
+	    Śivaśrī Puḷumāvi</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

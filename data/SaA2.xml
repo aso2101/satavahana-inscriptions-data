@@ -1,0 +1,75 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaA2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati A.2 (of the time of Vāsiṣṭhīputra Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaA2</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>, 
+		discovered by G. S. Gai on a slab in the 
+		Candralāmbā temple.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0119"
+		  notAfter-custom="0148"
+		  precision="medium"
+		  evidence="nomenclature">ca. 119–148 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>; the translation is by Andrew Ollett.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  siddhaṃ raño
+	  <persName key="pers:VpŚrīSātakarṇi">
+	    vāsiṭhīputasa siri sāta<supplied reason="lost"
+	    >kaṇisa</supplied>
+	  </persName>
+	  <lb n="2"/>
+	  pavajitena 
+	  <persName key="pers:Nāgabuddhī">nāgabudhi<supplied
+	    reason="lost">nā</supplied></persName>
+	  antevāsinīya bhikuṇīyā
+	  <lb n="3"/>
+	  yakhiyāya<gap reason="lost"
+	                extent="unknown"
+			unit="character"/>
+	</p>
+      </div>
+      <div type="translation">
+	<p>
+	Success! (During the rule of) 
+	<persName key="pers:VpŚrīSātakarṇi">Vāsiṣṭhīputra
+	Śrī Sāta(karṇi)</persName>, a nun internee named 
+	<persName key="pers:Nāgabuddhī">Nāgabuddhī</persName>
+	caused ... a yakṣa ...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

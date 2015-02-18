@@ -1,0 +1,166 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N12">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 12 (of Uṣavadāta, time of Nahapāna)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N12</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		immediately below the preceding inscription.
+	      </origPlace>
+	      <origDate notBefore-custom="0079"
+			notAfter-custom="0083"
+			precision="medium">ca. 79 and 83 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="sa-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	    sidhaṃ vase 42 vesākhamase 
+	    <app>
+	      <lem wit="#N">rāño</lem>
+	      <rdg wit="#AS">raño</rdg>
+	    </app> 
+	    kṣaharātasa kṣatrapasa
+	    <persName key="pers:Nahapāna">nahapānasa</persName>
+	    jāmātarā <persName key="pers:Dīnīka">dīnīka</persName>putrena
+	    <persName key="pers:Uṣavadāta">uṣavadātena</persName>
+	    saṃghasa cātudisasa
+	    <app>
+	      <lem wit="#N">imaṃ leṇaṃ</lem>
+	      <rdg wit="#G #AS">ima leṇa</rdg>
+	    </app> niyātitaṃ 
+	    <app>
+	      <lem wit="#N">data cānena</lem>
+	      <rdg wit="#G">datā nena</rdg>
+	      <rdg wit="#AS">data canena</rdg>
+	    </app> akṣayanivi kāhāpaṇasahasrā<lb n="2" break="no"/>ni
+	    trini 3000 saṃghasa cātudisasa ye imasmiṃ leṇe
+	    <app>
+	      <lem wit="#N">vasaṃtānaṃ</lem>
+	      <rdg wit="#G #AS">vasātāna</rdg>
+	    </app> bhavisati chivarika 
+	    <app>
+	      <lem wit="#N">kuśaṇamūle</lem>
+	      <rdg wit="#G">kuśaṇamula</rdg>
+	    </app> ca ete ca kāhāpaṇā prayutā
+	    <placeName key="pl:Govardhana">govadhana</placeName>vāthavāsu
+	    <app>
+	      <lem wit="#N">śreṇisu</lem>
+	      <rdg wit="#AS">śreṇīsu</rdg>
+	    </app> 
+	    <app>
+	      <lem wit="#N">kolīka</lem>
+	      <rdg wit="#AS">kolika</rdg>
+	    </app>nikāye 2000 
+	    <app>
+	      <lem wit="#N">vṛdhi</lem>
+	      <rdg wit="#AS">vadhi</rdg>
+	    </app> paḍikaśata apara<app>
+	      <lem wit="#N">kolīka</lem>
+	      <rdg wit="#AS">kolika</rdg>
+	    </app>nikā<lb n="3" break="no"/>ye 1000 vadhi
+	    <app>
+	      <lem wit="#N">pāyūna</lem>
+	      <rdg wit="#G #AS">pāyuna</rdg>
+	    </app>paḍikaśata ete ca kāhāpaṇā apaḍidātavā
+	    vadhibhojā eto chivarikasaha<app>
+	      <lem wit="#N">srāni</lem>
+	      <rdg wit="#G">srāṇi</rdg>
+	    </app> be 2000 ye paḍike sate eto mama leṇe
+	    vasavuthāna bhikhunaṃ vīsāya ekīkasa
+	    chivarika bārasaka
+	    <app>
+	      <lem wit="#N">yā</lem>
+	      <rdg wit="#G #AS">ya</rdg>
+	    </app> sahasra prayutaṃ
+	    <app>
+	      <lem wit="#N">pāyūna</lem>
+	      <rdg wit="#G #AS">pāyuna</rdg>
+	    </app>paḍike śate ato kuśaṇa<lb n="4" break="no"/><app>
+	      <lem wit="#N">mūla</lem>
+	      <rdg wit="#G">mula</rdg>
+	    </app> <placeName key="pl:Kāpurāhāra">kāpurāhāre</placeName> ca
+	    gāme <placeName key="pl:Cikhalapadra">cikhalapadre</placeName>
+	    datāni nāligerāna mulasahasrāni aṭha 8000 eta ca 
+	    <app>
+	      <lem wit="#N">sarva</lem>
+	      <rdg wit="#G">sarvaṃ</rdg>
+	    </app>
+	    <app>
+	      <lem wit="#N">srāvita</lem>
+	      <rdg wit="#G">sāvita</rdg>
+	    </app> nigamasabhāya 
+	    <app>
+	      <lem wit="#N">ninadha</lem>
+	      <rdg wit="#G">nībadha</rdg>
+	    </app> ca phalakavāre caritratoti bhūyo nena dataṃ vase 41
+	    kātikaśudhe 
+	    pana<app><lem wit="#N">rasa</lem><rdg wit="#G">rase</rdg></app> 
+	    puvāka vase 45 
+	  <lb n="5"/>
+	    panarasa
+	    <app>
+	      <lem wit="#N">niyuta</lem>
+	      <rdg wit="#G">niyutaṃ</rdg>
+	    </app> bhagavatāṃ devānaṃ brāhmaṇānaṃ ca 
+	    karṣāpaṇasaha<app><lem wit="#N">srāṇi</lem><rdg wit="#G">srāni</rdg></app> satari 70000 
+	    paṃca<app><lem wit="#N">triśaka</lem><rdg wit="#G">triṃśaka</rdg></app>
+	    <app>
+	      <lem wit="#N">suvarṇa</lem>
+	      <rdg wit="#G">suvarṇaṃ</rdg>
+	    </app> kṛtā dina 
+	    suvarṇasaha<app>
+	      <lem wit="#N">sraṇaṃ</lem>
+	      <rdg wit="#G">srāṇaṃ</rdg>
+	      <rdg wit="#AS">sranaṃ</rdg>
+	    </app>
+	    <app>
+	      <lem wit="#N">mūlyaṃ</lem>
+	      <rdg wit="#G">mulyaṃ</rdg>
+	      <rdg wit="#AS">mūla</rdg>
+	    </app>
+	  <lb n="6"/>
+	    phalakavāre caritratoti
+	</p> 
+      </div>
+      <div type="translation">
+	<p>Success! In the year 42, in the month Vaiśākha, <persName key="pers:Uṣavadāta">Uṣavadāta</persName>, son of <persName key="pers:Dīnīka">Dīnīka</persName>, son-in-law of king <persName key="pers:Nahapāna">Nahapāna</persName>, the Kṣaharāta Kṣatrapa, has bestowed this cave on the <foreign xml:lang="sa-Latn">saṃgha</foreign> generally; he has also given a perpetual endowment, three thousand—3000—<foreign xml:lang="sa-Latn">kāhāpaṇa</foreign>s, which, for the members of the <foreign xml:lang="sa-Latn">saṃgha</foreign> of any sect and any origin dwelling in this cave, will serve as cloth money and money for outside life (<foreign xml:lang="sa-Latn">kuśaṇa</foreign>; and those <foreign xml:lang="sa-Latn">kāhāpaṇa</foreign>s have been invested in guilds dwelling at <placeName key="pl:Govardhana">Govardhana</placeName>,—2000 in a weavers’ guild, interest one <foreign xml:lang="sa-Latn">pratika</foreign> (monthly) for the hundred, (and) 1000 in another weavers’ gild, interest three quarters of a <foreign xml:lang="sa-Latn">paḍika</foreign> (monthly) for the hundred and those <foreign xml:lang="sa-Latn">kāhāpaṇa</foreign>s are not to be repaid, their interest only to be enjoyed. Out of them, the two thousand—2000—at one <foreign xml:lang="sa-Latn">pratika</foreign> per cent. are the cloth money; out of them to every one of the twenty monks who keep the <foreign xml:lang="sa-Latn">vassa</foreign> in my cave, a cloth money of twelve (<foreign xml:lang="sa-Latn">kāhāpaṇa</foreign>s). As to the thousand which has been invested at an interest of three quarters of a <foreign xml:lang="sa-Latn">pratika</foreign> per cent., out of them the money for <foreign xml:lang="sa-Latn">kuśaṇa</foreign>. And at the village of <placeName key="pl:Cikhalapadra">Cikhalapadra</placeName> in the <placeName key="pl:Kāpura">Kāpura</placeName> district have been given eight thousand—8000—stems of cocoanut trees; and all this has been proclaimed and registered at the town’s hall, at the record office, according to custom.</p>
+	<p>Again the donation previously made by the same in the year 41, on the fifteenth of the bright half of Kārttika, has in the year 45, on the fifteenth . . . . . been settled on the venerable gods and Brāhmaṇas, viz. seventy thousand—70000—<foreign xml:lang="sa-Latn">kārṣāpaṇa</foreign>s, each thirty-five making a <foreign xml:lang="sa-Latn">suvarṇa</foreign>, a capital (therefore) of two thousand <foreign xml:lang="sa-Latn">suvarṇa</foreign>s. (This is registered) at the record office according to custom.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

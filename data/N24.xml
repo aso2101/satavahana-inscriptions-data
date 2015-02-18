@@ -1,0 +1,97 @@
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="N24">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 24 (Gautamīputra Śrīyajña Sātakarṇi year 7)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N24</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence 
+	      target="http://creativecommons.org/licenses/by/3.0/"
+	      >Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda in Cave No. 20.
+	      </origPlace>
+	      <origDate
+		  when-custom="0178"
+		  precision="low">ca. 178 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ raño <persName key="pers:GpŚrīyajñaSātakarṇi">gotamiputasa
+	  sāmi-siriyaña-sātakaṇisa</persName> <date
+	    when-custom="7"
+	    datingPoint="pers:GpŚrīyajñaSātakarṇi"
+	    datingMethod="regnal"><app
+	    ><lem wit="#N">saṃvachare</lem>
+	     <rdg wit="#G #AS">savachare</rdg>
+	    </app> sātame 7</date> hematāṇa pakhe tatiye 3 
+	  <lb n="2"/>
+	  divase <app
+	    ><lem wit="#N">pathame</lem>
+	     <rdg wit="#G">padhame</rdg>
+	     <rdg wit="#AS">paṭhame</rdg>
+	    </app> kosikasa mahāseṇāpatisa 
+	   <persName key="pers:Bhavagopa">bhavagopasa</persName> bharijāya
+	   mahā<app
+	     ><lem wit="#N">seṇāpatiṇiya</lem>
+	      <rdg wit="#AS">senāpatiniya</rdg>
+	     </app> <persName key="pers:Vāsu">vāsuya</persName> leṇa
+	   <lb n="3"/>
+	   <persName key="pers:Bopaki">bopaki</persName>yatisujamāna 
+	   apa<app
+	     ><lem wit="#N">yavasita</lem>
+	      <rdg wit="#AS">yavesita</rdg>
+	     </app>sa<app
+	     ><lem wit="#N">māne ba</lem>
+	      <rdg wit="#G #AS">māṇasa pa</rdg>
+	    </app>hukāṇi varisāṇi ukute <app
+	     ><lem wit="#N">payavasāṇa</lem>
+	      <rdg wit="#AS">payavasāne</rdg>
+	     </app> <app
+	     ><lem wit="#N">nito</lem>
+	      <rdg wit="#G">nīte</rdg>
+	     </app>
+	   cātudi<lb n="4" break="no"/>sasa ca
+	   bhikhusaghasa āvāso dato ti
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! On the first day of the third—3rd—fortnight of winter, in the <date when-custom="7"
+	  datingPoint="pers:GpŚrīyajñaSātakarṇi"
+	  datingMethod="regnal">seventh—7th—year</date> of the king, the lord <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra Śrīyajña Sātakarṇi</persName>, the Mahāsenāpatnī <persName key="pers:Vāsu">Vāsu</persName>, wife of the Mahāsenāpati <persName key="pers:Bhavagopa">Bhavagopa</persName>, of the Kauśika family, has completed and given, as an abode to the universal saṃgha of monks, this cave which had been excavated for many years, but, after having been created by the ascetic <persName key="pers:Bopaki">Bopaki</persName>, had remained uncompleted.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
