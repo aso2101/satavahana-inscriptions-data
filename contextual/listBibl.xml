@@ -382,5 +382,38 @@
     <publisher>Ananda Buddha Vihara Trust</publisher>
     <date when="1998">1998</date>
   </bibl>
+  <bibl xml:id="Jag" type="book">
+    <author>
+      <name>
+	<surname>Burgess</surname>
+	<forename>J. A. S.</forename>
+      </name>
+    </author>
+    <title>The Buddhist Stupas of Amaravati and Jaggayyapeta</title>
+    <pubPlace>Varanasi</pubPlace>
+    <publisher>Indological Book House</publisher>
+    <date when="1970">1970</date>
+    <note>Reprint of 1887 edition</note>
+  </bibl>
+  <bibl xml:id="Junnar" type="inbook">
+    <author>
+      <name>
+	<surname>Burgess</surname>
+	<forename>J. A. S.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Indraji</surname>
+	<forename>Bhagwanlal</forename>
+      </name>
+    </author>
+    <title level="a">Junnar Caves and Inscriptions</title>
+    <biblScope unit="pp" from="41" to="55">41–55</biblScope>
+    <title level="m">Inscriptions from the Cave-Temples of Western India</title>
+    <publisher>Government Central Press</publisher>
+    <pubPlace>Bombay</pubPlace>
+    <date when="1881">1881</date>
+  </bibl>
 
 </listBibl>
