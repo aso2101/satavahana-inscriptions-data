@@ -44,10 +44,32 @@
   </facsimile>
   <text>
     <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>no. 1144</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:N"/>
+	  <citedRange>no. 22</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sircar"/>
+	  <citedRange>no. 75</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citeRange>Nasi.23</citeRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
-	</div>
 	<p>
 	  <lb n="1"/>
 	  sādavāhana<app
