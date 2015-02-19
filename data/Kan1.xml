@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="KanA101">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli No. A.101</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA101</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>,
+		on the upper drum (medhi) of the stūpa.
+	      </origPlace>
+	      <origDate notBefore-custom="-0100"
+			notAfter-custom="-0050"
+			precision="low">ca. 100-50 BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Kan">Poonacha 2013</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  raño <persName key="pers:VpŚrīChimuka">siri
+	  chimukasātavāhanasa</persName> savachare
+	  <date when-custom="16"
+	        datingPoint="pers:VpŚrīChimuka"
+		datingMethod="regnal">sode 10 + 6</date>
+	  māhiseka<lb n="2" break="no"/> gahapatino
+	  <persName key="pers:Tokhi">tokhisa</persName>
+	  sacana gahapatiputesa sabhariyesa 
+	  sa<supplied reason="lost">ṃ</supplied>
+	  <lb n="3"/>
+	  saputasa sajāmātusa sasunhasa sagotasa
+	  saduhū<supplied reason="lost">tasa</supplied>
+	  <lb n="4"/>
+	  kacuka-deya-dhama-dāna
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This meritorious gift of an encasement slab was made
+	  by the householder <persName key="pers:Tokhi">Tokhi</persName>
+	  from <placeName key="pl:Mahiseka">Mahiseka</placeName>
+	  along with his wife, son, son-in-law, daughter-in-law,
+	  kinsmen and daughter during the 16th year of king 
+	  <persName key="pers:VpŚrīChimuka">Śrī Chimuka Sātavāhana</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>
