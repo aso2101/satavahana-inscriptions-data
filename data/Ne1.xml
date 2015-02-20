@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ne1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nevasa No. 1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ne1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>This is an ivory seal, and according to 
+		  <ref target="bibl:Sankalia1960">Sankalia (1960: 
+		  202)</ref>: “the seal has a circular flat base and 
+		  a flat and round hold. The diameter of the base on
+		  which the letters and the various symbols are 
+		  carved in the negative is 15mm. The whole base is 
+		  divided into four compartments. The latter are bounded
+		  by margins with a rope-like pattern. Short lines 
+		  decorate the periphery. The four compartments bear
+		  four symbols, some associated with Buddhism and some
+		  found on coins. The left hand top compartment has a 
+		  svastika with angular arms. The right hand top 
+		  compartment has the triratna; the left hand bottom has
+		  probably a pair of hooded serpents or might be
+		  śrīvatsa, and the right hand bottom compartment has
+		  a symbol representing the triangle-headed banner laid
+		  horizontally.”</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Nevasa">Nevasa</placeName>,
+		found in layer 9 of Trench E during the 1954–1956 
+		excavations>
+	      </origPlace>
+	      <origDate notBefore-custom="-0100"
+			notAfter-custom="-0050"
+			precision="low">ca. 100-50 BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sankalia1960"/>
+	  <citedRange>pp. 202–203</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Sankalia1960">Sankalia (1960: 202–203)</ref>. I have identified Kṛṣṇa with the Sātavāhana king, as this seal was found in the same layer as early Sātavāhana coins at Nevasa, but note that there is no identifying information.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Kṛṣṇa">kaṇhasa</persName>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Of <persName key="pers:Kṛṣṇa">Kṛṣṇa</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -35,6 +35,12 @@
   </teiHeader>
   <text>
     <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. A.101</citedRange>
+	</bibl>
+      </div>
       <div type="commentary" xml:lang="en">
 	<p>The edition is based on <ref target="bibl:Kan">Poonacha 2013</ref>.</p>
       </div>

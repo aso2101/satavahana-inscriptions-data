@@ -439,5 +439,35 @@
     <publisher>Superintendent Government Printing</publisher>
     <date when="1912">1912</date>
   </bibl>
+  <bibl xml:id="Sankalia1960" type="book">
+    <author>
+      <name>
+	<surname>Sankalia</surname>
+	<forename>H. D.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Deo</surname>
+	<forename>S. B.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Ansari</surname>
+	<forename>Z. D.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Ehrhardt</surname>
+	<forename>S.</forename>
+      </name>
+    </author>
+    <title>From Prehistory to History at Nevasa (1954–1956)</title>
+    <pubPlace>Poona</pubPlace>
+    <publisher>Deccan College Postgraduate and Research Institute</publisher>
+    <date when="1960">1960</date>
+  </bibl>
 
 </listBibl>

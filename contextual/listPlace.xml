@@ -73,6 +73,11 @@
     <geo>79.2919190 20.263363</geo>
   </place>
 
+  <place xml:id="Nevasa">
+    <placeName type="modern" xml:lang="ma-Latn">Nevāsā</placeName>
+    <geo>74.927763 19.549153</geo>
+  </place>
+
   <place xml:id="Kanaganahalli">
     <placeName type="modern" xml:lang="ka-Latn">Kanaganahalli</placeName>
     <geo>76.936 16.841</geo>
