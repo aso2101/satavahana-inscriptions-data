@@ -56,9 +56,37 @@
   <facsimile>
     <graphic url=""/>
   </facsimile>
-  <text>
+  <text xml>
     <body>
-      <div type="edition">
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:BuhlerNa">Bühler 1883</ref>.</p>
+      </div>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:BuhlerNa"/>
+	  <citedRange>nos. 1–2</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1112</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sircar"/>
+	  <citedRange>no. 75</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Nana.1</citedRange>
+	</bibl>
+	<bibl><ptr target="bibl:Gupta1975"/></bibl>
+	<bibl><ptr target="bibl:Mirashi1977"/></bibl>
+	<bibl><ptr target="bibl:Gokhale20042006"/></bibl>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
 	<head type="toc" xml:lang="en">Edition</head>
 <!--
 =========================
@@ -72,7 +100,6 @@ Inscriptions by Dr. Georg Bühler, pp. 59-74 (Nānāghāṭ), 74-87.
 
 1. The Nānāghāt Inscriptions.
 !-->
-<p>This edition is based on <ref target="bibl:BuhlerNa">Bühler 1883</ref>.</p>
 
 <div type="textpart"
      subtype="section"

@@ -470,4 +470,46 @@
     <date when="1960">1960</date>
   </bibl>
 
+  <bibl xml:id="Gupta1975" type="article">
+    <author>
+      <name>
+	<surname>Gupta</surname>
+	<forename>P. L.</forename>
+      </name>
+    </author>
+    <title level="a">Nāneghāṭ Inscription of an Unknown Queen—A Historical Study</title>
+    <title level="j">Journal of the Epigraphical Society of India</title>
+    <biblScope unit="vol">2</biblScope>
+    <biblScope unit="pp" from="59" to="71">59–71</biblScope>
+    <date when="1975">1975</date>
+  </bibl>
+
+  <bibl xml:id="Mirashi1977" type="article">
+    <author>
+      <name>
+	<surname>Mirashi</surname>
+	<forename>V. V.</forename>
+      </name>
+    </author>
+    <title level="a">Nāṇēghāṭ Inscription Re-Examined</title>
+    <title level="j">Studies in Indian Epigraphy</title>
+    <biblScope unit="vol">3</biblScope>
+    <biblScope unit="pp" from="86" to="89">86–89</biblScope>
+    <date when="1977">1977</date>
+  </bibl>
+
+  <bibl xml:id="Gokhale20042006" type="article">
+    <author>
+      <name>
+	<surname>Gokhale</surname>
+	<forename>Shobhana</forename>
+      </name>
+    </author>
+    <title level="a">The Nāṇeghāṭ Record—A Masterpiece in Ancient Indian Records</title>
+    <title level="j">The Adyar Library Bulletin</title>
+    <biblScope unit="vol" from="68" to="70">68–70</biblScope>
+    <biblScope unit="pp" from="239" to="260">239–260</biblScope>
+    <date from="2004" to="2006">2004–2006</date>
+  </bibl>
+
 </listBibl>

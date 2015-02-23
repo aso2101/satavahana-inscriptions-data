@@ -3,7 +3,7 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Sanchi190">
+     xml:id="San190">
 
   <teiHeader>
     <fileDesc>
@@ -12,7 +12,7 @@
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Sanchi1901</idno><!-- ID follows Senart !-->
+	<idno>San190</idno><!-- ID follows Cunninham !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -41,10 +41,28 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
+	<div type="notes" xml:lang="en">
 	  <p>This edition is based on <ref target="bibl:BT">Cunningham 1854</ref>, pp. 264–265.</p>
 	</div>
+	<div type="bibliography" xml:lang="en">
+	  <bibl>
+	    <ptr target="bibl:BT"/>
+	    <citedRange>264–265</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>346</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Mirashi1981"/>
+	    <citedRange>no. 2</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Sanc.384</citedRange>
+	  </bibl>
+	</div>
+      <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
 	  rajño 
