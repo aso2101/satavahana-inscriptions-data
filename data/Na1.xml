@@ -53,14 +53,8 @@
       </profileDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-    <graphic url=""/>
-  </facsimile>
-  <text xml>
+  <text>
     <body>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:BuhlerNa">Bühler 1883</ref>.</p>
-      </div>
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:BuhlerNa"/>
@@ -85,6 +79,9 @@
 	<bibl><ptr target="bibl:Gupta1975"/></bibl>
 	<bibl><ptr target="bibl:Mirashi1977"/></bibl>
 	<bibl><ptr target="bibl:Gokhale20042006"/></bibl>
+      </div>
+     <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:BuhlerNa">Bühler 1883</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<head type="toc" xml:lang="en">Edition</head>
