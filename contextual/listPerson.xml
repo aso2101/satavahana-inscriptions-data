@@ -144,6 +144,12 @@
     <occupation>goldsmith</occupation>
   </person>
 
+  <person xml:id="Siṃhadatta" sex="male">
+    <persName>Siṃhadatta</persName>
+    <occupation>perfumer</occupation>
+    <residence><placeName key="pl:Dhenukaṭaka">Dhenukaṭaka</placeName></residence>
+  </person>
+
 <!-- Sātavāhana Kings, Queens, etc. !-->
 
   <person xml:id="VpŚrīChimuka" sex="male">

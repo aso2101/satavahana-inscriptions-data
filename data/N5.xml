@@ -38,8 +38,24 @@
     <body>
       <div type="bibliography">
 	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1126</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:N"/>
 	  <citedRange>5</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sircar"/>
+	  <citedRange>no. 84</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 13</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Nasi.3</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">

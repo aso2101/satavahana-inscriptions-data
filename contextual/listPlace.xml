@@ -23,6 +23,13 @@
     <placeName type="ancient" xml:lang="mi-Latn">Dhenukaṭaka</placeName>
   </place>
 
+  <place xml:id="Māmāḍa">
+    <placeName type="ancient" xml:lang="mi-Latn">Māmāḍa</placeName>
+    <placeName type="ancient" xml:lang="mi-Latn">Māmāla</placeName>
+    <placeName type="modern" xml:lang="ma-Latn">Māval</placeName>
+    <geo>73.447519 18.757986</geo>
+  </place>
+
   <place xml:id="Ujjayinī">
     <placeName type="ancient" xml:lang="sa-Latn">Ujjayinī</placeName>
     <placeName type="modern" xml:lang="hi-Latn">Ujjain</placeName>
@@ -149,6 +156,11 @@
   <place xml:id="Mahad">
     <placeName type="modern" xml:lang="ma-Latn">Mahad</placeName>
     <geo>73.417 18.063</geo>
+  </place>
+
+  <place xml:id="Myākadoni">
+    <placeName type="modern" xml:lang="te-Latn">Myākadoni</placeName>
+    <geo>77.273102 15.628432</geo>
   </place>
 
   <place xml:id="Pitalkhorā">

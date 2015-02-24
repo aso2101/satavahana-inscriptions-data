@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K19">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 19 (of Gautamīputra Śrī Sātakarṇi?)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K19</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave, on the 2nd and 3rd tiers of the frieze
+		between the central and the right-hand doors.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0060"
+		  notAfter-custom="0090"
+		  precision="medium">later 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1105</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 12</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Karl.32</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="10"
+	       unit="character"/>
+	  <supplied reason="lost">ānapayati</supplied>
+	  <placeName key="pl:Māmāḍa">māmā<app
+	    ><lem>ḍe</lem>
+	     <rdg wit="#AS">le</rdg>
+	  </app></placeName>
+	  amaca pa<app
+	    ><lem>r<gap reason="lost" quantity="1" unit="character"/></lem>
+	     <rdg wit="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg>
+	  </app>ga<app
+	    ><lem>ta<gap reason="lost" quantity="1" unit="character"/></lem>
+	     <rdg wit="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg>
+	  </app>masu
+	  etha le<app><lem>ne</lem><rdg wit="#AS">na</rdg></app>sa
+	  <placeName key="pl:Valūraka"><app
+	    ><lem>vā</lem><rdg wit="#AS">va</rdg>
+	  </app>lura<app
+	    ><lem>ke</lem><rdg wit="#AS">ka</rdg>
+	  </app>sa</placeName>
+	  vā<app><lem>tha</lem><rdg wit="#AS">ṭha</rdg></app>vāna
+	  <lb n="2"/>
+	  pavajitāna bhikhuna nikāyasa
+	  mahāsagh<gap reason="lost"
+	               quantity="1"
+		       unit="character"/>yāna 
+	  y<gap reason="lost"
+	        quantity="1"
+		unit="character"/>pan<gap reason="lost"
+		                          quantity="1"
+					  unit="character"/>ya
+	  etha <placeName key="pl:Māmāḍa">māmālā</placeName>hāre
+	  uta<app
+	    ><lem>remage</lem>
+	     <rdg wit="#AS">ramag<unclear>e</unclear></rdg>
+	  </app> <app
+	    ><lem>g<gap reason="lost"
+	                quantity="1"
+			unit="character"/>m<gap reason="lost"
+		                                quantity="1"
+						unit="character"/></lem>
+	     <rdg wit="#AS">gām<unclear>e</unclear></rdg>
+	  </app>
+	  <placeName key="pl:Karajaka">karaja<app
+	    ><lem>k<gap reason="lost"
+	                quantity="1"
+			unit="character"/></lem>
+	     <rdg wit="#AS">ke<unclear>su</unclear></rdg>
+	  </app></placeName>
+	  <lb n="3"/>
+	  bhikhu<app><lem>hale<unclear>la</unclear></lem>
+	             <rdg wit="#AS">hala</rdg></app> dadama — 
+	  <app><lem>etesa <unclear>tu</unclear></lem>
+	       <rdg wit="#AS">etesa</rdg></app>
+          — gā<app><lem>ma</lem><rdg wit="#AS">m<unclear>e</unclear></rdg></app> —
+	  <placeName key="pl:Karajaka">karaja<app
+	    ><lem>ke</lem>
+	     <rdg wit="#AS">ke<unclear>su</unclear></rdg>
+	  </app></placeName> —
+	  bhikhuhala — deya — 
+	  <app><lem>pāpe</lem><rdg wit="#AS">papa</rdg></app>hi — etasa — casa
+	  <lb n="4"/>
+	  gāmasa <placeName key="pl:Karajaka">karajakāna</placeName>
+	  bhikhuhalaparihāra vitarāma 
+	  a<app><lem>pā</lem><rdg wit="#AS"><unclear>pa</unclear></rdg></app>vesa
+	  a<gap reason="lost"
+	        quantity="10"
+		unit="character"/>pārihārika ca etehi
+	  na parihārehi 
+	  pariha<app><lem>rah<gap reason="lost"
+	                          quantity="1"
+				  unit="character"/></lem>
+	             <rdg wit="#AS">riha</rdg>
+		     <note><p>Senart suggests -reh<unclear>i</unclear>.</p></note>
+	  </app>
+	  <app><lem>et<gap reason="lost"
+	                   quantity="1"
+			   unit="character"/></lem>
+	       <rdg wit="#AS">ete</rdg></app>
+	  casa gā<app><lem>ma</lem><rdg wit="#AS">m<unclear></unclear></rdg></app>
+	  <placeName key="pl:Karajaka">karaja<app
+	    ><lem>ke</lem><rdg wit="#AS">ke<unclear>se</unclear></rdg>
+	  </app></placeName>
+	  <lb n="5"/>
+	  bhikhuhalaparihāre ca etha niba<app
+	    ><lem>dhāpehi</lem>
+	     <rdg wit="#AS">dho<unclear>lehi</unclear></rdg>
+	  </app> aviyena ānata
+	  <gap reason="lost"
+	         quantity="10"
+		 unit="character"/><app><lem>cha</lem>
+	  <rdg wit="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg></app>to
+	  vijaya<app><lem>ṭhasa</lem><rdg wit="#AS">thasā</rdg></app>tāre
+	  dato ṭhe <app><lem><gap reason="lost"
+	                          quantity="2"
+				  unit="character"/></lem>
+	                <rdg wit="#AS">rañā</rdg></app>
+	  <unclear>paṭikā</unclear> sava 1<unclear>4</unclear>
+	  <lb n="6"/>
+	  vā pa 4 diva 1 
+	  <persName key="pers:Śivaskandagupta">sivakhadagutena</persName> kaṭā
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  King [...] commands the officer at 
+	  <placeName key="pl:Māmāḍa">Māmāḍa</placeName>: For the support
+	  of the sect of the Mahāsāṃghikas, of the mendicant friars
+	  dwelling here in these caves of
+	  <placeName key="pl:Valūraka">Valūraka</placeName>, all
+	  pervaded by religion (?), we give as monks’ land the village
+	  <placeName key="pl:Karajaka">Karajaka</placeName> here in the
+	  <placeName key="pl:Māmāḍa">Māmāla</placeName> district on the
+	  northern road. To them I have secured the property of the village
+	  of <placeName key="pl:Karajaka">Karajaka</placeName> as monks’ land,
+	  and to this village of <placeName key="pl:Karajaka">Karajaka</placeName>
+	  we grant the immunities belonging to monks’ land, not to be
+	  entered (by royal officers) ... and to enjoy (all kinds of)
+	  immunity; with these immunities I have invested it. And this village
+	  of <placeName key="pl:Karajaka">Karajaka</placeName> and the
+	  immunities enjoyed by monks’ land I have had registered here. 
+	  Ordered verbally, written ... given at the victorious camp (?)
+	  ... The deed was executed by 
+	  <persName key="pers:Śivaskandagupta">Śivaskandagupta</persName>
+	  in the year 14, on the 1st day of the 4th fortnight of the rainy
+	  season.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>
