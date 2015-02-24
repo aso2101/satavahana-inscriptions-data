@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K5">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 5 (of Bhāyilā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K5</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave, on the pillar of the verandah in front of the
+		central door, above inscription no. 6.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0050"
+		  notAfter-custom="0050"
+		  precision="medium">late 1st c. BCE or 
+	      early 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 5</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  gahatasa <persName key="pers:Mahādevaṇaka">mahādeva<lb n="2" break="no"/>ṇakasa</persName> mātu 
+	  <persName key="pers:Bhāyilā">bhāyilāyā</persName><app
+	    ><note xml:lang="en"><p>(Senart:) I cannot say
+	       that the <foreign xml:lang="mi-Latn">ā</foreign>
+	       of the last syllable appears to me certain.</p></note></app>
+	  dānaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The gift of 
+	  <persName key="pers:Bhāyilā">Bhāyilā</persName>,
+	  the mother of the householder
+	  <persName key="pers:Mahādevaṇaka">Mahādevaṇaka</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>
