@@ -150,6 +150,13 @@
     <residence><placeName key="pl:Dhenukaṭaka">Dhenukaṭaka</placeName></residence>
   </person>
 
+  <person xml:id="Bhāyilā" sex="female">
+    <persName>Bhāyilā</persName>
+  </person>
+  <person xml:id="Mahādevaṇaka" sex="male">
+    <persName>Mahādevaṇaka</persName>
+  </person>
+
 <!-- Sātavāhana Kings, Queens, etc. !-->
 
   <person xml:id="VpŚrīChimuka" sex="male">
@@ -266,5 +273,6 @@
     <relation name="sibling" mutual="#Gajasena #Gajamitra"/>
     <relation name="parent" active="#Ānanda" passive="#Apareṇuka"/>
     <relation name="spouse" mutual="#Śivapālitanikā #Dharmaṇaka"/>
+    <relation name="parent" active="#Bhāyilā" passive="#Mahādevaṇaka"/>
   </listRelation>
 </listPerson>
