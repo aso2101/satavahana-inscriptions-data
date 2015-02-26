@@ -70,23 +70,23 @@
 	       unit="character"/>
 	  <supplied reason="lost">ānapayati</supplied>
 	  <placeName key="pl:Māmāḍa">māmā<app
-	    ><lem>ḍe</lem>
+	    ><lem wit="#N">ḍe</lem>
 	     <rdg wit="#AS">le</rdg>
 	  </app></placeName>
 	  amaca pa<app
-	    ><lem>r<gap reason="lost" quantity="1" unit="character"/></lem>
+	    ><lem wit="#N">r<gap reason="lost" quantity="1" unit="character"/></lem>
 	     <rdg wit="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg>
 	  </app>ga<app
-	    ><lem>ta<gap reason="lost" quantity="1" unit="character"/></lem>
+	    ><lem wit="#N">ta<gap reason="lost" quantity="1" unit="character"/></lem>
 	     <rdg wit="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg>
 	  </app>masu
-	  etha le<app><lem>ne</lem><rdg wit="#AS">na</rdg></app>sa
+	  etha le<app><lem wit="#N">ne</lem><rdg wit="#AS">na</rdg></app>sa
 	  <placeName key="pl:Valūraka"><app
-	    ><lem>vā</lem><rdg wit="#AS">va</rdg>
+	    ><lem wit="#N">vā</lem><rdg wit="#AS">va</rdg>
 	  </app>lura<app
-	    ><lem>ke</lem><rdg wit="#AS">ka</rdg>
+	    ><lem wit="#N">ke</lem><rdg wit="#AS">ka</rdg>
 	  </app>sa</placeName>
-	  vā<app><lem>tha</lem><rdg wit="#AS">ṭha</rdg></app>vāna
+	  vā<app><lem wit="#N">tha</lem><rdg wit="#AS">ṭha</rdg></app>vāna
 	  <lb n="2"/>
 	  pavajitāna bhikhuna nikāyasa
 	  mahāsagh<gap reason="lost"
@@ -99,10 +99,10 @@
 					  unit="character"/>ya
 	  etha <placeName key="pl:Māmāḍa">māmālā</placeName>hāre
 	  uta<app
-	    ><lem>remage</lem>
+	    ><lem wit="#N">remage</lem>
 	     <rdg wit="#AS">ramag<unclear>e</unclear></rdg>
 	  </app> <app
-	    ><lem>g<gap reason="lost"
+	    ><lem wit="#N">g<gap reason="lost"
 	                quantity="1"
 			unit="character"/>m<gap reason="lost"
 		                                quantity="1"
@@ -110,56 +110,56 @@
 	     <rdg wit="#AS">gām<unclear>e</unclear></rdg>
 	  </app>
 	  <placeName key="pl:Karajaka">karaja<app
-	    ><lem>k<gap reason="lost"
+	    ><lem wit="#N">k<gap reason="lost"
 	                quantity="1"
 			unit="character"/></lem>
 	     <rdg wit="#AS">ke<unclear>su</unclear></rdg>
 	  </app></placeName>
 	  <lb n="3"/>
-	  bhikhu<app><lem>hale<unclear>la</unclear></lem>
+	  bhikhu<app><lem wit="#N">hale<unclear>la</unclear></lem>
 	             <rdg wit="#AS">hala</rdg></app> dadama — 
-	  <app><lem>etesa <unclear>tu</unclear></lem>
+	  <app><lem wit="#N">etesa <unclear>tu</unclear></lem>
 	       <rdg wit="#AS">etesa</rdg></app>
-          — gā<app><lem>ma</lem><rdg wit="#AS">m<unclear>e</unclear></rdg></app> —
+          — gā<app><lem wit="#N">ma</lem><rdg wit="#AS">m<unclear>e</unclear></rdg></app> —
 	  <placeName key="pl:Karajaka">karaja<app
-	    ><lem>ke</lem>
+	    ><lem wit="#N">ke</lem>
 	     <rdg wit="#AS">ke<unclear>su</unclear></rdg>
 	  </app></placeName> —
 	  bhikhuhala — deya — 
-	  <app><lem>pāpe</lem><rdg wit="#AS">papa</rdg></app>hi — etasa — casa
+	  <app><lem wit="#N">pāpe</lem><rdg wit="#AS">papa</rdg></app>hi — etasa — casa
 	  <lb n="4"/>
 	  gāmasa <placeName key="pl:Karajaka">karajakāna</placeName>
 	  bhikhuhalaparihāra vitarāma 
-	  a<app><lem>pā</lem><rdg wit="#AS"><unclear>pa</unclear></rdg></app>vesa
+	  a<app><lem wit="#N">pā</lem><rdg wit="#AS"><unclear>pa</unclear></rdg></app>vesa
 	  a<gap reason="lost"
 	        quantity="10"
 		unit="character"/>pārihārika ca etehi
 	  na parihārehi 
-	  pariha<app><lem>rah<gap reason="lost"
+	  pariha<app><lem wit="#N">rah<gap reason="lost"
 	                          quantity="1"
 				  unit="character"/></lem>
 	             <rdg wit="#AS">riha</rdg>
 		     <note><p>Senart suggests -reh<unclear>i</unclear>.</p></note>
 	  </app>
-	  <app><lem>et<gap reason="lost"
+	  <app><lem wit="#N">et<gap reason="lost"
 	                   quantity="1"
 			   unit="character"/></lem>
 	       <rdg wit="#AS">ete</rdg></app>
-	  casa gā<app><lem>ma</lem><rdg wit="#AS">m<unclear></unclear></rdg></app>
+	  casa gā<app><lem wit="#N">ma</lem><rdg wit="#AS">m<unclear></unclear></rdg></app>
 	  <placeName key="pl:Karajaka">karaja<app
-	    ><lem>ke</lem><rdg wit="#AS">ke<unclear>se</unclear></rdg>
+	    ><lem wit="#N">ke</lem><rdg wit="#AS">ke<unclear>se</unclear></rdg>
 	  </app></placeName>
 	  <lb n="5"/>
 	  bhikhuhalaparihāre ca etha niba<app
-	    ><lem>dhāpehi</lem>
+	    ><lem wit="#N">dhāpehi</lem>
 	     <rdg wit="#AS">dho<unclear>lehi</unclear></rdg>
 	  </app> aviyena ānata
 	  <gap reason="lost"
 	         quantity="10"
-		 unit="character"/><app><lem>cha</lem>
+		 unit="character"/><app><lem wit="#N">cha</lem>
 	  <rdg wit="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg></app>to
-	  vijaya<app><lem>ṭhasa</lem><rdg wit="#AS">thasā</rdg></app>tāre
-	  dato ṭhe <app><lem><gap reason="lost"
+	  vijaya<app><lem wit="#N">ṭhasa</lem><rdg wit="#AS">thasā</rdg></app>tāre
+	  dato ṭhe <app><lem wit="#N"><gap reason="lost"
 	                          quantity="2"
 				  unit="character"/></lem>
 	                <rdg wit="#AS">rañā</rdg></app>
