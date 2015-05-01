@@ -19,8 +19,13 @@
     <geo>73.470556 18.783287</geo>
   </place>
 
-  <place xml:id="Dhenukaṭaka">
-    <placeName type="ancient" xml:lang="mi-Latn">Dhenukaṭaka</placeName>
+  <place xml:id="Dhenukākaṭaka">
+    <placeName type="ancient" xml:lang="mi-Latn">Dhenukākaṭaka</placeName>
+  </place>
+
+  <place xml:id="Nāgārjunakoṇḍa">
+    <placeName type="modern" xml:lang="te-Latn">Nāgārjunakoṇḍa</placeName>
+    <geo>79.240903 16.522168</geo>
   </place>
 
   <place xml:id="Māmāḍa">
@@ -46,6 +51,14 @@
     <placeName type="ancient" xml:lang="sa-Latn">Dhānyakaṭaka</placeName>
     <placeName type="modern" xml:lang="te-Latn">Dharaṇikota</placeName>
     <geo>80.352706 16.577839</geo>
+  </place>
+
+  <place xml:id="Koruṅkala">
+    <placeName type="ancient" xml:lang="sa-Latn">Koruṅkala</placeName>
+    <placeName type="ancient" xml:lang="gr">κορουγγαλα</placeName>
+    <placeName type="modern" xml:lang="te-Latn">Warangal</placeName>
+    <geo>79.598865 17.973580</geo>
+    <note>Mentioned in Ptolemy’s Geography, 7.1.93. The identification with Warangal is doubtful.</note>
   </place>
 
   <place xml:id="Kurnool">

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am2">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription of Gautamīputra Śrīyajña Sātakarṇi</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am2</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Vijayapurī">Amarāvatī</placeName>.
+		on one of the dome-slabs.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0171"
+		  notAfter-custom="0199"
+		  precision="medium">c. 171–199 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sarkar1971"/>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 62A</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:HanumathaRao1998"/>
+	  <citedRange>p. 59</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarkar1971">Sarkar 1971</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="sa-Latn">
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ rājño 
+	  <persName key="pers:GpŚrīyajñaSātakarṇi">
+	    gotamapu<supplied reason="lost">trasya</supplied>
+	    śrī-yajṇa-<unclear>sa</unclear>takaṇisya
+	  </persName>
+	  saṃvatsare <gap reason="lost"
+	                  quantity="3"
+			  unit="character"/>
+	  vāsa-pa 5 divase 8 
+	  <placeName key="pl:Ujjayinī">ujjayini</placeName>-upasakena
+	  <lb n="2"/>
+	  <persName key="pers:Jayila">jayilena</persName> 
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>
+	  mahācetiya
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>
+	  kāritaṃ
+	  <gap reason="lost"
+	       quantity="2"
+	       unit="character"/>
+	  <lb n="3"/>
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>
+	  <placeName key="pl:Dhānyakaṭaka">dhanakaṭa</placeName>-cetiya
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  In the ... year of the king
+	  <persName key="pers:GpŚrīyajñaSātakarṇi">
+	    Gautamīputra Śrīyajña Sātakarṇi</persName>,
+	  in the 5th fortnight of the rainy season, on the
+	  8th day, the lay devotee
+	  <persName key="pers:Jayila">Jayila</persName>
+	  from <placeName key="pl:Ujjayinī">Ujjayinī</placeName>
+	  caused ... to be made ... the great caitya ...
+	  the caitya at 
+	  <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName> ... 
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -41,11 +41,11 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:Falk2004"/>
+	  <ptr target="bibl:Falk2009"/>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:Falk2004">Falk 2004</ref>.</p>
+	<p>This edition is based on <ref target="bibl:Falk2009">Falk 2009</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="KanA75">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli No. A.75</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA75</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>,
+		on a floor slab of the northwest of the stūpa.
+	      </origPlace>
+	      <origDate when-custom="0119"
+			precision="low">ca. 119 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. A.101</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Falk2009"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Kan">Poonacha 2013</ref> and <ref target="bibl:Falk2009">Falk 2009</ref>. The translation is AO’s, based on the translations given by Poonacha and Falk. It is clear that the gift is of an architectural element (a paṭṭa or slab).</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    siddha || na<supplied reason="lost">mo</supplied>
+	    bhagavato samasabudhasa <app><lem wit="#Poonacha">adholoka</lem
+	      ><rdg wit="#Falk">śudhalaka</rdg></app
+	      >-mahā<lb n="2" break="no"/>
+	    ce<supplied reason="lost">t</supplied>iya
+	    <supplied reason="lost">ra</supplied>ño
+	    <persName key="pers:VpŚrīPuḷumāvi">vā<app
+	      ><lem wit="#Falk">seṭhi</lem>
+	       <lem wit="#Poonacha">sithī</lem>
+	    </app><unclear>p</unclear>uta-siri-pu<app
+	      ><lem wit="#Falk">lu</lem>
+	       <rdg wit="#Poonacha">ḷu</rdg>
+	    </app>māvisa</persName>
+	  <lb n="3"/>
+	    savachare <date when-custom="35"
+	                    datingPoint="pers:VpŚrīPuḷumāvi"
+			    datingMethod="regnal">30 5</date>
+	    <unclear>gimhana pakhe</unclear> 2 10 
+	    <placeName key="pl:Koruṅkala"><app><lem wit="#Falk">koruku<unclear>lana</unclear></lem
+	      ><rdg wit="#Poonacha">kotujilāna</rdg></app></placeName>
+	  <lb n="4"/>
+	    bhikhu<app
+	      ><lem wit="#Poonacha">nīya</lem>
+	      ><rdg wit="#Falk">niye</rdg>
+	    </app> 
+	    <persName key="pers:Dharmaśrī">dhamasiriyāya</persName> a<app
+	      ><lem wit="#Poonacha">gatuko </lem>
+	       <rdg wit="#Falk">khar<unclear>i</unclear>ka</rdg>
+	    </app>pa<app
+	      ><lem wit="#Falk">ṭa</lem>
+	       <rdg wit="#Poonacha">tha <note xml:lang="en">(a typo for ṭa)</note></rdg>
+	      </app>sa<lb n="5" break="no"/>tharo ca deyadhama 
+	    sa<app><lem wit="#Falk">ha a<unclear>māpitu</unclear>hi</lem>
+	           <rdg wit="#Poonacha">hā amāpi hi</rdg></app> saha ca <app
+	      ><lem wit="#Falk">me</lem>
+	      ><rdg wit="#Poonacha">mā</rdg>
+	    </app>
+	  <lb n="6"/>
+	    upajā<app
+	      ><lem wit="#Falk">e</lem>
+	       <rdg wit="#Poonacha">tha</rdg>
+	    </app>hi bhayata-varana<app
+	      ><lem wit="#Falk">bhu</lem>
+	       <rdg wit="#Poonacha">bhū</rdg>
+	    </app>tihi sa<app
+	      ><lem wit="#Falk">ha</lem>
+	       <rdg wit="#Poonacha">hi</rdg>
+	    </app> ca bhayata
+	  <lb n="7"/>
+	    <unclear>s</unclear>i<app
+	      ><lem wit="#Falk">he</lem>
+	       <rdg wit="#Poonacha">pe</rdg>
+	    </app>hi savasa<app
+	      ><lem wit="#Falk"><unclear>ta</unclear></lem>
+	       <rdg wit="#Poonacha">tā</rdg></app>na
+	    ca hitasu<app
+	      ><lem wit="#Falk">gha</lem>
+	       <rdg wit="#Poonacha">ghā</rdg>
+	    </app>tha
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! Reverence to the lord,
+	  the fully enlightened one,
+	  of the Great Caitya at Adholoka.
+	  In the thirty-fifth year of King
+	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
+	    Śrī Puḷumāvi</persName>,
+	  in the second half-month of summer, on the 
+	  tenth day, there was a pious donation by the nun
+	  <persName key="pers:Dharmaśrī">Dharmaśrī</persName>
+	  of <placeName key="pl:Koruṅkala">Koruṅkala</placeName>
+	  of a replacement slab-covering,
+	  together with my mother and father, and together
+	  with my teacher, the venerable 
+	  <persName key="pers:BhVaraṇabhūti">Varaṇabhūti</persName>,
+	  and together with the monk 
+	  <persName key="pers:BhSiṃha">Siṃha</persName>, and
+	  for the benefit and happiness of all beings.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

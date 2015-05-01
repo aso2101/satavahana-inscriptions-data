@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K21">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 21</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K21</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		north of the chaitya cave, on two sides of a semicircular
+		cistern in a vihara.
+	      </origPlace>
+	      <origDate
+		  when-custom="0089"
+		  precision="low">ca. 89 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1107</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 21</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>15</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="5"
+	       unit="character"/><supplied reason="lost">savachare</supplied>
+	  5 hematāṇaṃ pa<supplied reason="lost">kh</supplied>e
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>ya puvāya <app
+	   ><lem>bha</lem><rdg wit="#CTI #AS">dha</rdg></app>yata
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       quantity="9"
+	       unit="character"/>hiṇa atevāsiniṇa 
+	  le<app><lem wit="#K">ṇaṃ</lem><rdg wit="#CTI #AS">ṇa</rdg></app>
+	  <app><lem wit="#K">bhagi<gap reason="lost"
+	                      quantity="7"
+			      unit="character"/>kāṇa</lem>
+	        <rdg wit="#CTI #AS">bhagine<gap
+		  reason="lost"
+		  quantity="5"
+		  unit="character"/>sāvikāṇa</rdg>
+	  </app> sadigā
+	  <lb n="3"/>
+	  <app><lem wit="#K"><gap reason="lost"
+				  quantity="9"
+				  unit="character"/>kale</lem>
+	       <rdg wit="#CTI #AS"><gap
+		  reason="lost"
+		  quantity="7"
+		  unit="character"/>ghasu kāle</rdg>
+	  </app> pavaïtāṇa saṃghāya
+	  bu<app><lem wit="#K"><gap reason="lost"
+	                            quantity="5"
+	 			    unit="character"/></lem>
+	         <rdg wit="#CTI #AS"><gap reason="lost"
+			quantity="3"
+			unit="character"/>deya</rdg>
+	    </app>dhama poḍhi
+	  <lb n="4"/>
+	  <app><lem wit="#K"><gap reason="lost"
+	                          quantity="24"
+				  unit="character"/></lem>
+	       <rdg wit="#CTI #AS"><gap reason="lost"
+	                                quantity="11"
+					unit="character"/>
+	           parivāreṇa upaya<gap reason="lost"
+	                                quantity="4"
+					unit="character"/></rdg>
+	  </app>
+	  <lb n="5"/>
+	  <gap reason="lost"
+	       quantity="9"
+	       unit="character"/>
+	  <app><lem wit="#K">atevāsinihi</lem>
+	       <rdg wit="#CTI #AS">mhi usubhāe</rdg>
+	  </app>
+	  <gap reason="lost"
+	       quantity="6"
+	       unit="character"/>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (No translation offered by Senart; “it is clear
+	  that the inscription commemorated the donation of
+	  a cistern, made, it seems, by nuns, and that the
+	  date referred to the winter of the 5th year of
+	  some sovereign.”)
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

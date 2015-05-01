@@ -41,10 +41,32 @@
   </facsimile>
   <text>
     <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1124</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:N"/>
+	  <citedRange>no. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sircar"/>
+	  <citedRange>no. 87</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Nasi.5</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <bibl key="bibl:N">Senart 1905-1906</bibl>.</p>
-	</div>
 	<p>
 	  <lb n="11"/>
 	  si<app><lem>ddha</lem><rdg wit="#AS">ddhaṃ</rdg></app>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Nag69">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nāgārjunakoṇḍa Inscription of the time of Gautamīputra Śrīvijaya Sātakarṇi</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Nag69</idno><!-- ID follows Tsuchida !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Nāgārjunakoṇḍa">Nāgārjunakoṇḍa</placeName>,
+		on a green limestone pillar.
+	      </origPlace>
+	      <origDate when-custom="0205"
+			precision="low">ca. 205 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sarkar1965"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Sarkar1965">Sarkar 1965–1966</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <supplied reason="lost">na</supplied>mo bhavagato
+	    agapogalasa
+	  <lb n="2"/>
+	    raño <persName key="pers:GpŚrīvijayaSātakarṇi">gotamiputasa
+	    siri-vijaya-sa<lb n="3" break="no"/>takaṇṇisa</persName>
+	    <date when-custom="6"
+		  datingPoint="pers:GpŚrīvijayaSātakarṇi"
+		  datingMethod="regnal">sava 6</date>
+	    gi pa 4 diva 
+	    vesā<lb n="4" break="no"/><supplied reason="lost">kha</supplied>
+	    puṇima :
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Adoration to the Lord, the Best of Beings (i.e., Buddha).
+	  (The pillar is the gift made on) the Vaiśākhī-pūrṇimā day 
+	  of the fourth fortnight of summer during the sixth regnal year
+	  of king <persName key="pers:GpŚrīvijayaSātakarṇi">Gautamīputra
+	  Śrīvijaya Sātakarṇi</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

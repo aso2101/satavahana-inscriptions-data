@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K14">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 14 (of Svāmi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K14</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave, on the upper frieze to the left of the central
+		door.
+	      </origPlace>
+	      <origDate
+		  when-custom="0091"
+		  precision="low">ca. 91 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1100</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 14</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sircar"/>
+	  <citedRange>no. 85</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 17</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Karl.27</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  raño 
+	  <persName key="pers:VpŚrīPuḷumāvi"><app
+	     ><lem wit="#K">vā</lem><rdg wit="#AS">va</rdg></app>siṭhiputasa
+	     sāmisirip<supplied reason="lost">ulumāyi</supplied>s<supplied
+	       reason="lost">a</supplied></persName>
+	  <date when-custom="7"
+		datingPoint="pers:VpŚrīPuḷumāvi"
+		datingMethod="regnal">savachare 7</date>
+	  <unclear>g</unclear>imhapakhe pacame 5
+	  <lb n="2"/>
+	  <unclear>d</unclear>ivase pathame etāya puvāya
+	  okhaḷakiyāna 
+	  mahāra<app><lem wit="#K">thi</lem><rdg wit="#CTI">ṭhi</rdg></app>sa
+	  kosikiputasa <persName key="pers:KpMitradeva">mitadeva</persName>
+	  putena
+	  <lb n="3"/>
+	  <supplied reason="lost">ma</supplied>hārathinā vāsiṭhiputena
+	  <persName key="pers:VpSomadeva">somadevena</persName> gāmo dato
+	  <placeName key="pl:Valūraka">valura<app
+	    ><lem wit="#K">ka</lem>
+	     <rdg wit="#AS">kā</rdg></app></placeName><app
+	    ><lem wit="#K">sa</lem>
+	     <rdg wit="#AS">saṃ</rdg></app>ghasa
+	  <placeName key="pl:Valūraka">va<app
+	    ><lem wit="#K">lu</lem>
+	     <rdg wit="#AS">lū</rdg>
+	  </app>raka</placeName>le<app
+	    ><lem wit="#K">nāna</lem>
+	     <rdg wit="#AS">nana</rdg>
+	  </app> saka<app
+	    ><lem wit="#N #AS">rukaro</lem>
+	     <rdg wit="#CTI">rakara</rdg>
+	  </app> sadeya<lb n="4" break="no"/>meyo
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  In the seventh—7th—year of the king lord
+	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
+	    Śrī Puḷumāvi</persName>, in the fifth—5th—fortnight
+	    of summer, on the first—1st—day, on the above,
+	    by the Mahāraṭṭhi 
+	    <persName key="pers:VpSomadeva">Vāsiṭḥīputra Somadeva</persName>,
+	    the son of the Mahāraṭṭhi
+	    <persName key="pers:KpMitradeva">Kauśikīputra Mitradeva</persName>
+	    of the Okhaḷakiyas, there was given to the community of
+	    <placeName key="pl:Valūraka">Valūraka</placeName>, of the
+	    <placeName key="pl:Valūraka">Valūraka</placeName> caves, a village
+	    with its taxes ordinary and extraordinary, with its income fixed
+	    or proportional.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

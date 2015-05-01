@@ -3,16 +3,16 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K4">
+     xml:id="K22">
 
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 4 (of Siṃhadatta)</title>
+	<title>Karle No. 22</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K4</idno><!-- ID follows Senart !-->
+	<idno>K22</idno><!-- ID follows Senart !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -22,13 +22,13 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave, over the right doorway.
+		one furlong south of the chaitya cave. On the front wall of
+		a vihāra, left of entrance, top.
 	      </origPlace>
 	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or 
-	      early 1st c. CE</origDate>
+		  notBefore-custom="0050"
+		  notAfter-custom="0100"
+		  precision="medium">late 1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -37,14 +37,16 @@
       </profileDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1108</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:K"/>
-	  <citedRange>no. 4</citedRange>
+	  <citedRange>no. 22</citedRange>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
@@ -53,18 +55,25 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭaka">dhenukākaṭā</placeName>
-	  gaṃdhikasa 
-	  <persName key="pers:Siṃhadatta">si<unclear>ṃ</unclear>hadatasa</persName>
-	  dānaṃ gharamugha
+	  si<app>
+	      <lem wit="#K">dhaṃ</lem>
+	      <rdg wit="#CTI #AS">dha</rdg>
+	    </app> 
+	  pava<app>
+	        <lem wit="#K">e</lem>
+		<rdg wit="#CTI #AS">ï</rdg>
+	      </app>tasa
+	  <persName key="pers:Buddharakṣita">budharakhitasa</persName>
+	  deyadha<app>
+	           <lem wit="#K">ma</lem>
+		   <rdg wit="#CTI #AS">maṃ</rdg>
+		 </app>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  This door is a gift of 
-	  <persName key="pers:Siṃhadatta">Siṃhadatta</persName>,
-	  a perfumer from
-	  <placeName key="pl:Dhenukākaṭaka">Dhenukākaṭa</placeName>.
+	  Success! The pious gift of the ascetic
+	  <persName key="pers:Buddharakṣita"/>.
 	</p>
       </div>
     </body>

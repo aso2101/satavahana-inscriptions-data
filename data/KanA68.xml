@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="KanA68">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli No. A.68</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA68</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>,
+		on the western Āyaka.
+	      </origPlace>
+	      <origDate when-custom="0121"
+			precision="low">ca. 121 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. A.68</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:Kan">Poonacha 2013</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    namo bhagavato rājño 
+	    <persName key="pers:VpŚrīSātakarṇi">vāsithiputasa siri
+	    sātakaṇisa</persName> 
+	    <date when-custom="2"
+		  datingPoint="pers:VpŚrīSātakarṇi"
+		  datingMethod="regnal">sava 2</date>
+	    pa 1 di 1 pava<supplied reason="lost">y</supplied>itasa
+	    <persName key="pers:Kṛṣṇaśrī">kanhasirisa</persName>
+	    bhātuno <persName key="pers:Saṅghaka">saghakasa</persName>
+	    deyadha<supplied reason="lost">ma</supplied>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Salutations to the Lord. Meritorious gift of
+	  <persName key="pers:Saṅghaka">Saṅghaka</persName>,
+	  brother of the monk 
+	  <persName key="pers:Kṛṣṇaśrī">Kṛṣṇaśrī</persName>,
+	  on the first day of the first fortnight of the rainy season
+	  in the 2nd year of king 
+	  <persName key="pers:VpŚrīSātakarṇi">Vāsiṣṭīputra Śrī
+	  Sātakarṇi</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -8,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Amarāvatī Inscription of Gautamīputra Śrīyajña Sātakarṇi</title>
+	<title>Amarāvatī Inscription of Kahutara and Isila</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,13 +21,13 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Vijayapurī">Amarāvatī</placeName>.
-		on one of the dome-slabs.
+		<placeName key="pl:Vijayapurī">Amarāvatī</placeName>,
+		on a gateway pillar of the railing of the stūpa.
 	      </origPlace>
 	      <origDate
-		  notBefore-custom="0170"
-		  notAfter-custom="199"
-		  precision="medium">late 2nd c. CE</origDate>
+		  notBefore-custom="0084"
+		  notAfter-custom="0119"
+		  precision="medium">c. 84–119 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -40,57 +40,70 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" xml:lang="sa-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:Sarkar1971">Sarkar 1971</ref>.</p>
-	</div>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1248</citedRange>
+	</bibl>  
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 21</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:HanumathaRao1998"/>
+	  <citedRange>p. 50</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Amar.12</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Mirashi1981">Mirashi1981</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  sidhaṃ rājño 
-	  <persName key="pers:GpŚrīyajñaSātakarṇi">
-	    gotamapu<supplied reason="lost">trasya</supplied>
-	    śrī-yajṇa-<unclear>sa</unclear>takaṇisya
-	  </persName>
-	  saṃvatsare <gap reason="lost"
-	                  quantity="3"
-			  unit="character"/>
-	  vāsa-pa 5 divase 8 
-	  <placeName key="pl:Ujjayinī">ujjayini</placeName>-upasakena
+	  <supplied reason="lost">si</supplied>dhaṃ
+	  ra<supplied reason="lost">ño</supplied> 
+	  <persName key="pers:VpŚrīPuḷumāvi">vā<supplied reason="lost">siṭhi</supplied>puta<supplied reason="lost">sa</supplied>
+	  <supplied reason="lost">sā</supplied>misiripuḷumāvisa</persName>
+	  <gap reason="lost"
+	       quantity="3"
+	       unit="character"/>
+	  piṃḍasutariyānaṃ <persName key="pers:Kahutara">kahutara</persName>gahapatisa
+	  <persName key="pers:Puri">puri</persName>gahapatisa ca
+	  putasa 
+	  <persName key="pers:Isila">isilasa</persName> subhātukasa
 	  <lb n="2"/>
-	  <persName key="pers:Jayila">jayilena</persName> 
+	  sa<supplied reason="omitted">bha</supplied>ginikasa bhāyāya ca
+	  sa<persName key="pers:Nākānikā">nākānikāya</persName> 
+	  saputaka<supplied reason="lost">sa</supplied>
 	  <gap reason="lost"
-	       quantity="3"
+	       quantity="4"
 	       unit="character"/>
-	  mahācetiya
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>
-	  kāritaṃ
-	  <gap reason="lost"
-	       quantity="2"
-	       unit="character"/>
-	  <lb n="3"/>
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>
-	  <placeName key="pl:Dhānyakaṭaka">dhanakaṭa</placeName>-cetiya
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>
+	  <supplied reason="lost">to</supplied> 
+	  mahācetiyacetikiyānaṃ 
+	  nikā<supplied reason="ommitted">ya</supplied>sa parigahe aparadāre
+	  dhamacakaṃ deyadha<supplied reason="lost">mmaṃ</supplied>
+	  thāpita
         </p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  In the ... year of the king
-	  <persName key="pers:GpŚrīyajñaSātakarṇi">
-	    Gautamīputra Śrīyajña Sātakarṇi</persName>,
-	  in the 5th fortnight of the rainy season, on the
-	  8th day, the lay devotee
-	  <persName key="pers:Jayila">Jayila</persName>
-	  from <placeName key="pl:Ujjayinī">Ujjayinī</placeName>
-	  caused ... to be made ... the great caitya ...
-	  the caitya at 
-	  <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName> ... 
+	  Success! [In the year ... ] of King
+	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Svāmi Śrī Puḷumāvi</persName>, the gṛhapati 
+	  <persname key="pers:Kahutara">Kahutara</persname>
+	  of the Piṇḍasutariya family and
+	  <persName key="pers:Isila">Isila</persName>, the son of the
+	  gṛhapati
+	  <persName key="pers:Puri">Puri</persName>, together with 
+	  his brothers and sisters and his wife
+	  <persName key="pers:Nākānikā">Nākānikā</persName> (and) ... 
+	  together with his sons, have ereceted as their pious 
+	  gift (this) Dharma Chakra (Sacred Wheel) on the western
+	  gateway (of the railing) owned by the Buddhist Community of the
+	  Chetikiya Sect of the Mahā-Chaitya.
 	</p>
       </div>
     </body>

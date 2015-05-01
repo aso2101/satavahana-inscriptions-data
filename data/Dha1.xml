@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Dha1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Dharanikota Dharmacakra Pillar Inscription</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Dha1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Dharanikota</placeName>,
+	      </origPlace>
+	      <origDate when-custom="119"
+			precision="low">ca. 119 </origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:SeshadriSastri19371938"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:SeshadriSastri19371938">Seshadri Sastri 1937–1938</ref>. He surmised that it belonged to the reign of Vāsiṣṭhīputra Śrī Puḷumāvi (this would be necessary if the reading is indeed panatrise).</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+		 quantity="14"
+		 unit="character"/><supplied 
+		 reason="lost">saṃva</supplied>chare
+	  <lb n="2"/>
+	    pana<supplied reason="lost">trise</supplied>
+	    <gap reason="lost"
+		 quantity="4"
+		 unit="character"/>
+	    <supplied reason="lost">pakhe chaṭhe</supplied>
+	    6 divasa
+	  <lb n="3"/>
+	    prathamo 1
+	    <gap reason="lost"
+		 quantity="8"
+		 unit="character"/>
+	    ka-koṭubikasa
+	  <lb n="4"/>
+	    <persName key="pers:Skandanāga">khadanāgasa</persName>
+	    a<gap reason="lost"
+	          quantity="3"
+		  unit="character"/>r<unclear>i</unclear>kena 
+	    <placeName key="pl:Agaloka">agalokakena</placeName>
+	    <persName key="pers:Vīraskanda">virakha<supplied reason="lost">da</supplied>sa</persName>
+	  <lb n="5"/>
+	    putena amacena<app><note xml:lang="en"><p>This line has been
+	      added after the rest of the inscription 
+	      was completed.</p></note></app>
+	  <lb n="6"/>
+	    ataporena 
+	    <placeName key="pl:Dhānyakaṭaka">dhañakaḍasa</placeName>
+	    mahāvihāre puva-dāre pava<lb n="7" break="no"/>jitāna
+	    bhikhu-saghasa puvasel<unclear>i</unclear>yāna nigāyasa
+	  <lb n="8"/>
+	    parigaha dhamacaka-dhayo paḍiṭḥapito
+	    sava-loka<lb n="9" break="no"/>satya-hita-sukhāya
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  In the (35th) year ... on the first day, the minister 
+	  Atapora from Agaloka, son of Vīraskanda,
+	  had this dharma-cakra pillar set up at the east gate of
+	  the great vihāra at 
+	  <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
+	  for the ascetics of the monastic community, for the
+	  association of the Pūrvaśailīyas, for the truth
+	  and benefit and happiness of all people.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

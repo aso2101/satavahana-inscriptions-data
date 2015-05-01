@@ -3,16 +3,16 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K4">
+     xml:id="K12">
 
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 4 (of Siṃhadatta)</title>
+	<title>Karle No. 12 (of Āṣāḍhamitrā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K4</idno><!-- ID follows Senart !-->
+	<idno>K12</idno><!-- ID follows Senart !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -22,13 +22,14 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave, over the right doorway.
+		chaitya cave,
+		on the inside of the belt which forms the base 
+		of the great arch.
 	      </origPlace>
 	      <origDate
 		  notBefore-custom="-0050"
 		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or 
-	      early 1st c. CE</origDate>
+		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -37,14 +38,12 @@
       </profileDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:K"/>
-	  <citedRange>no. 4</citedRange>
+	  <citedRange>no. 12</citedRange>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
@@ -53,18 +52,19 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭaka">dhenukākaṭā</placeName>
-	  gaṃdhikasa 
-	  <persName key="pers:Siṃhadatta">si<unclear>ṃ</unclear>hadatasa</persName>
-	  dānaṃ gharamugha
+	   <persName key="pers:Āṣāḍhamitrā">asāḍhamitāye</persName>
+	   bhikhuṇi <app>
+	              <lem wit="#K"><gap reason="lost"
+	                                 quantity="1"
+					 unit="character"/></lem>
+		      <rdg wit="#AS #CTI"><supplied reason="lost">ye</supplied></rdg>
+		    </app> dānaṃ
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  This door is a gift of 
-	  <persName key="pers:Siṃhadatta">Siṃhadatta</persName>,
-	  a perfumer from
-	  <placeName key="pl:Dhenukākaṭaka">Dhenukākaṭa</placeName>.
+	  The gift of the nun
+	  <persName key="pers:Āṣāḍhamitrā">Āṣāḍhamitrā</persName>.
 	</p>
       </div>
     </body>

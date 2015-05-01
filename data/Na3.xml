@@ -1,0 +1,79 @@
+<TEI
+  xml:space="preserve"
+  xml:lang="en"
+  xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="Na3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nāṇeghāṭ Inscription of the time of Vāsiṣṭhīputra Śrīskanda Sātakarṇi (?)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority/>
+	<idno type="filename">Na3</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <history>
+            <origin>
+	      <origPlace>
+	        <placeName key="pl:Nāṇeghāṭ">Nāṇeghāṭ, Mahārāṣṭra</placeName>,
+		above a cistern.
+	      </origPlace>
+	      <origDate
+		  when-custom="0169"
+		  precision="low">c. 169 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+	<particDesc>
+	</particDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1120</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 23</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Gupta1992"/>
+	</bibl>
+      </div>
+     <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Mirashi1981">Mirashi 1981</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    sidhaṃ raṇo <persName key="pers:VpŚrīskandaSātakarṇi">vasaṭhiputasa
+	    <supplied reason="lost">kada</supplied>sātakaṇisa</persName>
+	  <lb n="2"/><date 
+	    when-custom="13"
+	    datingPoint="VpŚrīskandaSātakarṇi"
+	    datingMethod="regnal">savachara tara 10 3</date> 
+	    hemata pakha pacame divase 10
+	  <lb n="3"/>kamavanasa gahapatasa damaghasasa deyadhama
+	  <lb n="4"/>paniyapuvā deydhama satagarapavate etha
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! In the year 13, in the fifth fortnight of winter,
+	  on the day 10, this water-cistern is dedicated as a pious gift
+	  of the gṛhapati Damaghosha of Kāmavana here on this
+	  Śveta-giri hill.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

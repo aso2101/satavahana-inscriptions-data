@@ -63,6 +63,21 @@
     <biblScope unit="pp" from="95" to="96">95–96</biblScope>
     <date when="1892">1892</date>
   </bibl>
+
+  <bibl xml:id="Sarkar1965" type="article">
+    <author>
+      <name>
+	<surname>Sarkar</surname>
+	<forename>H.</forename>
+      </name>
+    </author>
+    <title level="a">Nagarjunakonda Prakrit Inscription of Gautamiputra Vijaya Satakarni, Year 6</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">35</biblScope>
+    <biblScope unit="pp" from="273" to="275">273–275</biblScope>
+    <date when="1965">1965–1966</date>
+  </bibl>
+
   <bibl xml:id="Sarkar1971" type="article">
     <author>
       <name>
@@ -241,7 +256,7 @@
     <pubPlace>London</pubPlace>
     <date when="1854">1854</date>
   </bibl>
-  <bibl xml:id="Falk2004" type="article">
+  <bibl xml:id="Falk2009" type="article">
     <author>
       <name>
         <surname>Falk</surname>
@@ -252,7 +267,7 @@
     <title level="j">Indo-Iranian Journal</title>
     <biblScope unit="vol">52</biblScope>
     <biblScope unit="pp" from="197" to="206">197–206</biblScope>
-    <date when="2004">2004</date>
+    <date when="2009">2009</date>
   </bibl>
 
   <bibl xml:id="Reddy2000" type="incollection">
@@ -510,6 +525,62 @@
     <biblScope unit="vol" from="68" to="70">68–70</biblScope>
     <biblScope unit="pp" from="239" to="260">239–260</biblScope>
     <date from="2004" to="2006">2004–2006</date>
+  </bibl>
+
+  <bibl xml:id="VaraprasadRao1995" type="article">
+    <author>
+      <name>
+	<surname>Varaprasad Rao</surname>
+	<forename>J.</forename>
+      </name>
+    </author>
+    <title level="a">An Early Sanskrit Inscription from Sannati</title>
+    <title level="j">Journal of Archaeology</title>
+    <biblScope unit="vol">3</biblScope>
+    <biblScope unit="issue">2</biblScope>
+    <biblScope unit="pp" from="165" to="167">165–167</biblScope>
+    <date when="1995">1995</date>
+  </bibl>
+
+  <bibl xml:id="Sharma19751976" type="article">
+    <author>
+      <name>
+	<surname>Sharma</surname>
+	<forename>M. J.</forename>
+      </name>
+    </author>
+    <title level="a">Vāsana Inscription of Vāsaṭhīputa Siri Puḷumāvi</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">41</biblScope>
+    <biblScope unit="pp" from="154" to="158">154–158</biblScope>
+    <date>1975–1976</date>
+  </bibl>
+
+  <bibl xml:id="Bhandare1999" type="dissertation">
+    <author>
+      <name>
+	<surname>Bhandare</surname>
+	<forename>Shailendra</forename>
+      </name>
+    </author>
+    <title>Historical Analysis of the Sātavāhana Era: A Study of Coins</title>
+    <publisher>University of Bombay</publisher>
+    <pubPlace>Bombay</pubPlace>
+    <date when="1999">1999</date>
+  </bibl>
+
+  <bibl xml:id="SeshadriShastri19371938" type="article">
+    <author>
+      <name>
+	<forename>P.</forename>
+	<surname>Seshadri Sastri</surname>
+      </name>
+    </author>
+    <title level="a">Dharanikota Dharmachakra Pillar Inscription</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">24</biblScope>
+    <biblScope unit="pp" from="256" to="260">256–260</biblScope>
+    <date when="1937–1938">1937–1938</date>
   </bibl>
 
 </listBibl>

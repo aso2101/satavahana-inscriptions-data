@@ -24,10 +24,41 @@
     <trait type="ethnicity">Śaka</trait>
   </person>
 
+  <person xml:id="Harapharaṇa" sex="male">
+    <persName>Harapharaṇa</persName>
+    <note>The name recalls the Persian Holophernes.</note>
+  </person>
+
+  <person xml:id="Setapharaṇa" sex="male">
+    <persName>Setapharaṇa</persName>
+  </person>
+  
+  <person xml:id="Sihadhaya" sex="male">
+    <persName>Sihadhaya</persName>
+    <trait type="ethnicity">Yavana</trait>
+  </person>
+
+  <person xml:id="Svātimitra" sex="male">
+    <persName>Svātimitra</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhāṇaka</state>
+    <note>He belongs to the Dharmottarīya group.</note>
+  </person>
+
+  <person xml:id="Svātimitra2" sex="male">
+    <persName>Svātimitra</persName>
+  </person>
+
   <person xml:id="Mammā" sex="female">
     <persName>Mammā</persName>
     <faith>Buddhist</faith>
     <state type="religious">Layperson</state>
+  </person>
+
+  <person xml:id="Āṣāḍhamitrā" sex="female">
+    <persName>Āṣāḍhamitrā</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhikkhuni</state>
   </person>
 
   <person xml:id="Bhavagopa" sex="male">
@@ -39,6 +70,17 @@
   <person xml:id="Vāsu" sex="female">
     <persName>Vāsu</persName>
     <state type="political">Mahāsenāpatinī</state>
+  </person>
+
+  <person xml:id="VpSomadeva" sex="male">
+    <persName>Vāsiṭḥīputra Somadeva</persName>
+    <state type="political">Mahāraṭṭhi</state>
+  </person>
+
+  <person xml:id="KpMitradeva" sex="male">
+    <persName>Kauśikīputra Mitradeva</persName>
+    <state type="political">Mahāraṭṭhi</state>
+    <note>of the Okhaḷakiyas</note>
   </person>
 
   <person xml:id="Bopaki" sex="male">
@@ -106,6 +148,31 @@
        donated (by the laywoman Śivapālitanikā) in his name.</p>
   </person>
 
+  <person xml:id="BhSiṃha" sex="male">
+    <persName>Siṃha</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+  </person>
+
+  <person xml:id="BhVaraṇabhūti" sex="male">
+    <persName>Varaṇabhūti</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+    <state type="religious">Upādhyāya</state>
+  </person>
+
+  <person xml:id="Dharmaśrī" sex="female">
+    <persName>Dharmaśrī</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhikkhunī</state>
+  </person>
+
+  <person xml:id="Buddharakṣita" sex="male">
+    <persName>Buddharakṣita</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">pravrajita</state>
+  </person>
+
   <person xml:id="Apareṇuka" sex="male">
     <persName>Apareṇuka</persName>
   </person>
@@ -155,6 +222,30 @@
   </person>
   <person xml:id="Mahādevaṇaka" sex="male">
     <persName>Mahādevaṇaka</persName>
+  </person>
+
+  <person xml:id="Veṇuvāsa" sex="male">
+    <persName>Veṇuvāsa</persName>
+  </person>
+  <person xml:id="Svāmi" sex="male">
+    <persName>Svāmi</persName>
+    <occupation>carpenter</occupation>
+  </person>
+
+  <person xml:id="Kṛṣṇaśrī" sex="male">
+    <persName>Kṛṣṇaśrī</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Pravrajita</state>
+  </person>
+  <person xml:id="Saṅghaka" sex="male">
+    <persName>Saṅghaka</persName>
+  </person>
+  <person xml:id="Nāṇikā" sex="female">
+    <persName>Nāṇikā</persName>
+  </person>
+  <person xml:id="Haghana" sex="male">
+    <persName>Haghana</persName>
+    <note>Elder (thera) of the Botika (Bodhika?) Vihāra.</note>
   </person>
 
 <!-- Sātavāhana Kings, Queens, etc. !-->
@@ -274,5 +365,12 @@
     <relation name="parent" active="#Ānanda" passive="#Apareṇuka"/>
     <relation name="spouse" mutual="#Śivapālitanikā #Dharmaṇaka"/>
     <relation name="parent" active="#Bhāyilā" passive="#Mahādevaṇaka"/>
+    <relation name="parent" active="#Veṇuvāsa" passive="#Svāmi"/>
+    <relation name="parent" active="#KpMitradeva" passive="#VpSomadeva"/>
+    <relation name="parent" active="#Setapharaṇa" passive="#Harapharaṇa"/>
+    <relation name="teacher" active="#BhVaraṇabhūti" passive="#Dharmaśrī"/>
+    <relation name="teacher" active="#Haghana" passive="#Kṛṣṇaśrī"/>
+    <relation name="sibling" mutual="#Kṛṣṇaśrī #Nāṇikā"/>
+    <relation name="sibling" mutual="#Kṛṣṇaśrī #Saṅghaka"/>
   </listRelation>
 </listPerson>

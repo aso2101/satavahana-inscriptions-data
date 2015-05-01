@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K13">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 13 (of Uṣavadāta)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K13</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave,
+		on the upper frieze to the right of the central door.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0045"
+		  notAfter-custom="0065"
+		  precision="medium">mid-1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 13</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ raño khaharātasa khatapasa
+	  <persName key="pers:Nahapāna">nahapānasa</persName>
+	  jā<supplied reason="lost">mā</supplied>tarā 
+	  <supplied 
+	      reason="lost">di</supplied>n<supplied
+	      reason="lost">nī</supplied>kapūtena
+	  <persName key="pers:Uṣavadāta">usabhadātena</persName>
+	  <app><lem 
+	      wit="#K">ti</lem><rdg 
+	      wit="#AS">tiṇi</rdg></app><lb n="2" 
+	      break="no"/>gosatasahasa<supplied 
+	      reason="lost">de</supplied>ṇa
+	  <app><lem
+	      wit="#K">na</lem>
+	      <rdg wit="#AS">ṇa</rdg>
+	  </app>diyā baṇā<app><lem
+	      wit="#K">sāyā</lem>
+	      <rdg wit="#CTI">sayaṃ</rdg>
+	  </app> 
+	  s<supplied reason="lost">u</supplied>vaṇa<app><lem
+	      wit="#K">tatha</lem>
+	      <rdg wit="#AS #CTI">ratha</rdg>
+	      <note xml:lang="en">Senart notes that the 
+	        <foreign xml:lang="mi-Latn">i</foreign> has
+		been lost in <foreign 
+		xml:lang="mi-Latn">titha</foreign>.</note>
+	  </app>karena <app><lem
+	      wit="#K"><gap reason="lost"
+	      quantity="3"
+	      unit="character"/></lem>
+	      <note xml:lang="en">The restoration
+	        <foreign xml:lang="mi-Latn">devāna</foreign>
+		is guaranteed by the parallel text
+		at Nasik.</note>
+	  </app> 
+	  brahma<app><lem
+	      wit="#K">ṇana</lem>
+	      <rdg wit="#CTI #AS">ṇāṇa<supplied reason="lost">ṃ</supplied></rdg>
+	  </app> ca soḷa<supplied 
+	      reason="lost">sa</supplied>gā<lb n="3" break="no"/>ma<supplied
+	      reason="lost">d</supplied>e<gap reason="lost"
+	      quantity="1"
+	      unit="character"/>
+	  <placeName key="pl:Prabhāsa">pabhāse</placeName>
+	  <app><lem
+	      wit="#K">pūta</lem>
+	      <rdg wit="#AS">puña</rdg>
+	  </app>tithe brahmaṇāṇa aṭhabhāyā<app><lem
+	      wit="#K">p<supplied 
+	      reason="lost">r</supplied>a<gap
+	      reason="lost"
+	      quantity="2"
+	      unit="character"/><supplied
+	      reason="lost">a</supplied>nuvāsaṃ
+	  pi tu</lem><rdg wit="#CTI">pradena
+	      gāvasāpi tri</rdg>
+	      <note xml:lang="en">The restoration
+	        <foreign xml:lang="mi-Latn">pradena</foreign>
+		is quite certain (Senart).</note>
+	  </app>
+	  sata<app><lem
+	      wit="#K">sahasaṃ bho</lem>
+	      <rdg wit="#AS">sāhasi<unclear>bho</unclear></rdg>
+	  </app><lb n="4" break="no"/>japayita 
+	  <placeName key="pl:Valūraka">valūrakesu</placeName> 
+	  leṇavā<app><lem
+	      wit="#K">sinaṃ</lem>
+	      <rdg wit="#AS #CTI">sāna</rdg>
+	  </app> pavajitānaṃ <gap reason="lost"
+	      quantity="1"
+	      unit="character"/>cātudisasa saghasa
+	  <lb n="5"/>yāpaṇatha gāmo 
+	  <supplied 
+	      reason="lost">kā</supplied><app><lem
+	      wit="#K">r<supplied
+	      reason="lost">a</supplied></lem>
+	      <note xml:lang="en">The <foreign 
+	      xml:lang="mi-Latn">ra</foreign> would
+	      seem to have at the top the vowel-mark <foreign 
+	      xml:lang="mi-Latn">ā</foreign> or <foreign 
+	      xml:lang="mi-Latn">o</foreign>.</note>
+	  </app>jiko dato <app><lem
+	     wit="#K">sa<gap reason="lost" quantity="1" 
+	     gunit="character"/>na<gap reason="lost" quantity="3" 
+	     unit="character"/>vāsitānaṃ</lem>
+	     <rdg wit="#AS #CTI">savāna vāsavāsitānaṃ</rdg>
+	  </app>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

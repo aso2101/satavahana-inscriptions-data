@@ -39,10 +39,28 @@
   </facsimile>
   <text>
     <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1122</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:N"/>
+	  <citedrange>no. 1</citedrange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 16</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Nasi.1</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
-	</div>
 	<p>
 	  <lb n="1"/>
 	  si<app><lem>dha</lem><rdg wit="#AS">dhaṃ</rdg></app>
