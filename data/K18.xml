@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K18">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 18 (of Koṭī)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K18</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		Chaitya cave. On the wall to the left of the central door
+		(close to the rail pattern).
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0050"
+		  notAfter-custom="0100"
+		  precision="medium">late 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 18</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Koṭī">ko<app><lem wit="#K"
+	    >ṭi</lem><rdg wit="#AS #CTI"
+	    >ḍi</rdg></app>ya</persName> bhikhuṇiya 
+	  <persName key="pers:Ghuṇika">ghuṇika</persName>-mā<app><lem
+	    wit="#K">tu</lem><rdg wit="#AS">ta</rdg></app>
+	  veyikā <app><lem wit="#K"
+	    >dānaṃ</lem><rdg wit="#AS"
+	    >daṇa</rdg><rdg wit="#CTI"
+	    >dāṇa</rdg></app>
+	  <persName key="pers:Nandika"><app><lem wit="#K"
+	    ><unclear>naṃ</unclear>dikenā</lem><note xml:lang="en"
+	    ><p>Senart: “The first letter is doubtful, the horizontal
+	       basis of the n being singularly slanting. But the final
+	       ā is sure.”</p></note></app></persName>
+	  kataṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (This) rail, the gift of the Bhikṣuṇī 
+	  <persName key="pers:Koṭī">Koṭī</persName>, the mother
+	  of <persName key="pers:Ghuṇika">Ghuṇika</persName>, was
+	  made by <persName key="pers:Nandika">Nandika</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

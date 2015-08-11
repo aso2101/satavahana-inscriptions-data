@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ma1">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Mahāḍ No. 1 (of Viṣṇupālita)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ma1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Mahāḍ">Mahāḍ</placeName>,
+		in Cave no. IX, on the back of the hall to the right.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0150"
+		  notAfter-custom="0200"
+		  precision="medium">late 2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>p. 2</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ kumārasa 
+	  <persName key="pers:Viṣṇupālita">kāṇabhoasa
+	    vheṇupālitasa</persName>
+	  <lb n="2"/>
+	  <unclear>e</unclear>sa leṇa cetieghara ovarakā ca
+	  aṭha 8 vi kmaṃ niyu<lb n="3" break="no"/>taṃ 
+	  le<supplied reason="omitted">ṇ</supplied>sa ca 
+	  ubhato pasesu poḍhiyo be 2 leṇasa
+	  <lb n="4"/>
+	  āligaṇake patho ca dato etasa ca
+	  kumārasa deya
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! Prince <persName key="pers:Viṣṇupālita">Kāṇabhoja Viṣṇupālita’s</persName> cave, caitya, and eight (8) cells. This much work is endowed, and two (2) cisterns on each side of the cave, also a passage connected with the cave are presented. It is a charitable gift of that prince.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

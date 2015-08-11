@@ -54,9 +54,9 @@
 	  sidhaṃ raño khaharātasa khatapasa
 	  <persName key="pers:Nahapāna">nahapānasa</persName>
 	  jā<supplied reason="lost">mā</supplied>tarā 
-	  <supplied 
+	  <persName key="pers:Dinīka"><supplied 
 	      reason="lost">di</supplied>n<supplied
-	      reason="lost">nī</supplied>kapūtena
+	      reason="lost">nī</supplied>ka</persName>pūtena
 	  <persName key="pers:Uṣavadāta">usabhadātena</persName>
 	  <app><lem 
 	      wit="#K">ti</lem><rdg 
@@ -66,10 +66,10 @@
 	  <app><lem
 	      wit="#K">na</lem>
 	      <rdg wit="#AS">ṇa</rdg>
-	  </app>diyā baṇā<app><lem
+	  </app>diyā <placeName key="pl:Bārṇāsā">baṇā<app><lem
 	      wit="#K">sāyā</lem>
 	      <rdg wit="#CTI">sayaṃ</rdg>
-	  </app> 
+	  </app></placeName>
 	  s<supplied reason="lost">u</supplied>vaṇa<app><lem
 	      wit="#K">tatha</lem>
 	      <rdg wit="#AS #CTI">ratha</rdg>
@@ -123,7 +123,7 @@
 	      quantity="1"
 	      unit="character"/>cātudisasa saghasa
 	  <lb n="5"/>yāpaṇatha gāmo 
-	  <supplied 
+	  <placeName key="pl:Karajika"><supplied 
 	      reason="lost">kā</supplied><app><lem
 	      wit="#K">r<supplied
 	      reason="lost">a</supplied></lem>
@@ -132,7 +132,7 @@
 	      seem to have at the top the vowel-mark <foreign 
 	      xml:lang="mi-Latn">ā</foreign> or <foreign 
 	      xml:lang="mi-Latn">o</foreign>.</note>
-	  </app>jiko dato <app><lem
+	  </app>jiko</placeName> dato <app><lem
 	     wit="#K">sa<gap reason="lost" quantity="1" 
 	     gunit="character"/>na<gap reason="lost" quantity="3" 
 	     unit="character"/>vāsitānaṃ</lem>
@@ -142,6 +142,21 @@
       </div>
       <div type="translation" xml:lang="en">
 	<p>
+	  Success! By <persName key="pers:Uṣavadāta">Usabhadāta</persName>, 
+	  the son of <persName key="pers:Dinīka">Dinīka</persName> and
+	  son-in-law of the king, the Khaharāta, the Kṣatrapa
+	  <persName key="pers:Nahapāna">Nahapāna</persName>,—who have three-hundred-thousand
+	  cows, who made gifts of gold and a tīrtha on the river
+	  <placeName key="pl:Bārṇāsā">Bārṇāsā</placeName>, who gave to
+	  [the Devas] and the Brāhmaṇas sixteen villages, who at the
+	  pure tīrtha <placeName key="pl:Prabhāsa">Prabhāsa</placeName> gave 
+	  eight wives to the Brāhmaṇas, and who also fed annually a 
+	  hundred-thousand (Brāhmaṇas),—there has been given in the village
+	  of <placeName key="pl:Karajika">Karajika</placeName> for
+	  the support of the ascetics living in the caves at 
+	  <placeName key="pl:Valūraka">Valūraka</placeName>
+	  without any distinction of sect or origin, for all who
+	  would keep the varṣa (there).
 	</p>
       </div>
     </body>

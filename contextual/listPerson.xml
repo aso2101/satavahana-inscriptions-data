@@ -44,9 +44,22 @@
     <state type="religious">Bhāṇaka</state>
     <note>He belongs to the Dharmottarīya group.</note>
   </person>
+  <!-- referred to in multiple inscriptions, distinguish? !-->
 
   <person xml:id="Svātimitra2" sex="male">
     <persName>Svātimitra</persName>
+  </person>
+
+  <person xml:id="BhSvātimitra" sex="male">
+    <persName>Svātimitra</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
+  </person>
+  
+  <person xml:id="BhAgnimitra" sex="male">
+    <persName>Agnimitra</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhadanta</state>
   </person>
 
   <person xml:id="Mammā" sex="female">
@@ -59,6 +72,18 @@
     <persName>Āṣāḍhamitrā</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhikkhuni</state>
+  </person>
+  <person xml:id="Aṣāḍhamitrā" sex="female">
+    <persName>Aṣāḍhamitrā</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">pravrajita</state>
+  </person>
+  <!-- possibly the same as the above; student of Padumanikā !-->
+
+  <person xml:id="Vyāghrakā" sex="female">
+    <persName>Vyāghrakā</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">upāsikā</state>
   </person>
 
   <person xml:id="Bhavagopa" sex="male">
@@ -89,6 +114,12 @@
     <state type="religious">Monk</state>
   </person>
 
+  <person xml:id="Bhadrasama" sex="male">
+    <persName>Bhadrasama</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhikṣu</state>
+  </person>
+
   <person xml:id="Śivaskandila" sex="male">
     <persName>Śivaskandila</persName>
     <state type="political">Amātya</state>
@@ -102,6 +133,11 @@
   <person xml:id="Viṣṇupāla" sex="male">
     <persName>Viṣṇupāla</persName>
     <faith>Buddhist</faith>
+  </person>
+
+  <person xml:id="Viṣṇupālita" sex="male">
+    <persName>Viṣṇupālita</persName>
+    <state type="political">Kumāra</state>
   </person>
 
   <person xml:id="Agnimitraṇaka" sex="male">
@@ -172,6 +208,25 @@
     <faith>Buddhist</faith>
     <state type="religious">pravrajita</state>
   </person>
+
+  <person xml:id="Padumanikā" sex="female">
+    <persName>Padumanikā</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">pravrajita</state>
+  </person>
+
+  <person xml:id="Nāginikā" sex="female">
+    <persName>Nāginikā</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">pravrajita</state>
+  </person>
+  <!-- mother of Padumanikā !-->
+
+  <person xml:id="Bodhi" sex="female">
+    <persName>Bodhi</persName>
+    <faith>Buddhist</faith>
+  </person>
+  <!-- student of Padumanikā !-->
 
   <person xml:id="Apareṇuka" sex="male">
     <persName>Apareṇuka</persName>
@@ -246,6 +301,36 @@
   <person xml:id="Haghana" sex="male">
     <persName>Haghana</persName>
     <note>Elder (thera) of the Botika (Bodhika?) Vihāra.</note>
+  </person>
+
+  <person xml:id="Saṅgharakṣita" sex="male">
+    <persName>Saṅgharakṣita</persName>
+    <note>seṭhi</note>
+  </person>
+
+  <person xml:id="Gṛhapati" sex="male">
+    <persName>Gṛhapati</persName>
+  </person>
+
+  <person xml:id="Saḍagerī" sex="female">
+    <persName>Saḍagerī Vijayā</persName>
+    <state type="political">Mahābhojī</state>
+  </person>
+  <person xml:id="Skandapālita" sex="male">
+    <persName>Māṇḍavya Skandapālita</persName>
+    <state type="political">Mahābhojī</state>
+  </person>
+  <person xml:id="Śivabhūti" sex="male">
+    <persName>Śivabhūti</persName>
+  </person>
+  <person xml:id="Nandā" sex="female">
+    <persName>Nandā</persName>
+  </person>
+  <person xml:id="Uttaradattā" sex="female">
+    <persName>Uttaradattā</persName>
+  </person>
+  <person xml:id="Sulasadatta" sex="male">
+    <persName>Sulasadatta</persName>
   </person>
 
 <!-- Sātavāhana Kings, Queens, etc. !-->
@@ -364,13 +449,21 @@
     <relation name="sibling" mutual="#Gajasena #Gajamitra"/>
     <relation name="parent" active="#Ānanda" passive="#Apareṇuka"/>
     <relation name="spouse" mutual="#Śivapālitanikā #Dharmaṇaka"/>
+    <relation name="spouse" mutual="#Śivabhūti #Nandā"/>
+    <relation name="parent" active="#Uttaradattā #Śivabhūti"/>
+    <relation name="parent" active="#Sulasadatta #Śivabhūti"/>
     <relation name="parent" active="#Bhāyilā" passive="#Mahādevaṇaka"/>
     <relation name="parent" active="#Veṇuvāsa" passive="#Svāmi"/>
     <relation name="parent" active="#KpMitradeva" passive="#VpSomadeva"/>
     <relation name="parent" active="#Setapharaṇa" passive="#Harapharaṇa"/>
+    <relation name="parent" active="#Gṛhapati" passive="#Saṅgharakṣita"/>
+    <relation name="parent" active="#Saḍagerī" passive="#Skandapālita"/>
     <relation name="teacher" active="#BhVaraṇabhūti" passive="#Dharmaśrī"/>
     <relation name="teacher" active="#Haghana" passive="#Kṛṣṇaśrī"/>
     <relation name="sibling" mutual="#Kṛṣṇaśrī #Nāṇikā"/>
     <relation name="sibling" mutual="#Kṛṣṇaśrī #Saṅghaka"/>
+    <relation name="parent" active="#Nāginikā" passive="#Padumanikā"/>
+    <relation name="teacher" active="#Padumanikā" passive="#Bodhi"/>
+    <relation name="teacher" active="#Padumanikā" passive="#Aṣāḍhamitrā"/>    
   </listRelation>
 </listPerson>

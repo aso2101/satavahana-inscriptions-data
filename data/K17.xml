@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="K17">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 17</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K17</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		Chaitya cave. On the wall to the right of the central door
+		(close to the rail pattern).
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0050"
+		  notAfter-custom="0100"
+		  precision="medium">late 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 17</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <app><lem wit="#K"><gap
+	    reason="lost"
+	    quantity="5"
+	    unit="character"/>maṇayūtāya</lem>
+	    <rdg wit="#AS #CTI"><gap 
+	      reason="lost"
+	      quantity="4"
+	      unit="character"/><supplied 
+	      reason="lost">sa</supplied>maṇāya mātuya</rdg>
+	  </app>
+	  dānaṃ veyikā
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (This) rail (is) the gift of...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

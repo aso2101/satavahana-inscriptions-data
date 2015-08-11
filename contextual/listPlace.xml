@@ -166,9 +166,14 @@
     <geo>73.083 18.283</geo>
   </place>
 
-  <place xml:id="Mahad">
-    <placeName type="modern" xml:lang="ma-Latn">Mahad</placeName>
+  <place xml:id="Mahāḍ">
+    <placeName type="modern" xml:lang="ma-Latn">Mahāḍ</placeName>
     <geo>73.417 18.063</geo>
+  </place>
+
+  <place xml:id="Kol">
+    <placeName type="modern" xml:lang="ma-Latn">Kol</placeName>
+    <geo>73.431188 18.068489</geo>
   </place>
 
   <place xml:id="Myākadoni">

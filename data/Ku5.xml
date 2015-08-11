@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ku5">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 5</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku5</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 5, in the left end of the verandah.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 5</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>; the translation has been slightly adapted. Note that Georg Bühler considered Pātimita in the text to be a mistake for Sātimita (Svātimitra).</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  siddhaṃ therāṇaṃ bhadata <persName
+	    key="pers:BhSvātimitra">pātimitana</persName> 
+	    bhadaṃta<lb n="2" break="no"/><persName
+	    key="pers:BhAgnimitra">āgimita<unclear>na</unclear></persName>
+	    ca bhāgiṇeyiya 
+	    pāva<lb n="3" break="no"/>yitikāya <persName 
+	      key="pers:Nāginikā">nāginikāya</persName> duhutaya 
+	    pāva<lb n="4" break="no"/>yitikāya <persName
+	      key="pers:Padumanikā">padumaṃnikāya</persName> deya 
+	    dhaṃmaṃ 
+	  <lb n="5"/>
+	    leṇaṃ poḍhī ca sahā atevāsiniya 
+	    <persName key="pers:Bodhi">bodhiya</persName><app>
+	    <note xml:lang="en"><p>Two letters, <foreign xml:lang="mi-Latn">ya-ma</foreign>, added beyond the end of this line, are only lightly cut and look recent; if inserted where the mark indicates they make Mayabodhī; if we read <foreign xml:lang="mi-Latn">mātuya bodhiya</foreign> it might be translated by “her female discipline’s mother Bodhi and of her female discipline Asālhamitā.”</p></note></app>
+	  <lb n="6"/>
+	    saha ca ativāsiniya 
+	    <persName key="pers:Aṣāḍhamitrā">asālhamitāya</persName>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! A cave and a cistern, the charitable gift of the
+	  female ascetic 
+	  <persName key="pers:Padumanikā">Padumanikā</persName>, daugher of
+	  <persName key="pers:Nāginikā">Nāginikā</persName> the ascetic, the
+	  sister’s daughter of the Thera Bhadaṃta 
+	  <persName key="pers:BhSvātimitra">Svātimitra</persName> and Bhadaṃta 
+	  <persName key="pers:Agnimitra">Agnimitra</persName>, and, of
+	  her female disciplines 
+	  <persName key="pers:Bodhi">Bodhi</persName> and
+	  <persName key="pers:Aṣāḍhamitrā">Aṣāḍhamitrā</persName>
+
+
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

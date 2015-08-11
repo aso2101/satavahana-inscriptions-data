@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ku1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 1 (of Śivabhūti)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 1, over the door of the recessed cell.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 1</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  mahābhojīya 
+	  <persName key="pers:Saḍagerī">saḍageriya vijayāya</persName>
+	  putasa mahābhojasa 
+	  <persName key="pers:Skandapālita">maṃdavasa khaṃdapālitasa</persName>
+	  lekhakasa
+	  <lb n="2"/>
+	  <persName key="pers:Sulasadatta">sulasadata</persName>putasa
+	  <persName key="pers:Uttaradattā">utaradatāputasa</persName> ca
+	  <persName key="pers:Śivabhūti">sivabhūtisa</persName>
+	  saha bhayāya 
+	  <persName key="pers:Nandā">ṇaṃdāya</persName>
+	  deyadhaṃmaṃ <supplied reason="omitted">leṇaṃ</supplied>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This cave is the meritorious gift of 
+	  <persName key="pers:Śivabhūti">Śivabhūti</persName>, the son of
+	  <persName key="pers:Sulasadatta">Sulasadatta</persName> and 
+	  <persName key="pers:Uttaradattā">Uttaradattā</persName>, and 
+	  writer to Mahābhoja
+	  <persName key="pers:Skandapālita">Mandava Skandapālita</persName>,
+	  son of Mahābhojī
+	  <persName key="pers:Saḍagerī">Saḍagerī Vijayā</persName>, 
+	  together with his wife 
+	  <persName key="pers:Nandā">Nandā</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

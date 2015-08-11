@@ -57,7 +57,7 @@
 	    <supplied reason="lost">ra</supplied>ño
 	    <persName key="pers:VpŚrīPuḷumāvi">vā<app
 	      ><lem wit="#Falk">seṭhi</lem>
-	       <lem wit="#Poonacha">sithī</lem>
+	       <rdg wit="#Poonacha">sithī</rdg>
 	    </app><unclear>p</unclear>uta-siri-pu<app
 	      ><lem wit="#Falk">lu</lem>
 	       <rdg wit="#Poonacha">ḷu</rdg>
@@ -71,7 +71,7 @@
 	      ><rdg wit="#Poonacha">kotujilāna</rdg></app></placeName>
 	  <lb n="4"/>
 	    bhikhu<app
-	      ><lem wit="#Poonacha">nīya</lem>
+	      ><lem wit="#Poonacha">nīya</lem
 	      ><rdg wit="#Falk">niye</rdg>
 	    </app> 
 	    <persName key="pers:Dharmaśrī">dhamasiriyāya</persName> a<app
@@ -83,7 +83,7 @@
 	      </app>sa<lb n="5" break="no"/>tharo ca deyadhama 
 	    sa<app><lem wit="#Falk">ha a<unclear>māpitu</unclear>hi</lem>
 	           <rdg wit="#Poonacha">hā amāpi hi</rdg></app> saha ca <app
-	      ><lem wit="#Falk">me</lem>
+	      ><lem wit="#Falk">me</lem
 	      ><rdg wit="#Poonacha">mā</rdg>
 	    </app>
 	  <lb n="6"/>
