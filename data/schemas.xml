@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <uri resource="Ku8 (copy).xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="pallava-visnugopa.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="SaA1.xml" uri="../tei-epidoc.rnc"/>
+  <uri resource="Pe1.xml" uri="../tei-epidoc.rnc"/>
   <uri resource="N5.xml" uri="../tei-epidoc.rnc"/>
   <uri resource="Ka6.xml" uri="../tei-epidoc.rnc"/>
   <uri resource="Ka6.xml" uri="../tei-epidoc.rnc"/>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ku11">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā Nos. 11 and 12</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku11</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 6, on the right wall.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā Nos. 11 and 12</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="sa-Latn">
+	<p>
+	  <lb n="1"/>
+	    deyadharmmoyaṃ
+	    śākya<choice><sic>bhikṣuḥ</sic><corr>bhikṣoḥ</corr></choice>
+	  <lb n="2"/>
+	    <persName key="pers:Saṅghadeva">saṃghadevasya</persName>
+	    atra ca
+	  <lb n="3"/>
+	    ceṃḍinakṣe<choice><sic>tra</sic><corr>traṃ</corr></choice>
+	    badhvā dī<lb n="4"
+	      break="no"/>pamū<choice><sic>lya</sic><corr>lyaṃ</corr></choice>
+	    <choice><sic>buddhasya</sic><corr>buddhāya</corr></choice>
+	  <lb n="5"/>
+	    dattaṃ
+	  <lb n="6"/>
+	    yo lopaye<supplied reason="omitted">t</supplied>  
+	  <lb n="7"/>
+	    paṃcamahāpa<lb n="8" break="no"/>takayukto
+	    bhave<supplied reason="omitted">t</supplied> ||
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This (image) is the meritorious gift of the Śākyabhikṣu
+	  <persName key="pers:Saṅghadeva">Saṅgadheva</persName>, and
+	  the Chindina field is given for the expense of lights to Buddha.
+	  Who cuts off (this grant) is guilty of the five great sins.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

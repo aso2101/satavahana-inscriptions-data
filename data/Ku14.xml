@@ -3,16 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K7">
-
+     xml:id="Ku14">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 7 (of Sihadhaya)</title>
+	<title>Kuḍā No. 14</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K7</idno><!-- ID follows Senart !-->
+	<idno>Ku14</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -21,14 +20,10 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave,
-		on the top of the third pillar; left row.
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		on the back of the cistern beyond the tank near cave no. 7.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
+	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -41,26 +36,30 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:K"/>
-	  <citedRange>no. 7</citedRange>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 14</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName> yavanasa
-	  <persName key="pers:Sihadhaya">sihadhayāna</persName> 
-	  thaṃbho dānaṃ
+	    maṃdavānaṃ
+	    para<choice><sic>sa</sic><corr>si</corr></choice>vama<lb n="2" break="no"/>sa
+	    pa <choice><sic>pa</sic><corr>pu</corr></choice>tasa
+	    <persName key="pers:Kumāra">kumārasa</persName>
+	  <lb n="3"/>
+	    madavasa deyadhama  
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  (This) pillar (is) the gift of the Yavana
-	  <persName key="pers:Sihadhaya">Sihadaya</persName>
-	  from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	  This meritorious gift of Maṇḍava
+	  <persName key="pers:Kumāra">Kumāra</persName>, son of
+	  <persName key="pers:Śivama2">Śivama</persName>, the
+	  chief of the Maṇḍavas.
 	</p>
       </div>
     </body>

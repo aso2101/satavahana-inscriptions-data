@@ -19,8 +19,16 @@
     <geo>73.470556 18.783287</geo>
   </place>
 
-  <place xml:id="Dhenukākaṭaka">
-    <placeName type="ancient" xml:lang="mi-Latn">Dhenukākaṭaka</placeName>
+  <place xml:id="Karahākaṭa">
+    <placeName type="ancient" xml:lang="sa-Latn">Karahākaṭa</placeName>
+    <placeName type="ancient" xml:lang="mi-Latn">Karahākaḍa</placeName>
+    <placeName type="modern" xml:lang="ma-Latn">Karāḍ</placeName>
+    <geo>74.182149 17.290456</geo>
+  </place>
+  
+  <place xml:id="Śelarvāḍī">
+    <placeName type="modern" xml:lang="ma-Latn">Śelarvāḍī</placeName>
+    <geo>73.757232 18.670210</geo>
   </place>
 
   <place xml:id="Nāgārjunakoṇḍa">
@@ -31,8 +39,19 @@
   <place xml:id="Māmāḍa">
     <placeName type="ancient" xml:lang="mi-Latn">Māmāḍa</placeName>
     <placeName type="ancient" xml:lang="mi-Latn">Māmāla</placeName>
-    <placeName type="modern" xml:lang="ma-Latn">Māval</placeName>
+    <placeName type="modern" xml:lang="ma-Latn">Māvaḷ</placeName>
     <geo>73.447519 18.757986</geo>
+    <note>The ancient region of Māmāḍa corresponds more or less to the modern district of Māvaḷ. <ref target="bibl:Kosambi1955">Kosambi (1995)</ref> discussed the inscriptions located in this district, which include those as <ref target="pl:Śelarvāḍī">Śelarvāḍī</ref>, <ref target="pl:Beḍsā">Beḍsā</ref>, <ref target="pl:Bhājā">Bhājā</ref>, and <ref target="pl:Valūraka">Karle</ref>.</note>
+  </place>
+
+  <place xml:id="Bhājā">
+    <placeName type="modern" xml:lang="ma-Latn">Bhājā</placeName>
+    <geo>73.481632 18.728027</geo>
+  </place>
+
+  <place xml:id="Beḍsā">
+    <placeName type="modern" xml:lang="ma-Latn">Beḍsāg</placeName>
+    <geo>73.535467 18.720860</geo>
   </place>
 
   <place xml:id="Ujjayinī">
@@ -58,7 +77,7 @@
     <placeName type="ancient" xml:lang="gr">κορουγγαλα</placeName>
     <placeName type="modern" xml:lang="te-Latn">Warangal</placeName>
     <geo>79.598865 17.973580</geo>
-    <note>Mentioned in Ptolemy’s Geography, 7.1.93. The identification with Warangal is doubtful.</note>
+    <!--<note>Mentioned in Ptolemy’s Geography, 7.1.93. The identification with Warangal is doubtful.</note>!-->
   </place>
 
   <place xml:id="Kurnool">
@@ -83,6 +102,14 @@
     <geo>73.748842 19.940015</geo>
   </place>
 
+  <place xml:id="Dhenukākaṭa">
+    <placeName type="ancient" xml:lang="mi-Latn">Dhenukākaṭa</placeName>
+    <placeName type="ancient" xml:lang="mi-Latn">Dhenukākaṭaka</placeName>
+    <placeName type="modern" xml:lang="ma-Latn">Devghaṛ</placeName>
+    <geo>73.469702 18.754397</geo>
+    <!-- <note>Identified with Devghar, just south of <ref target="pl:Valūraka">Karle</ref>, by <ref target="bibl:Kosambi1955">Kosambi</ref>.</note> !-->
+  </place>
+  
   <place xml:id="Nāṇeghāṭ">
     <placeName type="modern" xml:lang="ma-Latn">Nāṇeghāṭ</placeName>
     <geo>73.6799 19.3064</geo>
@@ -107,7 +134,7 @@
     <placeName type="modern" xml:lang="ka-Latn">Sannati</placeName>
     <geo>76.908 16.829</geo>
   </place>
-
+g
   <place xml:id="Sāñcī">
     <placeName type="modern" xml:lang="hi-Latn">Sāñcī</placeName>
     <geo>77.739580 23.479318</geo>
@@ -120,11 +147,6 @@
     <geo>72.788 19.418</geo>
   </place>
 
-  <place xml:id="Junnar">
-    <placeName type="modern" xml:lang="ma-Latn">Junnar</placeName>
-    <geo>73.877 19.209</geo>
-  </place>
-
   <place xml:id="Kalyāṇa">
     <placeName type="ancient" xml:lang="sa-Latn">Kalyāṇa</placeName>
     <placeName type="modern" xml:lang="ma-Latn">Kalyāṇ</placeName>
@@ -133,26 +155,20 @@
 
   <place xml:id="China">
     <placeName type="modern" xml:lang="en">China</placeName>
-    <placeName type="modern" xml:lang="te-Latn">Chinnaganjam</placeName>
+    <placeName type="gmodern" xml:lang="te-Latn">Chinnaganjam</placeName>
     <geo>80.239710 15.697857</geo>
-  </place>
-
-  <place xml:id="Chemura">
-    <placeName type="ancient" xml:lang="sa-Latn">Chemura</placeName>
-    <placeName type="modern">Chaul</placeName>
-    <geo>72.927 18.5461</geo>
   </place>
 
   <place xml:id="Cakora">
     <placeName xml:lang="sa-Latn">Cakora</placeName>
     <placeName xml:lang="gr-Latn">Tiagoura</placeName>
-    <p>According to Ptolemy, Tiagoura is 1°10' west and 1°40' south of <placeName key="pl:Ujjayinī">Ujjayinī</placeName> (<ref target="bibl:Levi1936">Lévi 1936</ref>).</p>
+    <!-- <p>According to Ptolemy, Tiagoura is 1°10' west and 1°40' south of <placeName key="pl:Ujjayinī">Ujjayinī</placeName> (<ref target="bibl:Levi1936">Lévi 1936</ref>).</p> !-->
   </place>
 
   <place xml:id="Seṭagiri">
     <placeName type="ancient" xml:lang="mi-Latn">Seṭagiri</placeName>
     <placeName type="ancient" xml:lang="gr-Latn">Xērogerei</placeName>
-    <p>According to Ptolemy, Xērogerei is 0°40' west and 0°40' north of <placeName key="pl:Ujjayinī">Ujjayinī</placeName> (<ref target="bibl:Levi1936">Lévi 1936</ref>).</p>
+    <!--<p>According to Ptolemy, Xērogerei is 0°40' west and 0°40' north of <placeName key="pl:Ujjayinī">Ujjayinī</placeName> (<ref target="bibl:Levi1936">Lévi 1936</ref>).</p>!-->
   </place>
 
   <place xml:id="Kṛṣṇagiri">
@@ -164,11 +180,6 @@
   <place xml:id="Kuḍā">
     <placeName type="modern" xml:lang="ma-Latn">Kuḍā</placeName>
     <geo>73.083 18.283</geo>
-  </place>
-
-  <place xml:id="Mahāḍ">
-    <placeName type="modern" xml:lang="ma-Latn">Mahāḍ</placeName>
-    <geo>73.417 18.063</geo>
   </place>
 
   <place xml:id="Kol">
@@ -183,9 +194,14 @@
 
   <place xml:id="Pitalkhorā">
     <placeName type="modern" xml:lang="ma-Latn">Pitalkhorā</placeName>
-    <geo>74.992525 20.31405</geo>
+    <geo>74.993175 20.312931</geo>
   </place>
 
+  <place xml:id="Mahāḍ">
+    <placeName type="modern" xml:lang="ma-Latn">Mahāḍ</placeName>
+    <geo>73.417 18.063</geo>
+  </place>
+  
   <place xml:id="Pratiṣṭhāna">
     <placeName type="ancient" xml:lang="sa-Latn">Pratiṣṭhāna</placeName>
     <placeName type="ancient" xml:lang="mi-Latn">Païṭṭhāṇa</placeName>
@@ -193,6 +209,17 @@
     <placeName type="ancient" xml:lang="gr-Latn">Baithana</placeName>
     <placeName type="modern" xml:lang="ma-Latn">Paiṭhan</placeName>
     <geo>75.39919 19.46091</geo>
+  </place>
+
+  <place xml:id="Junnar">
+    <placeName type="modern" xml:lang="ma-Latn">Junnar</placeName>
+    <geo>73.877 19.209</geo>
+  </place>
+
+  <place xml:id="Chemura">
+    <placeName type="ancient" xml:lang="sa-Latn">Chemura</placeName>
+    <placeName type="modern">Chaul</placeName>
+    <geo>72.927 18.5461</geo>
   </place>
 
 </listPlace>

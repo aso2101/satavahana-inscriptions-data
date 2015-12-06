@@ -3,16 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K7">
-
+     xml:id="Pi2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 7 (of Sihadhaya)</title>
+	<title>Pitalkhorā No. 2 (of the sons of Saṃghaka)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K7</idno><!-- ID follows Senart !-->
+	<idno>Pi2</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -21,14 +20,10 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave,
-		on the top of the third pillar; left row.
+		<placeName type="modern" key="pl:Pitalkhorā">Pitalkhorā</placeName>,
+		in the caitya cave.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
+	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -41,26 +36,26 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:K"/>
-	  <citedRange>no. 7</citedRange>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Pitalkhorā No. 2</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName> yavanasa
-	  <persName key="pers:Sihadhaya">sihadhayāna</persName> 
-	  thaṃbho dānaṃ
+	  <placeName key="pl:Pratiṣṭhāna">patiṭhānā</placeName>
+	  <persName key="pers:Saṃghaka">saghakasa</persName>
+	  pu<lb n="2" break="no"/>tana ṭhabo dānaṃ
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  (This) pillar (is) the gift of the Yavana
-	  <persName key="pers:Sihadhaya">Sihadaya</persName>
-	  from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	  A pillar, the gift of the sons of 
+	  <persName key="pers:Saṃghaka">Saṃghaka</persName>, from
+	  <placeName key="pl:Pratiṣṭhāna">Pratiṣṭhāna</placeName>.
 	</p>
       </div>
     </body>

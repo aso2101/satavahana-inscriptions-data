@@ -3,16 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K10">
-
+     xml:id="Pi1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 10 (of Dharma)</title>
+	<title>Pitalkhorā No. 1 (of Mitradeva)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K10</idno><!-- ID follows Senart !-->
+	<idno>Pi1</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -21,14 +20,10 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave,
-		on the fourth pillar; left row.
+		<placeName type="modern" key="pl:Pitalkhorā">Pitalkhorā</placeName>,
+		in the caitya cave.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
+	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -41,25 +36,29 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:K"/>
-	  <citedRange>no. 10</citedRange>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Pitalkhorā No. 1</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. Senart has misgivings about the reading, which he reproduces from AS and CTI.</p>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. They remark that “this inscription shows pure Aśoka or Maurya characters.”</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	    <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName>
+	  <placeName key="pl:Pratiṣṭhāna">patiṭhāṇā</placeName>
+	  <persName key="pers:Mitradeva">mitadevasa</persName>
 	  <lb n="2"/>
-	    <persName key="pers:Dharma">dhaṃma</persName>yavanasa
+	  gādhikasa kulasa
+	  <unclear>ṭhab</unclear>o dāna<unclear>ṃ</unclear>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  <persName key="pers:Dharma">Dharma</persName>,
-	  <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	  A pillar, the gift of
+	  <persName key="pers:Mitradeva">Mitradeva</persName>
+	  of the Gāḍhi family, from
+	  <placeName key="pl:Pratiṣṭhāna">Pratiṣṭhāna</placeName>.
 	</p>
       </div>
     </body>

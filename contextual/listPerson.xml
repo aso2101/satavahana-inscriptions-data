@@ -50,6 +50,26 @@
     <persName>Svātimitra</persName>
   </person>
 
+  <person xml:id="Mitradeva" sex="male">
+    <persName>Mitradeva</persName>
+    <note>of the Gādhika family</note>
+  </person>
+
+  <person xml:id="Saṃghaka" sex="male">
+    <persName>Saṃghaka</persName>
+  </person>
+
+  <person xml:id="Mṛgila" sex="male">
+    <persName>Vātsīputra Mṛgila</persName>
+    <occupation>Royal physician (rājavaidya)</occupation>
+  </person>
+  <person xml:id="Dattā" sex="female">
+    <persName>Dattā</persName>
+  </person>
+  <person xml:id="Dattaka" sex="male">
+    <persName>Dattaka</persName>
+  </person>
+
   <person xml:id="BhSvātimitra" sex="male">
     <persName>Svātimitra</persName>
     <faith>Buddhist</faith>
@@ -116,6 +136,12 @@
 
   <person xml:id="Bhadrasama" sex="male">
     <persName>Bhadrasama</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Bhikṣu</state>
+  </person>
+
+  <person xml:id="Buddhasiṃgha" sex="male">
+    <persName>Buddhasiṃgha</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhikṣu</state>
   </person>
@@ -190,11 +216,29 @@
     <state type="religious">Bhadanta</state>
   </person>
 
+  <person xml:id="Ghaürā" sex="female">
+    <persName>Ghaüra</persName>
+    <faith>Buddhist</faith>
+  </person>
+  <person xml:id="Budhā" sex="female">
+    <persName>Budhā</persName>
+  </person>
+  <person xml:id="Saṃghā" sex="female">
+    <persName>Saṃghā</persName>
+  </person>
+
   <person xml:id="BhVaraṇabhūti" sex="male">
     <persName>Varaṇabhūti</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
     <state type="religious">Upādhyāya</state>
+  </person>
+
+  <person xml:id="BhVijaya" sex="male">
+    <persName>Vijaya</persName>
+    <faith>Buddhist</faith>
+    <state type="religious">Sthavira</state>
+    <state type="religious">Bhadanta</state>
   </person>
 
   <person xml:id="Dharmaśrī" sex="female">
@@ -228,6 +272,38 @@
   </person>
   <!-- student of Padumanikā !-->
 
+  <person xml:id="Nanda" sex="male">
+    <persName>Nanda</persName>
+  </person>
+
+  <person xml:id="Siṃhaguptaṇikā" sex="female">
+    <persName>Siṃhaguptaṇikā</persName>
+    <state>kuṭumbinī</state>
+  </person>
+  <person xml:id="Ṛṣabhaṇaka" sex="male">
+    <persName>Ṛṣabhaṇaka</persName>
+    <state>kuṭumbin</state>
+    <residence><placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName></residence>
+  </person>
+
+  <person xml:id="Bodhī2" sex="female">
+    <persName>Bodhī</persName>
+    <state type="religious">antevāsinī</state>
+  </person>
+
+  <person xml:id="Sarpilā" sex="female">
+    <persName>Sarpilā</persName>
+    <state type="religious">antevāsinī</state>
+  </person>
+
+  <person xml:id="Veṇhuyā" sex="female">
+    <persName>Veṇhuyā</persName>
+  </person>
+
+  <person xml:id="Lohitā" sex="female">
+    <persName>Lohitā</persName>
+  </person>
+
   <person xml:id="Apareṇuka" sex="male">
     <persName>Apareṇuka</persName>
   </person>
@@ -252,6 +328,44 @@
     <residence><placeName key="pl:Kalyāṇa">Kalyāṇa</placeName></residence>
   </person>
 
+  <person xml:id="Mugudāsa" sex="male">
+    <persName>Mugudāsa</persName>
+    <occupation>gardener</occupation>
+  </person>
+
+  <person xml:id="Nāga1" sex="male">
+    <persName>Nāga</persName>
+    <occupation>trader (sārthavāha)</occupation>
+  </person>
+
+  <person xml:id="Svāmi2" sex="male">
+    <persName>Svāmi</persName>
+  </person>
+
+  <person xml:id="Vasulaṇaka" sex="male">
+    <persName>Vasulaṇaka</persName>
+    <occupation>merchant (śreṭḥin)</occupation>
+  </person>
+
+  <person xml:id="Aṣāḍhamitra" sex="male">
+    <persName>Aṣāḍhamitra</persName>
+  </person>
+  <person xml:id="Acaladāsa" sex="male">
+    <persName>Acaladāsa</persName>
+    <occupation>trader (sārthavāha)</occupation>
+  </person>
+
+  <person xml:id="Śivadattā2" sex="female">
+    <persName>Śivadattā</persName>
+  </person>
+  <person xml:id="Pusaṇaka" sex="male">
+    <persName>Pusaṇaka</persName>
+  </person>
+  <person xml:id="Vehamitra" sex="male">
+    <persName>Vehamitra</persName>
+    <occupation>trader (sārthavāha)</occupation>
+  </person>
+
   <person xml:id="Nāgaṇaka" sex="male">
     <persName>Nāgaṇaka</persName>
     <residence><placeName key="pl:Nasik">Nāsikya</placeName></residence>
@@ -269,7 +383,7 @@
   <person xml:id="Siṃhadatta" sex="male">
     <persName>Siṃhadatta</persName>
     <occupation>perfumer</occupation>
-    <residence><placeName key="pl:Dhenukaṭaka">Dhenukaṭaka</placeName></residence>
+    <residence><placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName></residence>
   </person>
 
   <person xml:id="Bhāyilā" sex="female">
@@ -312,27 +426,234 @@
     <persName>Gṛhapati</persName>
   </person>
 
-  <person xml:id="Saḍagerī" sex="female">
+<!-- Bhājā people !-->
+  <person xml:id="Naḍasava" sex="male">
+    <persName>Naḍasava</persName>
+    <note>He is described as nāya-, which <ref target="bibl:CTI">Burgess and Indraji 1881</ref> equate with the clan Jñāta- (to which Vardhamāna belonged); it could equally be Nāga-.</note>
+  </person>
+
+  <person xml:id="Viṣṇudatta" sex="male">
+    <persName>Kauśikīputra Viṣṇudatta</persName>
+    <state type="political">Mahāraṭṭhi</state>
+  </person>
+
+  <person xml:id="BhDharmagiri" sex="male">
+    <persName>Dharmagiri</persName>
+    <state type="religious">Bhadanta</state>
+    <state type="religious">Sthavira</state>
+  </person>
+
+  <person xml:id="BhAṃpikiṇaka" sex="male">
+    <persName>Aṃpikiṇaka</persName>
+    <state type="religious">Bhadanta</state>
+    <state type="religious">Sthavira</state>
+  </person>
+
+  <person xml:id="BhSaṃghadinna" sex="male">
+    <persName>Saṃghadinna</persName>
+    <state type="religious">Bhadanta</state>
+    <state type="religious">Sthavira</state>
+  </person>
+
+  <person xml:id="Bādhā" sex="female">
+    <persName>Bādhā</persName>
+    <note>the wife of a hālika</note>
+  </person>
+
+<!-- Beḍsā people !-->
+  <person xml:id="Gobhūti" sex="male">
+    <persName>Gobhūti</persName>
+  </person>
+
+  <person xml:id="BhaṭṭaAṣāḍhamitra" sex="male">
+    <persName>Bhaṭṭa Aṣāḍhamitra</persName>
+    <residence><placeName key="pl:Mārakuḍa">Mārakuḍa</placeName></residence>
+  </person>
+
+  <person xml:id="Sāmaḍinikā" sex="female">
+    <persName>Sāmaḍinikā</persName>
+    <state type="political">daughter of a Mahābhoja</state>
+    <state type="political">Mahādevī</state>
+    <state type="political">Mahāraṭṭhinī</state>
+  </person>
+
+  <person xml:id="Āpadevaṇaka" sex="male">
+    <persName>Āpadevaṇaka</persName>
+
+  </person>
+
+  <person xml:id="Ānanda2" sex="male">
+    <persName>Ānanda</persName>
+    <occupation>seṭhi</occupation>
+  </person>
+
+  <person xml:id="Puṣyaṇaka" sex="male">
+    <persName>Puṣyaṇaka</persName>
+    <residence><placeName key="pl:Nāsikya">Nāsikya</placeName></residence>
+  </person>
+
+<!-- these are the rulers at Kuḍā !-->
+  <person xml:id="SāḍagerīVijayā" sex="female">
     <persName>Saḍagerī Vijayā</persName>
     <state type="political">Mahābhojī</state>
   </person>
+  
   <person xml:id="Skandapālita" sex="male">
     <persName>Māṇḍavya Skandapālita</persName>
     <state type="political">Mahābhojī</state>
   </person>
-  <person xml:id="Śivabhūti" sex="male">
-    <persName>Śivabhūti</persName>
-  </person>
-  <person xml:id="Nandā" sex="female">
-    <persName>Nandā</persName>
+
+<!-- this is a family of official servants at Kuḍā !-->
+<!-- first generation: Sulasadatta, Uttaradattā !-->  
+  <person xml:id="Sulasadatta" sex="male">
+    <persName>Sulasadatta</persName>
   </person>
   <person xml:id="Uttaradattā" sex="female">
     <persName>Uttaradattā</persName>
   </person>
-  <person xml:id="Sulasadatta" sex="male">
-    <persName>Sulasadatta</persName>
+
+  <person xml:id="Kumāra" sex="male">
+    <persName>Kumāra</persName>
+  </person>
+  <person xml:id="Śivama2" sex="male">
+    <persName>Śivama</persName>
   </person>
 
+<!-- second generation: Śivabhūti (m. Nandā) and Śivama (m. Vijayā) !-->
+  <person xml:id="Śivabhūti" sex="male">
+    <persName>Śivabhūti</persName>
+    <occupation>lekhaka</occupation>
+  </person>
+  <person xml:id="Nandā" sex="female">
+    <persName>Nandā</persName>
+  </person>
+  <person xml:id="Śivama" sex="male">
+    <persName>Śivama</persName>
+  </person>
+  <person xml:id="Vijayā" sex="female">
+    <persName>Vijayā</persName>
+  </person>
+
+<!-- third generation: children of Śivama and Vijayā !-->
+  <person xml:id="Sulasadatta2" sex="male">
+    <persName>Sulasadatta</persName>
+  </person>
+  <person xml:id="Śivapālita" sex="male">
+    <persName>Śivapālita</persName>
+  </person>
+  <person xml:id="Śivadatta" sex="male">
+    <persName>Śivadatta</persName>
+  </person>
+  <person xml:id="Sarpila" sex="male">
+    <persName>Sarpila</persName>
+  </person>
+  <person xml:id="Sarpā" sex="female">
+    <persName>Sarpā</persName>
+  </person>
+  <person xml:id="Śivapālita" sex="female">
+    <persName>Śivapālitā</persName>
+  </person>
+  <person xml:id="Śivadattā" sex="female">
+    <persName>Śivadattā</persName>
+  </person>
+  <person xml:id="Sulasadattā" sex="female">
+    <persName>Sulasadattā</persName>
+  </person>
+
+<!-- three generations mentioned at Ku 13 !-->
+  <person xml:id="Ṛṣirakṣita" sex="male">
+    <persName>Ṛṣirakṣita</persName>
+  </person>
+  <person xml:id="Somadeva" sex="male">
+    <persName>Somadeva</persName>
+    <occupation>physician</occupation>
+  </person>
+  <person xml:id="Nāga" sex="male">
+    <persName>Nāga</persName>
+  </person>
+  <person xml:id="Ṛṣirakṣita2" sex="male">
+    <persName>Ṛṣirakṣita</persName>
+  </person>
+  <person xml:id="Śivaghoṣa" sex="male">
+    <persName>Śivaghoṣa</persName>
+  </person>
+  <person xml:id="Ṛṣipālitā" sex="female">
+    <persName>Ṛṣipālitā</persName>
+  </person>
+  <person xml:id="Puṣyā" sex="female">
+    <persName>Puṣyā</persName>
+  </person>
+  <person xml:id="Dharmā" sex="female">
+    <persName>Dharmā</persName>
+  </person>
+  <person xml:id="Sarpā2" sex="female">
+    <persName>Sarpā</persName>
+  </person>
+
+  <person xml:id="Bhayilā" sex="female">
+    <persName>Bhayilā</persName>
+    <trait>Brāhmaṇī</trait>
+  </person>
+  <person xml:id="Bhayilā" sex="female">
+    <persName>Ayitilu</persName>
+    <state type="religious">upāsaka</state>
+    <trait>Brāhmaṇa</trait>
+  </person>
+
+  <person xml:id="Sivapirita" sex="male">
+    <persName>Sivapirita</persName>
+    <occupation>gardener</occupation>
+  </person>
+  <person xml:id="Vadhuka" sex="male">
+    <persName>Vadhuka</persName>
+    <occupation>gardener</occupation>
+  </person>
+
+  <person xml:id="Mahika" sex="male">
+    <persName>Mahika</persName>
+    <occupation>ironmonger</occupation>
+    <residence><placeName key="pl:Karahākaḍa">Karahākaḍa</placeName></residence>
+  </person>
+
+  <person xml:id="Vasula" sex="male">
+    <persName>Vasula</persName>
+    <occupation>merchant</occupation>
+  </person>
+  <person xml:id="Ahila" sex="male">
+    <persName>Ahila</persName>
+  </person>
+  <person xml:id="Rāmadatta" sex="male">
+    <persName>Rāmadatta</persName>
+  </person>
+  <person xml:id="Velīdattā" sex="female">
+    <persName>Velīdattā</persName>
+  </person>
+
+<!-- ministers etc. !-->
+
+  <person xml:id="Hāla" sex="male">
+    <persName>Hāla</persName>
+    <state type="political">rājāmātya</state>
+  </person>
+
+  <person xml:id="Goyaṃmā" sex="female">
+    <persName>Goyaṃmā</persName>
+  </person>
+
+  <person xml:id="SāḍakaraSudaṃsaṇa" sex="male">
+    <persName>Sāḍakara Sudarśana</persName>
+    <state type="political">mahābhoja</state>
+  </person>
+
+  <person xml:id="Vijayanikā" sex="female">
+    <persName>Vijayanikā</persName>
+  </person>
+
+  <person xml:id="Velīdatta" sex="male">
+    <persName>Velīdatta</persName>
+    <state type="political">mahābhoja mandava</state>
+  </person>
+  
 <!-- Sātavāhana Kings, Queens, etc. !-->
 
   <person xml:id="VpŚrīChimuka" sex="male">
@@ -449,9 +770,49 @@
     <relation name="sibling" mutual="#Gajasena #Gajamitra"/>
     <relation name="parent" active="#Ānanda" passive="#Apareṇuka"/>
     <relation name="spouse" mutual="#Śivapālitanikā #Dharmaṇaka"/>
+
+    <!-- the complicated family tree of the officials
+	 mentioned at Kuḍā !-->
+    <relation name="parent" active="#SāḍagerīVijayā" passive="Skandapālita"/>
+    
     <relation name="spouse" mutual="#Śivabhūti #Nandā"/>
-    <relation name="parent" active="#Uttaradattā #Śivabhūti"/>
-    <relation name="parent" active="#Sulasadatta #Śivabhūti"/>
+    <relation name="parent" active="#Uttaradattā" passive="#Śivabhūti"/>
+    <relation name="parent" active="#Uttaradattā" passive="#Śivama"/>  
+    <relation name="parent" active="#Sulasadatta" passive="#Śivabhūti"/>
+    <relation name="parent" active="#Sulasadatta" passive="#Śivama"/>
+    <relation name="spouse" mutual="# #Uttaradattā"/>
+    <relation name="sibling" mutual="#Śivama #Śivabhūti"/>
+    <relation name="spouse" mutual="#Śivama #Vijayā"/>
+    <relation name="parent" active="#Śivama" passive="#Sulasadatta2"/>
+    <relation name="parent" active="#Vijayā" passive="#Sulasadatta2"/>
+    <relation name="parent" active="#Śivama" passive="#Śivapālita"/>
+    <relation name="parent" active="#Vijayā" passive="#Śivapālita"/>
+    <relation name="parent" active="#Śivama" passive="#Śivadatta"/>
+    <relation name="parent" active="#Vijayā" passive="#Śivadatta"/>
+    <relation name="parent" active="#Śivama" passive="#Sarpila"/>
+    <relation name="parent" active="#Vijayā" passive="#Sarpila"/>
+    <relation name="parent" active="#Śivama" passive="#Sarpā"/>
+    <relation name="parent" active="#Vijayā" passive="#Sarpā"/>
+    <relation name="parent" active="#Śivama" passive="#Śivapālitā"/>
+    <relation name="parent" active="#Vijayā" passive="#Śivapālitā"/>
+    <relation name="parent" active="#Śivama" passive="#Śivadattā"/>
+    <relation name="parent" active="#Vijayā" passive="#Śivadattā"/>
+    <relation name="parent" active="#Śivama" passive="#Sulasadattā"/>
+    <relation name="parent" active="#Vijayā" passive="#Sulasadattā"/>
+
+    <relation name="parent" active="#Ṛṣirakṣita" passive="#Somadeva"/>
+    <relation name="parent" active="#Somadeva" passive="#Nāga"/>
+    <relation name="parent" active="#Somadeva" passive="#Ṛṣirakṣita2"/>
+    <relation name="parent" active="#Somadeva" passive="#Śivaghoṣa"/>
+    <relation name="parent" active="#Somadeva" passive="#Ṛṣipālitā"/>
+    <relation name="parent" active="#Somadeva" passive="#Puṣyā"/>
+    <relation name="parent" active="#Somadeva" passive="#Dharmā"/>
+    <relation name="parent" active="#Somadeva" passive="#Sarpā2"/>
+
+    <relation name="spouse" mutual="#Ayitilu #Bhayilā"/>
+
+    <relation name="parent" active="#Vadhuka" passive="#Sivapirita"/>
+    
     <relation name="parent" active="#Bhāyilā" passive="#Mahādevaṇaka"/>
     <relation name="parent" active="#Veṇuvāsa" passive="#Svāmi"/>
     <relation name="parent" active="#KpMitradeva" passive="#VpSomadeva"/>
@@ -464,6 +825,34 @@
     <relation name="sibling" mutual="#Kṛṣṇaśrī #Saṅghaka"/>
     <relation name="parent" active="#Nāginikā" passive="#Padumanikā"/>
     <relation name="teacher" active="#Padumanikā" passive="#Bodhi"/>
-    <relation name="teacher" active="#Padumanikā" passive="#Aṣāḍhamitrā"/>    
+    <relation name="teacher" active="#Padumanikā" passive="#Aṣāḍhamitrā"/>
+
+    <relation name="parent" active="#Hāla" passive="#Goyaṃmā"/>
+    <relation name="parent" active="#SāḍakaraSudaṃsaṇa" passive="#Vijayanikā"/>
+    <relation name="parent" active="#Ahila" passive="#Rāmadatta"/>
+    <relation name="spouse" mutual="#Rāmadatta #Velīdattā"/>
+
+    <relation name="teacher" active="#BhVijaya" passive="#Sarpilā"/>
+    <relation name="teacher" active="#Sarpilā" passive="#Bodhī2"/>
+
+    <relation name="parent" active="#Svāmi2" passive="#Nāga1"/>
+    
+    <relation name="parent" active="#Śivadattā2" passive="#Pusaṇaka"/>
+    <relation name="spouse" mutual="#Śivadattā2 #Vehamitra"/>
+    <relation name="parent" active="#Acaladāsa" passive="#Aṣāḍhamitra"/>
+    <relation name="parent" active="#Śivama2" passive="#Kumāra"/>
+
+    <relation name="spouse" mutual="#Ṛṣabhaṇaka #Siṃhaguptaṇikā"/>
+    <relation name="parent" active="#Siṃhaguptaṇikā" passive="#Nanda"/>
+    <relation name="parent" active="#Mṛgila" passive="#Dattā"/>
+    <relation name="parent" active="#Mṛgila" passive="#Dattaka"/>
+
+    <relation name="teacher" active="#BhSiṃha" passive="#Ghaüra"/>
+    <relation name="parent" active="#Ghaüra" passive="#Budhā"/>
+    <relation name="parent" active="#Ghaüra" passive="#Saṃghā"/>
+
+    <relation name="spouse" mutual="#Āpadevaṇaka #Sāmaḍinikā"/>
+
+    <relation mame="parent" active="#Ānanda2" passive="#Puṣyaṇaka"/>
   </listRelation>
 </listPerson>

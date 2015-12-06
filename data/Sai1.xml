@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Sai1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Śelarvāḍī No. 1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Sai1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Śelarvāḍī">Śelarvāḍī</placeName>,
+		in one of the seven or eight caves there.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Sailarwadi No. 1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1121</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kosambi1955"/>
+	  <citedRange>Śelārvādi 2</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ <placeName key="pl:Dhenukākaṭa">dheṇukākaḍe</placeName>
+	  vāthavasa
+	  <lb n="2"/>
+	  hālikayasa kuḍumbikasa
+	  <persName key="pers:Ṛṣabhaṇaka">usabha<lb n="3"
+	    break="no"/>ṇakasa</persName>
+	  kuḍubiṇiya
+	  <persName key="pers:Siṃhaguptaṇikā">siaguta<lb n="4"
+	    break="no"/>ṇikāya</persName>
+	  deyadhaṃma leṇaṃ saha pute<lb n="5" break="no"/>ṇa
+	  <persName key="pers:Nanda">ṇaṃ<unclear>da</unclear></persName>gahapatiṇā saho
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Siddham. The charitable gift of a cave by the kuṭumbinī
+	  <persName key="pers:Siṃhaguptaṇikā">Siṃhaguptaṇikā</persName>,
+	  wife of the kuṭumbin
+	  <persName key="pers:Ṛṣabhaṇaka">Ṛṣabhaṇaka</persName>,
+	  a ploughman residing in
+	  <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>,
+	  together with her son
+	  <persName key="pers:Nanda">Nanda</persName>, a householder,
+	  with ...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -51,7 +51,7 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭaka">dheṇu<app
+	  <placeName key="pl:Dhenukākaṭa">dheṇu<app
 	    ><lem wit="#K">k<unclear>ā</unclear></lem>
 	     <rdg wit="#CTI #AS">kā</rdg>
 	  </app>kaṭakeṇa</placeName> vaḍhakinā 
@@ -95,7 +95,7 @@
 	  son of
 	  <persName key="pers:Veṇuvāsa">Veṇuvāsa</persName>,
 	  a native of
-	  <placeName key="pl:Dhenukākaṭaka">Dheṇukākaṭaka</placeName>,
+	  <placeName key="pl:Dhenukākaṭa">Dheṇukākaṭaka</placeName>,
 	  there was made the opening of the cave...
 	</p>
       </div>

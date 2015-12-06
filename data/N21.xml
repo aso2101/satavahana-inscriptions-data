@@ -72,10 +72,10 @@
 	    </app><app
 	      ><lem wit="#N #AS">yāva</lem>
 	       <rdg wit="#G">yāca</rdg>
-	    </app> <app
+	    </app> <persName key="pers:Nadāśrī"><app
 	      ><lem wit="#N">nadā</lem>
 	       <rdg wit="#G">nada</rdg>
-	    </app>siriyāva ca <app
+	    </app>siriyāva</persName> ca <app
 	      ><lem wit="#N">veikā</lem>
 	       <rdg wit="#G">veyikā</rdg>
 	    </app> yakho ca <app

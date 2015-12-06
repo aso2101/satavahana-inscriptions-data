@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Sai2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Śelarvāḍī No. 2</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Sai2</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Śelarvāḍī">Śelarvāḍī</placeName>,
+		to the left of the inner entrance to the cave
+		towards the Pavanā valley, which is now
+		used as a Śiva temple.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:DasGupta1949"/>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kosambi1955"/>
+	  <citedRange>Śelārvādi 1</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Kosambi1955">Kosambi 1955</ref>; Burgess and Indraji did not read the inscription.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ
+	  <lb n="2"/>
+	  therānaṃ bha<app><lem wit="#Kosambi1955">yaṃ</lem><rdg
+	    wit="#DasGupta1949"></rdg>ta-<persName
+	    key="pers:BhSiṃha">sihāṇa</persName>
+	  ate-āsiṇiya
+	  <lb n="3"/>
+	  pāvaïti<app><lem
+	    wit="#DasGupta1949">rā<note xml:lang="en">correction by the editor of EI.</note></lem><rdg
+	    wit="#DasGupta1949 #Kosambi1955">kā</rdg></app>ya
+	  <persName key="pers:Ghaürā"><app><lem
+	    wit="#Kosambi1955">ghaürāya</lem><rdg
+	    wit="#DasGupta1949">ghapa<unclear>rā</unclear>ya</rdg></app></persName>
+	  bālikāā
+	  <persName key="pers:Saṃghā">saghāya</persName>
+	  <persName key="pers:Budhā">budhā<lb n="4"
+	    break="no"/>a</persName> ca cetiyagharo
+	  deyadha<unclear>ṃ</unclear>ma mātā-pita <app><lem
+	    wit="#DasGupta1949">u</lem><rdg
+	    wit="#Kosambi1955">ū</rdg></app>disa saha <unclear>ca</unclear>
+	  sa<lb n="5" break="no"/>vehi bhi<app><lem
+	    wit="#Kosambi1955">khu</lem><rdg
+	    wit="#DasGupta1949">khā</rdg></app>-kulehi sa<app><lem
+	    wit="#Kosambi1955">ha</lem><rdg
+	    wit="#DasGupta1949">hā</rdg></app> ca
+	  ācari<app><lem wit="#Kosambi1955">ve</lem><rdg
+	    wit="#DasGupta1949"><unclear>ye</unclear></rdg></app>hi bhatavireyehi sa<lb n="6" break="no"/>māpito
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Siddham. This Caitya-house is the pious gift
+	  for the merit of their parents and presented for
+	  the use of all categories of alsmen, belonging to
+	  schools founded by diverse teachers, by
+	  <persName key="pers:Saṃghā">Saṃghā</persName>
+	  and <persName key="pers:Budhā">Budhā</persName>,
+	  daughters of <persName key="pers:Ghaürā">Ghaürā</persName>,
+	  the disciple of the Reverend Elder
+	  <persName key="pers:BhSiṃha">Siṃha</persName>,
+	  who took holy orders.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

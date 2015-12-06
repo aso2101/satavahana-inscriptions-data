@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Be1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Beḍsā No. 1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Be1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Beḍsā">Beḍsā</placeName>,
+		on the rock behind a stūpa.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Beḍsā No. 1</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/><gap reason="lost"
+	                  quantity="12"
+			  unit="character"
+			  precision="low"/>
+	  ya <persName key="pers:Gobhūti">gobhūtinaṃ</persName> 
+	  āraṇakāna peṇḍapātikānaṃ 
+	  <placeName key="pl:Mārakuḍa">mārakuḍa</placeName>vāsīnaṃ thupo
+	  <lb n="2"/><gap reason="lost"
+	                  quantity="12"
+			  unit="character"
+			  precision="low"/>
+	  vāsinā <persName key="pers:BhaṭṭaAṣāḍhamitra">bhatāsāḷamitena</persName>
+	  kārita
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The stūpa of 
+	  <persName key="pers:Gobhūti">Gobhūti</persName>,
+	  native of 
+	  <placeName key="pl:Mārakuḍa">Mārakuḍa</placeName>,
+	  an Āraṇaka and Peḍapātika. Caused to be made by 
+	  <persName key="pers:BhaṭṭaAṣāḍhamitra">Bhaṭṭa Aṣāḍhamitra</persName>,
+	  inhabitant of...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

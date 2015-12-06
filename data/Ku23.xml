@@ -3,15 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ku4">
+     xml:id="Ku23">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 4</title>
+	<title>Kuḍā No. 23</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Ku4</idno><!-- ID follows CTI !-->
+	<idno>Ku23</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 5, on the right-hand wall.
+		Cave No. 15, in a long line on the left end and left of
+		back walls near the roof.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -37,34 +38,37 @@
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:CTI"/>
-	  <citedRange>Kuḍā No. 4</citedRange>
+	  <citedRange>Kuḍā No. 21</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="commentary" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  sidhaṃ therā<unclear>ṇaṃ bhadaṃta</unclear><persName 
-	    key="pers:Śivadatta">sivada<lb n="2" break="no"/>taṇa</persName>
-	  aṃ<unclear>tevāsino</unclear> 
-	  pava<supplied reason="lost">i</supplied>ta<lb n="3" break="no"/>sa
-	  goa<gap reason="lost"
-	          unit="character"
-		  quantity="5"/><supplied reason="lost">i</supplied>ma
-	  leṇaṃ
-	  <lb n="4"/>
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="7"/>sātimita<lb n="5" break="no"/>ya
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="9"/>yiya
+	    mahābhoje maṃdave kochipute
+	    <persName key="pers:Velīdatta">velīdate</persName>
+	    <persName key="pers:Ahila">ahilasa</persName> putasa
+	    adhagachakasa
+	    <persName key="pers:Rāmadatta">rāmadatasa</persName>
+	    deyadhama cetiyagharo uparako
+	    ca bhayāva sa
+	    <persName key="pers:Velīdattā">velīdatāva</persName>
+	    deyadhaṃmaṃ uyarako
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
+	  The meritorious gift of a caityagṛha and cell by
+	  <persName key="pers:Rāmadatta">Rāmadatta</persName>
+	  the Adhagacchaka, the son of
+	  <persName key="pers:Ahila">Ahila</persName>,
+	  when Kautsīputra 
+	  <persName key="pers:Velīdatta">Velīdatta</persName>
+	  was Mahābhoja Mandava, and by his wife
+	  <persName key="pers:Velīdattā">Velīdattā</persName>
+	  the meritorious gift of a cell.
 	</p>
       </div>
     </body>

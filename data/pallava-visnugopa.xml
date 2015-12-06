@@ -57,97 +57,110 @@
 	  </history>
 	</msDesc>
       </sourceDesc>
-      <profileDesc>
-      </profileDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Reddy2000"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Reddy2000">Reddy and Krishna Reddy 2000</ref>. 
+	Emendations by Andrew Ollett on the basis of the plates provided in that article.</p>
+      </div>
       <div type="edition" xml:lang="sa-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <bibl key="bibl:Reddy2000">Reddy and Krishna Reddy 2000</bibl>. 
-	  Emendations by Andrew Ollett on the basis of the plates provided in that article.</p>
-	</div>
 	<div type="textpart"
 	     subtype="plate"
 	     n="1A">
-	  <lb n="1"/>
-	  siddhaṃ <supplied reason="omitted">||</supplied> 
-	  <placeName key="pl:Vijayasthāna">vijayathāṇā</placeName> 
-	  mahārājassa appadihatasāsaṇassa
-	  sāma<lb n="2" break="no"/>ntavinītavikrātayasassa
-	  a<supplied reason="lost">ṇē</supplied>kahiraṇṇakoṭigohalasata<lb n="3" break="no"/>sahassa patāyiṇo bhāraddāyasagōttassa pallavāṇaṃ siri
-	  <persName key="pers:Buddhavarman">buddhavammassa</persName>
-	  <lb n="4"/>
-	  puttō bhagavatā nārāyaṇasamapātaparigahītassa bhāraddāya
-	  sagōtta
+	  <ab>
+	    <lb n="1"/>
+	    siddhaṃ <supplied reason="omitted">||</supplied> 
+	    <placeName key="pl:Vijayasthāna">vijayathāṇā</placeName> 
+	    mahārājassa appadihatasāsaṇassa
+	    sāma<lb n="2" break="no"/>ntavinītavikrātayasassa
+	    a<supplied reason="lost">ṇē</supplied>kahiraṇṇakoṭigohalasata<lb n="3" break="no"/>sahassa patāyiṇo bhāraddāyasagōttassa pallavāṇaṃ siri
+	    <persName key="pers:Buddhavarman">buddhavammassa</persName>
+	    <lb n="4"/>
+	    puttō bhagavatā nārāyaṇasamapātaparigahītassa bhāraddāya
+	    sagōtta
+	  </ab>
 	</div>
       </div>
       <div type="textpart"
 	   subtype="plate"
 	   n="2A">
-	<lb n="5" break="no"/>ssa pallavāṇaṃ mahārāja siri
-	<persName key="pers:Viṣṇugopa">viṣṇugōpassa</persName> vacanēna
-	<gap reason="lost" quantity="2" unit="character"/>
-	kasa<gap reason="lost" quantity="2" unit="character"/>
-	<lb n="6" break="no"/>vva bhōjakā savvaṇōttiri puttā
-	gāmā gāma bhōjaka mutuda mudirika
-	<lb n="7"/>ammacō ārakṣika vācanā vallava talavara mādapika
-	kulputtaka ya<gap reason="lost" quantity="1" unit="character"/>
-	bha<lb n="8" break="no"/>vissa mahāpurasā sañcarantakā
-	bhatta maṇusā a<gap reason="lost" quantity="2" unit="character"/>va
-	<gap reason="lost" quantity="1" unit="character"/> matikā bhāṇitā
+	<ab>
+	  <lb n="5" break="no"/>ssa pallavāṇaṃ mahārāja siri
+	  <persName key="pers:Viṣṇugopa">viṣṇugōpassa</persName> vacanēna
+	  <gap reason="lost" quantity="2" unit="character"/>
+	  kasa<gap reason="lost" quantity="2" unit="character"/>
+	  <lb n="6" break="no"/>vva bhōjakā savvaṇōttiri puttā
+	  gāmā gāma bhōjaka mutuda mudirika
+	  <lb n="7"/>ammacō ārakṣika vācanā vallava talavara mādapika
+	  kulputtaka ya<gap reason="lost" quantity="1" unit="character"/>
+	  bha<lb n="8" break="no"/>vissa mahāpurasā sañcarantakā
+	  bhatta maṇusā a<gap reason="lost" quantity="2" unit="character"/>va
+	  <gap reason="lost" quantity="1" unit="character"/> matikā bhāṇitā
+	</ab>
       </div>
       <div type="textpart"
 	   subtype="plate"
 	   n="2B">
-	<lb n="9"/>pandhājanām <placeName type="premodern" key="pl:Cirippālikā">cirippālikārajje</placeName> 
-	<placeName type="premodern" key="pl:Mimala">mimalaraṭṭhe</placeName> 
-	gāmo khaṇhaṇappā kuṇḍūra a<lb n="10" break="no"/>mhēhi appaṇō
-	kulagōtta <persName key="pers:Buddhavarman">buddhavammā</persName> 
-	avaṭṭhaṇīkaṃ vijayavijaṇi<lb n="11" break="no"/>yā
-	<gap reason="lost" quantity="2" unit="character"/>kātaṇajāmassē
-	bamhaṇassa kaṇvasagōttassa 
-	<persName key="pers:Sivandajja">sivandajja<lb n="12" break="no"/>ssa</persName> ayandatārakaṃ bamhadijjaṃ kāttaṇa danakānika
-	saṃppatattō tatēva
+	<ab>
+	  <lb n="9"/>pandhājanām <placeName type="premodern" key="pl:Cirippālikā">cirippālikārajje</placeName> 
+	  <placeName type="premodern" key="pl:Mimala">mimalaraṭṭhe</placeName> 
+	  gāmo khaṇhaṇappā kuṇḍūra a<lb n="10" break="no"/>mhēhi appaṇō
+	  kulagōtta <persName key="pers:Buddhavarman">buddhavammā</persName> 
+	  avaṭṭhaṇīkaṃ vijayavijaṇi<lb n="11" break="no"/>yā
+	  <gap reason="lost" quantity="2" unit="character"/>kātaṇajāmassē
+	  bamhaṇassa kaṇvasagōttassa 
+	  <persName key="pers:Sivandajja">sivandajja<lb n="12" break="no"/>ssa</persName> ayandatārakaṃ bamhadijjaṃ kāttaṇa danakānika
+	  saṃppatattō tatēva
+	</ab>
       </div>
       <div type="textpart"
 	   subtype="plate"
 	   n="3A">
-	<lb n="13"/>cātvajjam agnahēva bamhaṇajja savva
-	parihārēhim pariharadha pari<lb n="14" break="no"/>harā
-	cōdhay<unclear>ye cata</unclear> sāsaṇam
-	atitāmidi kulōbhēṇa mānēna vā
-	<lb n="15"/>pīrdā pādākarēti kāriti 
-	<unclear>vāsōkhu sa punnē</unclear>
-	<gap reason="lost" quantity="2" unit="character"/> ggahaṇa
-	sāsana cōtthi
+	<ab>
+	  <lb n="13"/>cātvajjam agnahēva bamhaṇajja savva
+	  parihārēhim pariharadha pari<lb n="14" break="no"/>harā
+	  cōdhay<unclear>ye cata</unclear> sāsaṇam
+	  atitāmidi kulōbhēṇa mānēna vā
+	  <lb n="15"/>pīrdā pādākarēti kāriti 
+	  <unclear>vāsōkhu sa punnē</unclear>
+	  <gap reason="lost" quantity="2" unit="character"/> ggahaṇa
+	  sāsana cōtthi
+	</ab>
       </div>
       <div type="textpart"
 	   subtype="plate"
 	   n="3B">
-	<lb n="16"/><gap reason="lost" quantity="2" unit="character"/>
-	tpaṇa devā bujja parihārēdha parihārāvēdha ya taja ca aṇṇō
-	<lb n="17"/>masam alōṇa khārikam araṭṭha samviṇāyikam
-	apārapa<lb n="18" break="no"/>gōbalivadam acōllaka
-	<unclear>cā</unclear>ṭa bhaṭa ppavēsam ahiraktika
+	<ab>
+	  <lb n="16"/><gap reason="lost" quantity="2" unit="character"/>
+	  tpaṇa devā bujja parihārēdha parihārāvēdha ya taja ca aṇṇō
+	  <lb n="17"/>masam alōṇa khārikam araṭṭha samviṇāyikam
+	  apārapa<lb n="18" break="no"/>gōbalivadam acōllaka
+	  <unclear>cā</unclear>ṭa bhaṭa ppavēsam ahiraktika
+	</ab>
       </div>
       <div type="textpart"
 	   subtyle="plate"
 	   n="4">
-	<lb n="19"/>sampadattā paṭikā savaccharam padhamam 
-	hēmanta pakhē padhamō diva
-	<gap reason="lost" quantity="3" unit="character"/>
-	<lb n="20"/>ñcamī 5 <supplied reason="omitted">||</supplied>
-	bahubhivvasudhā dattā bahubhiscānupālitā 
-	yasya yasya ya<lb n="21" break="no"/>dā bhūmistasya tasya
-	tadāphalam <supplied reason="omitted">||</supplied> 
-	svadattām paradattām vā yō harēta vasu<lb n="22" break="no"/>ndharām
-	gavāśata sahasrasya hantyaḥ harē duṣkrutam
-	<supplied reason="omitted">||</supplied> iti svasti 
-	<supplied reason="omitted">||</supplied>
+	<ab>
+	  <lb n="19"/>sampadattā paṭikā savaccharam padhamam 
+	  hēmanta pakhē padhamō diva
+	  <gap reason="lost" quantity="3" unit="character"/>
+	  <lb n="20"/>ñcamī 5 <supplied reason="omitted">||</supplied>
+	  bahubhivvasudhā dattā bahubhiscānupālitā 
+	  yasya yasya ya<lb n="21" break="no"/>dā bhūmistasya tasya
+	  tadāphalam <supplied reason="omitted">||</supplied> 
+	  svadattām paradattām vā yō harēta vasu<lb n="22" break="no"/>ndharām
+	  gavāśata sahasrasya hantyaḥ harē duṣkrutam
+	  <supplied reason="omitted">||</supplied> iti svasti 
+	  <supplied reason="omitted">||</supplied>
+	</ab>
       </div>
       <div type="translation">
 	<p></p>

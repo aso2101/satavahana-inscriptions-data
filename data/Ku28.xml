@@ -3,16 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K7">
-
+     xml:id="Ku28">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 7 (of Sihadhaya)</title>
+	<title>Kuḍā No. 28</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K7</idno><!-- ID follows Senart !-->
+	<idno>Ku28</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -21,14 +20,10 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave,
-		on the top of the third pillar; left row.
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 18, on the back wall of the veranda to the left.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
+	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -41,26 +36,24 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:K"/>
-	  <citedRange>no. 7</citedRange>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 28</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName> yavanasa
-	  <persName key="pers:Sihadhaya">sihadhayāna</persName> 
-	  thaṃbho dānaṃ
+	  seṭhiṇo <persName key="pers:Vasulaṇaka">vasulaṇaka<lb n="2" break="no"/>sa</persName> deyadhaṃmaṃ leṇa
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  (This) pillar (is) the gift of the Yavana
-	  <persName key="pers:Sihadhaya">Sihadaya</persName>
-	  from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	  The meritorious gift of a cave by
+	  <persName key="pers:Vasulaṇaka">Vasulaṇaka</persName>, the
+	  merchant.
 	</p>
       </div>
     </body>

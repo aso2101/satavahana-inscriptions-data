@@ -3,16 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K7">
-
+     xml:id="Bha3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 7 (of Sihadhaya)</title>
+	<title>Bhājā No. 3</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K7</idno><!-- ID follows Senart !-->
+	<idno>Bha3</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -21,14 +20,11 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave,
-		on the top of the third pillar; left row.
+		<placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
+		on the second stūpa, counting from north-east to south-west,
+		in the front row.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
+	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -41,26 +37,25 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:K"/>
-	  <citedRange>no. 7</citedRange>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Bhājā No. 3</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName> yavanasa
-	  <persName key="pers:Sihadhaya">sihadhayāna</persName> 
-	  thaṃbho dānaṃ
+	  therānaṃ bhayaṃta 
+	  <persName key="pers:BhDharmagiri">dhamagirināṃ</persName>
+	  thupa
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  (This) pillar (is) the gift of the Yavana
-	  <persName key="pers:Sihadhaya">Sihadaya</persName>
-	  from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	  The Stūpa of the Venerable Reverend
+	  <persName key="pers:BhDharmagiri">Dharmagiri</persName>.
 	</p>
       </div>
     </body>

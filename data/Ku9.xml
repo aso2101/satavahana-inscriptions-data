@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ku9">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 9</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku9</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 6, in the left end of the verandah.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 9</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    mahā<choice><sic>bhojiya</sic><corr>bhojīya</corr></choice> sāḍageriya
+	    <persName key="pers:SāḍagerīVijayā">vijayāya</persName>
+	  <lb n="2"/>
+	    mahābhojasa maṃdavasa
+	    <persName key="pers:Skandapālita">khaṃdapālitasa</persName>
+	    upajīvīnaṃ
+	  <lb n="3"/>
+	    <persName key="pers:Sulasadatta">sulasadatasa</persName>
+	    <persName key="pers:Uttaradattā">utaradatāya</persName>
+	    ca putānaṃ bhātūnaṃ lekha
+	  <lb n="4"/>
+	    kā <persName key="pers:Śivabhūti">sivabhūtimhā</persName>
+	    kaneṭhasa <persName key="pers:Śivama">sivamasa</persName>
+	    deyadhaṃaṃ lenaṃ
+	  <lb n="5"/>
+	    saha <choice><sic>bhayāya</sic><corr>bhāyāya</corr></choice>
+	    <persName key="pers:Vijayā">vijayāya</persName> putānaṃ ca sa
+	    <persName key="pers:Sulasadatta2">sulasadatasa</persName>
+	    <persName key="pers:Śivapālita">siva<lb n="6" break="no"/>pālitasa</persName>
+	    <persName key="pers:Sarpila">sapilasa</persName>
+	    ca selarūpakamaṃ duhutūnaṃ
+	  <lb n="7"/>
+	    sa <persName key="pers:Sarpā">sapāya</persName>
+	    <persName key="pers:Śivapālitā">sivapālitāya</persName>
+	    <persName key="pers:Śivadattā">sivadatāya</persName>
+	    <persName key="pers:Sulasadattā">sulasadatāya</persName> sa thaṃbhā  
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This is the meritorious gift of a leṇa by
+	  <persName key="pers:Śivama">Śivama</persName>, the youngest after
+	  the writer <persName key="pers:Śivabhūti">Śivabhūti</persName>,
+	  among the sons of
+	  <persName key="pers:Sulasadatta">Sulasadatta</persName> and
+	  <persName key="pers:Uttaradattā">Uttaradattā</persName> (who are
+	  full) brothers and servants of the Mahābhoja Mandava
+	  <persName key="pers:Skandapālita">Skandapālita</persName>, the son of Mahābhojī Sāḍagerī
+	  <persName key="pers:SāḍagerīVijayā">Vijayā</persName>,—with the rock
+	  carving by his (Śivama’s) wife
+	  <persName key="pers:Vijayā">Vijayā</persName> and his sons
+	  <persName key="pers:Sulasadatta2">Sulasadatta</persName>,
+	  <persName key="pers:Śivapālita">Śivapālita</persName>,
+	  <persName key="pers:Śivadatta">Śivadatta</persName>, and
+	  <persName key="pers:Sarpila">Sarpila</persName>; and the pillars
+	  by his daughters
+	  <persName key="pers:Sarpā">Sarpā</persName>,
+	  <persName key="pers:Śivapālitā">Śivapālitā</persName>,
+	  <persName key="pers:Śivadattā">Śivadattā</persName>, and
+	  <persName key="pers:Sulasadattā">Sulasadattā</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

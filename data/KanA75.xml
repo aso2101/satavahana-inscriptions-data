@@ -90,18 +90,18 @@
 	    upajā<app
 	      ><lem wit="#Falk">e</lem>
 	       <rdg wit="#Poonacha">tha</rdg>
-	    </app>hi bhayata-varana<app
+	    </app>hi bhayata-<persName key="pers:BhVaraṇabhūti">varana<app
 	      ><lem wit="#Falk">bhu</lem>
 	       <rdg wit="#Poonacha">bhū</rdg>
-	    </app>tihi sa<app
+	    </app>tihi</persName> sa<app
 	      ><lem wit="#Falk">ha</lem>
 	       <rdg wit="#Poonacha">hi</rdg>
 	    </app> ca bhayata
 	  <lb n="7"/>
-	    <unclear>s</unclear>i<app
+	    <persName key="pers:BhSiṃha"><unclear>s</unclear>i<app
 	      ><lem wit="#Falk">he</lem>
 	       <rdg wit="#Poonacha">pe</rdg>
-	    </app>hi savasa<app
+	    </app>hi</persName> savasa<app
 	      ><lem wit="#Falk"><unclear>ta</unclear></lem>
 	       <rdg wit="#Poonacha">tā</rdg></app>na
 	    ca hitasu<app

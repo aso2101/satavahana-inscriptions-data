@@ -3,15 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ku4">
+     xml:id="Pi7">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 4</title>
+	<title>Pitalkhorā No. 7 (of Dattaka)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Ku4</idno><!-- ID follows CTI !-->
+	<idno>Pi7</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -20,8 +20,8 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 5, on the right-hand wall.
+		<placeName type="modern" key="pl:Pitalkhorā">Pitalkhorā</placeName>,
+		in the vihāra cave.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -37,34 +37,26 @@
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:CTI"/>
-	  <citedRange>Kuḍā No. 4</citedRange>
+	  <citedRange>Pitalkhorā No. 7</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. They remark that the script of the vihāra inscriptions “differs very little from those in the Chaitya and may belong to about 100 B.C., or earlier a little.”</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  sidhaṃ therā<unclear>ṇaṃ bhadaṃta</unclear><persName 
-	    key="pers:Śivadatta">sivada<lb n="2" break="no"/>taṇa</persName>
-	  aṃ<unclear>tevāsino</unclear> 
-	  pava<supplied reason="lost">i</supplied>ta<lb n="3" break="no"/>sa
-	  goa<gap reason="lost"
-	          unit="character"
-		  quantity="5"/><supplied reason="lost">i</supplied>ma
-	  leṇaṃ
-	  <lb n="4"/>
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="7"/>sātimita<lb n="5" break="no"/>ya
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="9"/>yiya
+	  rājavejasa vachī<unclear>putasa</unclear>
+	  <persName key="pers:Mṛgila"><unclear>ma</unclear>gilasa</persName>
+	  putasa <persName key="pers:Dattaka">datakasa</persName> dāna
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
+	  Gift of
+	  <persName key="pers:Dattaka">Dattaka</persName>,
+	  son of the Royal Physician Vātsīputra
+	  <persName key="pers:Mṛgila">Mṛgila</persName>.
 	</p>
       </div>
     </body>

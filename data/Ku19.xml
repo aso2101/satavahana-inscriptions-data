@@ -3,16 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K7">
-
+     xml:id="Ku19">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karle No. 7 (of Sihadhaya)</title>
+	<title>Kuḍā No. 19</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>K7</idno><!-- ID follows Senart !-->
+	<idno>Ku19</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -21,14 +20,11 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
-		chaitya cave,
-		on the top of the third pillar; left row.
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 13, on the back wall of the verandah,
+		over the window.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
+	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -41,26 +37,29 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:K"/>
-	  <citedRange>no. 7</citedRange>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 19</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName> yavanasa
-	  <persName key="pers:Sihadhaya">sihadhayāna</persName> 
-	  thaṃbho dānaṃ
+	  mahābhoyasa
+	  <persName key="pers:SāḍakaraSudaṃsaṇa">sāḍakarasa
+	  sudaṃsaṇasa</persName> duhutuya
+	  <persName key="pers:Vijayanikā">vijayanikāya</persName>
+	  deyadhaṃmaṃ lena
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  (This) pillar (is) the gift of the Yavana
-	  <persName key="pers:Sihadhaya">Sihadaya</persName>
-	  from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	  The meritorious gift of a cave by
+	  <persName key="pers:Vijayanikā">Vijayanikā</persName>
+	  daughter of Mahābhoja  
+	  <persName key="pers:SāḍakaraSudaṃsaṇa">Sāḍakara Sudarśana</persName>
 	</p>
       </div>
     </body>

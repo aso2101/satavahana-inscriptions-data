@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ku13">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 13</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku13</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 7, on the left wall.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 13</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    māmakavejīyasa vejasa
+	    <persName key="pers:Ṛṣirakṣita">isirakhit</persName>upāsaka
+	  <lb n="2"/>
+	    sa putasa vejasa
+	    <persName key="pers:Somadeva">somadevasa</persName>
+	    deyadhaṃmaṃ leṇaṃ 
+	  <lb n="3"/>
+	    putasa ca sa
+	    <persName key="pers:Nāga">nāgasa</persName>
+	    <persName key="pers:Ṛṣirakṣita2">isirakhitasa</persName>
+	    <persName key="pers:Śivaghoṣa">sivaghosasa</persName> ca  
+	  <lb n="4"/>
+	    duhutuya ca
+	    <persName key="pers:Ṛṣipālitā">isipālitāya</persName>
+	    <persName key="pers:Puṣyā">pusāya</persName>
+	    <persName key="pers:Dharmā">dhaṃmāya</persName>
+	    <persName key="pers:Sarpā2">sapāya</persName> ca  
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The meritorious gift of a cave by the physician
+	  <persName key="pers:Somadeva">Somadeva</persName>,
+	  the son of the Māmakavejiya physician and worshipper
+	  <persName key="pers:Ṛṣirakṣita">Ṛṣirakṣita</persName>,
+	  and his (Somadeva’s) sons
+	  <persName key="pers:Nāga">Nāga</persName>
+	  <persName key="pers:Ṛṣirakṣita2">Ṛṣirakṣita</persName> and
+	  <persName key="pers:Śivaghoṣa">Śivaghoṣa</persName>, and
+	  his daughters
+	  <persName key="pers:Ṛṣipālitā">Ṛṣipālitā</persName>,
+	  <persName key="pers:Puṣyā">Puṣyā</persName>
+	  <persName key="pers:Dharmā">Dharmā</persName> and
+	  <persName key="pers:Sarpā2">Sarpā</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>
