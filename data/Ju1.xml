@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		near the base of the east scarp of Śivaneri hill toward
+		the southern end, on the back of a recessed bench of the 
+		left side of a small cave consisting of three cells
+		each about 7 feet square broken into one.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 1</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+		 quantity="6"
+		 unit="character"
+		 precision="low"/>tha <persName
+		 key="pers:Bhūtenaka">bhūtenakasa</persName>
+	  <lb n="2"/>
+	    <gap reason="lost"
+		 quantity="6"
+		 unit="character"
+		 precision="low"/>poḍhi cā deyadhama
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  ... <persName key="pers:Bhūtenaka">Bhūtenaka</persName>... 
+	  the meritorious gift of ... and a cistern.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

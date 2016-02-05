@@ -765,6 +765,34 @@
 	   precision="low">King</state>
   </person>
 
+  <!-- JUNNAR NAMES !-->
+  <person xml:id="Bhūtenaka" sex="male">
+    <persName>Bhūtenaka</persName>
+  </person>
+  <person xml:id="MudhakiyaMala" sex="male">
+    <persName>Mudhakiya Mala</persName>
+  </person>
+  <person xml:id="GolikiyaĀnanda" sex="male">
+    <persName>Golikiya Ānanda</persName>
+  </person>
+  <person xml:id="Vīraseṇaka" sex="male">
+    <persName>Vīraseṇaka</persName>
+  </person>
+  <person xml:id="Irala" sex="male">
+    <persName>Irala</persName>
+    <trait type="ethnicity">Yavana</trait>
+  </person>
+  <person xml:id="Savagiriya" sex="male">
+    <persName>Savagiriya</persName>
+    <note>of the Apaguriyas</note>
+  </person>
+  <person xml:id="Giribhūti" sex="male">
+    <persName>Giribhūti</persName>
+  </person>
+  <person xml:id="Śivapālanikā" sex="female">
+    <persName>Śivapālanikā</persName>
+  </person>
+
   <!-- LIST OF RELATIONSHIPS !-->
   <listRelation>
     <relation name="sibling" mutual="#Gajasena #Gajamitra"/>
@@ -854,5 +882,8 @@
     <relation name="spouse" mutual="#Āpadevaṇaka #Sāmaḍinikā"/>
 
     <relation mame="parent" active="#Ānanda2" passive="#Puṣyaṇaka"/>
+
+    <relation name="spouse" mutual="#Śivapālanikā #Giribhūti"/>
+    <relation name="parent" acttive="#Savagiriya" passive="#Giribhūti"/>
   </listRelation>
 </listPerson>

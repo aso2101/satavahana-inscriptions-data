@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 4</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju4</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in a chaitya cave 31'by 20.5' with a flat roof
+		described in my Memorandum, on the back wall of 
+		the verandah near the right end.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 4</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName
+		 key="pers:Vīraseṇaka">vīraseṇakasa</persName>
+	    gahapatipamughasa
+	  <lb n="2"/>
+	    dhamanigamasa deyadhamaṃ cetiyagharo
+	  <lb n="3"/>
+	    niyuto savalokahitasukhāya
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Of <persName key="pers:Vīraseṇaka">Vīraseṇaka</persName>,
+	  a chief householder and upright merchant, the meritorious
+	  gift of a chetiyaghara, presented for the welfare and
+	  happiness of all.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

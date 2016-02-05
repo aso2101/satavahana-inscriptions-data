@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 2</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju2</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		one of the group of caves in the upper scarp on the east
+		side of the fort. It is in a chamber 21' by 11', exactly
+		over a vihāra below, measuring 24' by 22', with seven cells,
+		with which it communicates by a stair outside at the right
+		end.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 2</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName
+		 key="pers:MudhakiyaMala">mudhakiyasa malasa</persName>
+	    <persName
+		 key="pers:GolikiyaĀnanda">golikiyasa ānadasa</persName> beṇa jaṇāna deyadhama upaṭhāna
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Gift of a reception-hall by <persName
+	    key="pers:MudhakiyaMala">Mudhakiya Mala</persName>
+	  and <persName
+	    key="pers:GolikiyaĀnanda">Golikiya Ānanda</persName>,
+	  two men.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>
