@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju21">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 21</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju21</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in another verandah, 15.5' by 8', with two cells
+		at the back, alongside the verandah of inscription No. 20,
+		to the right of an unfinished Chaitya 
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 21</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. The inscription was left unfinished.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName key="pers:Sayiti">sayiti</persName>gahapatiputasa
+	    gahapatisa 
+	    <persName key="pers:Śivadāsa">sivadāsasa</persName>
+	  <lb n="2"/>
+	    bitiyikāya ca sahā parivā
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (Gift) of the householder <persName key="pers:Śivadāsa">Śivadāsa</persName>,
+	  son of the householder <persName key="pers:Sayiti">Sayiti</persName>, and 
+	  his wife with all his relatives...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

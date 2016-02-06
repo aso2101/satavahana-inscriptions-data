@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju30">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 30</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju30</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		on the Leṇādri hill, near the top, in a vaulted
+		chaitya (41' by 22') with stone ribs over
+		the nave and aisles with five octagonal 
+		free-standing and one attached columns on each side,
+		on the back wall of the verandah, over the door,
+		with a svastika at the beginning and end of the line.
+	      </origPlace>
+	      <origDate></origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 30</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <placeName key="pl:Kalyāṇa">kalīañasa</placeName> 
+	    <persName key="pers:Heraṇika">heraṇika</persName>putasa
+	    <persName key="pers:Sulasadatta3">sulasadatasa</persName>
+	    ekapurisasa cetiyagharo niyuto deyadhama
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The meritorious gift of a constructed Caitya Hall by
+	  the distinguished
+	  <persName key="pers:Sulasadatta3">Sulasadatta</persName>,
+	  son of <persName key="pers:Heraṇika">Heraṇika</persName>,
+	  of <placeName key="pl:Kalyāṇa">Kalyāṇa</placeName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

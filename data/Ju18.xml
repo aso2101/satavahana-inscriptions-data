@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju18">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 18</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju18</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in an unfinished Chaitya 
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya,
+		on the right wall of the recess, to the right of No. 17.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 18</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    avariliva 
+	    <placeName key="pl:Sirikaḍaka">sarikha<lb n="2" break="no"/>ḍake</placeName> nivatalāni ca
+	  <lb n="3"/>
+	    tāri ||
+	  <lb n="4"/>
+	    avarila<gap reason="lost"
+	                unit="character"
+			quantity="unknown"/>
+	  <gap reason="lost"
+	       unit="line"
+	       quantity="1"/>
+	  <lb n="6"/>
+	    avarile 
+	    <persName key="pers:Jiputraka">jiputra<lb n="7" break="no"/>ka</persName>udeseṇa nivata
+	  <lb n="8"/>
+	    nāni aṭha || 
+	    gāma<placeName key="pl:Kaḍaka">ka<lb n="9" break="no"/>ḍakesa</placeName> 
+	    nivataṇāni
+	  <lb n="10"/>
+	    bāra deya<gap reason="lost"
+	                  quantity="unknown"
+			  unit="character"/>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  And on the west in <placeName key="pl:Sirikaḍaka">Sirikaḍaka</placeName> four nivatanas;
+	  west... for <persName key="pers:Jiputraka">Jiputraka</persName>
+	  eight nivatanas; in
+	  <placeName key="pl:Kaḍaka">Kaḍaka</placeName> village,
+	  twelve nivatanas---a meritorious gift.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

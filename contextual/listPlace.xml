@@ -96,6 +96,44 @@
     <placeName type="ancient" xml:lang="sa-Latn">Govardhana</placeName>
   </place>
 
+  <place xml:id="Puvānada">
+    <placeName type="ancient" xml:lang="mi-Latn">Puvānada</placeName>
+  </place>
+  <place xml:id="Vaḍālikā">
+    <placeName type="ancient" xml:lang="mi-Latn">Vaḍālikā</placeName>
+    <note>(according to Burgess and Indraji) There is a Varāḍa 6 miles N. from Junnar</note>
+  </place>
+  <place xml:id="Kaṭaputaka">
+    <placeName type="ancient" xml:lang="mi-Latn">Kaṭaputaka</placeName>
+    <note>(according to Burgess and Indraji) There is a Katur 5 miles S.S.W. from Junnar.</note>
+  </place>
+  <place xml:id="Mahāveja">
+    <placeName type="ancient" xml:lang="mi-Latn">Mahāveja</placeName>
+  </place>
+  <place xml:id="Mānamukuṭa">
+    <placeName type="ancient" xml:lang="sa-Latn">Mānamukuṭa</placeName>
+    <placeName type="modern" xml:lang="ma-Latn">Mānamoḍa</placeName>
+  </place>
+  <place xml:id="Valāhaka">
+    <placeName type="ancient" xml:lang="mi-Latn">Valāhaka</placeName>
+  </place>
+  <place xml:id="Seuraka">
+    <placeName type="ancient" xml:lang="mi-Latn">Seuraka</placeName>
+  </place>
+  <place xml:id="Sirikaḍaka">
+    <placeName type="ancient" xml:lang="mi-Latn">Sirikaḍaka</placeName>
+  </place>
+  <place xml:id="Kaḍaka">
+    <placeName type="ancient" xml:lang="mi-Latn">Kaḍaka</placeName>
+  </place>
+
+  <place xml:id="Bharukaccha">
+    <placeName type="ancient" xml:lang="mi-Latn">Bharukaccha</placeName>
+    <placeName type="modern" xml:lang="gu-Latn">Bharuch</placeName>
+    <placeName type="modern" xml:lang="en">Broach</placeName>
+    <geo>73.003970 21.705904</geo>
+  </place>
+
   <place xml:id="Tiraṇhu">
     <placeName type="ancient" xml:lang="mi-Latn">Tiraṇhu</placeName>
     <placeName type="ancient" xml:lang="sa-Latn">Triraśmi</placeName>
@@ -134,7 +172,7 @@
     <placeName type="modern" xml:lang="ka-Latn">Sannati</placeName>
     <geo>76.908 16.829</geo>
   </place>
-g
+
   <place xml:id="Sāñcī">
     <placeName type="modern" xml:lang="hi-Latn">Sāñcī</placeName>
     <geo>77.739580 23.479318</geo>

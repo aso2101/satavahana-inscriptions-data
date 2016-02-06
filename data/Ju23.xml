@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju23">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 23</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju23</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in the eastern slope of the southern spur of the Mānmoḍi hill,
+		in an unfinished Chaitya, 33.5' by 11.5', on the right hand wall
+		outside the verandah, between the octagonal pilaster
+		and the doorway into the next verandah but rather above the door.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 23</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. Two names can be made out, Satamala (?) and Vīryabhūti (Virabhuti).</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    sidhaṃ upāsakasa negama<gap reason="lost"
+	                                quantity="unknown"
+					unit="character"/>
+	  <lb n="2"/>
+	    satamalaputasa<gap reason="lost"
+	                       quantity="unknown"
+			       unit="character"/>
+	  <lb n="3"/>
+	    <gap reason="lost"
+		 quantity="2"
+		 unit="character"
+		 precision="low"/>puta virabhuti<gap reason="lost"
+	                       quantity="unknown"
+			       unit="character"/>
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

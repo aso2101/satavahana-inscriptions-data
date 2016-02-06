@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju17">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 17</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju17</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in an unfinished Chaitya 
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya,
+		on the back of a recess to the right of the great arch.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 17</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    gāme <placeName key="pl:Valāhaka">valāhakesu</placeName> kara<lb n="2" break="no"/>jabhati 
+	    udeseṇa nivara<lb n="3" break="no"/>ṇāni bārasa || 
+	    gāma <placeName key="pl:Seuraka">se<lb n="4" break="no"/>urakesu</placeName> 
+	    nivataṇāni
+	  <gap reason="lost"
+	       quantity="1"
+	       unit="line"/>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  In <placeName key="pl:Valāhaka">Valāhaka</placeName> village,
+	  for the Karanja field, twelve nivatanas.
+	  In <placeName key="pl:Seuraka">Seuraka</placeName> village...
+	  nivatanas...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

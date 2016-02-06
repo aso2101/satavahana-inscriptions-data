@@ -765,6 +765,28 @@
 	   precision="low">King</state>
   </person>
 
+  <!-- Other Rulers !-->
+  <person xml:id="Nahapāna" sex="male">
+    <persName>Nahapāna</persName>
+    <state type="political"
+	   notBefore-custom="0038"
+	   notAfter-custom="0084"
+	   precision="low">King</state>
+  </person>
+  <person xml:id="Ayama" sex="male">
+    <persName>Ayama</persName>
+    <state type="political">Amātya</state>
+  </person>
+  <person xml:id="Isimula" sex="male">
+    <persName>Isimula</persName>
+  </person>
+  <person xml:id="Naḍabāḷikā" sex="female">
+    <persName>Naḍabāḷikā</persName>
+  </person>
+  <person xml:id="Lachinikā" sex="female">
+    <persName>Lachinikā</persName>
+  </person>
+
   <!-- JUNNAR NAMES !-->
   <person xml:id="Bhūtenaka" sex="male">
     <persName>Bhūtenaka</persName>
@@ -792,6 +814,115 @@
   <person xml:id="Śivapālanikā" sex="female">
     <persName>Śivapālanikā</persName>
   </person>
+  <person xml:id="Candra" sex="male">
+    <persName>Candra</persName>
+    <trait type="ethnicity">Yavana</trait>
+  </person>
+  <person xml:id="Payogoka" sex="male">
+    <persName>Payogoka</persName>
+    <note>Of the Aparājita sect.</note>
+  </person>
+  <person xml:id="Palapa" sex="male">
+    <persName>Palapa</persName>
+  </person>
+  <person xml:id="Āḍuthūma" sex="male">
+    <persName>Āḍuthūma</persName>
+    <trait type="ethnicity">Saka</trait>
+  </person>
+  <person xml:id="Vāhatavaceḍuka">
+    <persName>Vāhata Vaceḍuka</persName>
+  </person>
+  <person xml:id="Jiputraka" sex="male">
+    <persName>Jiputraka</persName>
+  </person>
+  <person xml:id="Aśvaśrama" sex="male">
+    <persName>Asasama</persName>
+  </person>
+  <person xml:id="Buddhamitra" sex="male">
+    <persName>Buddhamitra</persName>
+    <residence><placeName key="pl:Bharukaccha">Bharukaccha</placeName></residence>
+    <note>Identified as a Laṅkuṭika.</note>
+  </person>
+  <person xml:id="Buddharakṣita2" sex="male">
+    <persName>Buddharakṣita</persName>
+    <residence><placeName key="pl:Bharukaccha">Bharukaccha</placeName></residence>
+    <note>Identified as a Laṅkuṭika.</note>
+  </person>
+  <person xml:id="Sayiti" sex="male">
+    <persName>Sayiti</persName>
+    <note>gahapati</note>
+  </person>
+  <person xml:id="Śivadāsa" sex="male">
+    <persName>Śivadāsa</persName>
+    <note>gahapati</note>
+  </person>
+  <person xml:id="Nandanaka" sex="male">
+    <persName>Nandanaka</persName>
+  </person>
+  <person xml:id="BhCetiyasa" sex="male">
+    <persName>Cetiyasa</persName>
+    <state type="religious">Bhadanta</state>
+    <state type="religious">Sthavira</state>
+    <state type="religious">Traividya</state>
+  </person>
+  <person xml:id="BhSulasa" sex="male">
+    <persName>Sulasa</persName>
+    <state type="religious">Bhadanta</state>
+    <state type="religious">Sthavira</state>
+    <state type="religious">Traividya</state>
+    <state type="religious">Gaṇācārya</state>
+  </person>
+  <person xml:id="Sivasama" sex="male">
+    <persName>Sivasama</persName>
+  </person>
+  <person xml:id="Śivabhūti2" sex="male">
+    <persName>Śivabhūti</persName>
+  </person>
+  <person xml:id="Sāmara" sex="male">
+    <persName>Sāmara</persName>
+    <state type="religious">Upāsaka</state>
+  </person>
+  <person xml:id="Śivabhūti3" sex="male">
+    <persName>Śivabhūti</persName>
+  </person>
+  <person xml:id="Saṅghaka2" sex="male">
+    <persName>Saṅghaka</persName>
+    <residence><placeName key="pl:Kalyāṇa">Kalyāṇa</placeName></residence>
+  </person>
+  <person xml:id="Kuṭila" sex="male">
+    <persName>Kuṭila</persName>
+  </person>
+  <person xml:id="Ānanda3" sex="male">
+    <persName>Ānanda</persName>
+  </person>
+  <person xml:id="Tāpasa" sex="male">
+    <persName>Tāpasa</persName>
+    <state type="religious">Upāsaka</state>
+  </person>
+  <person xml:id="Kapila" sex="male">
+    <persName>Kapila</persName>
+    <state type="religious">Upāsaka</state>
+  </person>
+  <person xml:id="Sulasadatta3" sex="male">
+    <persName>Sulasadatta</persName>
+    <residence><placeName key="pl:Kalyāṇa">Kalyāṇa</placeName></residence>
+  </person>
+  <person xml:id="Heraṇika" sex="male">
+    <persName>Heraṇika</persName>
+  </person>
+  <person xml:id="Isipālita" sex="male">
+    <persName>Isipālita</persName>
+  </person>
+  <person xml:id="Ugāha" sex="male">
+    <persName>Ugāha</persName>
+    <state type="religious">Upāsaka</state>
+  </person>
+  <person xml:id="Ciṭa" sex="male">
+    <persName>Ciṭa</persName>
+    <trait type="ethnicity">Yavana</trait>
+    <note>Gatānaṃ</note>
+  </person>
+    
 
   <!-- LIST OF RELATIONSHIPS !-->
   <listRelation>
@@ -885,5 +1016,20 @@
 
     <relation name="spouse" mutual="#Śivapālanikā #Giribhūti"/>
     <relation name="parent" acttive="#Savagiriya" passive="#Giribhūti"/>
+
+    <relation name="sibling" mutual="#Buddharakṣita2 #Buddhamitra"/>
+    <relation name="parent" active="#Aśvaśrama" passive="#Buddhamitra"/>
+    <relation name="parent" active="#Aśvaśrama" passive="#Buddharakṣita2"/>
+    <relation name="teacher" active="#BhCetiyasa" passive="#BhSulasa"/>
+    <relation name="parent" active="#Sivasama" passive="#Śivabhūti2"/>
+    <relation name="parent" active="#Sāmara" passive="#Śivabhūti3"/>
+
+    <relation name="spouse" mutual="#Isimula #Naḍabāḷikā"/>
+    <relation name="parent" active="#Kuṭila" passive="#Saṅghaka2"/>
+    <relation name="parent" active="#Kapila" passive="#Tāpasa"/>
+    <relation name="parent" active="#Tāpasa" passive="#Ānanda3"/>
+    <relation name="parent" active="#Heraṇika" passive="#Sulasadatta3"/>
+    <relation name="parent" active="#Ugāha" passive="#Isipālita"/>
+  
   </listRelation>
 </listPerson>

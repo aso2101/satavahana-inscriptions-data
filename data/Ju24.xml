@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju24">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 24</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju24</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in the eastern slope of the southern spur of the Mānmoḍi hill,
+		in an unfinished Chaitya, 33.5' by 11.5', 
+		on the back of a small
+		recess beyond the two chambers above a larger recess.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 24</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName key="pers:Sivasama">sivasamaputasa</persName>
+	    <persName key="pers:Śivabhūti">sivabhutiṇo</persName> deyadhama poḍhi
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The meritorious gift of a cistern by
+	  <persName key="pers:Śivabhūti">Śivabhūti</persName>,
+	  son of <persName key="pers:Sivama">Sivasama</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

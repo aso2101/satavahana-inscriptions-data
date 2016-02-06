@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju31">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 31</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju31</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		on the Leṇādri hill, near the top, in a chamber near 
+		the big caitya (26' by 29' and 8' high), over 
+		the left of two open windows in the verandah.
+	      </origPlace>
+	      <origDate></origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 31</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    dhaṃñikaseṇiya satagabhaṃ poḍhi ca deyadhamaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The meritorious gift of a a seven-celled cave
+	  and cistern by the guild of corn-dealers.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

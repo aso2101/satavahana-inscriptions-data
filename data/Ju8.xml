@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju8">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 8</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju8</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya,
+		on the back wall of an open verandah.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 8</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+		 unit="character"
+		 quantity="6"
+		 precision="low"/><unclear>ga</unclear>hapatipu<unclear>tānaṃ</unclear>
+	    bhātūṇaṃ dāṇa ka
+	  <lb n="2"/>
+	    <gap reason="lost"
+		 unit="character"
+		 quantity="6"
+		 precision="low"/>saca pa<unclear>ca</unclear>gabhaṃ deyadhaṃmaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  A five-celled (house) .... the meritorious gift of the
+	  brothers, sons of the Gahapati...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

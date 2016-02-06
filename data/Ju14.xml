@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju14">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 14</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju14</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in an unfinished Chaitya 
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya,
+		on the back of the recess over the door and alongside
+		the window on its left, continguous to No. 13.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 14</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. Note (AO): <emph>jāvabhati</emph> perhaps refers to barley cultivation (see inscription number 15).</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <placeName key="pl:Mahāveja">mahāveje</placeName> gāme jāvabhati
+	  <lb n="2"/>
+	    udeseṇa nivataṇāni ṣaṇuvisa
+	  <lb n="3"/>
+	    sidhagaṇe aparājite
+	  <lb n="4"/>
+	    <unclear>ni</unclear>asatāni selasa
+	  <lb n="5"/>
+	    <placeName key="pl:Mānamukuṭa">mānamukaḍasa</placeName> purato
+	  <lb n="6"/>
+	    talakavāḍake nivata<lb n="7" break="no"/>ṇāni 
+	    tini || nagarasa
+	  <lb n="7"/>
+	    <gap reason="lost"
+		 unit="character"
+		 quantity="3"
+		 precision="low"/>ka<gap reason="lost"
+		 unit="character"
+		 quantity="2"
+		 precision="low"/>selaüde<lb n="8" break="no"/>seṇa
+	    nivataṇāni be
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  In the village of
+	  <placeName key="pl:Mahāveja">Mahāveja</placeName>,
+	  twenty-six nivatanas for Jābabhati.
+	  To the Sidhagaṇa of the Aparājitas,
+	  three nivatanas given at the hill-foot
+	  near <placeName key="pl:Mānamukuṭa">Mānamukaḍa</placeName>
+	  hill; of the town... for... hill, tow nivatanas...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

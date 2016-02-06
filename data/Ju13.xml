@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju13">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 13</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju13</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in an unfinished Chaitya 
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya,
+		on the left wall of the large recess over the door,
+		and on the same level as the window.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 13</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    koṇācikaseṇiya
+	  <lb n="2"/>
+	    upāsako <persName key="pers:Āḍuthūma">āḍuthūma</persName>
+	  <lb n="3"/>
+	    sako || <placeName key="pl:Vaḍālikā">vaḍālikāyaṃ</placeName>
+	  <lb n="4"/>
+	    karajamulanivataṇā<lb n="5" break="no"/>ni 
+	    bisa || <placeName key="pl:Kaṭaputaka">kaṭaputake</placeName>
+	  <lb n="6"/>
+	    vaḍamule nivata<lb n="7" break="no"/>ṇāni <unclear>na</unclear>va
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  By <persName key="pers:Āḍuthūma">Āḍuthūma</persName>
+	  the Saka, an upāsaka of the guild of Koṇācikas,
+	  (a gift of) 20 nivatanas in
+	  <placeName key="pl:Vaḍālikā">Vaḍālikā</placeName>
+	  near the Karanja tree, and in 
+	  <placeName key="pl:Kaṭaputaka">Kaṭaputaka</placeName>,
+	  9 nivatanas near the banyan tree.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

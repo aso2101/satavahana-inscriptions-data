@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju20">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 20</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju20</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in a verandah, 15.5' by 5', with two cells at the back,
+		to the right of an unfinished Chaitya 
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya,
+		on the back wall between the doors of the two cells.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 20</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <placeName key="pl:Bharukaccha">bhārukacchakānaṃ</placeName> laṃkuḍiyānaṃ bhātūṇaṃ
+	  <lb n="2"/>
+	    <persName key="pers:Aśvaśrama">asasamasa</persName> putāṇa
+	  <lb n="3"/>
+	    <persName key="pers:Buddhamitra">budhamitasa</persName>
+	    <persName key="pers:Buddharakṣita2">budharakhitasa</persName> ca bigabhaṃ deyadhaṃmaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  A house of two cells, a meritorious gift by the brothers
+	  <persName key="pers:Buddhamitra">Buddhamitra</persName> and
+	  <persName key="pers:Buddharakṣita2">Buddharakṣita</persName>, 
+	  Laṅkuḍiyas, sons of 
+	  <persName key="pers:Aśvaśrama">Asasama</persName>,
+	  inhabitants of 
+	  <placeName ley="pl:Bharukaccha">Bharukaccha</placeName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju34">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 34</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju34</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in the south scarp of Sivaneri hill, in a caitya
+		to the right the cave of inscription No. 32,
+		over the door.
+	      </origPlace>
+	      <origDate></origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 34</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName key="pers:Ugāha">ugāha</persName>putasa
+	    <persName key="pers:Isipālita">isipālitasa</persName>
+	    saparivārasa cetiyagharo dānaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The gift of a Caitya Hall
+	  by <persName key="pers:Isipālita">Isipālita</persName>,
+	  son of <persName key="pers:Ugāha">Ugāha</persName>, 
+	  with his family.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

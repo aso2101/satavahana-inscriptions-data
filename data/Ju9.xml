@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju9">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 9</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju9</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in an unfinished Chaitya 
+		in the series of caves in the southern spur of the
+		Mānmoḍi hill about a mile east from the Chaitya,
+		on the left end of the back wall of the verandah,
+		just above the level of the door.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 9</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    gāme <placeName key="pl:Puvānada">puvānadeṣu</placeName> nivatanāni
+	  <lb n="2"/>
+	    panarasa 15 <persName key="pers:Palapa">palapasa</persName>
+	  <lb n="3"/>
+	    deyadhaṃmaṃ apa<unclear>rā</unclear>jitesu ga<lb n="4" break="no"/>ne
+	    <persName key="pers:Payogoka">payogoka</persName>hathe <supplied reason="lost">dāna</supplied>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  A meritorious gift of 15 nivatanas by <persName key="pers:Palapa">Palapa</persName>
+	  in <placeName key="pl:Puvānada">Puvānada</placeName> village:
+	  the gift in the hand of <persName key="pers:Payogoka">Payogoka</persName>
+	  of the Aparājita sect.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

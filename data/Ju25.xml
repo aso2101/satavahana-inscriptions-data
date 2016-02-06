@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ju25">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 25 (of Ayama, 46th year of Nahapāna)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju25</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in the eastern slope of the southern spur of the Mānmoḍi hill,
+		past a cistern and two small recesses, on the left side of
+		another recess with a bench on three sides.
+	      </origPlace>
+	      <origDate
+		  when-custom="0084"
+		  precision="low">ca. 84 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 25</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <supplied reason="lost">raño</supplied>
+	    mahākhatapasa sāmi<persName key="pers:Nahapāna">nahapānasa</persName>
+	  <lb n="2"/>
+	    <supplied reason="lost">ā</supplied>mātyasa 
+	    vacchasagotasa <persName key="pers:Ayama">ayamasa</persName>
+	  <lb n="3"/>
+	    <supplied reason="lost">de</supplied>yadhama ca 
+	    <supplied reason="lost">po</supplied>ḍhi maṭapo ca puñathaya vase 46 kato
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  The meritorious gift of a maṇḍapa and cistern by
+	  <persName key="pers:Ayama">Ayama</persName> of the
+	  Vatsa gotra, prime minister of the king Mahākṣatrapa Svāmi
+	  <persName key="pers:Nahapāna">Nahapāna</persName>,
+	  made for merit, in the year 46.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>
