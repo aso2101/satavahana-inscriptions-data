@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="Am1">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,7 +20,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Vijayapurī">Amarāvatī</placeName>,
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		on a gateway pillar of the railing of the stūpa.
 	      </origPlace>
 	      <origDate
@@ -59,31 +58,38 @@
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
-	<p>This edition and translation is based on <ref target="bibl:Mirashi1981">Mirashi1981</ref>.</p>
+	<p>This edition and translation is based on <ref target="bibl:Mirashi1981">Mirashi 1981</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
 	  <supplied reason="lost">si</supplied>dhaṃ
-	  ra<supplied reason="lost">ño</supplied> 
-	  <persName key="pers:VpŚrīPuḷumāvi">vā<supplied reason="lost">siṭhi</supplied>puta<supplied reason="lost">sa</supplied>
+	  ra<supplied 
+	    reason="lost">ño</supplied> <persName
+	    key="pers:VpŚrīPuḷumāvi">vā<supplied
+	    reason="lost">siṭhi</supplied>puta<supplied
+	    reason="lost">sa</supplied>
 	  <supplied reason="lost">sā</supplied>misiripuḷumāvisa</persName>
 	  <gap reason="lost"
 	       quantity="3"
 	       unit="character"/>
-	  piṃḍasutariyānaṃ <persName key="pers:Kahutara">kahutara</persName>gahapatisa
-	  <persName key="pers:Puri">puri</persName>gahapatisa ca
+	  piṃḍasutariyānaṃ <persName
+	    key="pers:Kahutara">kahutara</persName>gahapatisa 
+	  <persName 
+	    key="pers:Puri">puri</persName>gahapatisa ca
 	  putasa 
-	  <persName key="pers:Isila">isilasa</persName> subhātukasa
+	  <persName 
+	    key="pers:Isila">isilasa</persName> subhātukasa
 	  <lb n="2"/>
 	  sa<supplied reason="omitted">bha</supplied>ginikasa bhāyāya ca
-	  sa<persName key="pers:Nākānikā">nākānikāya</persName> 
-	  saputaka<supplied reason="lost">sa</supplied>
+	  sa<persName 
+	    key="pers:Nākānikā">nākānikāya</persName> saputaka<supplied
+	    reason="lost">sa</supplied>
 	  <gap reason="lost"
 	       quantity="4"
 	       unit="character"/>
-	  <supplied reason="lost">to</supplied> 
-	  mahācetiyacetikiyānaṃ 
+	  <supplied 
+	       reason="lost">to</supplied> mahācetiyacetikiyānaṃ 
 	  nikā<supplied reason="ommitted">ya</supplied>sa parigahe aparadāre
 	  dhamacakaṃ deyadha<supplied reason="lost">mmaṃ</supplied>
 	  thāpita

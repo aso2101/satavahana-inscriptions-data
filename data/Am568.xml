@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am568">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 568</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am568</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on a fragment of an oval rail bar.
+	      </origPlace>
+	      <origDate notBefore-custom="0000"
+			notAfter-custom="0100"
+			precision="medium">ca. 1st century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 12 (No. 568 of 1907)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    rājalekhakasa <persName key="pers:Am-Bala">bala<lb n="2" break="no"/>sa</persName>
+	    jāyāyā <persName key="pers:Am-Somadattā">somada<unclear>tā</unclear></persName>
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Of <persName key="pers:Am-Somadattā">Somadattā</persName>, 
+	the wife of <persName key="pers:Am-Bala">Bala</persName>, 
+	the royal scribe.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

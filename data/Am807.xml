@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am807">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 807</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am807</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on one of the four coping slabs (uṣṇīṣa) belonging
+		to the railing of the stūpa. 
+	      </origPlace>
+	      <origDate notBefore-custom="0150"
+			notAfter-custom="0200"
+			precision="medium">Later half of the 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sarma1980"/>
+	  <citedRange>no. 87 (807)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Sarma1980">Sarma 1980</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    gahapatikānaṃ 
+	    <persName key="pers:KoḍakhaMūla">koḍakhasa mūlasa</persName>
+	    ca bhariyāya
+	    <persName key="pers:Mahākamā">mahākamāya</persName>
+	    <persName key="pers:Koḍakaṃmā">koḍakaṃmaya</persName> ca
+	    bālikaya haṃghāya ca dāna tīni hathi
+	  <lb n="2"/>
+	    <g type="triratna"/> <persName key="pers:Buddhī">budhi</persName> 
+	    gahapati putasa 
+	    <persName key="pers:Candra">caṃda</persName><gap reason="lost"
+	              unit="character"
+		      quantity="unknown"/>
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Gift of three elephants for the 
+	  Buddhist saṃgha by the householder
+	  <persName key="pers:KoḍakhaMūla">Mūla</persName> residing in Koḍakha, his wife
+	  <persName key="pers:Mahākamā">Mahākāmā</persName> and his daughter 
+	  <persName key="pers:Koḍakaṃmā">Koḍakāṃya</persName>.—<persName 
+	  key="pers:Candra">Caṃdra</persName>, son of the
+	  householder <persName key="pers:Buddhī">Buddhī</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

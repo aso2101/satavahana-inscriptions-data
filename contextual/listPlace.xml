@@ -31,7 +31,8 @@
     <geo>73.757232 18.670210</geo>
   </place>
 
-  <place xml:id="Nāgārjunakoṇḍa">
+  <place xml:id="Vijayapurī">
+    <placeName type="ancient" xml:lang="sa-Latn">Vijayapurī</placeName>
     <placeName type="modern" xml:lang="te-Latn">Nāgārjunakoṇḍa</placeName>
     <geo>79.240903 16.522168</geo>
   </place>
@@ -58,12 +59,6 @@
     <placeName type="ancient" xml:lang="sa-Latn">Ujjayinī</placeName>
     <placeName type="modern" xml:lang="hi-Latn">Ujjain</placeName>
     <geo>75.783144 23.178546</geo>
-  </place>
-
-  <place xml:id="Vijayapurī">
-    <placeName type="ancient" xml:lang="sa-Latn">Vijayapurī</placeName>
-    <placeName type="modern" xml:lang="sa-Latn">Amarāvatī</placeName>
-    <geo>80.356567 16.57524</geo>
   </place>
 
   <place xml:id="Dhānyakaṭaka">

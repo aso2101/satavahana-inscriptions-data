@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am486">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 486</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am486</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">ca. 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 25 (No. 486 of 1913)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+		 quantity="5"
+		 unit="character"
+		 precision="low"/><unclear>ni</unclear>hi
+	    <persName key="pers:Am-Gamalaka">gamalakasa</persName>
+	    gahapa<unclear>ti</unclear>sa
+	  <lb n="2"/>
+	    <gap reason="lost"
+		 quantity="5"
+		 unit="character"
+		 precision="low"/>patasa<gap 
+		 reason="lost"
+		 quantity="2"
+		 unit="character"/><persName
+		 key="pers:Am-Revata">revatasa</persName><gap 
+		 reason="lost"
+		 quantity="2"
+		 unit="character"/>balakā<unclear>ya</unclear>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Of the daughter... of 
+	  <persName key="pers:Am-Revata">Revata</persName>... son...
+	  of the householder 
+	  <persName key="pers:Am-Gamalaka">Gamalaka</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

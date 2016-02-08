@@ -199,6 +199,32 @@
     <publisher>Trübner and Co.</publisher>
     <date when="1883">1883</date>
   </bibl>
+  <bibl xml:id="Sarma1980" type="article">
+    <author>
+      <name>
+        <surname>Sarma</surname>
+        <forename>I. K.</forename>
+      </name>
+    </author>
+    <title level="a">More Prakrit Inscriptions from Amaravati</title>
+    <title level="j">Journal of the Epigraphical Society of India</title>
+    <biblScope unit="vol">14</biblScope>
+    <biblScope unit="pp" from="18" to="21">18–21</biblScope>
+    <date when="1980">1980</date>
+  </bibl>
+  <bibl xml:id="Chandra1919" type="article">
+    <author>
+      <name>
+	<surname>Chandra</surname>
+	<forename>Ramaprasad</forename>
+      </name>
+    </author>
+    <title level="a">Some Unpublished Amaravati Inscriptions</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">15</biblScope>
+    <biblScope unit="pp" from="258" to="275">258–275</biblScope>
+    <date when="1919">1919–1920</date>
+  </bibl>
   <bibl xml:id="Sarma1993" type="book">
     <author>
       <name>

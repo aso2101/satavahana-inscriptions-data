@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am543">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 543</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am543</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">ca. 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 37 (No. 543 of 1907)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName key="pers:Am-Ukati">ukati</persName>
+	    dānaṃ
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Gift of <persName key="pers:Am-Ukati">Ukati</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

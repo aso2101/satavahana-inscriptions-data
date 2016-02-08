@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="Nag69">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,7 +20,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Nāgārjunakoṇḍa">Nāgārjunakoṇḍa</placeName>,
+		<placeName key="pl:Vijayapurī">Nāgārjunakoṇḍa</placeName>,
 		on a green limestone pillar.
 	      </origPlace>
 	      <origDate when-custom="0205"

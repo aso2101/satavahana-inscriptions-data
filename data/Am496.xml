@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am496">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 496</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am496</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on a fragment of an oblong rail pillar.
+	      </origPlace>
+	      <origDate notBefore-custom="0000"
+			notAfter-custom="0100"
+			precision="medium">ca. 1st century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 1 (No. 496 of 1913)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName key="pers:Am-Gopriyā">gopiyāsa</persName> manu de<gap reason="lost"
+	                         unit="character"
+				 quantity="unknown"/>
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>(The pious gift) of <persName key="pers:Am-Gopriyā">Gopiyā</persName>...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

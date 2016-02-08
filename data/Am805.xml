@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am805">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 805</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am805</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on one of the four coping slabs (uṣṇīṣa) belonging
+		to the railing of the stūpa. 
+	      </origPlace>
+	      <origDate notBefore-custom="0150"
+			notAfter-custom="0200"
+			precision="medium">Later half of the 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sarma1980"/>
+	  <citedRange>no. 86 (805)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Sarma1980">Sarma 1980</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+	         quantity="unknown"
+	         unit="character"/>kasa 
+	    <persName key="pers:Nāgabodhika">nāgabodhikasa</persName>
+	    bhariyāya <persName key="pers:Buddharakṣitā">budharakhitāya</persName>
+	    mātuyā <persName key="pers:Buddhā">budhāya</persName> chadāsasa 
+	    <persName key="pers:Māya">māya</persName> ca dāna bhagavato
+	  <lb n="2"/>
+	    vedi
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Obeisance to the Lord.
+	  Gift of a rail jointly by
+	  <persName key="pers:Buddharakṣitā">Buddharakṣitā</persName>,
+	  wife of <persName key="pers:Nāgabodhika">Nāgabodhika</persName>,
+	  his mother <persName key="pers:Buddhā">Buddhā</persName>
+	  and her servant <persName key="pers:Māya">Māya</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

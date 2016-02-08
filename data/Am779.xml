@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am779">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 779</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am779</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on the mid-region of an octagonal shaft for a 
+		chatrāvaḷi.
+	      </origPlace>
+	      <origDate notBefore-custom="0000"
+			notAfter-custom="0050"
+			precision="medium">Early first century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sarma1980"/>
+	  <citedRange>no. 85 (779)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Sarma1980">Sarma 1980</ref>. He writes: “The palaeography of the record calls for special attention. The verticals in respect of da, ra, ka and medial vowel u in hu, du are lengthy and tapering towards the bottom. The head-marks are thickened. The letter ya is anchor-shaped and the mid-vertical does not touch the trough, except in case of the fifth letter in the first line. The caharacters of the record very closely resemble those of the Sāñcī and Mathurā ones of early first century A.D. The word thabho standing for staṃbha is an archaic expression usually found in earlier records, particularly of the pre-Christian era. The gifyt is mainly by the household ladies, who were perhaps converts to the faith.”</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <persName key="pers:Nandayajñā">nadayagāya</persName> duhutūya
+	  <lb n="2"/>
+	    <persName key="pers:Uttaramitrā">utaramitāya</persName> saduhu<lb n="3" break="no"/>tukāya 
+	    dānaṃ chata dabho
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Gift of an umbrella pillar
+	  by <persName key="pers:Uttaramitrā">Uttaramitrā</persName>,
+	  daugher of 
+	  <persName key="pers:Nandayajñā">Nandayajñā</persName>, 
+	  along with her daughter.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

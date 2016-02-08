@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am547">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 547</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am547</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on a fragment of a rail pillar.
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">ca. 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 40 (No. 547 of 1917)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. Rao Sahbi H. Krishna Sastri suggests understanding the sign ḍ here as p, and thus <foreign xml:lang="mi-Latn">navakamika-padhāna</foreign> will mean 'chief of the overseers.'</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+		 quantity="4"
+		 unit="character"/><unclear>sa</unclear> <persName 
+		 key="pers:Am-Candra">cadasa</persName>
+	    ca mātūya<gap
+		 reason="lost"
+		 quantity="5"
+		 unit="character"/>
+	  <lb n="2"/>
+	    <gap reason="lost"
+		 quantity="4"
+		 unit="character"/>naṃ navakamikā <persName 
+		 key="pers:Am-Ḍadhānaḍāri">ḍadhānaḍāri</persName><gap
+		 reason="lost"
+		 quantity="3"
+		 unit="character"/>
+	  <lb n="3"/>
+	    <gap reason="lost"
+		 quantity="4"
+		 unit="character"/>ṇo dhamakadhiko aya<persName 
+		 key="pers:Am-Ḍāraḍa">ḍāraḍo</persName> ca
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p> ... of <persName 
+	  key="pers:Am-Candra">Candra</persName> and of his mother... 
+	  the overseer of works, <persName key="pers:Am-Ḍadhānaḍāri">Ḍadhānaḍāri</persName> ...
+	  and the preacher of the law, 
+	  the venerable <persName key="pers:Am-Ḍāraḍa">Ḍāraḍa</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

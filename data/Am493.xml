@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am493">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 493</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am493</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on a fragment of an octogonal pillar.
+	      </origPlace>
+	      <origDate notBefore-custom="0200"
+			notAfter-custom="0300"
+			precision="medium">ca. 3rd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 27 (No. 493 of 1913)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+		 quantity="3"
+		 unit="character"
+		 precision="low"/>gāme vāthavasa gahapatisa <persName
+		 key="pers:Am-Vākāṭaka">vākāṭakasa</persName> 
+	    gahapatiki<unclear>ni</unclear>
+	  <lb n="2"/>
+	    <gap reason="lost"
+		 quantity="5"
+		 unit="character"
+		 precision="low"/>nā therena <persName 
+		 key="pers:Am-Bodhika">bodhikena</persName> bhariyāya
+	    <persName key="pers:Am-Camunā">camunāya</persName> sabhātukehi<gap
+	         reason="lost"
+		 quantity="3"
+		 unit="character"
+		 precision="low"/>
+	  <lb n="3"/>
+	    <gap reason="lost"
+		 quantity="3"
+		 unit="character"
+		 precision="low"/>kehi sanātimitabaṃdhavehi ca
+	    apaṇo āyuvadhanika<unclear>pu</unclear><gap
+	         reason="lost"
+		 quantity="4"
+		 unit="character"
+		 precision="low"/>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Of the householder <persName key="pers:Am-Vākāṭaka">Vākāṭaka</persName>,
+	an inhabitant of the village... of the housewife ... by the thera
+	<persName key="pers:Am-Bodhika">Bodhika</persName>... of his wife
+	<persName key="pers:Am-Camunā">Camunā</persName> with her brothers...
+	with grandsons, friends, and relatives also, for the increment
+	of his own term of life...</p>
+      </div>
+    </body>
+  </text>
+</TEI>
