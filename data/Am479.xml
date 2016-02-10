@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am479">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 479</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am479</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on a fragment (corner) of a sculptured slab.
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">ca. 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 47 (No. 479 of 1913)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. He writes: “The sign between ka and ya in line 1 is very indistinct. Lüders takes it as nh. [I would take it as a da followe dby a ta written below the lines.—Ed.]” On <emph>abātamālā</emph> see Hultzsch in ZDMG XL, 345-346.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    <gap reason="lost"
+		 quantity="unknown"
+		 unit="character"/>ka sabhariyāya <persName 
+		 key="pers:Am-Cakradattā">caka<unclear>data</unclear>ya</persName> sapitukāya
+	  <lb n="2"/>
+	    <gap reason="lost"
+		 quantity="unknown"
+		 unit="character"/>ha<unclear>ya</unclear> sanātimitabadhavehi deyadhama
+	  <lb n="3"/>
+	    <gap reason="lost"
+		 quantity="unknown"
+		 unit="character"/>patiṭhapita soṭhikapaṭo abātamālā ca
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>(This) slab with svastika and an abātamālā are the pious gifts established by
+	   <persName key="pers:Am-Cakradattā">Cakradattā</persName>, wife of ... ka,
+	   together with her father ... and their grandsons, friends and relatives.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

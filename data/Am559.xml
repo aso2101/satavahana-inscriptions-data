@@ -23,9 +23,9 @@
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		on a fragment.
 	      </origPlace>
-	      <origDate notBefore-custom="0100"
-			notAfter-custom="0200"
-			precision="medium">ca. 2nd century CE</origDate>
+	      <origDate notBefore-custom="0000"
+			notAfter-custom="0100"
+			precision="medium">ca. 1st century CE?</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

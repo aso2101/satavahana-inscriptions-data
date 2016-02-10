@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am489">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 489</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am489</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		at the lower end of a sculpted slab divided into two panels
+		(<emph>udha-paṭa</emph>).
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">ca. 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 55 (No. 489 of 1913)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. I give, however, the more complete (and supplemented) reading of the editor, F. W. Thomas.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    sidhaṃ <placeName
+	    key="pl:Sigiri"><choice><sic>pi</sic><corr>si</corr></choice>giri</placeName>-nev<unclear>ā</unclear>sakasa
+	    ma<unclear>hā-na</unclear>va<unclear>kamaka</unclear>sa
+	    <unclear>bhayaya</unclear><gap
+	    reason="lost"
+	    quantity="3"
+	    unit="character"/>ma budhasāviyāya<gap
+	    reason="lost"
+	    quantity="10"
+	    unit="character"/><unclear>ne</unclear>v<unclear>ā</unclear>sikasa
+	    <persName key="pers:Am-Gomayi">gomayi<unclear>sa</unclear></persName>
+	    a<choice><sic>yā</sic><corr>yi</corr></choice>ri<lb
+	    n="2" break="no"/>heghasa <placeName
+	    key="pl:Sihagiri">sihagiri</placeName>-<unclear>na</unclear>vakamakasa
+	    <persName key="pers:Am-Dharmarakṣita">dhamarakhitasa</persName>
+	    <choice><sic>a</sic><corr>su</corr></choice>nutara-v<unclear>i</unclear>h<unclear>ā</unclear>rasa
+	    katusalaturanakasa kaṭanakisa <placeName key="pl:Nāgaparvata">nāgapavatā</placeName>
+	  <lb n="3"/>
+	    mahā-navakamakasa a<choice><sic>yā</sic><corr>yi</corr></choice>ra-<persName
+	    key="pers:Am-Bhupa">bhupasa</persName> dheuraparalava<gap
+	    reason="lost"
+	    quantity="3"
+	    unit="character"/>vasuya <persName
+	    key="pers:Am-Hara">haraya</persName> mātuya nacaya badhaya ca
+	    <persName key="pers:Am-Candrā">ca<unclear>ṃ</unclear>daya</persName> ca
+	  <lb n="4"/>
+	    rā<unclear>y</unclear>iya ca <unclear>khu</unclear>pasi<unclear>ya</unclear><gap
+	    reason="lost"
+	    unit="character"
+	    quantity="5"/>bāliya ca sa<unclear>na</unclear>tiri-mita<gap
+	    reason="lost"
+	    unit="character"
+	    quantity="5"/>badhaya ūmarikā
+	    udhapamana paṭiṭhapita aya<persName key="pers:Am-Pusa">pusa</persName>
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -3,15 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am536">
+     xml:id="Am481">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Amarāvatī Inscription No. 536</title>
+	<title>Amarāvatī Inscription No. 481</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Am536</idno>
+	<idno>Am481</idno>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -20,12 +20,11 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
-		on the corner of a disc with a big lotus.
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>.
 	      </origPlace>
-	      <origDate notBefore-custom="0000"
-			notAfter-custom="0100"
-			precision="medium">ca. 1st century CE?</origDate>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">ca. 2nd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -41,7 +40,7 @@
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:Chandra1919"/>
-	  <citedRange>no. 33 (No. 536 of 1907)</citedRange>
+	  <citedRange>no. 53 (No. 481 of 1913)</citedRange>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
@@ -50,19 +49,13 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	    <persName key="pers:Am-Nutu">nutu</persName>uparakasa
-	  <lb n="2"/>
-	    <placeName key="pl:Koḍimuṭi">koḍimuṭikasa</placeName>
-	  <lb n="3"/>
-	    tiṇi suciyo
-	  <lb n="4"/>
-	    dānaṃ
+	    <gap reason="lost"
+		 quantity="unknown"
+		 unit="character"/>bhadiya deyadama unisa pati<unclear>ṭhavita</unclear>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
-	<p>Three rail bars are the gift of the uparaka 
-	<persName key="pers:Am-Nutu">Nutu</persName>
-	of <placeName key="pl:Koḍimuṭi">Koḍimuṭi</placeName>.</p>
+	<p>(This) pious gift of  ... bhadī, the coping stone, is placed ...</p>
       </div>
     </body>
   </text>

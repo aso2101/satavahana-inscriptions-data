@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Am500">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 500</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am500</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		at the lower end of a sculptured slab (<emph>udha-paṭa</emph>).
+	      </origPlace>
+	      <origDate notBefore-custom="0100"
+			notAfter-custom="0200"
+			precision="medium">ca. 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 56 (No. 500 of 1913)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	    sidhaṃ <placeName key="pl:Turughura">turughura</placeName>-vathavasa
+	    <persName key="pers:Am-Candramukha">cadamukha</persName>-gahapatisa
+	    bālikā <persName key="pers:Am-Tanacandrā">tanacadaya</persName><gap
+	    reason="lost"
+	    unit="character"
+	    quantity="3"/>ca halikaya <persName
+	    key="pers:Am-Bādhā">badhaya</persName>
+	  <lb n="2"/>
+	    nutukāya <persName 
+	    key="pers:Am-Bhadrā"><choice><sic>bha</sic><corr>ca</corr></choice>daya</persName> ca
+	    bhaga<unclear>vato</unclear> mahācetiyasa <app><lem wit="#ed">pura</lem><rdg
+	    wit="#Chandra1919">para</rdg></app>dāre <unclear>dakhi</unclear>ne 
+	    pase <unclear>u</unclear>dhapaṭa <unclear>de</unclear>ya-dhama
+	  <lb n="3"/>patiṭhapita
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>Success! (This) upright slab placed on the south side of the eastern 
+	gate of the Mahācaitya of the Blessed one, (is) the pious gift of ...
+	the daughter of the householder 
+	<persName key="pers:Am-Candramukha">Candramukha</persName>, an inhabitant
+	of <placeName key="pl:Turughura">Turughura</placeName>, and of ... 
+	and of the hālikā <persName key="pers:Am-Bādhā">Bādhā</persName>
+	amd her granddaughter <persName key="pers:Am-Bhadrā">Bhadrā</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
