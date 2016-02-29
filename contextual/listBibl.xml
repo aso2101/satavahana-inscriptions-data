@@ -595,7 +595,6 @@
     <biblScope unit="pp" from="154" to="158">154–158</biblScope>
     <date>1975–1976</date>
   </bibl>
-
   <bibl xml:id="Bhandare1999" type="dissertation">
     <author>
       <name>
@@ -608,7 +607,6 @@
     <pubPlace>Bombay</pubPlace>
     <date when="1999">1999</date>
   </bibl>
-
   <bibl xml:id="SeshadriShastri19371938" type="article">
     <author>
       <name>
@@ -622,7 +620,6 @@
     <biblScope unit="pp" from="256" to="260">256–260</biblScope>
     <date when="1937–1938">1937–1938</date>
   </bibl>
-
   <bibl xml:id="Kosambi1955" type="article">
     <author>
       <name>
@@ -637,7 +634,7 @@
     <date when="1955">1955</date>
   </bibl>
 
-  <bibl xml:id="DasGupta1949">
+  <bibl xml:id="DasGupta1949" type="article">
     <author>
       <name>
 	<forename>C. C.</forename>

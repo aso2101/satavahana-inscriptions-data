@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="Dha1">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,7 +20,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Dhānyakaṭaka">Dharanikota</placeName>,
+		<placeName key="pl:Dhānyakaṭaka">Dharanikota</placeName>.
 	      </origPlace>
 	      <origDate when-custom="119"
 			precision="low">ca. 119 </origDate>
@@ -35,11 +34,11 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:SeshadriSastri19371938"/>
+	  <ptr target="bibl:SeshadriShastri19371938"/>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
-	<p>The edition is based on <ref target="bibl:SeshadriSastri19371938">Seshadri Sastri 1937–1938</ref>. He surmised that it belonged to the reign of Vāsiṣṭhīputra Śrī Puḷumāvi (this would be necessary if the reading is indeed panatrise).</p>
+	<p>The edition is based on <ref target="bibl:SeshadriShastri19371938">Seshadri Sastri 1937–1938</ref>. He surmised that it belonged to the reign of Vāsiṣṭhīputra Śrī Puḷumāvi (this would be necessary if the reading is indeed panatrise).</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>

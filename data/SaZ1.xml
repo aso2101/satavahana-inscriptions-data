@@ -34,8 +34,7 @@
 	      <origDate
 		  notBefore-custom="0084"
 		  notAfter-custom="0100"
-		  precision="medium"
-		  evidence="nomenclature">late 1st c. CE</origDate>
+		  precision="low">late 1st c. CE (?)</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -48,38 +47,36 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:VaraprasadaRao1995"/>
+	  <ptr target="bibl:VaraprasadRao1995"/>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
 	<p>This edition is based on
-	<ref target="bibl:VaraprasadaRao1995">Varaprasada Rao 1995</ref>,
-	with small corrections and a translation by
-	Andrew Ollett. We have the final portion of a 
-	vasantatilaka verse, followed by the initial portion
-	of an āryā verse.</p>
+	<ref target="bibl:VaraprasadaRao1995">Varaprasada Rao 1995</ref>.
+	Andrew Ollett, Oskar von Hinüber, and Arlo Griffiths 
+	contributed to the reading and interpretation.</p>
+	<p>We have a portion of a <emph>vasantatilaka</emph> verse.</p>
 	<p>The inscription is notable for being among the earliest
 	inscriptions in Sanskrit, and the earliest inscriptions in
 	verse.</p>
       </div>
       <div type="edition" xml:lang="sa-Latn">
-	<lg part="F">
+	<lg met="vasantatilaka">
 	  <l><lb n="1"/>yas sva<supplied reason="omitted">r</supplied>ggatas samavasṛjya narendralakṣmīṃ<caesura/> 
-	  putrottame<lb n="2"/> suta-sahasra-samāna-sāre</l>
-	</lg>
-	<lg part="I">
-	  <l part="I">rāja-kuśala-kṣaya-kar<app
-	    ><lem wit="#AO">aṅ ku</lem>
+	  puttrottame suta-sahasra-samāna-sāre</l>
+	  <l>rā<app><lem wit="#AG">jñāṅ ku</lem><rdg wit="#VPR">ja-kuśa</rdg></app>la-kṣaya-kar<app
+	    ><lem wit="#OVH">ax ku</lem>
 	     <rdg wit="#VPR">aṃ ku</rdg>
-	  </app>la-</l>
+	  </app>la<seg met="+-++"><gap
+	     reason="lost" quantity="unknown" unit="character"/></seg></l>
 	</lg>
       </div>
       <div type="translation">
-	<p>.... who went to heaven
-	     after transfering the glory of kings
-	     to his greatest son,
-	     equal in strength to a thousand sons.</p>
-	<p>Making kings prosper and fall ....</p>
+	<p>.... who died after transferring his Royal Majesty
+	     to the best of his sons,
+	     equal in essence to a thousand sons,
+	     the one who destroyed the families of kings
+	     ... families ...</p>
       </div>
     </body>
   </text>
