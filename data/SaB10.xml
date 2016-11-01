@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB10">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B10 (of Siṃhadhara)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB10</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>;
+		according to <ref target="bibl:Sarma1993">Varaprasada Rao</ref>,
+		on a slab in the Candralāmbā Temple; 
+		according to <ref target="bibl:ARIE1966">ARIE 1966–1967</ref>,
+		it is on a slab lying by the side of the bathing ghāṭ of
+		the Candralāmbā Temple.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0100"
+		  notAfter-custom="0200"
+		  precision="medium"
+		  evidence="nomenclature">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>no. 222</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B10</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>
+	  <unclear>yā</unclear>macasa 
+	  <persName key="pers:Sa-Siṃhadhara"><app><lem wit="#Sarma1993">si</lem><rdg wit="#ARIE1966">sī</rdg></app>hadharasa</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of the Royal Minister <persName key="pers:Sa-Siṃhadhara">Siṃhadhara</persName>...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

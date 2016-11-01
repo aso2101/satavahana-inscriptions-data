@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B4 (of -nadāsa)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB4</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A roughly dressed <material>limestone</material> <objectType>slab</objectType>.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+		found in the foundation of the Kāli shrine in the 
+		Candralāmbā Temple.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="paleography">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaB4-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B4</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="unknown" 
+	       unit="character"/>
+	  <app><lem>ma</lem><rdg wit="#Sarma1993">mā</rdg></app>caputasa anekakatuyājisa
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       quantity="unknown" 
+	       unit="character"/>
+	  <app><lem><gap reason="lost" quantity="1" unit="character"/><unclear>na</unclear></lem><rdg wit="#Sarma1993">dune</rdg></app>dāsasa
+	</p>
+      </div>
+      <div type="translation">
+	<p>of -nadāsa, an Amātyaputra and the performer of many rituals.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

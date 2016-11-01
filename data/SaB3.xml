@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B3</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB3</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A <material>limestone</material> <objectType>slab</objectType>, measuring <dimensions
+	          unit="centimeter">
+	        <width>51</width>
+		<depth>19</depth>
+		<height>30</height></dimensions>
+		cm.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+		in the wall of the Hanuman Temple (<placeName key="pl:SAN-4">SAN-4</placeName>).
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="paleography">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaB3-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966"/>
+	  <citedRange>no. 210</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B3</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with my own (AO’s) corrections based on their photograph.</p>
+	<p>Varaprasada Rao understood the donor to be a merchant named Āpakuṭi, but generally the personal names of merchants follow the word <foreign xml:lang="mi-Latn">vāṇiya</foreign>, and the word <foreign xml:lang="mi-Latn">āpakuṭi</foreign> suggests, to me, a drinking station rather than a personal name. But much remains unclear.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="unknown" 
+	       unit="character"/>mahāse<app><lem>ṇa</lem><rdg 
+	       wit="#ARIE1966 #Sarma1993">nā</rdg></app><app><lem>ya</lem><rdg
+	       wit="#ARIE1966 #Sarma1993">ye</rdg></app>sa<placeName 
+	       key="pl:Balivadāra">ba<app><lem 
+	       wit="#Sarma1993">li</lem><rdg wit="#ARIE1966">lī</rdg></app>va<app><lem 
+	       wit="#Sarma1993">dā</lem><rdg 
+	       wit="#ARIE1966">ü</rdg></app>ra</placeName>vāsi<app><lem>ṇā</lem><rdg 
+	       wit="#ARIE1966 #Sarma1993">no</rdg></app> 
+	  <persName 
+	       key="pers:Sa-Āpakuṭi">āpakuṭisa</persName> 
+	  <app><lem wit="#ARIE1966">vā</lem><rdg 
+	       wit="#Sarma1993">va</rdg></app><app><lem>ṇi</lem><rdg 
+	       wit="#ARIE1966 #Sarma1993">ni</rdg></app><app><lem 
+	       wit="#ARIE1966">ya</lem><rdg wit="#Sarma1993">yā</rdg></app>ke<app><lem>ṇa</lem><rdg 
+	       wit="#ARIE1966">na</rdg><rdg wit="#Sarma1993">ta</rdg></app><app><lem>ṇi</lem><rdg
+	       wit="#Sarma1993">ni</rdg><rdg wit="#ARIE1966">na</rdg></app><gap 
+	       reason="lost" quantity="unknown" unit="character"/>
+	</p>
+      </div>
+      <div type="translation">
+	<p>of a (shrine?) of Mahāseṇa, by the inhabitant of Balivadāna; of a drinking-station, by the merchant ...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

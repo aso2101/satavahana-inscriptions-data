@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB7">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B7</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB7</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A broken <material>limestone</material> slab with a relief sculpture on top.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="nomenclature">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaB7-sarma1993.jpg">
+      <desc>Rubbing from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>no. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B7</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  mahāraṭhiputasa
+	</p>
+      </div>
+      <div type="translation">
+	<p>... the son of a Mahāraṭṭhi ...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

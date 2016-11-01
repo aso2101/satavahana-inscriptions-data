@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaD4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati D4 (of Sulasa)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaD4</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A memorial slab with an oval top and a gavākṣa motif.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0100"
+		  notAfter-custom="0200"
+		  precision="medium"
+		  evidence="nomenclature">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile></facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>no. 231</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Seshadri1972"/>
+	  <citedRange>pl. 18</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>no. 13</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>D4</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  gahapatisa <persName key="pers:Sa-Sulasa"><app><lem wit="#ARIE1966 #Seshadri1972 #NagarajaRao1985">su</lem><rdg wit="#Sarma1993">sū</rdg></app>lasasa</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of the banker <persName key="pers:Sa-Sulasa">Sulasa</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

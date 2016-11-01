@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B1 (of Priyadatta)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A <material>limestone</material> <objectType>slab</objectType>, 
+	      <dimensions unit="centimeter">
+	        <depth>7</depth>
+		<width>20</width>
+		<height>58</height>
+	      </dimensions> cm. The upper panel has a seated couple flanked by two female attendants, and the lower panel, an unridden horse with an attendant and someone carrying a royal umbrella.</support>
+	    </supportDesc>
+	    <layoutDesc>
+	      <layout>Inscribed on flat surface just above the lower register.</layout>
+	    </layoutDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		Found during the excavations at <placeName key="pl:Sannati">Sannati</placeName> (<placeName key="pl:SAN-1">SAN-1</placeName>).
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="paleography">1st c. CE</origDate>
+	    </origin>
+	    <provenance
+		when="2016">Current whereabouts unknown.</provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaB1-sarma1993.png">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966"/>
+	  <citedRange>no. 228</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Seshadri1972"/>
+	  <citedRange>pl. 22</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>no. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B2</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  ya a<app><lem wit="#AO">ma</lem><rdg wit="#Sarma1993">mā</rdg></app>caputasa <persName key="pers:Sa-Priyadatta">piyadatasa</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of the the Amātyaputra <persName key="pers:Sa-Priyadatta">Priyadatta</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

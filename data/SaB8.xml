@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB8">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B8</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB8</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A memorial stone with three caitya arches on top, along with a scene of three persons in the lower panel with two attendants in the background (the one on the left carrying a chalice, and the one on the right carrying a fan).</support>
+	    </supportDesc>
+	    <layoutDesc>
+	      <layout>The inscriptions are on the top left, top right, and bottom center of the main (lower) panel.</layout>
+	    </layoutDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+		on a slab set up in the temple of Bīrappa.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="nomenclature">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaB8-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+    <graphic
+	url="images/SaB8-2-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+    <graphic
+	url="images/SaB8-3-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>no. 205</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B8</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>To judge from the position of the labels, the larger male and female figures are Mugarakoṇha, the Bhojaka, and Kāmā, the Bhojikinī (a strange formation, seemingly a combination of Bhojinī and Bhojaka). They were probably a couple, and their aristocratic status is suggested by both their titles and the chalice and fan held in the background. The figure in the center, who is smaller, was called Kaṇhakoṭava and was the son of a scribe (<foreign xml:lang="mi-Latn">lekhakaputra</foreign>). He probably a close relation (perhaps a younger brother) of Mugarakoṇha.</p>
+	<p>The names evidently contain the word Kṛṣṇa (Mudgara-Kṛṣṇa and Kṛṣṇa-Kaustubha?).</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="textpart" n="a">
+	  <ab><lb n="1"/><app><lem>bho</lem><rdg wit="#Sarma1993">ce</rdg></app>jakasa <persName key="pers:Sa-Mugarakoṇha">mu<app><lem wit="#ARIE1966">ga</lem><rdg wit="#Sarma1993">gu</rdg></app>rakoṇhasa</persName></ab>
+	</div>
+	<div type="textpart" n="b">
+	  <ab><lb n="1"/>bhoji<app><lem wit="#ARIE1966">ki</lem><rdg wit="#Sarma1993"></rdg></app>niya <persName key="pers:Sa-Kāmā"><app><lem wit="#Sarma1993">kā</lem><rdg wit="#ARIE1966">kaṃ</rdg></app>māya</persName></ab>
+	</div>
+	<div type="textpart" n="c">
+	  <ab><lb n="1"/><app><lem wit="#Sarma1993">lekhaka</lem><rdg wit="#Sarma1993">lekha<unclear>ka</unclear></rdg><rdg wit="#ARIE1966">lodha<unclear>ka</unclear></rdg></app>putasa <persName key="pers:Sa-Kaṇhakoṭava"><app><lem>ka</lem><rdg wit="#Sarma1993 #ARIE1966">na</rdg></app>ṇhakoṭavasa</persName></ab>
+	</div>
+      </div>
+      <div type="translation">
+	<p>The Bhojaka <persName key="pers:Sa-Mugarakoṇha">Mugarakoṇha</persName>, the Bhojikinī <persName key="pers:Sa-Kāmā">Kāmā</persName>, and the scribe’s son <persName key="pers:Sa-Kaṇhakoṭava">Kaṇhakoṭava</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

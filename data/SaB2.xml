@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaB2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B2 (of Rāmaśrī)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB2</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A <material>limestone</material> <objectType>slab</objectType>, containing a relief of a woman seated on a stool, surrounded by two standing female attendants. The attendant on the left holds a chalice, and the one on the right holds a fan.</support>
+	    </supportDesc>
+	    <layoutDesc>
+	      <layout>Inscribed on flat surface just above the relief.</layout>
+	    </layoutDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		Reported to have been found at <placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="paleography">1st c. CE</origDate>
+	    </origin>
+	    <provenance 
+		type="transferred" 
+		notAfter="1966">Transferred to the State Museum at <placeName key="pl:Gulbarga">Gulbarga</placeName>, where it is painted with the number “29.” This is its current location as of 2014.</provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaB2-seshadri1972-pl22.png">
+      <desc>Photograph from <ref target="bibl:Seshadri1972">Seshadri 1972</ref>.</desc>
+    </graphic>
+    <graphic 
+	url="images/SaB2-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966"/>
+	  <citedRange>no. 228</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Seshadri1972"/>
+	  <citedRange>pl. 22</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>no. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B2</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is reedited on the basis of <ref target="bibl:Seshadri1972">Seshadri’s</ref> rubbing (plate 22) and photographs of the object in the State Museum, Gulbarga.</p>
+	<p>The object looks like a memorial-stone to me, but Nagaraja Rao thought that it recorded a donation by Rāmaśrī.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  rā<app><lem wit="#NagarajaRao1985">ja</lem><rdg wit="#ARIE1966 #Seshadri1972 #Sarma1993">jā</rdg></app>macasa <persName key="pers:Sa-Gaganaka">gaga<app><lem wit="#Sarma1993 #NagarajaRao1985 #ARIE1966">na</lem><rdg wit="#Seshadri1972">ba</rdg></app>kasa</persName> bhāriyā<app><lem wit="#Seshadri1972 #Sarma1993">ya</lem><rdg wit="ARIE1966 #NagarajaRao1985">ye</rdg></app> rā<app><lem wit="#ARIE1966">ja</lem><rdg wit="#Sarma1993 #Seshadri1972 #NagarajaRao1985">jā</rdg></app><app><lem wit="#ARIE1966 #NagarajaRao1985 #Seshadri1972">ma</lem><rdg wit="#Sarma1993">mā</rdg></app><app><lem>cā</lem><rdg wit="#ARIE1966 #Seshadri1972">ca</rdg><rdg wit="#NagarajaRao1985 #Sarma1993">ci</rdg></app>ya <persName key="pers:Sa-Rāmaśrī">rāmasi<app><lem wit="#ARIE1966 #Seshadri1972 #NagarajaRao1985">ri</lem><rdg wit="#Sarma1993">rī</rdg></app>ya</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of the Rājāmātyī <persName key="pers:Sa-Rāmaśrī">Rāmaśrī</persName>, wife of the Rājāmātya <persName key="pers:Sa-Gaganaka">Gaganaka</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
