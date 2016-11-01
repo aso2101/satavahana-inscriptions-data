@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Khaha">
+  <sex value="M"/>
+  <persName>Khaha</persName>
+  <occupation>vaṇīya</occupation>
+</person>
