@@ -7,10 +7,93 @@
       </name>
     </author>
     <title level="a">The Inscriptions in the Caves at Nasik</title>
-    <title level="j">Epigraphica Indica</title>
+    <title level="j">Epigraphia Indica</title>
     <biblScope unit="vol">8</biblScope>
     <biblScope unit="pp" from="59" to="96">59–96</biblScope>
     <date when="1905-1906">1905–1906</date>
+  </bibl>
+  <bibl xml:id="Deo1972" type="book">
+    <author>
+      <name>
+	<surname>Deo</surname>
+	<forename>S. B.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Joshi</surname>
+	<forename>J. P.</forename>
+      </name>
+    </author>
+    <title>Pauni Excavation, 1969–1970</title>
+    <publisher>Archaeological Survey of India and Nagpur University</publisher>
+    <pubPlace>Nagpur</pubPlace>
+    <date when="1972">1972</date>
+  </bibl>
+  <bibl xml:id="Sankalia1969" type="article">
+    <author>
+      <name>
+	<surname>Sankalia</surname>
+	<forename>H. D.</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+	<surname>Gokhale</surname>
+	<forename>Shobhana</forename>
+      </name>
+    </author>
+    <title level="a">A Brahmi Inscription from Pale</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">38</biblScope>
+    <biblScope unit="pp" from="167" to="168">167–168</biblScope>
+    <date when="1969">1969</date>
+  </bibl>
+  <bibl xml:id="Kolte1969" type="article">
+    <author>
+      <name>
+	<surname>Kolte</surname>
+	<forename>V. B.</forename>
+      </name>
+    </author>
+    <title level="a">Brahmi Inscriptions from Pauni</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">38</biblScope>
+    <biblScope unit="pp" from="169" to="174">167–174</biblScope>
+    <date when="1969">1969</date>
+  </bibl>
+  <bibl xml:id="Seshadri1972" type="article">
+    <author>
+      <name>
+	<surname>Seshadri</surname>
+	<forname>M.</forname>
+      </name>
+    </author>
+    <title level="a">Buddhist Monuments from Mysore</title>
+    <title level="j">Artibus Asiae</title>
+    <biblScope unit="vol">3</biblScope>
+    <biblScope unit="number">2</biblScope>
+    <biblScope unit="pp" from="169" to="182">169–182</biblScope>
+    <date when="1972">1972</date>
+  </bibl>
+  <bibl xml:id="Dandekar2006" type="article">
+    <author>
+      <name>
+        <surname>Dandekar</surname>
+        <forename>Abhijit</forename>
+      </name>
+    </author>
+    <author>
+      <name>
+        <surname>Joshi</surname>
+        <forename>Sachin Vidyadhar</forename>
+      </name>
+    </author>
+    <title level="a">A Newly Found Inscription in the Mahāḍ Caves, Maharashtra</title>
+    <title level="j">Bulletin of the Deccan College Research Institute</title>
+    <biblScope unit="vol">66–67</biblScope>
+    <biblScope unit="pp" from="241" to="244">241–244</biblScope>
+    <date when="2006-2007">2006–2007</date>
   </bibl>
   <bibl xml:id="K" type="article">
     <author>
@@ -37,6 +120,19 @@
     <pubPlace>Pune</pubPlace>
     <date when="1991">1991</date>
   </bibl>
+  <bibl xml:id="Jacobi1878" type="article">
+    <author>
+      <name>
+	<surname>Jacobi</surname>
+	<forename>Hermann</forename>
+      </name>
+    </author>
+    <title level="a">The Kuḍâ Inscriptions</title>
+    <title level="j">The Indian Antiquary</title>
+    <biblScope unit="vol">7</biblScope>
+    <biblScope unit="pp" from="253" to="257">253–257</biblScope>
+    <date when="1878">1878</date>
+  </bibl>
   <bibl xml:id="Levi1936" type="article">
     <author>
       <name>
@@ -62,6 +158,45 @@
     <biblScope unit="vol">1</biblScope>
     <biblScope unit="pp" from="95" to="96">95–96</biblScope>
     <date when="1892">1892</date>
+  </bibl>
+
+  <bibl xml:id="NagarajaRao1985" type="incollection">
+    <author>
+      <name>
+	<surname>Nagaraja Rao</surname>
+	<forename>M. S.</forename>
+      </name>
+    </author>
+    <title level="a">Brāhmī Inscriptions and Their Bearing on the Great Stūpa at Sannati</title>
+    <title level="m">Indian Epigraphy: Its Bearing on the History of Art</title>
+    <editor>
+      <name>
+        <surname>Asher</surname>
+        <forename>Frederick M.</forename>
+      </name>
+    </editor>
+    <editor>
+      <name>
+        <surname>Gai</surname>
+        <forename>G. S.</forename>
+      </name>
+    </editor>
+    <biblScope unit="pp" from="41" to="45">41–45</biblScope>
+    <pubPlace>New Delhi</pubPlace>
+    <publisher>Oxford and IBH Publishing Company</publisher>
+    <date when="1985">1985</date>
+  </bibl>
+
+  <bibl xml:id="ARIE1966" type="report">
+    <title>Annual Report on Indian Epigraphy for 1966–1967</title>
+    <publisher>Archaeological Survey of India</publisher>
+    <pubPlace>New Delhi</pubPlace>
+  </bibl>
+
+  <bibl xml:id="ARIE1968" type="report">
+    <title>Annual Report on Indian Epigraphy for 1968–1969</title>
+    <publisher>Archaeological Survey of India</publisher>
+    <pubPlace>New Delhi</pubPlace>
   </bibl>
 
   <bibl xml:id="Sarkar1965" type="article">
@@ -135,6 +270,7 @@
     <biblScope unit="vol">4</biblScope>
     <pubPlace>London</pubPlace>
     <publisher>Trübner and Co.</publisher>
+    <date when="1883">1883</date>
   </bibl>
   <bibl xml:id="BuhlerNa" type="incollection">
     <author>

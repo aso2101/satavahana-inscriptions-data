@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 20</title>
+	<title>Kuḍā No. 20 (of Mahika)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 14, on the left end wall and round the back
+		<placeName type="modern" key="pl:Kuḍā-14">Cave No. 14</placeName>, 
+		on the left end wall and round the back
 		over the window.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
@@ -37,8 +38,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 7</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 18</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 20</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1055</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -49,7 +62,7 @@
 	  <lb n="1"/>
 	    <placeName key="pl:Karahākaṭa">karahākaḍakasya</placeName>
 	    lohavāṇiyiyasa
-	    <persName key="pers:Mahika">mahikasa</persName>
+	    <persName key="pers:Ku-Mahika">mahikasa</persName>
 	  <lb n="2"/>
 	    deyadhaṃmaṃ leṇaṃ  
 	</p>
@@ -57,8 +70,8 @@
       <div type="translation" xml:lang="en">
 	<p>
 	  The meritorious gift of a cave by
-	  <persName key="pers:Mahika">Mahika</persName>
-	  of <placeName key="pl:Karahākaṭa">Karahākaḍa</placeName>,
+	  <persName key="pers:Ku-Mahika">Mahika</persName>
+	  of <placeName key="pl:Karahākaṭaka">Karahākaṭaka</placeName>,
 	  ironmonger.
 	</p>
       </div>

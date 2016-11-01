@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 21</title>
+	<title>Kuḍā No. 21 (of Vasula)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		on the back of a tank near Cave No. 14.
+		on the back of a tank near 
+		<placeName type="modern" key="pl:Kuḍā-14">Cave No. 14</placeName>.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 19</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 21</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1056</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -47,14 +56,14 @@
 	<p>
 	  <lb n="1"/>
 	    ga<supplied reason="lost">ha</supplied>patino
-	    <persName key="pers:Vasula">vasulasa</persName>
+	    <persName key="pers:Ku-Vasula">vasulasa</persName>
 	  <lb n="2"/>
 	    seṭhino sanā<supplied reason="lost">napoḍhi</supplied>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  Of the merchant <persName key="pers:Vasula">Vasula</persName>,
+	  Of the merchant <persName key="pers:Ku-Vasula">Vasula</persName>,
 	  ... a bathing tank.
 	</p>
       </div>

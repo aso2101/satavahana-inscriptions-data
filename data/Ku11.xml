@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā Nos. 11 and 12</title>
+	<title>Kuḍā Nos. 11 and 12 (of Saṅghadeva)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 6, on the right wall.
+		<placeName type="modern" key="pl:Kuḍā-6">Cave No. 6</placeName>, 
+		on the right wall.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 10</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā Nos. 11 and 12</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1047</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -49,7 +58,7 @@
 	    deyadharmmoyaṃ
 	    śākya<choice><sic>bhikṣuḥ</sic><corr>bhikṣoḥ</corr></choice>
 	  <lb n="2"/>
-	    <persName key="pers:Saṅghadeva">saṃghadevasya</persName>
+	    <persName key="pers:Ku-Saṅghadeva">saṃghadevasya</persName>
 	    atra ca
 	  <lb n="3"/>
 	    ceṃḍinakṣe<choice><sic>tra</sic><corr>traṃ</corr></choice>
@@ -68,7 +77,7 @@
       <div type="translation" xml:lang="en">
 	<p>
 	  This (image) is the meritorious gift of the Śākyabhikṣu
-	  <persName key="pers:Saṅghadeva">Saṅgadheva</persName>, and
+	  <persName key="pers:Ku-Saṅghadeva">Saṅgadheva</persName>, and
 	  the Chindina field is given for the expense of lights to Buddha.
 	  Who cuts off (this grant) is guilty of the five great sins.
 	</p>

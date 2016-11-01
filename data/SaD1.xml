@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati D.1 (of Nāganikā and Girija)</title>
+	<title>Sannati D1 (of Nāganikā and Girijataṇaka)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -29,7 +29,7 @@
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>,
-		in a field halfway between between the Canralāmbā
+		in a field halfway between between the Candralāmbā
 		and Durgā temples.
 	      </origPlace>
 	      <origDate
@@ -46,30 +46,52 @@
   <facsimile>
     <graphic 
 	url="images/SaD1-001.jpg">
-      <desc>Photograph from Annual Report on 
-        Indian Epigraphy 1966-1967.</desc>
+      <desc>Photograph from <ref target="bibl:ARIE1966">ARIE 1966–1967</ref>.</desc>
+    </graphic>
+    <graphic 
+	url="images/SaD1-seshadri1972-pl19.png">
+      <desc>Photograph from <ref target="bibl:Seshadri1972">Seshadri 1972</ref> plate 19.</desc>
+    </graphic>
+    <graphic 
+	url="images/SaD1-seshadri1972-pl8.png">
+      <desc>Photograph from <ref target="bibl:Seshadri1972">Seshadri 1972</ref> plate 8.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>no. 225</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Seshadri1972"/>
+	  <citedRange>pl. 8a, 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>D1</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
-	</div>
 	<p>
 	  <lb n="1"/>
-	  ahimarikāya 
-	  <persName key="pers:Nāganikā-1">nāganikāya</persName>
+	  <placeName key="pl:Ahimarika">ahimarikāya</placeName>
+	  <persName key="pers:Sa-Nāganikā">nāganikāya</persName>
 	  <lb n="2"/>
-	  arikābhātuno
-	  <persName key="pers:Girija">girijagaṇakasa</persName>
+	  <persName key="pers:Sa-Arikā">arikā</persName>bhātu<app><lem wit="#ARIE1966">no</lem><rdg wit="#Seshadri1972">na</rdg><rdg wit="#Sarma1993">mo</rdg></app>
+	  <persName key="pers:Sa-Girijataṇaka">giri<app><lem wit="#Sarma1993 #Seshadri1972">ja</lem><rdg wit="#ARIE1966 #NAgarajaRao1985">da</rdg></app><app><lem wit="#ARIE1966">taṇa</lem><rdg wit="#Sarma1993">gaṇa</rdg><rdg wit="#Seshadri1972 #NagarajaRao1985">tana</rdg></app>kasa</persName>
 	</p>
       </div>
       <div type="translation">
 	<p>
-	  (Pillar) of <persName key="pers:Nāganikā-1">Nāganikā</persName>
-	  of Ahimarikā and of <persName key="pers:Girija">Girija</persName>,
-	  the accountant, brother of Arika.
+	  (Pillar) of <persName key="pers:Sa-Nāganikā">Nāganikā</persName>
+	  of <placeName key="pl:Ahimarika">Ahimarika</placeName> and of 
+	  <persName key="pers:Sa-Girijataṇaka">Girijataṇaka</persName>,
+	  brother of <persName key="pers:Sa-Arikā">Arikā</persName>.
 	</p>
       </div>
     </body>

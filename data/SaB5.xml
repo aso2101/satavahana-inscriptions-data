@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati B.5 (of the Nāṭikās)</title>
+	<title>Sannati B5 (of Puruṣadattā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -22,8 +22,14 @@
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>,
-		on a large pillar lying in the field of Channabasappa
-		Gowda.
+		built into the wall of the Durgā temple. However,
+		according to <ref target="bibl:Sarma1993">Sarma
+		and Varaprasada Rao 1993</ref>, this was found
+		near the ruined stūpa site (<placeName
+		key="pl:SAN-4">SAN-4</placeName>) near the Durgā
+		temple. It seems, however, that the editors mistakenly
+		combined the find-spots for items no. 223 and 224
+		in ARIE 1966–1967.
 	      </origPlace>
 	      <origDate
 		  notBefore-custom="0100"
@@ -31,6 +37,7 @@
 		  precision="medium"
 		  evidence="nomenclature">2nd c. CE</origDate>
 	    </origin>
+	    <provenance when="2016">Current location unknown (possibly still in the Durgā temple?).</provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
@@ -39,34 +46,58 @@
   <facsimile>
     <graphic 
 	url="images/SaB5-001.jpg">
-      <desc>Photograph from Annual Report on 
-        Indian Epigraphy 1966-1967.</desc>
+      <desc>Rubbing from <ref target="bibl:ARIE1966">Annual Report on 
+        Indian Epigraphy 1966-1967</ref>.</desc>
+    </graphic>
+    <graphic
+	url="images/SaB5-sarma1993.jpg">
+      <desc>Rubbing from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>no. 223</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>no. 8</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B5</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, slightly revised by me (AO).</p>
+	<p><foreign xml:lang="mi-Latn">ūmārasa</foreign> is probably an engraver’s mistake for <foreign xml:lang="mi-Latn">kumārasa</foreign>.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with minor corrections by Andrew Ollett based on the photograph.</p>
-	</div>
 	<p>
 	  <lb n="1"/>
-	  muḍāna-mahāgāmi-ku<lb n="2" break="no"/>
-	  mārasa <persName key="pers:Deṭika">deṭikasa</persName>
+	  muḍāna mahāgāmi-<app><lem 
+	  wit="#ARIE1966">ū</lem><rdg 
+	  wit="#Sarma1993">ku</rdg><rdg
+	  wit="#NagarajaRao1985">u</rdg></app><lb n="2" break="no"/>
+	  mārasa
+	  <persName key="pers:Sa-Otika"><app><lem wit="#NagarajaRao1985"><unclear>o</unclear></lem><rdg wit="#ARIE1966 #Sarma1993">de</rdg></app><app><lem wit="#ARIE1966">ti</lem><rdg wit="#Sarma1993">ṭi</rdg></app>kasa</persName>
 	  <lb n="3"/>
 	  bhaṭi-bālakāya
 	  <lb n="4"/>
-	  ahimarikāya
+	  <placeName key="pl:Ahimarikā">a<app><lem>ha</lem><rdg wit="#ARIE1966 #Sarma1993">hi</rdg></app>marikāya</placeName>
 	  <lb n="5"/>
-	  <persName key="pers:Puruṣadattā">purisadatāya</persName>
+	  <persName key="pers:Sa-Puruṣadattā">purisadatāya</persName>
 	</p>
       </div>
       <div type="translation">
 	<p>
-	  For <persName key="pers:Deṭika">Deṭika</persName>, a
-	  mahāgrāmi kumāra of Muḍāna, and
-	  <persName key="pers:Puruṣadattā">Puruṣadattā</persName>,
-	  daughter of Bhaṭṭi of Ahimarikā.
+	  Of <persName key="pers:Sa-Puruṣadattā">Puruṣadattā</persName>
+	  of <placeName key="pl:Ahimarikā">Ahimarikā</placeName>,
+	  the bhaṭṭi-bālakā (eldest daughter?) of
+	  <persName key="pers:Sa-Otika">Otika</persName>,
+	  the Mahāgrāmikumāra of the Muḍas.
 	</p>
       </div>
     </body>

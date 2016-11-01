@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 29</title>
+	<title>Kuḍā No. 29 (of Vasulaṇaka)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 19, on the recess of a tank to the left of the
+		<placeName type="modern" key="pl:Kuḍā-19">Cave No. 19</placeName>, 
+		on the recess of a tank to the left of the
 		entrance.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
@@ -37,8 +38,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 26</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 29</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1064</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -47,7 +56,7 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  seṭhiṇo <persName key="pers:Vasulaṇaka">vasulaṇakasa</persName>
+	  seṭhiṇo <persName key="pers:Ku-Vasulaṇaka">vasulaṇakasa</persName>
 	<lb n="2"/>
 	  deyadhaṃmaṃ poḍhi
 	</p>
@@ -55,7 +64,7 @@
       <div type="translation" xml:lang="en">
 	<p>
 	  The meritorious gift of a cistern by
-	  <persName key="pers:Vasulaṇaka">Vasulaṇaka</persName>, the
+	  <persName key="pers:Ku-Vasulaṇaka">Vasulaṇaka</persName>, the
 	  merchant.
 	</p>
       </div>

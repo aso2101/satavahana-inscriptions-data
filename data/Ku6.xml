@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 6, beneath and to the left of the sculpture
+		<placeName type="modern" key="pl:Kuḍā-6">Cave No. 6</placeName>, 
+		beneath and to the left of the sculpture
 		of the Buddha at the front of the cave.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
@@ -40,11 +41,15 @@
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 6</citedRange>
 	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1042</citedRange>
+	</bibl>
       </div>
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="sa-Latn">
 	<p>
 	  <lb n="1"/>
 	    <unclear>de</unclear>yadharmo yaṃ saṃghopasāyikakārya hari

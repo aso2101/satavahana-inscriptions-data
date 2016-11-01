@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="Kol1">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,7 +11,7 @@
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Kol11</idno><!-- ID follows Senart !-->
+	<idno>Kol1</idno><!-- ID follows Senart !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -43,6 +42,14 @@
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>p. 3</citedRange>
 	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Mahāḍ, Kol, and Karāḍh, No. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1075</citedRange>
+	</bibl>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<div type="introduction" xml:lang="en">
@@ -50,16 +57,16 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  gahapatiputasa seṭhi<persName key="pers:Saṅgharakṣita"
+	  gahapatiputasa seṭhi<persName key="pers:Kol-Saṅgharakṣita"
 	    >sa<lb n="2" break="no"/>gharakhitasa</persName>
 	  deyadhamaṃ lena<supplied reason="lost">ṃ</supplied>
         </p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  (This) gave (is) the religious of the merchant
-	  <persName key="pers:Saṅgharakṣita">Saṅgharakṣita</persName>,
-	  son of <persName key="pers:Gṛhapati">Gṛhapati</persName>.
+	  (This) cave (is) the religious gift of the merchant
+	  <persName key="pers:Kol-Saṅgharakṣita">Saṅgharakṣita</persName>,
+	  son of <persName key="pers:Kol-Gṛhapati">Gṛhapati</persName>.
 	</p>
       </div>
     </body>

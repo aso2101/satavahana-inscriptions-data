@@ -36,8 +36,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 28</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 31</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1066</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">

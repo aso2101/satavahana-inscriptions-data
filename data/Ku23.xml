@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 23</title>
+	<title>Kuḍā No. 23 (of Rāmadatta)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 15, in a long line on the left end and left of
+		<placeName type="modern" key="pl:Kuḍā-15">Cave No. 15</placeName>, 
+		in a long line on the left end and left of
 		back walls near the roof.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
@@ -37,8 +38,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 8</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 20</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
-	  <citedRange>Kuḍā No. 21</citedRange>
+	  <citedRange>Kuḍā No. 23</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1058</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">

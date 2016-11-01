@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 25</title>
+	<title>Kuḍā No. 25 (of Sarpilā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		between the door and the window of Cave No. 16.
+		between the door and the window of 
+		<placeName type="modern" key="pl:Kuḍā-16">Cave No. 16</placeName>.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 9</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 22</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
-	  <citedRange>Kuḍā No. 26</citedRange>
+	  <citedRange>Kuḍā No. 25</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1060</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -48,7 +61,7 @@
 	  <lb n="1"/>
 	    sidhaṃ therāṇa bhayata
 	  <lb n="2"/>
-	    <persName key="pers:BhVijaya">vijayāṇa</persName>
+	    <persName key="pers:Ku-Vijaya">vijayāṇa</persName>
 	    ātivāsiṇiya
 	  <lb n="3"/>
 	    pavaïtikāya
@@ -56,23 +69,23 @@
 	  <lb n="4"/>
 	    deyadhaṃaṃ leṇaṃ saha sā
 	  <lb n="5"/>
-	    <persName key="pers:Lohitā">lohitāhi</persName>
-	    <persName key="pers:Veṇhuyā">veṇhuyāhi</persName>
+	    <persName key="pers:Ku-Lohitā">lohitāhi</persName>
+	    <persName key="pers:Ku-Veṇhuyā">veṇhuyāhi</persName>
 	    sa<supplied reason="lost">ha</supplied> ca
 	  <lb n="6"/>
 	    ātivāsiṇiya
-	    <persName key="pers:Bodhī2">bodhiya</persName>
+	    <persName key="pers:Ku-Bodhī-2">bodhiya</persName>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  Siddhaṃ. The meritorious gift of a cave by the nun
-	  <persName key="pers:Sarpilā">Sarpilā</persName>,
+	  <persName key="pers:Ku-Sarpilā">Sarpilā</persName>,
 	  the female disciple of Thera Bhayanta
-	  <persName key="pers:BhVijaya">Vijaya</persName>,
-	  with <persName key="pers:Lohitā">Lohitā</persName>
-	  and <persName key="pers:Veṇhuyā">Veṇhuyā</persName>,
-	  and her female disciple <persName key="pers:Bodhī2">Bodhī</persName>.
+	  <persName key="pers:Ku-Vijaya">Vijaya</persName>,
+	  with <persName key="pers:Ku-Lohitā">Lohitā</persName>
+	  and <persName key="pers:Ku-Veṇhuyā">Veṇhuyā</persName>,
+	  and her female disciple <persName key="pers:Ku-Bodhī-2">Bodhī</persName>.
 	</p>
       </div>
     </body>

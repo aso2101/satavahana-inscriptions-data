@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 11, on the right wall of the verandah.
+		<placeName type="modern" key="pl:Kuḍā-11">Cave No. 11</placeName>, 
+		on the right wall of the verandah.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 15</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 17</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1052</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -55,7 +64,7 @@
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  ... daughter of the Mahābhoja of the Mandavas...
+	  ... daughter of the Mahābhoja, the Mandava...
 	</p>
       </div>
     </body>

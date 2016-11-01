@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 18</title>
+	<title>Kuḍā No. 18 (of Goyammā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 12, on the back wall.
+		<placeName type="modern" key="pl:Kuḍā-12">Cave No. 12</placeName>, 
+		on the back wall.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,25 +37,33 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 16</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 18</citedRange>
 	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1053</citedRange>
+	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. “This inscription has an odd representation of a lion at the commencement.”</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	    rājamacasa <persName key="pers:Hāla">hālasa</persName> <supplied reason="lost">duhu</supplied>
+	    rājamacasa <persName key="pers:Ku-Hāla">hālasa</persName> <supplied reason="lost">duhu</supplied>
 	  <lb n="2"/>
-	    tāya <persName key="pers:Goyaṃmā">goyaṃmāyā</persName> <supplied reason="lost">leṇaṃ</supplied>  
+	    tāya <persName key="pers:Ku-Goyaṃmā">goyaṃmāyā</persName> <supplied reason="lost">leṇaṃ</supplied>  
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  The cave of <persName key="pers:Goyaṃmā">Goyaṃmā</persName>, the
-	  daughter of <persName key="pers:Hāla">Hāla</persName>,
+	  The cave of <persName key="pers:Ku-Goyaṃmā">Goyaṃmā</persName>, the
+	  daughter of <persName key="pers:Ku-Hāla">Hāla</persName>,
 	  the royal minister.
 	</p>
       </div>

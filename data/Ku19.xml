@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 19</title>
+	<title>Kuḍā No. 19 (of Vijayanikā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,8 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 13, on the back wall of the verandah,
-		over the window.
+		<placeName type="modern" key="pl:Kuḍā-13">Cave No. 13</placeName>, 
+		on the back wall of the verandah, over the window.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -37,8 +37,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 17</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1054</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -48,18 +56,18 @@
 	<p>
 	  <lb n="1"/>
 	  mahābhoyasa
-	  <persName key="pers:SāḍakaraSudaṃsaṇa">sāḍakarasa
+	  <persName key="pers:Ku-Sudarśana">sāḍakarasa
 	  sudaṃsaṇasa</persName> duhutuya
-	  <persName key="pers:Vijayanikā">vijayanikāya</persName>
+	  <persName key="pers:Ku-Vijayanikā">vijayanikāya</persName>
 	  deyadhaṃmaṃ lena
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  The meritorious gift of a cave by
-	  <persName key="pers:Vijayanikā">Vijayanikā</persName>
+	  <persName key="pers:Ku-Vijayanikā">Vijayanikā</persName>
 	  daughter of Mahābhoja  
-	  <persName key="pers:SāḍakaraSudaṃsaṇa">Sāḍakara Sudarśana</persName>
+	  <persName key="pers:Ku-Sudarśana">Sāḍakara Sudarśana</persName>
 	</p>
       </div>
     </body>

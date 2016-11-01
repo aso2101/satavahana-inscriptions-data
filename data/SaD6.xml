@@ -45,10 +45,11 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
+	<div type="commentary" xml:lang="en">
 	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with minor corrections by AO based on the photograph.</p>
+	  <p>The interpretation of the editors is unsatisfactory. All but the last word seem to be names to me. (Andrew Ollett, 01/10/2015)</p>
 	</div>
+      <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
 	  siri<gap reason="lost"
@@ -70,9 +71,6 @@
 	<p>
 	  (No translation was offered by the editors.)
 	</p>
-      </div>
-      <div type="commentary">
-	<p>The interpretation of the editors is unsatisfactory. All but the last word seem to be names to me. (Andrew Ollett, 01/10/2015)</p>
       </div>
     </body>
   </text>

@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 24</title>
+	<title>Kuḍā No. 24 (of Bodhī)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		on the back of the tank to the left of Cave No. 16.
+		on the back of the tank to the left of 
+		<placeName type="modern" key="pl:Kuḍā-16">Cave No. 16</placeName>.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 21</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 24</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1059</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -55,13 +64,13 @@
 		   quantity="6"/>
 	  <lb n="2"/>
 	    savaṃ ca āṃtivāsinīya
-	    <persName key="pers:Bodhī2">bodhiya</persName>
+	    <persName key="pers:Ku-Bodhī-2">bodhiya</persName>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  ... and all, of the female disciple
-	  <persName key="pers:Bodhī2">Bodhī</persName>
+	  <persName key="pers:Ku-Bodhī-2">Bodhī</persName>
 	</p>
       </div>
     </body>

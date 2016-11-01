@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 27</title>
+	<title>Kuḍā No. 27 (of Nāga)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 17, on the back wall of the front chamber,
+		<placeName type="modern" key="pl:Kuḍā-17">Cave No. 17</placeName>, 
+		on the back wall of the front chamber,
 		close to the ceiling and to the left of the cell
 		door.
 	      </origPlace>
@@ -38,8 +39,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 11</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 24</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 27</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1062</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -51,7 +64,7 @@
 	    koṭa <gap reason="lost"
 	              unit="character"
 		      quantity="9"/>
-	    <persName key="pers:Svāmi2">svāmi</persName>putasa
+	    <persName key="pers:Ku-Svāmi">svāmi</persName>putasa
 	    gṛha<supplied reason="lost">pa</supplied>tiṇo
 	    sathavāhasa <persName key="pers:Nāga1">nāgasa</persName>
 	    leṇaṃ deyadhaṃma
@@ -60,9 +73,9 @@
       <div type="translation" xml:lang="en">
 	<p>
 	  The meritorious gift of a cave by
-	  <persName key="pers:Nāga1">Nāga</persName>, the
+	  <persName key="pers:Ku-Nāga">Nāga</persName>, the
 	  trader and householder who ...
-	  son of <persName key="pers:Svāmi2">Svāmi</persName>.
+	  son of <persName key="pers:Ku-Svāmi">Svāmi</persName>.
 	</p>
       </div>
     </body>

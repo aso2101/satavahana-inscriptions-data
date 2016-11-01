@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 2</title>
+	<title>Kuḍā No. 2 (of -bhūti)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 3, left wall outside.
+		<placeName type="modern" key="pl:Kuḍā-3">Cave No. 3</placeName>, 
+		left wall outside.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,12 +37,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 1</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 2</citedRange>
 	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1038</citedRange>
+	</bibl>
       </div>
       <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. They speculate that the donor was Śivabhūti, as in inscription <ref target="in:Ku1">Ku1</ref> in cave 1.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>

@@ -74,16 +74,16 @@
 	       quantity="3"
 	       unit="character"/>
 	  piṃḍasutariyānaṃ <persName
-	    key="pers:Kahutara">kahutara</persName>gahapatisa 
+	    key="pers:Am-Kahutara">kahutara</persName>gahapatisa 
 	  <persName 
-	    key="pers:Puri">puri</persName>gahapatisa ca
+	    key="pers:Am-Puri">puri</persName>gahapatisa ca
 	  putasa 
 	  <persName 
-	    key="pers:Isila">isilasa</persName> subhātukasa
+	    key="pers:Am-Isila">isilasa</persName> subhātukasa
 	  <lb n="2"/>
 	  sa<supplied reason="omitted">bha</supplied>ginikasa bhāyāya ca
 	  sa<persName 
-	    key="pers:Nākānikā">nākānikāya</persName> saputaka<supplied
+	    key="pers:Am-Nākānikā">nākānikāya</persName> saputaka<supplied
 	    reason="lost">sa</supplied>
 	  <gap reason="lost"
 	       quantity="4"
@@ -99,13 +99,13 @@
 	<p>
 	  Success! [In the year ... ] of King
 	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Svāmi Śrī Puḷumāvi</persName>, the gṛhapati 
-	  <persname key="pers:Kahutara">Kahutara</persname>
+	  <persname key="pers:Am-Kahutara">Kahutara</persname>
 	  of the Piṇḍasutariya family and
-	  <persName key="pers:Isila">Isila</persName>, the son of the
+	  <persName key="pers:Am-Isila">Isila</persName>, the son of the
 	  gṛhapati
-	  <persName key="pers:Puri">Puri</persName>, together with 
+	  <persName key="pers:Am-Puri">Puri</persName>, together with 
 	  his brothers and sisters and his wife
-	  <persName key="pers:Nākānikā">Nākānikā</persName> (and) ... 
+	  <persName key="pers:Am-Nākānikā">Nākānikā</persName> (and) ... 
 	  together with his sons, have ereceted as their pious 
 	  gift (this) Dharma Chakra (Sacred Wheel) on the western
 	  gateway (of the railing) owned by the Buddhist Community of the

@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 30</title>
+	<title>Kuḍā No. 30 (of Śivadattā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -36,8 +36,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 27</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 30</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1065</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -47,20 +55,20 @@
 	<p>
 	  <lb n="1"/>
 	    sathavāhasa
-	    <persName key="pers:Vehamitra">vehamitasa</persName>
+	    <persName key="pers:Ku-Vehamita">vehamitasa</persName>
 	    bitiyikaya
-	    <persName key="pers:Śivadattā2">sivadatāya</persName>
-	    <persName key="pers:Pusaṇaka">pu<lb n="2"
+	    <persName key="pers:Ku-Śivadattā-2">sivadatāya</persName>
+	    <persName key="pers:Ku-Puṣyaṇaka">pu<lb n="2"
 	      break="no"/>saṇaka</persName>mātuya deyadhamaṃ leṇaṃ
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  The meritorious gift of a cave by
-	  <persName key="pers:Śivadattā2">Śivadattā</persName>, the
-	  mother of <persName key="pers:Pusaṇaka">Pusaṇaka</persName>,
+	  <persName key="pers:Ku-Śivadattā-2">Śivadattā</persName>, the
+	  mother of <persName key="pers:Ku-Puṣyaṇaka">Pusaṇaka</persName>,
 	  and second (wife or daughter?) of the trader
-	  <persName key="pers:Vehamitra">Vehamitra</persName>.
+	  <persName key="pers:Ku-Vehamita">Vehamitra</persName>.
 	</p>
       </div>
     </body>

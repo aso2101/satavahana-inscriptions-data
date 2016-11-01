@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 15</title>
+	<title>Kuḍā No. 15 (of Bhayilā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,7 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 9, at the right end of the verandah.
+		<placeName type="modern" key="pl:Kuḍā-9">Cave No. 9</placeName>, at the right end of the verandah.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +36,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 13</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 15</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1050</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -46,17 +54,17 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	    <persName key="pers:Ayitilu">ayitilu</persName>
+	    <persName key="pers:Ku-Ayitilu">ayitilu</persName>
 	    upāsakasa baṃmhanasa bhayāya
-	    <persName key="pers:Bhayilā">bhayilāya</persName>
+	    <persName key="pers:Ku-Bhayilā">bhayilāya</persName>
 	    cetiyagharo deyadhaṃmaṃ
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  This meritorious gift of a Chetiyaghara by
-	  <persName key="pers:Bhayilā">Bhayilā</persName>, a Brāhmaṇī, wife of the
-	  Brāhmaṇa Upāsaka <persName key="pers:Ayitilu">Ayitilu</persName>.
+	  <persName key="pers:Ku-Bhayilā">Bhayilā</persName>, a Brāhmaṇī, wife of the
+	  Brāhmaṇa Upāsaka <persName key="pers:Ku-Ayitilu">Ayitilu</persName>.
 	</p>
       </div>
     </body>

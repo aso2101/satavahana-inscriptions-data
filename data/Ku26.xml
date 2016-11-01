@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 26</title>
+	<title>Kuḍā No. 26 (of Mugudāsa)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		on the back of the tank to the right of Cave No. 16.
+		on the back of the tank to the right of 
+		<placeName type="modern" key="pl:Kuḍā-16">Cave No. 16</placeName>.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 10</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 23</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 26</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1061</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -46,7 +59,7 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  mālākārasa <persName key="pers:Mugudāsa">mugudā</persName>
+	  mālākārasa <persName key="pers:Ku-Mugudāsa">mugudā</persName>
 	  <gap reason="lost"
 	       unit="character"
 	       quantity="6"/><supplied
@@ -59,7 +72,7 @@
 	<p>
 	  The meritorious gift of a cistern
 	  by the gardener
-	  <persName key="pers:Mugudāsa">Mugudā(sa)</persName>.
+	  <persName key="pers:Ku-Mugudāsa">Mugudā(sa)</persName>.
 	</p>
       </div>
     </body>

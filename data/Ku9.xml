@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 9</title>
+	<title>Kuḍā No. 9 (of Śivama)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 6, in the left end of the verandah.
+		<placeName type="modern" key="pl:Kuḍā-6">Cave No. 6</placeName>, 
+		in the left end of the verandah.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,66 +37,78 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 6</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 9</citedRange>
 	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1045</citedRange>
+	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. The phrase <foreign xml:lang="mi-Latn">selarūpakama</foreign> refers to the pairs of figures in the back corners of the cave.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
 	    mahā<choice><sic>bhojiya</sic><corr>bhojīya</corr></choice> sāḍageriya
-	    <persName key="pers:SāḍagerīVijayā">vijayāya</persName>
+	    <persName key="pers:Ku-Vijayā">vijayāya</persName>
 	  <lb n="2"/>
 	    mahābhojasa maṃdavasa
-	    <persName key="pers:Skandapālita">khaṃdapālitasa</persName>
+	    <persName key="pers:Ku-Skandapālita">khaṃdapālitasa</persName>
 	    upajīvīnaṃ
 	  <lb n="3"/>
-	    <persName key="pers:Sulasadatta">sulasadatasa</persName>
-	    <persName key="pers:Uttaradattā">utaradatāya</persName>
+	    <persName key="pers:Ku-Sulasadatta">sulasadatasa</persName>
+	    <persName key="pers:Ku-Uttaradattā">utaradatāya</persName>
 	    ca putānaṃ bhātūnaṃ lekha
 	  <lb n="4"/>
-	    kā <persName key="pers:Śivabhūti">sivabhūtimhā</persName>
-	    kaneṭhasa <persName key="pers:Śivama">sivamasa</persName>
+	    kā <persName key="pers:Ku-Śivabhūti">sivabhūtimhā</persName>
+	    kaneṭhasa <persName key="pers:Ku-Śivama">sivamasa</persName>
 	    deyadhaṃaṃ lenaṃ
 	  <lb n="5"/>
 	    saha <choice><sic>bhayāya</sic><corr>bhāyāya</corr></choice>
-	    <persName key="pers:Vijayā">vijayāya</persName> putānaṃ ca sa
-	    <persName key="pers:Sulasadatta2">sulasadatasa</persName>
-	    <persName key="pers:Śivapālita">siva<lb n="6" break="no"/>pālitasa</persName>
-	    <persName key="pers:Sarpila">sapilasa</persName>
+	    <persName key="pers:Ku-Vijayā-2">vijayāya</persName> putānaṃ ca sa
+	    <persName key="pers:Ku-Sulasadatta-2">sulasadatasa</persName>
+	    <persName key="pers:Ku-Śivapālita">siva<lb n="6" break="no"/>pālitasa</persName>
+	    <persName key="pers:Ku-Sarpila">sapilasa</persName>
 	    ca selarūpakamaṃ duhutūnaṃ
 	  <lb n="7"/>
-	    sa <persName key="pers:Sarpā">sapāya</persName>
-	    <persName key="pers:Śivapālitā">sivapālitāya</persName>
-	    <persName key="pers:Śivadattā">sivadatāya</persName>
-	    <persName key="pers:Sulasadattā">sulasadatāya</persName> sa thaṃbhā  
+	    sa <persName key="pers:Ku-Sarpā">sapāya</persName>
+	    <persName key="pers:Ku-Śivapālitā">sivapālitāya</persName>
+	    <persName key="pers:Ku-Śivadattā">sivadatāya</persName>
+	    <persName key="pers:Ku-Sulasadattā">sulasadatāya</persName> sa thaṃbhā  
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  This is the meritorious gift of a leṇa by
-	  <persName key="pers:Śivama">Śivama</persName>, the youngest after
-	  the writer <persName key="pers:Śivabhūti">Śivabhūti</persName>,
+	  <persName key="pers:Ku-Śivama">Śivama</persName>, the youngest after
+	  the writer <persName key="pers:Ku-Śivabhūti">Śivabhūti</persName>,
 	  among the sons of
-	  <persName key="pers:Sulasadatta">Sulasadatta</persName> and
-	  <persName key="pers:Uttaradattā">Uttaradattā</persName> (who are
+	  <persName key="pers:Ku-Sulasadatta">Sulasadatta</persName> and
+	  <persName key="pers:Ku-Uttaradattā">Uttaradattā</persName> (who are
 	  full) brothers and servants of the Mahābhoja Mandava
-	  <persName key="pers:Skandapālita">Skandapālita</persName>, the son of Mahābhojī Sāḍagerī
-	  <persName key="pers:SāḍagerīVijayā">Vijayā</persName>,—with the rock
+	  <persName key="pers:Ku-Skandapālita">Skandapālita</persName>, the son of Mahābhojī Sāḍagerī
+	  <persName key="pers:Ku-Vijayā">Vijayā</persName>,—with the rock
 	  carving by his (Śivama’s) wife
-	  <persName key="pers:Vijayā">Vijayā</persName> and his sons
-	  <persName key="pers:Sulasadatta2">Sulasadatta</persName>,
-	  <persName key="pers:Śivapālita">Śivapālita</persName>,
-	  <persName key="pers:Śivadatta">Śivadatta</persName>, and
-	  <persName key="pers:Sarpila">Sarpila</persName>; and the pillars
+	  <persName key="pers:Ku-Vijayā-2">Vijayā</persName> and his sons
+	  <persName key="pers:Ku-Sulasadatta2">Sulasadatta</persName>,
+	  <persName key="pers:Ku-Śivapālita">Śivapālita</persName>,
+	  <persName key="pers:Ku-Śivadatta">Śivadatta</persName>, and
+	  <persName key="pers:Ku-Sarpila">Sarpila</persName>; and the pillars
 	  by his daughters
-	  <persName key="pers:Sarpā">Sarpā</persName>,
-	  <persName key="pers:Śivapālitā">Śivapālitā</persName>,
-	  <persName key="pers:Śivadattā">Śivadattā</persName>, and
-	  <persName key="pers:Sulasadattā">Sulasadattā</persName>.
+	  <persName key="pers:Ku-Sarpā">Sarpā</persName>,
+	  <persName key="pers:Ku-Śivapālitā">Śivapālitā</persName>,
+	  <persName key="pers:Ku-Śivadattā">Śivadattā</persName>, and
+	  <persName key="pers:Ku-Sulasadattā">Sulasadattā</persName>.
 	</p>
       </div>
     </body>

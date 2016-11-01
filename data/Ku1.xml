@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 1, over the door of the recessed cell.
+		<placeName type="modern" key="pl:Kuḍā-1">Cave No. 1</placeName>, 
+		over the door of the recessed cell.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 1</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1037</citedRange>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
@@ -47,31 +60,31 @@
 	<p>
 	  <lb n="1"/>
 	  mahābhojīya 
-	  <persName key="pers:SāḍagerīVijayā">saḍageriya vijayāya</persName>
+	  <persName key="pers:Ku-Vijayā">saḍageriya vijayāya</persName>
 	  putasa mahābhojasa 
-	  <persName key="pers:Skandapālita">maṃdavasa khaṃdapālitasa</persName>
+	  <persName key="pers:Ku-Skandapālita">maṃdavasa khaṃdapālitasa</persName>
 	  lekhakasa
 	  <lb n="2"/>
-	  <persName key="pers:Sulasadatta">sulasadata</persName>putasa
-	  <persName key="pers:Uttaradattā">utaradatāputasa</persName> ca
-	  <persName key="pers:Śivabhūti">sivabhūtisa</persName>
+	  <persName key="pers:Ku-Sulasadatta">sulasadata</persName>putasa
+	  <persName key="pers:Ku-Uttaradattā">utaradatāputasa</persName> ca
+	  <persName key="pers:Ku-Śivabhūti">sivabhūtisa</persName>
 	  saha bhayāya 
-	  <persName key="pers:Nandā">ṇaṃdāya</persName>
+	  <persName key="pers:Ku-Nandā">ṇaṃdāya</persName>
 	  deyadhaṃmaṃ <supplied reason="omitted">leṇaṃ</supplied>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  This cave is the meritorious gift of 
-	  <persName key="pers:Śivabhūti">Śivabhūti</persName>, the son of
-	  <persName key="pers:Sulasadatta">Sulasadatta</persName> and 
-	  <persName key="pers:Uttaradattā">Uttaradattā</persName>, and 
+	  <persName key="pers:Ku-Śivabhūti">Śivabhūti</persName>, the son of
+	  <persName key="pers:Ku-Sulasadatta">Sulasadatta</persName> and 
+	  <persName key="pers:Ku-Uttaradattā">Uttaradattā</persName>, and 
 	  writer to Mahābhoja
-	  <persName key="pers:Skandapālita">Mandava Skandapālita</persName>,
+	  <persName key="pers:Ku-Skandapālita">Mandava Skandapālita</persName>,
 	  son of Mahābhojī
-	  <persName key="pers:SāḍagerīVijayā">Saḍagerī Vijayā</persName>, 
+	  <persName key="pers:Ku-Vijayā">Saḍagerī Vijayā</persName>, 
 	  together with his wife 
-	  <persName key="pers:Nandā">Nandā</persName>.
+	  <persName key="pers:Ku-Nandā">Nandā</persName>.
 	</p>
       </div>
     </body>

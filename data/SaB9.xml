@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati B.9 (of Siṃhadhara)</title>
+	<title>Sannati B9 (of -pālita)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -22,7 +22,7 @@
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>,
-		in a stone of the bathing ghāṭ.
+		in a stone built into the steps of the bathing ghāṭ.
 	      </origPlace>
 	      <origDate
 		  notBefore-custom="0100"
@@ -39,19 +39,29 @@
   </facsimile>
   <text>
     <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>no. 206</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B9</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, which is largely identical to that of <ref target="bibl:ARIE1966">ARIE 1966–1967</ref>. I can make no sense of this inscription, and I suspect the reading can be improved.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
-	</div>
 	<p>
 	  <lb n="1"/>
-	  bhoju jana agiṭhoma
+	  bhoju <app><lem wit="#Sarma1993">ja</lem><rdg wit="#ARIE1966">jā</rdg></app>na agiṭhoma
 	  <lb n="2"/>
 	  <unclear>ravi</unclear>naka asabhaḍa<unclear>sa</unclear>
 	  <lb n="3"/>
 	  <gap reason="lost"
-	       quantity="unknown"
-	       unti="character"/>ya 
+	       quantity="1"
+	       unit="character"/>ya 
 	  aṭha<unclear>sa</unclear>na<unclear>me</unclear>
 	  <lb n="4"/>
 	  pālitasa

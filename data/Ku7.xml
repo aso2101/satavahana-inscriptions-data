@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 7</title>
+	<title>Kuḍā No. 7 (of Vyāghrakā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 6, on the semi-circular moulding at the bottom of 
+		<placeName type="modern" key="pl:Kuḍā-6">Cave No. 6</placeName>, 
+		on the semi-circular moulding at the bottom of 
 		the pilaster on the verandah.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
@@ -37,8 +38,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 7</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 7</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1043</citedRange>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
@@ -60,7 +69,7 @@
 	<p>
 	  This is the meritorious gift of the female
 	  Śākya worshipper 
-	  <persName key="pers:Vyāghrakā">Vyāghrakā</persName>; 
+	  <persName key="pers:Ku-Vyāghrakā">Vyāghrakā</persName>; 
 	  may its benefit be for the
 	  attainment of supreme knowledge, first by her father 
 	  and mother and then by the whole sentient world.

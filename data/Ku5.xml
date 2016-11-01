@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 5</title>
+	<title>Kuḍā No. 5 (of Padmanikā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 5, in the left end of the verandah.
+		<placeName type="modern" key="pl:Kuḍā-5">Cave No. 5</placeName>, 
+		in the left end of the verandah.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,20 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 2</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 5</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 5</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1041</citedRange>
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
@@ -52,33 +65,31 @@
 	    key="pers:BhAgnimitra">āgimita<unclear>na</unclear></persName>
 	    ca bhāgiṇeyiya 
 	    pāva<lb n="3" break="no"/>yitikāya <persName 
-	      key="pers:Nāginikā">nāginikāya</persName> duhutaya 
+	      key="pers:Ku-Nāginikā">nāginikāya</persName> duhutaya 
 	    pāva<lb n="4" break="no"/>yitikāya <persName
-	      key="pers:Padumanikā">padumaṃnikāya</persName> deya 
+	      key="pers:Ku-Padmanikā">padumaṃnikāya</persName> deya 
 	    dhaṃmaṃ 
 	  <lb n="5"/>
 	    leṇaṃ poḍhī ca sahā atevāsiniya 
-	    <persName key="pers:Bodhi">bodhiya</persName><app>
+	    <persName key="pers:Ku-Bodhī">bodhiya</persName><app>
 	    <note xml:lang="en"><p>Two letters, <foreign xml:lang="mi-Latn">ya-ma</foreign>, added beyond the end of this line, are only lightly cut and look recent; if inserted where the mark indicates they make Mayabodhī; if we read <foreign xml:lang="mi-Latn">mātuya bodhiya</foreign> it might be translated by “her female discipline’s mother Bodhi and of her female discipline Asālhamitā.”</p></note></app>
 	  <lb n="6"/>
 	    saha ca ativāsiniya 
-	    <persName key="pers:Aṣāḍhamitrā">asālhamitāya</persName>
+	    <persName key="pers:Ku-Aṣāḍhamitrā">asālhamitāya</persName>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  Success! A cave and a cistern, the charitable gift of the
 	  female ascetic 
-	  <persName key="pers:Padumanikā">Padumanikā</persName>, daugher of
-	  <persName key="pers:Nāginikā">Nāginikā</persName> the ascetic, the
+	  <persName key="pers:Ku-Padmanikā">Padmanikā</persName>, daugher of
+	  <persName key="pers:Ku-Nāginikā">Nāginikā</persName> the ascetic, the
 	  sister’s daughter of the Thera Bhadaṃta 
-	  <persName key="pers:BhSvātimitra">Svātimitra</persName> and Bhadaṃta 
-	  <persName key="pers:Agnimitra">Agnimitra</persName>, and, of
+	  <persName key="pers:Ku-Sātimitra">Svātimitra</persName> and Bhadaṃta 
+	  <persName key="pers:Ku-Agnimitra">Agnimitra</persName>, and, of
 	  her female disciplines 
-	  <persName key="pers:Bodhi">Bodhi</persName> and
-	  <persName key="pers:Aṣāḍhamitrā">Aṣāḍhamitrā</persName>
-
-
+	  <persName key="pers:Ku-Bodhī">Bodhī</persName> and
+	  <persName key="pers:Ku-Aṣāḍhamitrā">Aṣāḍhamitrā</persName>.
 	</p>
       </div>
     </body>

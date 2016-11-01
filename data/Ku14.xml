@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 14</title>
+	<title>Kuḍā No. 14 (of Kumāra)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		on the back of the cistern beyond the tank near cave no. 7.
+		on the back of the cistern beyond the tank near 
+		<placeName type="modern" key="pl:Kuḍā-7">cave no. 7</placeName>.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +37,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 12</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 14</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1049</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -47,19 +56,20 @@
 	<p>
 	  <lb n="1"/>
 	    maṃdavānaṃ
-	    para<choice><sic>sa</sic><corr>si</corr></choice>vama<lb n="2" break="no"/>sa
+	    <persName
+		key="pers:Ku-Paraśivama">para<choice><sic>sa</sic><corr>si</corr></choice>vama<lb n="2" break="no"/>sa</persName>
 	    pa <choice><sic>pa</sic><corr>pu</corr></choice>tasa
-	    <persName key="pers:Kumāra">kumārasa</persName>
+	    <persName key="pers:Ku-Kumāra">kumārasa</persName>
 	  <lb n="3"/>
 	    madavasa deyadhama  
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
-	  This meritorious gift of Maṇḍava
-	  <persName key="pers:Kumāra">Kumāra</persName>, son of
-	  <persName key="pers:Śivama2">Śivama</persName>, the
-	  chief of the Maṇḍavas.
+	  This meritorious gift of Mandava
+	  <persName key="pers:Ku-Kumāra">Kumāra</persName>, son of
+	  <persName key="pers:Ku-Paraśivama">Paraśivama</persName>
+	  of the Mandava.
 	</p>
       </div>
     </body>

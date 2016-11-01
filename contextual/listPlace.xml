@@ -1,4 +1,6 @@
-<listPlace xmlns="http://www.tei-c.org/ns/1.0">
+<listPlace 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xi="http://www.w3.org/2001/XInclude">
 <!-- THIS FILE
      lists the PLACES associated with 
      each inscription. References point
@@ -6,6 +8,8 @@
      in this file, not vice versa. 
 
 !-->
+  <xi:include href="/db/apps/SAI-data/contextual/Places/Kuḍā.xml"/>
+
   <place xml:id="Nāsikya">
     <placeName type="ancient" xml:lang="sa-Latn">Nāsikya</placeName>
     <placeName type="modern" xml:lang="hi-Latn">Nāsik</placeName>
@@ -17,13 +21,6 @@
     <placeName type="ancient" xml:lang="mi-Latn">Valūraka</placeName>
     <placeName type="modern" xml:lang="ma-Latn">Karle</placeName>
     <geo>73.470556 18.783287</geo>
-  </place>
-
-  <place xml:id="Karahākaṭa">
-    <placeName type="ancient" xml:lang="sa-Latn">Karahākaṭa</placeName>
-    <placeName type="ancient" xml:lang="mi-Latn">Karahākaḍa</placeName>
-    <placeName type="modern" xml:lang="ma-Latn">Karāḍ</placeName>
-    <geo>74.182149 17.290456</geo>
   </place>
   
   <place xml:id="Śelarvāḍī">
@@ -51,7 +48,7 @@
   </place>
 
   <place xml:id="Beḍsā">
-    <placeName type="modern" xml:lang="ma-Latn">Beḍsāg</placeName>
+    <placeName type="modern" xml:lang="ma-Latn">Beḍsā</placeName>
     <geo>73.535467 18.720860</geo>
   </place>
 
@@ -163,11 +160,6 @@
     <geo>76.936 16.841</geo>
   </place>
 
-  <place xml:id="Sannati">
-    <placeName type="modern" xml:lang="ka-Latn">Sannati</placeName>
-    <geo>76.908 16.829</geo>
-  </place>
-
   <place xml:id="Sāñcī">
     <placeName type="modern" xml:lang="hi-Latn">Sāñcī</placeName>
     <geo>77.739580 23.479318</geo>
@@ -210,15 +202,7 @@
     <geo>72.8274892 19.2230443</geo>
   </place>
 
-  <place xml:id="Kuḍā">
-    <placeName type="modern" xml:lang="ma-Latn">Kuḍā</placeName>
-    <geo>73.083 18.283</geo>
-  </place>
 
-  <place xml:id="Kol">
-    <placeName type="modern" xml:lang="ma-Latn">Kol</placeName>
-    <geo>73.431188 18.068489</geo>
-  </place>
 
   <place xml:id="Myākadoni">
     <placeName type="modern" xml:lang="te-Latn">Myākadoni</placeName>
@@ -228,11 +212,6 @@
   <place xml:id="Pitalkhorā">
     <placeName type="modern" xml:lang="ma-Latn">Pitalkhorā</placeName>
     <geo>74.993175 20.312931</geo>
-  </place>
-
-  <place xml:id="Mahāḍ">
-    <placeName type="modern" xml:lang="ma-Latn">Mahāḍ</placeName>
-    <geo>73.417 18.063</geo>
   </place>
   
   <place xml:id="Pratiṣṭhāna">

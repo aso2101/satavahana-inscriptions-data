@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kuḍā No. 16</title>
+	<title>Kuḍā No. 16 (of Sivapirita)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,7 +21,7 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
-		Cave No. 10, over the window.
+		<placeName type="modern" key="pl:Kuḍā-9">Cave No. 10</placeName>, over the window.
 	      </origPlace>
 	      <origDate></origDate><!-- NO DATE !-->
 	    </origin>
@@ -36,8 +36,16 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 14</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:CTI"/>
 	  <citedRange>Kuḍā No. 16</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1051</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -46,18 +54,18 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	    mālākārasa <persName key="pers:Vadhuka">vadhukasa</persName>
+	    mālākārasa <persName key="pers:Ku-Vadhuka">vadhukasa</persName>
 	    putasa <choice><sic>ma</sic><corr>mā</corr></choice>lākārasa
-	    <persName key="pers:Sivapirita">sivapiritasa</persName>
+	    <persName key="pers:Ku-Sivapirita">sivapiritasa</persName>
 	    deyadhaṃmaṃ leṇaṃ
 	</p>
       </div>
       <div type="translation" xml:lang="en">
 	<p>
 	  The meritorious gift of a leṇa by
-	  <persName key="pers:Sivapirita">Sivapirita</persName>,
+	  <persName key="pers:Ku-Sivapirita">Sivapirita</persName>,
 	  gardener, son of the gardener
-	  <persName key="pers:Vadhuka">Vadhuka</persName>.
+	  <persName key="pers:Ku-Vadhuka">Vadhuka</persName>.
 	</p>
       </div>
     </body>
