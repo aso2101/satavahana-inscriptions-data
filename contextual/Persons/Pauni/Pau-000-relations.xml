@@ -1,0 +1,7 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <listRelation>
+    <!-- from Pau3 !-->
+    <relation name="spouse" mutual="#Pau-Puṣyagupta #Pau-Vātsī"/>
+  </listRelation>
+</listRelation>

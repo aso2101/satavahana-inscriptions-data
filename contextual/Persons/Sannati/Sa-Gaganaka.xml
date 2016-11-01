@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Gaganaka">
+  <sex value="M"/>
+  <persName>Gaganaka</persName>
+  <state type="political">Rājāmātya</state>
+</person>

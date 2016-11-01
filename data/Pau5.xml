@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Pau5">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pauni 5 (of Uttaraka)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pau5</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	        <support>Octogonal pillar</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>On three sides of the pillar.</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Pauni">Pauni</placeName>,
+		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="0000"
+		  precision="medium"
+		  evidence="nomenclature">1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile></facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Kolte1969"/>
+	  <citedRange>B</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Deo1972"/>
+	  <citedRange>no. 5</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Kolte1969">Kolte 1969</ref>. Kolte has expressed uncertainty regarding the reading and interpretation of the last word. In <ref target="bibl:Deo1972">Deo and Joshi 1972</ref>, the editors suggest that the last word may have been added later.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  pavajitasa 
+	  <persName key="pers:Pau-Uttaraka">utarakasa</persName> 
+	  <app><lem wit="#Kolte1969">mā</lem><rdg wit="#Deo1972">mo</rdg></app>direhi
+	</p>
+      </div>
+      <div type="translation">
+	<p>(The gift) of the ascetic <persName key="pers:Pau-Uttaraka">Uttaraka</persName>
+	   from Mādira.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

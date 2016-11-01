@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Pau2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pauni 2 (of Viśvamitrā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pau2</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	        <support>A sandstone pillar (coping-stone) with a rosette at one end.</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>On the flat band of the pillar.</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	    <handDesc>
+	      <handNote>Letters are <height>3-4cm</height> high.</handNote>
+	    </handDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Pauni">Pauni</placeName>,
+		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0200"
+		  notAfter-custom="-0100"
+		  precision="medium"
+		  evidence="nomenclature">2nd c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile></facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Kolte1969"/>
+	  <citedRange>D</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Deo1972"/>
+	  <citedRange>no. 2</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Kolte1969">Kolte 1969</ref>. The inscription is on the same pillar as inscription <ref target="inscr:Pau1">Pau1</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost" quantity="unknown" unit="character"/>ya 
+	  <persName key="pers:Pau-Viśvamitrā">visamitāya</persName> 
+	  dana sukhāya hotu sava<app><lem wit="#Deo1972">sa</lem><rdg wit="#Kolte1969">sā</rdg></app>tāna
+	</p>
+      </div>
+      <div type="translation">
+	<p>May this gift of <persName key="pers:Pau-Viśvamitrā">Viśvamitrā</persName> 
+	be for the happiness of all beings.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Yakṣanikā">
+  <sex value="F"/>
+  <persName>Yakṣanikā</persName>
+  <state type="political">Amātyī</state>
+</person>

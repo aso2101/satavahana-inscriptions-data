@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Pau-Viśvamitrā">
+  <sex value="F"/>
+  <persName>Viśvamitrā</persName>
+  <faith>Buddhist</faith>
+  <state type="religious">upāsikā</state>
+</person>

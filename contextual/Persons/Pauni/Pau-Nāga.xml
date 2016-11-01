@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Pau-Nāga">
+  <sex value="M"/>
+  <persName>Nāga</persName>
+  <faith>Buddhist</faith>
+  <state type="religious">pañcanaikāyika</state>
+</person>

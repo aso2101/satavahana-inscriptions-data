@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Kāmā">
+  <sex value="F"/>
+  <persName>Kāmā</persName>
+  <state type="political">Bhojikinī</state>
+</person>

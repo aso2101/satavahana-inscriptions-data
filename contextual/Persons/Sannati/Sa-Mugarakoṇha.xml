@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Mugarakoṇha">
+  <sex value="M"/>
+  <persName>Mugarakoṇha</persName>
+  <state type="political">Bhojaka</state>
+  <note>The name perhaps stands for Mudgara-Kṛṣṇa (?).</note>
+</person>

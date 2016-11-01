@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kol-Śivadatta">
+  <sex value="M"/>
+  <persName>Śivadatta</persName>
+  <residence>
+    <placeName key="pl:Āghāakasā">Āghāakasā</placeName>
+  </residence>
+</person>

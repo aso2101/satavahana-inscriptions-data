@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Am-Jayila">
+  <sex value="M"/>
+  <persName>Jayila</persName>
+  <residence>
+    <placeName key="pl:Ujjayinī">Ujjayinī</placeName>
+  </residence>
+</person>

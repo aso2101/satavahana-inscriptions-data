@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Kol2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kol No. 2 (of Dharmaśrī)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Kol2</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kol">Kol</placeName>.
+	      </origPlace>
+	      <origDate><!-- I don't have a date for these. !-->
+	      </origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Mahāḍ, Kol, and Karāḍh, No. 4</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1076</citedRange>
+	</bibl>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<div type="introduction" xml:lang="en">
+	  <p>This edition is based on <ref target="bibl:AS">Bühler 1883</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       unit="character"
+	       quantity="3"/>
+	  upāsakasa duhutuya <persName key="pers:Kol-Dharmaśrī">dhamasiriya</persName>
+	  <persName key="pers:Kol-Śivadatta">sivadatasa</persName> bitiyakāya
+	  <lb n="2"/>
+	  leṇa deyadhama
+        </p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  (This) cave (is) the religious gift of 
+	  <persName key="pers:Kol-Dharmaśrī">Dharmaśrī</persName>,
+	  the daughter of the lay-worshipper... and the second wife
+	  of <persName key="pers:Kol-Śivadatta">Śivadatta</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

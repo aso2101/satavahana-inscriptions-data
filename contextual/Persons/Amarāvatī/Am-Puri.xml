@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Am-Puri">
+  <sex value="M"/>
+  <persName>Puri</persName>
+  <note>gṛhapati</note>
+</person>

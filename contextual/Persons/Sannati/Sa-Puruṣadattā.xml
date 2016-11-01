@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Puruṣadattā">
+  <sex value="F"/>
+  <persName>Puruṣadattā</persName>
+  <residence>
+    <placeName key="pl:Ahimarika">Ahimarika</placeName>
+  </residence>
+</person>

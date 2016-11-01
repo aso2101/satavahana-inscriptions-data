@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Agniśarman">
+  <sex value="M"/>
+  <persName>Agniśarman</persName>
+  <state type="political">Mahattaraka</state>
+  <occupation>sārthavāhana</occupation>
+  <trait type="gotra">Bhāradvāja</trait>
+</person>

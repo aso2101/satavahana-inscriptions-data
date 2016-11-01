@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Pau-Buddhadeva">
+  <sex value="M"/>
+  <persName>Buddhadeva</persName>
+  <faith>Buddhist</faith>
+</person>

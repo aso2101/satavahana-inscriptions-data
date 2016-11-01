@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Pau4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pauni 4</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pau4</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	        <support>A sandstone coping-stone.</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Pauni">Pauni</placeName>,
+		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="0000"
+		  precision="medium"
+		  evidence="nomenclature">1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile></facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Deo1972"/>
+	  <citedRange>no. 4</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Deo1972">Deo and Joshi 1972</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>samikāya hima<gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

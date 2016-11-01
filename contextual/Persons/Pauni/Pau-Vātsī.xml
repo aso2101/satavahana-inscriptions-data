@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Pau-Vātsī">
+  <sex value="F"/>
+  <persName>Vātsī</persName>
+  <faith>Buddhist</faith>
+</person>

@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Priyadatta">
+  <sex value="M"/>
+  <persName>Priyadatta</persName>
+  <state type="political">Amātyaputra</state>
+</person>

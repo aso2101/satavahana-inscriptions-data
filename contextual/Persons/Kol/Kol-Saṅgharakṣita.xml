@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kol-Saṅgharakṣita">
+  <sex value="M"/>
+  <persName>Saṅgharakṣita</persName>
+  <occupation key="terms:Śreṣṭhin">Merchant</occupation>
+</person>

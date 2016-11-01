@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Pale1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pale 1 (of Indrarakṣita)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pale1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Pāle">Pāle</placeName>,
+		in an east-facing cave at a height of about 70m.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="0000"
+		  precision="medium"
+		  evidence="nomenclature">1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile></facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sankalia1969"/>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sankalia1969">Sankalia and Gokhale 1969</ref>.</p>
+	<p>This is evidently the only Jain record from the Western Deccan of the early centuries CE.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  namo arahaṃtānam kātuna<unclear>ṃ</unclear>
+	  <lb n="2"/>
+	  <unclear>bha</unclear><note resp="#Sankalia1969">The letter seems to have been chipped off at the time of engraving and so the engraver had to incise bha a second time.</note> bhadaṃta <persName key="pers:Pale-Indrarakṣita">idarakhitena</persName> lena<unclear>ṃ</unclear>
+	  <lb n="3"/>
+	  kārāpita<unclear>ṃ</unclear> poḍhi ca sāh<unclear>ā</unclear> kāhi<lb n="4" break="no"/>saha
+	</p>
+      </div>
+      <div type="translation">
+	<p>With reverence to the Arahants,
+	   the revered <persName key="pers:Pale-Indrarakṣita">Indrarakṣita</persName>
+	   caused this cave to be constructed, as well
+	   as a cistern.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

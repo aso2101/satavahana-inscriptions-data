@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Pau9">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pauni 9</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pau9</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	        <support>Sculpted pillar</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>On the flat band of the pillar.</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	    <handDesc>
+	      <handNote>Letters are <height>3-4cm</height> high.</handNote>
+	    </handDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Pauni">Pauni</placeName>,
+		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="0000"
+		  precision="medium"
+		  evidence="nomenclature">1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile></facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Deo1972"/>
+	  <citedRange>no. 9</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Deo1972">Deo and Joshi 1972</ref>, although there appear to be mistakes (Mahāyasā should be a name in the genitive, but it isn’t) and I cannot correct them on the basis of the plate they supplied.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<ab>
+	  <lb n="1"/>
+	  mahāyasā aṃtevāsiniya <gap reason="lost"
+	                             unit="character"
+				     quantity="2"/>valiya dānaṃ
+	</ab>
+      </div>
+      <div type="translation">
+	<p>The gift of ... the disciple of Mahāyasa.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

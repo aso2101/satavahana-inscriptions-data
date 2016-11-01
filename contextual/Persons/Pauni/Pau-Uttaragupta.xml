@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Pau-Uttaragupta">
+  <sex value="M"/>
+  <persName>Uttaragupta</persName>
+  <faith>Buddhist</faith>
+  <state type="religious">Pravrajita</state>
+</person>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ma4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Mahāḍ No. 4 (of Pālitaṇaka)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ma4</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Mahāḍ">Mahāḍ</placeName>,
+		in <placeName type="modern" key="pl:Mahāḍ-13">Cave no. 13</placeName>, 
+		on the back wall of the verandah.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0150"
+		  notAfter-custom="0200"
+		  precision="medium">late 2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Dandekar2006"/>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Dandekar2006">Dandekar and Joshi 2006–2007</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  sidhaṃ 
+	  <persName key="pers:Ma-Viṣṇupālita">kāṇa<unclear>bhoasa
+	    ve</unclear>nhapālitaṇakasa</persName>
+	  <lb n="2"/>
+	  <unclear>a</unclear>macasa 
+	  <persName key="pers:Ma-Pālitaṇaka">pālitaṇakasa</persName>
+	  deyadhama leṇa koḍhi <unclear>ca</unclear>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! The religious gift of a cave and a cistern by 
+	  <persName key="pers:Ma-Pālitaṇaka">Pālitaṇaka</persName>,
+	  the minister of the Kāṇabhoa <persName key="pers:Ma-Viṣṇupālita">Viṣṇupālita</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

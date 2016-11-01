@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Hi1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Hipparagi 1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Hi1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A sculpted <material>limestone</material> memorial slab.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Hipparagi">Hipparagi</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium"
+		  evidence="nomenclature">1nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>no. 24</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  mahākulakiyāṇaṃ bhojakasa <persName key="pers:Hi-Rakṣita">rakhitasa</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of <persName key="pers:Hi-Rakṣita">Rakṣita</persName>, the Bhojaka of the Mahākulakiyas.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

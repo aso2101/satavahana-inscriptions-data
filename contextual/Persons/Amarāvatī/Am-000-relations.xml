@@ -1,0 +1,8 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- from Am 1 !-->
+  <listRelation>
+    <relation name="spouse" mutual="#Am-Nākānikā #Am-Isila"/>
+    <relation name="parent" active="#Am-Puri" passive="#Am-Isila"/>
+  </listRelation>
+</listRelation>

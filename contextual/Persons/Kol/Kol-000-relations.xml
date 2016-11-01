@@ -1,0 +1,12 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- From Kol1 !-->
+  <listRelation>
+    <relation name="parent" active="#Kol-Gṛhapati" passive="#Kol-Saṅgharakṣita"/>
+  </listRelation>
+
+  <!-- from Kol 2 !-->
+  <listRelation>
+    <relation name="spouse" mutual="#Kol-Śivadatta #Kol-Dharmaśrī"/>
+  </listRelation>
+</listRelation>

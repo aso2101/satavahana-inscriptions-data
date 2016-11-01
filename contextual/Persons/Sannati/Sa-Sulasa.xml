@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Sulasa">
+  <sex value="M"/>
+  <persName>Sulasa</persName>
+  <note>gahapati</note>
+</person>

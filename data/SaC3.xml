@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaC3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati C3 (of Padmaśrī)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaC3</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A memorial stela: a prominent female figure over
+		     a high mūḍa-type pedestal in ardhaparyaṅkāsana,
+		    the dangling right foot on a footrest. Four female
+		     attendants are seen on the left lower side somewhat
+		     bent and holding a circular box (toilet). While
+		     at the correspondign right, a female holds a mirror
+		     (darpaṇa). The right side standing female holds
+		     a cāmara, the left one a vessel on the shoulder.</p>
+		  <dimension unit="cm">
+		    <height>90</height>
+		    <width>63</width>
+		    <depth>11</depth>
+		  </dimension>
+		</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>On the raised bordered frame overhead of the panel.</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered">
+	      <p>Found in the first stūpa site
+	         (<placeName key="pl:SA-4">SA-4</placeName>)
+		 by J. Varaprasada Rao; accession number
+	         272.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaC3-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 18.</desc>
+    </graphic>
+    <graphic url="images/SaC3-2-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 18.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>C3</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>gāmi kumārīya padamasirikāya
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of <persName key="pers:Sa-Padmaśrī">Padmaśrī</persName>, the
+	   daughter of...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

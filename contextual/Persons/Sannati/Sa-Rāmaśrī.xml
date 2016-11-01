@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Rāmaśrī">
+  <sex value="F"/>
+  <persName>Rāmaśrī</persName>
+  <state type="political">Rājāmātyā</state>
+</person>

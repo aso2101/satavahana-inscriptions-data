@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Pale-Indrarakṣita">
+  <sex value="M"/>
+  <persName>Indrarakṣita</persName>
+  <faith>Jain</faith>
+  <state type="religious">Bhadanta</state>
+</person>

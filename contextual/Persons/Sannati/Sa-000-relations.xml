@@ -1,0 +1,13 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <listRelation>
+    <!-- from SaD1 !-->
+    <relation name="sibling" mutual="#Sa-Arikā #Sa-Girijataṇaka"/>
+    <!-- from SaB2 !-->
+    <relation name="spouse" mutual="#Sa-Gaganaka #Sa-Rāmaśrī"/>
+    <!-- from SaB5 !-->
+    <relation name="parent" active="#Sa-Otika" passive="#Sa-Puruṣadattā"/>
+    <!-- from SaB8 !-->
+    <relation name="spouse" mutual="#Sa-Mugarakoṇha #Sa-Kāmā"/>
+  </listRelation>
+</listRelation>

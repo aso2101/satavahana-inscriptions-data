@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Otika">
+  <sex value="M"/>
+  <persName>Otika</persName>
+  <state type="political">Mahāgrāmikumāra</state>
+  <note>Of the Muḍas (?)</note>
+</person>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="Ku10">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 10 (of Buddhasiṅgha)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku10</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc></physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		<placeName type="modern" key="pl:Kuḍā-6">Cave No. 6</placeName>, 
+		on the right wall.
+	      </origPlace>
+	      <origDate></origDate><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 9</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 10</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1046</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="sa-Latn">
+	<p>
+	  <lb n="1"/>
+	    deyadharmmo yaṃ śākyabhikṣu
+	  <lb n="2"/>
+	    <persName key="pers:Buddhisiṅgha">buddhisighasya</persName> 
+	    mātāpitṛ<lb n="3" break="no"/>pūrvvaṅgamaṃ 
+	    kṛtvā bhaṭārakaṃ ya
+	  <lb n="4"/>
+	    datra puṇyaṃ tadbhavatu 
+	    sarvvasatvā<lb n="5" break="no"/>nāmanuttarajñānāvāptaye
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  This is the meritorious gift of the Śākyabhikṣu
+	  <persName key="pers:Buddhisiṅgha">Buddhisiṅgha</persName>, 
+	  may the merit of it be for the attainment of supreme
+	  knowledge by father, mother, and Bhaṭāraka, and then
+	  to the whole sentient world.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>
