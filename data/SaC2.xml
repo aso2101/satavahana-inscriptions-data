@@ -3,15 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaC1">
+     xml:id="SaC2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati C1 (of Siri Khiraya)</title>
+	<title>Sannati C2 (of Nāgabodhi)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>SaC1</idno><!-- ID follows Sarma and Rao. !-->
+	<idno>SaC2</idno><!-- ID follows Sarma and Rao. !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -20,14 +20,10 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>Sculptured memorial: a couple is depicted
-		     within a bordered panel with two attendants 
-		     behind. The left side figure holds up a vase and
-		     casket in both his hands, and on the right side 
-		     is a chauri bearer.</p>
+		  <p>A broken slab with a pillared mansion.</p>
 		  <dimension unit="cm">
-		    <height>50</height>
-		    <width>32</width>
+		    <height>58</height>
+		    <width>47</width>
 		    <depth>15</depth>
 		  </dimension>
 		</support>
@@ -37,18 +33,18 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Sannati">Sannati</placeName>
+		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
 	      <origDate
-		  notBefore-custom="-0100"
-		  notAfter-custom="0000"
-		  precision="medium"
-		  evidence="paleography">1st c. BCE</origDate>
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
 	    </origin>
 	    <provenance type="found" subtype="discovered">
-	      <p>Found by J. Varaprasada Rao at 
-	         <placeName key="pl:SAN-8">SAN-8</placeName>; 
-		 accession number 395.</p>
+	      <p>Found in the Chandralāmbā Temple 
+	         (<placeName key="pl:SA-6">SA-6</placeName>)
+		 by J. Varaprasada Rao; accession number
+	         282.</p>
 	    </provenance>
 	  </history>
 	</msDesc>
@@ -56,7 +52,7 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/SaC1-sarma1993.jpg">
+    <graphic url="images/SaC2-sarma1993.jpg">
       <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 18.</desc>
     </graphic>
   </facsimile>
@@ -65,21 +61,20 @@
       <div type="bibliography">
 	<bibl>
 	  <ptr target="bibl:Sarma1993"/>
-	  <citedRange>C1</citedRange>
+	  <citedRange>C2</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, although the reading is very uncertain.</p>
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <unclear>nagipa</unclear>
-	  sirikhiraya kapaḍarasa
+	  <persName key="pers:Sa-Nāgabodhinikā">nāgabodhinikāya</persName>
 	</p>
       </div>
       <div type="translation">
-	<p>No translation was offered by the editors.</p>
+	<p>Of <persName key="pers:Sa-Nāgabodhinikā">Nāgabodhinikā</persName>.</p>
       </div>
     </body>
   </text>
