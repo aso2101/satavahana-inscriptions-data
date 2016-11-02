@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Vyāghrakā">
+    <sex value="F"/>
+    <persName>Vyāghrakā</persName>
+    <faith key="terms:Buddhism">Buddhist</faith>
+    <state type="religious" key="terms:Upāsaka">Śākyopāsikā</state>
+</person>

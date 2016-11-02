@@ -1,0 +1,7 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Velīdatta">
+    <sex value="M"/>
+    <persName>Velīdatta</persName>
+    <addName>Mandava</addName>
+    <addName type="metronymic">Kautsīputra</addName>
+    <state type="political" key="terms:Mahābhoja">Mahābhoja</state>
+</person>

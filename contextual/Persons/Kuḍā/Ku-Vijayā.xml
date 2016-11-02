@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Vijayā">
+    <sex value="F"/>
+    <persName>Vijayā</persName>
+    <addName>Saḍagerī</addName>
+    <state type="political" key="terms:Mahābhoja">Mahābhojī</state>
+</person>
