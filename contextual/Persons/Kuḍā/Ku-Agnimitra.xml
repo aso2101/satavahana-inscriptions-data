@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Agnimitra">
+    <sex value="M"/>
+    <persName>Agnimitra</persName>
+    <faith key="terms:Buddhism">Buddhist</faith>
+    <state type="religious" key="terms:Bhadanta">Bhadanta</state>
+</person>

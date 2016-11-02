@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Nāga">
+    <sex value="M"/>
+    <persName>Nāga</persName>
+    <trait type="social" key="terms:Gṛhapati">Housemaster</trait>
+    <occupation key="terms:Sārthavāha">Caravan trader</occupation>
+</person>

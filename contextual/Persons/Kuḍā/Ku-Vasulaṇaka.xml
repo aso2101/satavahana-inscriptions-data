@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Vasulaṇaka">
+    <sex value="M"/>
+    <persName>Vasulaṇaka</persName>
+    <occupation key="terms:Śreṣṭhin">Merchant</occupation>
+</person>

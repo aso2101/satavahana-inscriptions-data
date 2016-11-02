@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Acaladāsa">
+    <sex value="M"/>
+    <persName>Acaladāsa</persName>
+    <occupation key="terms:Sārthavāha">Caravan trader</occupation>
+</person>

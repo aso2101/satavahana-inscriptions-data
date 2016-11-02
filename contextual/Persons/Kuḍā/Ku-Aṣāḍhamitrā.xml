@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Aṣāḍhamitrā">
+    <sex value="F"/>
+    <persName>Aṣāḍhamitrā</persName>
+    <faith key="terms:Buddhism">Buddhist</faith>
+</person>

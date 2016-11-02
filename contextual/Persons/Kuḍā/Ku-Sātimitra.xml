@@ -1,0 +1,7 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Sātimitra">
+    <sex value="M"/>
+    <persName>Sātimitra</persName>
+    <faith key="terms:Buddhism">Buddhist</faith>
+    <state type="religious" key="terms:Sthavira">Sthavira</state>
+    <state type="religious" key="terms:Bhadanta">Bhadanta</state>
+</person>

@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Śivabhūti">
+    <sex value="M"/>
+    <persName>Śivabhūti</persName>
+    <occupation key="terms:Lekhaka">Scribe</occupation>
+</person>

@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Hāla">
+    <sex value="M"/>
+    <persName>Hāla</persName>
+    <state type="political" key="terms:Amātya">Royal Minister</state>
+</person>

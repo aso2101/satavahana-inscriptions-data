@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Somadeva">
+    <sex value="M"/>
+    <persName>Somadeva</persName>
+    <occupation key="terms:Vaidyaka">Vaidyaka</occupation>
+</person>

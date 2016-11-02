@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Sudarśana">
+    <sex value="M"/>
+    <persName>Sudarśana</persName>
+    <addName>Sāḍakara</addName>
+    <state type="political" key="terms:Mahābhoja">mahābhoja</state>
+</person>

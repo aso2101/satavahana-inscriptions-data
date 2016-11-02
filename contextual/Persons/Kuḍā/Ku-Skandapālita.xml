@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Skandapālita">
+    <sex value="M"/>
+    <persName>Skandapālita</persName>
+    <addName>Mandava</addName>
+    <state type="political" key="terms:Mahābhoja">Mahābhoja</state>
+</person>

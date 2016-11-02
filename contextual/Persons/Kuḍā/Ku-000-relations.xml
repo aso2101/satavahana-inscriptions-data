@@ -1,0 +1,101 @@
+<listRelation xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- From Ku1 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Vijayā" passive="#Ku-Skandapālita"/>
+    </listRelation>
+
+  <!-- From Ku1 and Ku9 !-->
+    <listRelation>
+        <relation name="spouse" mutual="#Ku-Sulasadatta #Ku-Uttaradattā"/>
+        <relation name="parent" active="#Ku-Sulasadatta" passive="#Ku-Śivabhūti"/>
+        <relation name="parent" active="#Ku-Uttaradattā" passive="#Ku-Śivabhūti"/>
+        <relation name="parent" active="#Ku-Sulasadatta" passive="#Ku-Śivama"/>
+        <relation name="parent" active="#Ku-Uttaradattā" passive="#Ku-Śivama"/>
+        <relation name="spouse" mutual="#Ku-Śivabhūti #Ku-Nandā"/>
+        <relation name="sibling" mutual="#Ku-Śivama #Ku-Śivabhūti"/>
+        <relation name="spouse" mutual="#Ku-Śivama #Ku-Vijayā-2"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Sulasadatta-2"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Śivapālita"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Śivadatta"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Sarpila"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Sarpā"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Śivapālitā"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Śivadattā"/>
+        <relation name="parent" active="#Ku-Śivama" passive="#Ku-Sulasadattā"/>
+    </listRelation>
+
+  <!-- from Ku5 !-->
+  <!-- blood relationships !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Nāginikā" passive="#Ku-Padmanikā"/>
+        <relation name="sibling" mutual="#Ku-Nāginikā #Ku-Sātimitra #Ku-Agnimitra"/>
+    </listRelation>
+  <!-- lineages !-->
+    <listRelation>
+        <relation name="teacher" active="#Ku-Padmanikā" passive="#Ku-Bodhi"/>
+        <relation name="teacher" active="#Ku-Padmanikā" passive="#Ku-Aṣāḍhamitra"/>
+    </listRelation>
+
+  <!-- from Ku13 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Ṛṣirakṣita" passive="#Ku-Somadeva"/>
+        <relation name="parent" active="#Ku-Somadeva" passive="#Ku-Nāga"/>
+        <relation name="parent" active="#Ku-Somadeva" passive="#Ku-Ṛṣirakṣita-2"/>
+        <relation name="parent" active="#Ku-Somadeva" passive="#Ku-Śivaghoṣa"/>
+        <relation name="parent" active="#Ku-Somadeva" passive="#Ku-Ṛṣipālitā"/>
+        <relation name="parent" active="#Ku-Somadeva" passive="#Ku-Puṣyā"/>
+        <relation name="parent" active="#Ku-Somadeva" passive="#Ku-Dharmā"/>
+        <relation name="parent" active="#Ku-Somadeva" passive="#Ku-Sarpā-2"/>
+    </listRelation>
+
+
+  <!-- from Ku14 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Paraśivama" passive="#Ku-Kumāra"/>
+    </listRelation>
+
+  <!-- from Ku15 !-->
+    <listRelation>
+        <relation name="spouse" mutual="#Ku-Ayitilu #Ku-Bhayilā"/>
+    </listRelation>
+
+  <!-- from Ku16 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Vadhuka" passive="#Ku-Sivapirita"/>
+    </listRelation>
+
+  <!-- from Ku18 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Hāla" passive="Ku-Goyammā"/>
+    </listRelation>
+
+  <!-- from Ku19 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Sudarśana" passive="Ku-Vijayanikā"/>
+    </listRelation>
+
+  <!-- from Ku23 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Ahila #Ku-Rāmadatta"/>
+        <relation name="spouse" mutual="#Ku-Rāmadatta #Ku-Velīdattā"/>
+    </listRelation>
+
+  <!-- from Ku25 !-->
+    <listRelation>
+        <relation name="teacher" active="Ku-Vijaya" passive="#Ku-Sarpilā"/>
+    </listRelation>
+    <listRelation>
+        <relation name="teacher" active="#Ku-Sarpilā" passive="#Ku-Bodhī-2"/>
+    </listRelation>
+
+  <!-- from Ku30 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Śivadattā-2" passive="Puṣyaṇaka"/>
+        <relation name="spouse" mutual="#Ku-Vehamita #Ku-Śivadattā-2"/>
+    </listRelation>
+
+  <!-- from Ku31 !-->
+    <listRelation>
+        <relation name="parent" active="#Ku-Acaladāsa" passive="#Ku-Aṣāḍhamitra"/>
+    </listRelation>
+</listRelation>

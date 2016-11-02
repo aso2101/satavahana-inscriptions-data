@@ -1,0 +1,7 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Bhayilā">
+    <persName>Bhayilā</persName>
+    <trait type="social" key="terms:Brāhmaṇa">Brāhmaṇī</trait>
+    <desc>
+        <p>The name is Sanskritized as Bhrājilā in CTI, but I doubt it.</p>
+    </desc>
+</person>

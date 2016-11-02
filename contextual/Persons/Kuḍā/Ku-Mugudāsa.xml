@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-">
+    <sex value="M"/>
+    <persName>Mugudāsa</persName>
+    <occupation key="terms:Mālākāra">Gardener</occupation>
+</person>

@@ -1,0 +1,8 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Ṛṣirakṣita">
+    <sex value="M"/>
+    <persName>Ṛṣirakṣita</persName>
+    <addName>Māmakavejīya</addName>
+    <occupation key="terms:Vaidyaka">Physician</occupation>
+    <faith key="terms:Buddhism">Buddhist</faith>
+    <state type="religious" key="terms:Upāsaka">Layperson</state>
+</person>

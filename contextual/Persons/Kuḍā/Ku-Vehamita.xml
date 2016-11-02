@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Vehamita">
+    <sex value="M"/>
+    <persName>Vehamita</persName>
+    <occupation key="terms:Sārthavāha">Caravan trader</occupation>
+</person>

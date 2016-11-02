@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Nāginikā">
+    <sex value="F"/>
+    <persName>Nāginikā</persName>
+    <faith key="terms:Buddhism">Buddhist</faith>
+    <state type="religious" key="terms:Pravrājaka">Renunciant</state>
+</person>

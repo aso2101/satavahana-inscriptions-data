@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Vadhuka">
+    <sex value="M"/>
+    <persName>Vadhuka</persName>
+    <occupation key="terms:Mālākāra">Gardener</occupation>
+</person>

@@ -1,0 +1,6 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Saṅghadeva">
+    <sex value="M"/>
+    <persName>Saṅghadeva</persName>
+    <faith key="terms:Buddhism">Buddhist</faith>
+    <state type="religious" key="terms:Bhikṣu">Śākyabhikṣu</state>
+</person>
