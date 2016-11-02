@@ -1,0 +1,6 @@
+<listRelation xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- from Ma 2 !-->
+    <listRelation>
+        <relation name="spouse" mutual="#Kol-Saṅgharakṣita #Ma-Vādaśrī"/>
+    </listRelation>
+</listRelation>

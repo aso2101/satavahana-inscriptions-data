@@ -1,0 +1,5 @@
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ma-Pālitaṇaka">
+    <sex value="M"/>
+    <persName>Pālitaṇaka</persName>
+    <state type="political" key="terms:Amātya">Minister</state>
+</person>

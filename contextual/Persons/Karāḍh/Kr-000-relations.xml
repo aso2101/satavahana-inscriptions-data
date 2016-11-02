@@ -1,0 +1,6 @@
+<listRelation xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- from Karāḍh 1 !-->
+    <listRelation>
+        <relation name="parent" active="#Kr-Gopāla" passive="#Kr-Saṅghamitra"/>
+    </listRelation>
+</listRelation>
