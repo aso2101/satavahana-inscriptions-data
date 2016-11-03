@@ -20,27 +20,27 @@
      affiliation
 
 !-->
-  <person xml:id="Dāmacika" sex="male">
+  <person xml:id="Dāmacika" sex="M">
     <persName>Dāmacika Vudhika</persName>
     <occupation>writer</occupation>
     <trait type="ethnicity">Śaka</trait>
   </person>
 
-  <person xml:id="Harapharaṇa" sex="male">
+  <person xml:id="Harapharaṇa" sex="M">
     <persName>Harapharaṇa</persName>
     <note>The name recalls the Persian Holophernes.</note>
   </person>
 
-  <person xml:id="Setapharaṇa" sex="male">
+  <person xml:id="Setapharaṇa" sex="M">
     <persName>Setapharaṇa</persName>
   </person>
   
-  <person xml:id="Sihadhaya" sex="male">
+  <person xml:id="Sihadhaya" sex="M">
     <persName>Sihadhaya</persName>
     <trait type="ethnicity">Yavana</trait>
   </person>
 
-  <person xml:id="Svātimitra" sex="male">
+  <person xml:id="Svātimitra" sex="M">
     <persName>Svātimitra</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhāṇaka</state>
@@ -48,162 +48,162 @@
   </person>
   <!-- referred to in multiple inscriptions, distinguish? !-->
 
-  <person xml:id="Svātimitra2" sex="male">
+  <person xml:id="Svātimitra2" sex="M">
     <persName>Svātimitra</persName>
   </person>
 
-  <person xml:id="Mitradeva" sex="male">
+  <person xml:id="Mitradeva" sex="M">
     <persName>Mitradeva</persName>
     <note>of the Gādhika family</note>
   </person>
 
-  <person xml:id="Saṃghaka" sex="male">
+  <person xml:id="Saṃghaka" sex="M">
     <persName>Saṃghaka</persName>
   </person>
 
-  <person xml:id="Mṛgila" sex="male">
+  <person xml:id="Mṛgila" sex="M">
     <persName>Vātsīputra Mṛgila</persName>
     <occupation>Royal physician (rājavaidya)</occupation>
   </person>
-  <person xml:id="Dattā" sex="female">
+  <person xml:id="Dattā" sex="feM">
     <persName>Dattā</persName>
   </person>
-  <person xml:id="Dattaka" sex="male">
+  <person xml:id="Dattaka" sex="M">
     <persName>Dattaka</persName>
   </person>
 
-  <person xml:id="BhSvātimitra" sex="male">
+  <person xml:id="BhSvātimitra" sex="M">
     <persName>Svātimitra</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
   </person>
   
-  <person xml:id="BhAgnimitra" sex="male">
+  <person xml:id="BhAgnimitra" sex="M">
     <persName>Agnimitra</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
   </person>
 
-  <person xml:id="Mammā" sex="female">
+  <person xml:id="Mammā" sex="feM">
     <persName>Mammā</persName>
     <faith>Buddhist</faith>
     <state type="religious">Layperson</state>
   </person>
 
-  <person xml:id="Āṣāḍhamitrā" sex="female">
+  <person xml:id="Āṣāḍhamitrā" sex="feM">
     <persName>Āṣāḍhamitrā</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhikkhuni</state>
   </person>
-  <person xml:id="Aṣāḍhamitrā" sex="female">
+  <person xml:id="Aṣāḍhamitrā" sex="feM">
     <persName>Aṣāḍhamitrā</persName>
     <faith>Buddhist</faith>
     <state type="religious">pravrajita</state>
   </person>
   <!-- possibly the same as the above; student of Padumanikā !-->
 
-  <person xml:id="Vyāghrakā" sex="female">
+  <person xml:id="Vyāghrakā" sex="feM">
     <persName>Vyāghrakā</persName>
     <faith>Buddhist</faith>
     <state type="religious">upāsikā</state>
   </person>
 
-  <person xml:id="Bhavagopa" sex="male">
+  <person xml:id="Bhavagopa" sex="M">
     <persName>Bhavagopa</persName>
     <state type="political">Mahāsenāpati</state>
     <trait type="gotra">Kauśika</trait>
   </person>
 
-  <person xml:id="Vāsu" sex="female">
+  <person xml:id="Vāsu" sex="feM">
     <persName>Vāsu</persName>
     <state type="political">Mahāsenāpatinī</state>
   </person>
 
-  <person xml:id="VpSomadeva" sex="male">
+  <person xml:id="VpSomadeva" sex="M">
     <persName>Vāsiṭḥīputra Somadeva</persName>
     <state type="political">Mahāraṭṭhi</state>
   </person>
 
-  <person xml:id="KpMitradeva" sex="male">
+  <person xml:id="KpMitradeva" sex="M">
     <persName>Kauśikīputra Mitradeva</persName>
     <state type="political">Mahāraṭṭhi</state>
     <note>of the Okhaḷakiyas</note>
   </person>
 
-  <person xml:id="Bopaki" sex="male">
+  <person xml:id="Bopaki" sex="M">
     <persName>Bopaki</persName>
     <faith>Buddhist</faith>
     <state type="religious">Monk</state>
   </person>
 
-  <person xml:id="Bhadrasama" sex="male">
+  <person xml:id="Bhadrasama" sex="M">
     <persName>Bhadrasama</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhikṣu</state>
   </person>
 
-  <person xml:id="Buddhasiṃgha" sex="male">
+  <person xml:id="Buddhasiṃgha" sex="M">
     <persName>Buddhasiṃgha</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhikṣu</state>
   </person>
 
-  <person xml:id="Śivaskandila" sex="male">
+  <person xml:id="Śivaskandila" sex="M">
     <persName>Śivaskandila</persName>
     <state type="political">Amātya</state>
   </person>
 
-  <person xml:id="Medhuna" sex="male">
+  <person xml:id="Medhuna" sex="M">
     <persName>Medhuna (?)</persName>
     <state type="political">Mahāsenāpati</state>
   </person>
 
-  <person xml:id="Viṣṇupāla" sex="male">
+  <person xml:id="Viṣṇupāla" sex="M">
     <persName>Viṣṇupāla</persName>
     <faith>Buddhist</faith>
   </person>
 
-  <person xml:id="Viṣṇupālita" sex="male">
+  <person xml:id="Viṣṇupālita" sex="M">
     <persName>Viṣṇupālita</persName>
     <state type="political">Kumāra</state>
   </person>
 
-  <person xml:id="Agnimitraṇaka" sex="male">
+  <person xml:id="Agnimitraṇaka" sex="M">
     <persName>Agnimitraṇaka</persName>
     <state type="political">Mahārāṣṭri</state>
   </person>
 
-  <person xml:id="Indradeva" sex="male">
+  <person xml:id="Indradeva" sex="M">
     <persName>Indradeva</persName>
     <faith>Buddhist</faith>
     <state type="religious">Sthavira</state>
   </person>
 
-  <person xml:id="BhAcala" sex="male">
+  <person xml:id="BhAcala" sex="M">
     <persName>Acala</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
   </person>
   
-  <person xml:id="BhGahala" sex="male">
+  <person xml:id="BhGahala" sex="M">
     <persName>Gahala</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
   </person>
 
-  <person xml:id="BhVijayamitra" sex="male">
+  <person xml:id="BhVijayamitra" sex="M">
     <persName>Vijayamitra</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
   </person>
 
-  <person xml:id="BhBodhika" sex="male">
+  <person xml:id="BhBodhika" sex="M">
     <persName>Bodhika</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
   </person>
   
-  <person xml:id="BhDharmapāla" sex="male">
+  <person xml:id="BhDharmapāla" sex="M">
     <persName>Dharmapāla</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
@@ -212,289 +212,289 @@
        donated (by the laywoman Śivapālitanikā) in his name.</p>
   </person>
 
-  <person xml:id="BhSiṃha" sex="male">
+  <person xml:id="BhSiṃha" sex="M">
     <persName>Siṃha</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
   </person>
 
-  <person xml:id="Ghaürā" sex="female">
+  <person xml:id="Ghaürā" sex="feM">
     <persName>Ghaüra</persName>
     <faith>Buddhist</faith>
   </person>
-  <person xml:id="Budhā" sex="female">
+  <person xml:id="Budhā" sex="feM">
     <persName>Budhā</persName>
   </person>
-  <person xml:id="Saṃghā" sex="female">
+  <person xml:id="Saṃghā" sex="feM">
     <persName>Saṃghā</persName>
   </person>
 
-  <person xml:id="BhVaraṇabhūti" sex="male">
+  <person xml:id="BhVaraṇabhūti" sex="M">
     <persName>Varaṇabhūti</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhadanta</state>
     <state type="religious">Upādhyāya</state>
   </person>
 
-  <person xml:id="BhVijaya" sex="male">
+  <person xml:id="BhVijaya" sex="M">
     <persName>Vijaya</persName>
     <faith>Buddhist</faith>
     <state type="religious">Sthavira</state>
     <state type="religious">Bhadanta</state>
   </person>
 
-  <person xml:id="Dharmaśrī" sex="female">
+  <person xml:id="Dharmaśrī" sex="feM">
     <persName>Dharmaśrī</persName>
     <faith>Buddhist</faith>
     <state type="religious">Bhikkhunī</state>
   </person>
 
-  <person xml:id="Buddharakṣita" sex="male">
+  <person xml:id="Buddharakṣita" sex="M">
     <persName>Buddharakṣita</persName>
     <faith>Buddhist</faith>
     <state type="religious">pravrajita</state>
   </person>
 
-  <person xml:id="Padumanikā" sex="female">
+  <person xml:id="Padumanikā" sex="feM">
     <persName>Padumanikā</persName>
     <faith>Buddhist</faith>
     <state type="religious">pravrajita</state>
   </person>
 
-  <person xml:id="Nāginikā" sex="female">
+  <person xml:id="Nāginikā" sex="feM">
     <persName>Nāginikā</persName>
     <faith>Buddhist</faith>
     <state type="religious">pravrajita</state>
   </person>
   <!-- mother of Padumanikā !-->
 
-  <person xml:id="Bodhi" sex="female">
+  <person xml:id="Bodhi" sex="feM">
     <persName>Bodhi</persName>
     <faith>Buddhist</faith>
   </person>
   <!-- student of Padumanikā !-->
 
-  <person xml:id="Nanda" sex="male">
+  <person xml:id="Nanda" sex="M">
     <persName>Nanda</persName>
   </person>
 
-  <person xml:id="Siṃhaguptaṇikā" sex="female">
+  <person xml:id="Siṃhaguptaṇikā" sex="feM">
     <persName>Siṃhaguptaṇikā</persName>
     <state>kuṭumbinī</state>
   </person>
-  <person xml:id="Ṛṣabhaṇaka" sex="male">
+  <person xml:id="Ṛṣabhaṇaka" sex="M">
     <persName>Ṛṣabhaṇaka</persName>
     <state>kuṭumbin</state>
     <residence><placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName></residence>
   </person>
 
-  <person xml:id="Bodhī2" sex="female">
+  <person xml:id="Bodhī2" sex="feM">
     <persName>Bodhī</persName>
     <state type="religious">antevāsinī</state>
   </person>
 
-  <person xml:id="Sarpilā" sex="female">
+  <person xml:id="Sarpilā" sex="feM">
     <persName>Sarpilā</persName>
     <state type="religious">antevāsinī</state>
   </person>
 
-  <person xml:id="Veṇhuyā" sex="female">
+  <person xml:id="Veṇhuyā" sex="feM">
     <persName>Veṇhuyā</persName>
   </person>
 
-  <person xml:id="Lohitā" sex="female">
+  <person xml:id="Lohitā" sex="feM">
     <persName>Lohitā</persName>
   </person>
 
-  <person xml:id="Apareṇuka" sex="male">
+  <person xml:id="Apareṇuka" sex="M">
     <persName>Apareṇuka</persName>
   </person>
 
-  <person xml:id="Ānanda" sex="male">
+  <person xml:id="Ānanda" sex="M">
     <persName>Ānanda</persName>
   </person>
 
-  <person xml:id="Gajasena" sex="male">
+  <person xml:id="Gajasena" sex="M">
     <persName>Gajasena</persName>
     <!-- See the listRelation element !-->
   </person>
 
-  <person xml:id="Gajamitra" sex="male">
+  <person xml:id="Gajamitra" sex="M">
     <persName>Gajamitra</persName>
     <!-- See the listRelation element !-->
   </person>
 
-  <person xml:id="Svāmidatta" sex="male">
+  <person xml:id="Svāmidatta" sex="M">
     <persName>Svāmidatta</persName>
     <occupation>goldsmith</occupation>
     <residence><placeName key="pl:Kalyāṇa">Kalyāṇa</placeName></residence>
   </person>
 
-  <person xml:id="Mugudāsa" sex="male">
+  <person xml:id="Mugudāsa" sex="M">
     <persName>Mugudāsa</persName>
     <occupation>gardener</occupation>
   </person>
 
-  <person xml:id="Nāga1" sex="male">
+  <person xml:id="Nāga1" sex="M">
     <persName>Nāga</persName>
     <occupation>trader (sārthavāha)</occupation>
   </person>
 
-  <person xml:id="Svāmi2" sex="male">
+  <person xml:id="Svāmi2" sex="M">
     <persName>Svāmi</persName>
   </person>
 
-  <person xml:id="Vasulaṇaka" sex="male">
+  <person xml:id="Vasulaṇaka" sex="M">
     <persName>Vasulaṇaka</persName>
     <occupation>merchant (śreṭḥin)</occupation>
   </person>
 
-  <person xml:id="Aṣāḍhamitra" sex="male">
+  <person xml:id="Aṣāḍhamitra" sex="M">
     <persName>Aṣāḍhamitra</persName>
   </person>
-  <person xml:id="Acaladāsa" sex="male">
+  <person xml:id="Acaladāsa" sex="M">
     <persName>Acaladāsa</persName>
     <occupation>trader (sārthavāha)</occupation>
   </person>
 
-  <person xml:id="Śivadattā2" sex="female">
+  <person xml:id="Śivadattā2" sex="feM">
     <persName>Śivadattā</persName>
   </person>
-  <person xml:id="Pusaṇaka" sex="male">
+  <person xml:id="Pusaṇaka" sex="M">
     <persName>Pusaṇaka</persName>
   </person>
-  <person xml:id="Vehamitra" sex="male">
+  <person xml:id="Vehamitra" sex="M">
     <persName>Vehamitra</persName>
     <occupation>trader (sārthavāha)</occupation>
   </person>
 
-  <person xml:id="Nāgaṇaka" sex="male">
+  <person xml:id="Nāgaṇaka" sex="M">
     <persName>Nāgaṇaka</persName>
     <residence><placeName key="pl:Nasik">Nāsikya</placeName></residence>
   </person>
 
-  <person xml:id="Śivapālitanikā" sex="female">
+  <person xml:id="Śivapālitanikā" sex="feM">
     <persName>Śivapālitanikā</persName>
   </person>
 
-  <person xml:id="Buddhisiṅgha" sex="male">
+  <person xml:id="Buddhisiṅgha" sex="M">
     <persName>Buddhisiṅgha</persName>
     <state type="religious">Bhikṣu</state>
   </person>
 
-  <person xml:id="Dharmaṇaka" sex="male">
+  <person xml:id="Dharmaṇaka" sex="M">
     <persName>Dharmaṇaka</persName>
     <occupation>goldsmith</occupation>
   </person>
 
-  <person xml:id="Siṃhadatta" sex="male">
+  <person xml:id="Siṃhadatta" sex="M">
     <persName>Siṃhadatta</persName>
     <occupation>perfumer</occupation>
     <residence><placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName></residence>
   </person>
 
-  <person xml:id="Bhāyilā" sex="female">
+  <person xml:id="Bhāyilā" sex="feM">
     <persName>Bhāyilā</persName>
   </person>
-  <person xml:id="Mahādevaṇaka" sex="male">
+  <person xml:id="Mahādevaṇaka" sex="M">
     <persName>Mahādevaṇaka</persName>
   </person>
 
-  <person xml:id="Veṇuvāsa" sex="male">
+  <person xml:id="Veṇuvāsa" sex="M">
     <persName>Veṇuvāsa</persName>
   </person>
-  <person xml:id="Svāmi" sex="male">
+  <person xml:id="Svāmi" sex="M">
     <persName>Svāmi</persName>
     <occupation>carpenter</occupation>
   </person>
 
-  <person xml:id="Kṛṣṇaśrī" sex="male">
+  <person xml:id="Kṛṣṇaśrī" sex="M">
     <persName>Kṛṣṇaśrī</persName>
     <faith>Buddhist</faith>
     <state type="religious">Pravrajita</state>
   </person>
-  <person xml:id="Saṅghaka" sex="male">
+  <person xml:id="Saṅghaka" sex="M">
     <persName>Saṅghaka</persName>
   </person>
-  <person xml:id="Nāṇikā" sex="female">
+  <person xml:id="Nāṇikā" sex="feM">
     <persName>Nāṇikā</persName>
   </person>
-  <person xml:id="Haghana" sex="male">
+  <person xml:id="Haghana" sex="M">
     <persName>Haghana</persName>
     <note>Elder (thera) of the Botika (Bodhika?) Vihāra.</note>
   </person>
 
-  <person xml:id="Saṅgharakṣita" sex="male">
+  <person xml:id="Saṅgharakṣita" sex="M">
     <persName>Saṅgharakṣita</persName>
     <note>seṭhi</note>
   </person>
 
-  <person xml:id="Gṛhapati" sex="male">
+  <person xml:id="Gṛhapati" sex="M">
     <persName>Gṛhapati</persName>
   </person>
 
 <!-- Bhājā people !-->
-  <person xml:id="Naḍasava" sex="male">
+  <person xml:id="Naḍasava" sex="M">
     <persName>Naḍasava</persName>
     <note>He is described as nāya-, which <ref target="bibl:CTI">Burgess and Indraji 1881</ref> equate with the clan Jñāta- (to which Vardhamāna belonged); it could equally be Nāga-.</note>
   </person>
 
-  <person xml:id="Viṣṇudatta" sex="male">
+  <person xml:id="Viṣṇudatta" sex="M">
     <persName>Kauśikīputra Viṣṇudatta</persName>
     <state type="political">Mahāraṭṭhi</state>
   </person>
 
-  <person xml:id="BhDharmagiri" sex="male">
+  <person xml:id="BhDharmagiri" sex="M">
     <persName>Dharmagiri</persName>
     <state type="religious">Bhadanta</state>
     <state type="religious">Sthavira</state>
   </person>
 
-  <person xml:id="BhAṃpikiṇaka" sex="male">
+  <person xml:id="BhAṃpikiṇaka" sex="M">
     <persName>Aṃpikiṇaka</persName>
     <state type="religious">Bhadanta</state>
     <state type="religious">Sthavira</state>
   </person>
 
-  <person xml:id="BhSaṃghadinna" sex="male">
+  <person xml:id="BhSaṃghadinna" sex="M">
     <persName>Saṃghadinna</persName>
     <state type="religious">Bhadanta</state>
     <state type="religious">Sthavira</state>
   </person>
 
-  <person xml:id="Bādhā" sex="female">
+  <person xml:id="Bādhā" sex="feM">
     <persName>Bādhā</persName>
     <note>the wife of a hālika</note>
   </person>
 
 <!-- Beḍsā people !-->
-  <person xml:id="Gobhūti" sex="male">
+  <person xml:id="Gobhūti" sex="M">
     <persName>Gobhūti</persName>
   </person>
 
-  <person xml:id="BhaṭṭaAṣāḍhamitra" sex="male">
+  <person xml:id="BhaṭṭaAṣāḍhamitra" sex="M">
     <persName>Bhaṭṭa Aṣāḍhamitra</persName>
     <residence><placeName key="pl:Mārakuḍa">Mārakuḍa</placeName></residence>
   </person>
 
-  <person xml:id="Sāmaḍinikā" sex="female">
+  <person xml:id="Sāmaḍinikā" sex="feM">
     <persName>Sāmaḍinikā</persName>
     <state type="political">daughter of a Mahābhoja</state>
     <state type="political">Mahādevī</state>
     <state type="political">Mahāraṭṭhinī</state>
   </person>
 
-  <person xml:id="Āpadevaṇaka" sex="male">
+  <person xml:id="Āpadevaṇaka" sex="M">
     <persName>Āpadevaṇaka</persName>
 
   </person>
 
-  <person xml:id="Ānanda2" sex="male">
+  <person xml:id="Ānanda2" sex="M">
     <persName>Ānanda</persName>
     <occupation>seṭhi</occupation>
   </person>
 
-  <person xml:id="Puṣyaṇaka" sex="male">
+  <person xml:id="Puṣyaṇaka" sex="M">
     <persName>Puṣyaṇaka</persName>
     <residence><placeName key="pl:Nāsikya">Nāsikya</placeName></residence>
   </person>
@@ -544,268 +544,152 @@
 
 <!-- Sātavāhana Kings, Queens, etc. !-->
 
-  <person xml:id="VpŚrīChimuka" sex="male">
-    <persName>Vāsiṣṭhīputra Śrī Chimuka</persName>
-    <state type="political">Mahārāṣṭri</state>
-    <state type="political">King</state>
-  </person>
-
-  <person xml:id="Kṛṣṇa" sex="male">
-    <persName>Kṛṣṇa</persName>
-    <state type="political"
-	   notBefore-custom="-0100"
-	   notAfter-custom="-0090"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="ŚrīSātakarṇi" sex="male">
-    <persName>Śrī Sātakarṇi</persName>
-    <state type="political"
-	   notBefore-custom="-0090"
-	   notAfter-custom="-0050"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="Balaśrī" sex="female">
-    <persName>Gautamī Balaśrī</persName>
-    <state type="political"
-	   notBefore-custom="0040"
-	   notAfter-custom="0105"
-	   precision="low">Queen</state>
-  </person>
-
-  <person xml:id="GpŚivaSātakarṇi" sex="male">
-    <persName>Gautamīputra Śiva Sātakarṇi</persName>
-    <state type="political"
-	   notAfter-custom="0060"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="GpŚrīSātakarṇi" sex="male">
-    <persName>Gautamīputra Śrī Sātakarṇi</persName>
-    <state type="political"
-	   notBefore-custom="0060"
-	   notAfter-custom="0084"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="VpŚrīPuḷumāvi" sex="male">
-    <persName>Vāsiṣṭhīputra Śrī Puḷumāvi</persName>
-    <state type="political"
-	   notBefore-custom="0084"
-	   notAfter-custom="0119"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="VpŚrīSātakarṇi" sex="male">
-    <persName>Vāsiṣṭhīputra Śrī Satakarṇi</persName>
-    <state type="political"
-	   notBefore-custom="0119"
-	   notAfter-custom="0148"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="VpŚivaśrīPuḷumāvi" sex="male">
-    <persName>Vāsiṣṭhīputra Śivaśrī Puḷumāvi</persName>
-    <state type="political"
-	   notBefore-custom="0148"
-	   notAfter-custom="0156"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="VpŚrīskandaSātakarṇi" sex="male">
-    <persName>Vāsiṣṭhīputra Śrīskanda Sātakarṇi</persName>
-    <state type="political"
-	   notBefore-custom="0156"
-	   notAfter-custom="0170"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="GpŚrīyajñaSātakarṇi" sex="male">
-    <persName>Gautamīputra Śrīyajña Sātakarṇi</persName>
-    <state type="political"
-	   notBefore-custom="0171"
-	   notAfter-custom="0199"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="GpŚrīvijayaSātakarṇi" sex="male">
-    <persName>Gautamīputra Śrīvijaya Sātakarṇi</persName>
-    <state type="political"
-	   notBefore-custom="0200"
-	   notAfter-cusom="0205"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="VpŚrīcaṇḍaSātakarṇi" sex="male">
-    <persName>Vāsiṣṭhīputra Śrīcaṇḍa Sātakarṇi</persName>
-    <state type="political"
-	   notBefore-custom="0206"
-	   notAfter-custom="0215"
-	   precision="low">King</state>
-  </person>
-
-  <person xml:id="MpŚrīPuḷumāvi" sex="male">
-    <persName>Māḍharīputra Śrī Puḷumāvi</persName>
-    <state type="political"
-	   notBefore-custom="0216"
-	   notAfter-custom="0226"
-	   precision="low">King</state>
-  </person>
-
   <!-- Other Rulers !-->
-  <person xml:id="Nahapāna" sex="male">
-    <persName>Nahapāna</persName>
-    <state type="political"
-	   notBefore-custom="0038"
-	   notAfter-custom="0084"
-	   precision="low">King</state>
-  </person>
-  <person xml:id="Ayama" sex="male">
+  <person xml:id="Ayama" sex="M">
     <persName>Ayama</persName>
     <state type="political">Amātya</state>
   </person>
-  <person xml:id="Isimula" sex="male">
+  <person xml:id="Isimula" sex="M">
     <persName>Isimula</persName>
   </person>
-  <person xml:id="Naḍabāḷikā" sex="female">
+  <person xml:id="Naḍabāḷikā" sex="F">
     <persName>Naḍabāḷikā</persName>
   </person>
-  <person xml:id="Lachinikā" sex="female">
+  <person xml:id="Lachinikā" sex="F">
     <persName>Lachinikā</persName>
   </person>
 
   <!-- JUNNAR NAMES !-->
-  <person xml:id="Bhūtenaka" sex="male">
+  <person xml:id="Bhūtenaka" sex="M">
     <persName>Bhūtenaka</persName>
   </person>
-  <person xml:id="MudhakiyaMala" sex="male">
+  <person xml:id="MudhakiyaMala" sex="M">
     <persName>Mudhakiya Mala</persName>
   </person>
-  <person xml:id="GolikiyaĀnanda" sex="male">
+  <person xml:id="GolikiyaĀnanda" sex="M">
     <persName>Golikiya Ānanda</persName>
   </person>
-  <person xml:id="Vīraseṇaka" sex="male">
+  <person xml:id="Vīraseṇaka" sex="M">
     <persName>Vīraseṇaka</persName>
   </person>
-  <person xml:id="Irala" sex="male">
+  <person xml:id="Irala" sex="M">
     <persName>Irala</persName>
     <trait type="ethnicity">Yavana</trait>
   </person>
-  <person xml:id="Savagiriya" sex="male">
+  <person xml:id="Savagiriya" sex="M">
     <persName>Savagiriya</persName>
     <note>of the Apaguriyas</note>
   </person>
-  <person xml:id="Giribhūti" sex="male">
+  <person xml:id="Giribhūti" sex="M">
     <persName>Giribhūti</persName>
   </person>
-  <person xml:id="Śivapālanikā" sex="female">
+  <person xml:id="Śivapālanikā" sex="F">
     <persName>Śivapālanikā</persName>
   </person>
-  <person xml:id="Candra" sex="male">
+  <person xml:id="Candra" sex="M">
     <persName>Candra</persName>
     <trait type="ethnicity">Yavana</trait>
   </person>
-  <person xml:id="Payogoka" sex="male">
+  <person xml:id="Payogoka" sex="M">
     <persName>Payogoka</persName>
     <note>Of the Aparājita sect.</note>
   </person>
-  <person xml:id="Palapa" sex="male">
+  <person xml:id="Palapa" sex="M">
     <persName>Palapa</persName>
   </person>
-  <person xml:id="Āḍuthūma" sex="male">
+  <person xml:id="Āḍuthūma" sex="M">
     <persName>Āḍuthūma</persName>
     <trait type="ethnicity">Saka</trait>
   </person>
   <person xml:id="Vāhatavaceḍuka">
     <persName>Vāhata Vaceḍuka</persName>
   </person>
-  <person xml:id="Jiputraka" sex="male">
+  <person xml:id="Jiputraka" sex="M">
     <persName>Jiputraka</persName>
   </person>
-  <person xml:id="Aśvaśrama" sex="male">
+  <person xml:id="Aśvaśrama" sex="M">
     <persName>Asasama</persName>
   </person>
-  <person xml:id="Buddhamitra" sex="male">
+  <person xml:id="Buddhamitra" sex="M">
     <persName>Buddhamitra</persName>
     <residence><placeName key="pl:Bharukaccha">Bharukaccha</placeName></residence>
     <note>Identified as a Laṅkuṭika.</note>
   </person>
-  <person xml:id="Buddharakṣita2" sex="male">
+  <person xml:id="Buddharakṣita2" sex="M">
     <persName>Buddharakṣita</persName>
     <residence><placeName key="pl:Bharukaccha">Bharukaccha</placeName></residence>
     <note>Identified as a Laṅkuṭika.</note>
   </person>
-  <person xml:id="Sayiti" sex="male">
+  <person xml:id="Sayiti" sex="M">
     <persName>Sayiti</persName>
     <note>gahapati</note>
   </person>
-  <person xml:id="Śivadāsa" sex="male">
+  <person xml:id="Śivadāsa" sex="M">
     <persName>Śivadāsa</persName>
     <note>gahapati</note>
   </person>
-  <person xml:id="Nandanaka" sex="male">
+  <person xml:id="Nandanaka" sex="M">
     <persName>Nandanaka</persName>
   </person>
-  <person xml:id="BhCetiyasa" sex="male">
+  <person xml:id="BhCetiyasa" sex="M">
     <persName>Cetiyasa</persName>
     <state type="religious">Bhadanta</state>
     <state type="religious">Sthavira</state>
     <state type="religious">Traividya</state>
   </person>
-  <person xml:id="BhSulasa" sex="male">
+  <person xml:id="BhSulasa" sex="M">
     <persName>Sulasa</persName>
     <state type="religious">Bhadanta</state>
     <state type="religious">Sthavira</state>
     <state type="religious">Traividya</state>
     <state type="religious">Gaṇācārya</state>
   </person>
-  <person xml:id="Sivasama" sex="male">
+  <person xml:id="Sivasama" sex="M">
     <persName>Sivasama</persName>
   </person>
-  <person xml:id="Śivabhūti2" sex="male">
+  <person xml:id="Śivabhūti2" sex="M">
     <persName>Śivabhūti</persName>
   </person>
-  <person xml:id="Sāmara" sex="male">
+  <person xml:id="Sāmara" sex="M">
     <persName>Sāmara</persName>
     <state type="religious">Upāsaka</state>
   </person>
-  <person xml:id="Śivabhūti3" sex="male">
+  <person xml:id="Śivabhūti3" sex="M">
     <persName>Śivabhūti</persName>
   </person>
-  <person xml:id="Saṅghaka2" sex="male">
+  <person xml:id="Saṅghaka2" sex="M">
     <persName>Saṅghaka</persName>
     <residence><placeName key="pl:Kalyāṇa">Kalyāṇa</placeName></residence>
   </person>
-  <person xml:id="Kuṭila" sex="male">
+  <person xml:id="Kuṭila" sex="M">
     <persName>Kuṭila</persName>
   </person>
-  <person xml:id="Ānanda3" sex="male">
+  <person xml:id="Ānanda3" sex="M">
     <persName>Ānanda</persName>
   </person>
-  <person xml:id="Tāpasa" sex="male">
+  <person xml:id="Tāpasa" sex="M">
     <persName>Tāpasa</persName>
     <state type="religious">Upāsaka</state>
   </person>
-  <person xml:id="Kapila" sex="male">
+  <person xml:id="Kapila" sex="M">
     <persName>Kapila</persName>
     <state type="religious">Upāsaka</state>
   </person>
-  <person xml:id="Sulasadatta3" sex="male">
+  <person xml:id="Sulasadatta3" sex="M">
     <persName>Sulasadatta</persName>
     <residence><placeName key="pl:Kalyāṇa">Kalyāṇa</placeName></residence>
   </person>
-  <person xml:id="Heraṇika" sex="male">
+  <person xml:id="Heraṇika" sex="M">
     <persName>Heraṇika</persName>
   </person>
-  <person xml:id="Isipālita" sex="male">
+  <person xml:id="Isipālita" sex="M">
     <persName>Isipālita</persName>
   </person>
-  <person xml:id="Ugāha" sex="male">
+  <person xml:id="Ugāha" sex="M">
     <persName>Ugāha</persName>
     <state type="religious">Upāsaka</state>
   </person>
-  <person xml:id="Ciṭa" sex="male">
+  <person xml:id="Ciṭa" sex="M">
     <persName>Ciṭa</persName>
     <trait type="ethnicity">Yavana</trait>
     <note>Gatānaṃ</note>

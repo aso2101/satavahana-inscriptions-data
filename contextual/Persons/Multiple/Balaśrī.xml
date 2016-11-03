@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Balaśrī" 
+    sex="F">
+  <persName>Gautamī Balaśrī</persName>
+  <state type="political"
+	 notBefore-custom="0040"
+	 notAfter-custom="0105"
+	 precision="low">Queen</state>
+</person>

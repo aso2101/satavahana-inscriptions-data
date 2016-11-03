@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="GpŚrīyajñaSātakarṇi"
+    sex="M">
+  <persName>Gautamīputra Śrīyajña Sātakarṇi</persName>
+  <state type="political"
+	 notBefore-custom="0171"
+	 notAfter-custom="0199"
+	 precision="low">King</state>
+</person>

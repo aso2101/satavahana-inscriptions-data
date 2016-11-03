@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="VpŚivaśrīPuḷumāvi" 
+    sex="M">
+  <persName>Vāsiṣṭhīputra Śivaśrī Puḷumāvi</persName>
+  <state type="political"
+	 notBefore-custom="0148"
+	 notAfter-custom="0156"
+	 precision="low">King</state>
+</person>

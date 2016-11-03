@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="GpŚivaSātakarṇi"
+    sex="M">
+  <persName>Gautamīputra Śiva Sātakarṇi</persName>
+  <state type="political"
+	 notAfter-custom="0060"
+	 precision="low">King</state>
+</person>

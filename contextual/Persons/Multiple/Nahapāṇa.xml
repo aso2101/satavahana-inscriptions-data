@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Nahapāna" 
+    sex="M">
+  <persName>Nahapāna</persName>
+  <state type="political"
+	 notBefore-custom="0038"
+	 notAfter-custom="0084"
+	 precision="low">King</state>
+</person>

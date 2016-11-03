@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="ŚrīSātakarṇi" 
+    sex="M">
+  <persName>Śrī Sātakarṇi</persName>
+  <state type="political"
+	 notBefore-custom="-0090"
+	 notAfter-custom="-0050"
+	 precision="low">King</state>
+</person>

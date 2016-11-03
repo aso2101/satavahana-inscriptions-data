@@ -1,0 +1,10 @@
+<person
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="VpŚrīskandaSātakarṇi" 
+    sex="M">
+  <persName>Vāsiṣṭhīputra Śrīskanda Sātakarṇi</persName>
+  <state type="political"
+	 notBefore-custom="0156"
+	 notAfter-custom="0170"
+	 precision="low">King</state>
+</person>
