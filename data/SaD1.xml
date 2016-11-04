@@ -28,9 +28,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Sannati">Sannati</placeName>,
-		in a field halfway between between the Candralāmbā
-		and Durgā temples.
+		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
 	      <origDate
 		  notBefore-custom="0100"
@@ -38,6 +36,10 @@
 		  precision="medium"
 		  evidence="nomenclature">2nd c. CE</origDate>
 	    </origin>
+	    <provenance type="found" subtype="discovered">
+	      <p>Found in a field halfway between between the Candralāmbā
+		and Durgā temples.</p>
+	    </provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
@@ -47,6 +49,10 @@
     <graphic 
 	url="images/SaD1-001.jpg">
       <desc>Photograph from <ref target="bibl:ARIE1966">ARIE 1966–1967</ref>.</desc>
+    </graphic>
+    <graphic
+	url="images/SaD1-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 22-A.</desc>
     </graphic>
     <graphic 
 	url="images/SaD1-seshadri1972-pl19.png">
@@ -62,11 +68,15 @@
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
-	  <citedRange>no. 225</citedRange>
+	  <citedRange>225</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:Seshadri1972"/>
 	  <citedRange>pl. 8a, 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>8</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:Sarma1993"/>

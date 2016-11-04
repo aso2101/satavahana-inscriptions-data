@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="Ba1">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,9 +18,15 @@
 	  <msIdentifier></msIdentifier>
 	  <physDesc>
 	    <supportDesc>
-	      <support>Inscribed on a basalt slab in front of the
-	      Madhukeśvara temple in Banavāsi, 
-	      4.8' x 1.1' x 0.5'.</support>
+	      <support>
+		<p>Inscribed on a basalt slab in front of the
+	      Madhukeśvara temple in Banavāsi.</p>
+	        <dimensions unit="feet">
+		  <width>4.8</width>
+		  <length>1.1</length>
+		  <depth>0.5</depth>
+		</dimensions>
+	      </support>
 	    </supportDesc>
 	  </physDesc>
 	  <history>
