@@ -348,6 +348,17 @@
     <biblScope unit="pp" from="18" to="21">18–21</biblScope>
     <date when="1980">1980</date>
   </bibl>
+  <bibl xml:id="Ramesh1967" type="article">
+    <author>
+      <surname>Ramesh</surname>
+      <forename>K. V.</forename>
+    </author>
+    <title level="a">A Brahmi Inscription from Belvadigi</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">37</biblScope>
+    <biblScope unit="pp" from="131" to="132">131–132</biblScope>
+    <date when="1967"/>
+  </bibl>
   <bibl xml:id="Chandra1919" type="article">
     <author>
       <name>
