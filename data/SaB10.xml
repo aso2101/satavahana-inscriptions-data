@@ -63,7 +63,9 @@
 	       quantity="unknown"
 	       unit="character"/>
 	  <unclear>yā</unclear>macasa 
-	  <persName key="pers:Sa-Siṃhadhara"><app><lem wit="#Sarma1993">si</lem><rdg wit="#ARIE1966">sī</rdg></app>hadharasa</persName>
+	  <persName key="pers:Sa-Siṃhadhara"><app><lem
+	            source="#Sarma1993">si</lem><rdg
+		    source="#ARIE1966">sī</rdg></app>hadharasa</persName>
 	</p>
       </div>
       <div type="translation">

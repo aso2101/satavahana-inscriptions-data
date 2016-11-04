@@ -61,9 +61,20 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <unclear>gha</unclear>ri<app><lem wit="#Sarma1993 #NagarajaRao1985">ṇī</lem><rdg wit="#ARIE1968">ṇi</rdg></app>ya <persName key="pers:Sa-Sihaḍī">siha<app><lem wit="#Sarma1993">ḍī</lem><rdg wit="#ARIE1968 #NagarajaRao1985">ḷī</rdg></app>ya</persName>
+	  <unclear>gha</unclear>ri<app><lem 
+	    source="#Sarma1993 #NagarajaRao1985">ṇī</lem><rdg
+	    source="#ARIE1968">ṇi</rdg></app>ya <persName
+	    key="pers:Sa-Sihaḍī">siha<app><lem 
+	    source="#Sarma1993">ḍī</lem><rdg 
+	    source="#ARIE1968 #NagarajaRao1985">ḷī</rdg></app>ya</persName>
 	  <lb n="2"/>
-	  <app><lem wit="#Sarma1993"><unclear>he</unclear></lem><rdg wit="#NagarajaRao1985">ma</rdg></app>ma<persName key="pers:Sa-Nandā"><app><lem wit="#ARIE1968">na</lem><rdg wit="#NagarajaRao1985">ne</rdg></app><app><lem wit="#Sarma1993">dā</lem><rdg wit="#ARIE1968 #NagarajaRao1985">de</rdg></app>ya</persName>
+	  <app><lem source="#Sarma1993"><unclear>he</unclear></lem><rdg
+	    source="#NagarajaRao1985">ma</rdg></app>ma<persName
+	    key="pers:Sa-Nandā"><app><lem 
+	    source="#ARIE1968">na</lem><rdg
+	    source="#NagarajaRao1985">ne</rdg></app><app><lem
+	    source="#Sarma1993">dā</lem><rdg 
+	    source="#ARIE1968 #NagarajaRao1985">de</rdg></app>ya</persName>
 	</p>
       </div>
       <div type="translation">

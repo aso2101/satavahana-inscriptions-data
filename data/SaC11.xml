@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaC11">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati C11</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaC12</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A memorial slab with a riderless horse
+		     and a seated figure above.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaC11-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 21-A.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>22</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>C11</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>ṇha
+	  ghā<app><lem source="#Sarma1993">lā</lem><rdg
+	               source="#NagarajaRao1985">li</rdg></app><app><lem
+		       source="#Sarma1993">vāsakha</lem><rdg
+		       source="#NagarajaRao1985">viśākha</rdg></app>ra<app><lem
+		       resp="#AO"><unclear>meja</unclear></lem><rdg
+		       source="#Sarma1993 #NagarajaRao1985"><gap
+		       reason="lost"
+		       quantity="unknown"
+		       unit="character"/></rdg>
+	</p>
+      </div>
+      <div type="translation">
+	<p>(No translation offered.)</p>
+      </div>
+    </body>
+  </text>
+</TEI>

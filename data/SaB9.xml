@@ -55,7 +55,8 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  bhoju <app><lem wit="#Sarma1993">ja</lem><rdg wit="#ARIE1966">jā</rdg></app>na agiṭhoma
+	  bhoju <app><lem source="#Sarma1993">ja</lem><rdg
+	                  source="#ARIE1966">jā</rdg></app>na agiṭhoma
 	  <lb n="2"/>
 	  <unclear>ravi</unclear>naka asabhaḍa<unclear>sa</unclear>
 	  <lb n="3"/>

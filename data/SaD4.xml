@@ -64,7 +64,9 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  gahapatisa <persName key="pers:Sa-Sulasa"><app><lem wit="#ARIE1966 #Seshadri1972 #NagarajaRao1985">su</lem><rdg wit="#Sarma1993">sū</rdg></app>lasasa</persName>
+	  gahapatisa <persName key="pers:Sa-Sulasa"><app><lem 
+	    source="#ARIE1966 #Seshadri1972 #NagarajaRao1985">su</lem><rdg
+	    source="#Sarma1993">sū</rdg></app>lasasa</persName>
 	</p>
       </div>
       <div type="translation">

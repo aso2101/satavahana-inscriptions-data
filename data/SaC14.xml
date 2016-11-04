@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaC14">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati C14 (of Senaṇha)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaC14</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A sculptured stele, with a couple in the
+		     windows of the sculpted caitya.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="transferred" 
+			notAfter="1966">
+	      <p>Transferred to the State Museum at <placeName key="pl:Gulbarga">Gulbarga</placeName> before 1966. This is its current location as of 2014.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaC14-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 21-B</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>229</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>14</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>C14</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <app><lem source="#Sarma1993">vāṇī</lem><rdg
+	            source="#NagarajaRao1985">vaṇi</rdg><rdg
+		    source="#ARIE1966">vāni</rdg></app>yasa
+	  <persName key="pers:Sa-Senaṇha">senaṇha<app><lem
+	            source="#ARIE1966 #Sarma1993">sa</lem><rdg
+		    source="#NagarajaRao1985"><note>om.</note></rdg></app></persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of <persName key="pers:Sa-Senaṇha">Senaṇha</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaC8">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati C9 (of Selanikā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaC9</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A small slab.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaC9-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 20.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>230</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>23</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>C9</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This is based on a reading of the plate published in <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Sa-Selaṇakā"><app><lem 
+		    resp="#AO">selaṇakāya</lem><rdg
+	            source="#Sarma1993">selanikaya</rdg><rdg
+	            source="#ARIE1966">saloṇakasa</rdg><rdg
+		    source="#NagarajaRao1985">seloṇakāya</rdg></app></persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of <persName key="pers:Sa-Selaṇakā">Selaṇakā</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

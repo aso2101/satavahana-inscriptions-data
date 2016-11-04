@@ -80,7 +80,25 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  rā<app><lem wit="#NagarajaRao1985">ja</lem><rdg wit="#ARIE1966 #Seshadri1972 #Sarma1993">jā</rdg></app>macasa <persName key="pers:Sa-Gaganaka">gaga<app><lem wit="#Sarma1993 #NagarajaRao1985 #ARIE1966">na</lem><rdg wit="#Seshadri1972">ba</rdg></app>kasa</persName> bhāriyā<app><lem wit="#Seshadri1972 #Sarma1993">ya</lem><rdg wit="ARIE1966 #NagarajaRao1985">ye</rdg></app> rā<app><lem wit="#ARIE1966">ja</lem><rdg wit="#Sarma1993 #Seshadri1972 #NagarajaRao1985">jā</rdg></app><app><lem wit="#ARIE1966 #NagarajaRao1985 #Seshadri1972">ma</lem><rdg wit="#Sarma1993">mā</rdg></app><app><lem>cā</lem><rdg wit="#ARIE1966 #Seshadri1972">ca</rdg><rdg wit="#NagarajaRao1985 #Sarma1993">ci</rdg></app>ya <persName key="pers:Sa-Rāmaśrī">rāmasi<app><lem wit="#ARIE1966 #Seshadri1972 #NagarajaRao1985">ri</lem><rdg wit="#Sarma1993">rī</rdg></app>ya</persName>
+	  rā<app><lem 
+	    source="#NagarajaRao1985">ja</lem><rdg 
+	    source="#ARIE1966 #Seshadri1972 #Sarma1993">jā</rdg></app>macasa
+	  <persName key="pers:Sa-Gaganaka">gaga<app><lem
+	    source="#Sarma1993 #NagarajaRao1985 #ARIE1966">na</lem><rdg
+	    source="#Seshadri1972">ba</rdg></app>kasa</persName>
+	  bhāriyā<app><lem 
+	    source="#Seshadri1972 #Sarma1993">ya</lem><rdg 
+	    source="ARIE1966 #NagarajaRao1985">ye</rdg></app> 
+	  rā<app><lem 
+	    source="#ARIE1966">ja</lem><rdg 
+	    source="#Sarma1993 #Seshadri1972 #NagarajaRao1985">jā</rdg></app><app><lem 
+	    source="#ARIE1966 #NagarajaRao1985 #Seshadri1972">ma</lem><rdg
+	    source="#Sarma1993">mā</rdg></app><app><lem>cā</lem><rdg
+	    source="#ARIE1966 #Seshadri1972">ca</rdg><rdg
+	    source="#NagarajaRao1985 #Sarma1993">ci</rdg></app>ya 
+	  <persName key="pers:Sa-Rāmaśrī">rāmasi<app><lem 
+	    source="#ARIE1966 #Seshadri1972 #NagarajaRao1985">ri</lem><rdg
+	    source="#Sarma1993">rī</rdg></app>ya</persName>
 	</p>
       </div>
       <div type="translation">

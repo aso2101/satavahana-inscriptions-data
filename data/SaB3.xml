@@ -71,21 +71,25 @@
 	  <gap reason="lost"
 	       quantity="unknown" 
 	       unit="character"/>mahāse<app><lem>ṇa</lem><rdg 
-	       wit="#ARIE1966 #Sarma1993">nā</rdg></app><app><lem>ya</lem><rdg
-	       wit="#ARIE1966 #Sarma1993">ye</rdg></app>sa<placeName 
+	       source="#ARIE1966  #Sarma1993">nā</rdg></app><app><lem>ya</lem><rdg
+	       source="#ARIE1966 #Sarma1993">ye</rdg></app>sa<placeName 
 	       key="pl:Balivadāra">ba<app><lem 
-	       wit="#Sarma1993">li</lem><rdg wit="#ARIE1966">lī</rdg></app>va<app><lem 
-	       wit="#Sarma1993">dā</lem><rdg 
-	       wit="#ARIE1966">ü</rdg></app>ra</placeName>vāsi<app><lem>ṇā</lem><rdg 
-	       wit="#ARIE1966 #Sarma1993">no</rdg></app> 
+	       source="#Sarma1993">li</lem><rdg
+	       source="#ARIE1966">lī</rdg></app>va<app><lem 
+	       source="#Sarma1993">dā</lem><rdg 
+	       source="#ARIE1966">ü</rdg></app>ra</placeName>vāsi<app><lem>ṇā</lem><rdg 
+	       source="#ARIE1966 #Sarma1993">no</rdg></app> 
 	  <persName 
 	       key="pers:Sa-Āpakuṭi">āpakuṭisa</persName> 
-	  <app><lem wit="#ARIE1966">vā</lem><rdg 
-	       wit="#Sarma1993">va</rdg></app><app><lem>ṇi</lem><rdg 
-	       wit="#ARIE1966 #Sarma1993">ni</rdg></app><app><lem 
-	       wit="#ARIE1966">ya</lem><rdg wit="#Sarma1993">yā</rdg></app>ke<app><lem>ṇa</lem><rdg 
-	       wit="#ARIE1966">na</rdg><rdg wit="#Sarma1993">ta</rdg></app><app><lem>ṇi</lem><rdg
-	       wit="#Sarma1993">ni</rdg><rdg wit="#ARIE1966">na</rdg></app><gap 
+	  <app><lem source="#ARIE1966">vā</lem><rdg 
+	       source="#Sarma1993">va</rdg></app><app><lem>ṇi</lem><rdg 
+	       source="#ARIE1966 #Sarma1993">ni</rdg></app><app><lem 
+	       source="#ARIE1966">ya</lem><rdg
+	       source="#Sarma1993">yā</rdg></app>ke<app><lem>ṇa</lem><rdg 
+	       source="#ARIE1966">na</rdg><rdg
+	       source="#Sarma1993">ta</rdg></app><app><lem>ṇi</lem><rdg
+	       source="#Sarma1993">ni</rdg><rdg
+	       source="#ARIE1966">na</rdg></app><gap 
 	       reason="lost" quantity="unknown" unit="character"/>
 	</p>
       </div>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaC12">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati C12 (of Tulabhūta)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaC12</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A memorial slab with a riderless horse
+		     and a seated figure above.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaC12-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 21-A.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>21</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>C12</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Tulabhūta"><app><lem
+		    source="#Sarma1993"><gap 
+	            reason="lost"
+		    quantity="unknown"
+		    unit="character"/><unclear>tu</unclear></lem><rdg
+		    source="#NagarajaRao1985"><gap
+		    reason="lost"
+		    quantity="unknown"
+		    unit="character"/></rdg></app>la<app><lem 
+		    source="#Sarma1993">bhūta</lem><rdg
+		    source="#NagarajaRao1985">bhātu</rdg></app>sa</persName>
+	  <app><lem source="#Sarma1993">putasa ya</lem><rdg
+	            source="#NagarajaRao1985">atisayāya</rdg></app>
+	  <app><lem source="#Sarma1993">chatha</lem><rdg
+	            source="#NagarajaRao1985">chāya</rdg></app>
+	  <app><lem source="#Sarma1993">kha<gap
+	            reason="lost"
+		    quantity="unknown"
+		    unit="character"/></lem><rdg
+		    source="#NagarajaRao1985"><unclear>padima</unclear></rdg></app>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Establishment of a parasol by <persName key="pers:Tulabhūta">Tulabhūta</persName> and his son.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -78,15 +78,20 @@
 	<p>
 	  <lb n="1"/>
 	  muḍāna mahāgāmi-<app><lem 
-	  wit="#ARIE1966">ū</lem><rdg 
-	  wit="#Sarma1993">ku</rdg><rdg
-	  wit="#NagarajaRao1985">u</rdg></app><lb n="2" break="no"/>
+	    source="#ARIE1966">ū</lem><rdg 
+	    source="#Sarma1993">ku</rdg><rdg
+	    source="#NagarajaRao1985">u</rdg></app><lb n="2" break="no"/>
 	  mārasa
-	  <persName key="pers:Sa-Otika"><app><lem wit="#NagarajaRao1985"><unclear>o</unclear></lem><rdg wit="#ARIE1966 #Sarma1993">de</rdg></app><app><lem wit="#ARIE1966">ti</lem><rdg wit="#Sarma1993">ṭi</rdg></app>kasa</persName>
+	  <persName key="pers:Sa-Otika"><app><lem
+            source="#NagarajaRao1985"><unclear>o</unclear></lem><rdg 
+	    source="#ARIE1966 #Sarma1993">de</rdg></app><app><lem
+	    source="#ARIE1966">ti</lem><rdg
+	    source="#Sarma1993">ṭi</rdg></app>kasa</persName>
 	  <lb n="3"/>
 	  bhaṭi-bālakāya
 	  <lb n="4"/>
-	  <placeName key="pl:Ahimarikā">a<app><lem>ha</lem><rdg wit="#ARIE1966 #Sarma1993">hi</rdg></app>marikāya</placeName>
+	  <placeName key="pl:Ahimarikā">a<app><lem>ha</lem><rdg 
+	    source="#ARIE1966 #Sarma1993">hi</rdg></app>marikāya</placeName>
 	  <lb n="5"/>
 	  <persName key="pers:Sa-Puruṣadattā">purisadatāya</persName>
 	</p>

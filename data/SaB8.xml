@@ -74,13 +74,29 @@
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<div type="textpart" n="a">
-	  <ab><lb n="1"/><app><lem>bho</lem><rdg wit="#Sarma1993">ce</rdg></app>jakasa <persName key="pers:Sa-Mugarakoṇha">mu<app><lem wit="#ARIE1966">ga</lem><rdg wit="#Sarma1993">gu</rdg></app>rakoṇhasa</persName></ab>
+	  <ab><lb n="1"/><app><lem 
+	    resp="#AO">bho</lem><rdg 
+	    source="#Sarma1993">ce</rdg></app>jakasa <persName
+	    key="pers:Sa-Mugarakoṇha">mu<app><lem 
+	    source="#ARIE1966">ga</lem><rdg
+	    source="#Sarma1993">gu</rdg></app>rakoṇhasa</persName></ab>
 	</div>
 	<div type="textpart" n="b">
-	  <ab><lb n="1"/>bhoji<app><lem wit="#ARIE1966">ki</lem><rdg wit="#Sarma1993"></rdg></app>niya <persName key="pers:Sa-Kāmā"><app><lem wit="#Sarma1993">kā</lem><rdg wit="#ARIE1966">kaṃ</rdg></app>māya</persName></ab>
+	  <ab><lb n="1"/>bhoji<app><lem 
+	    source="#ARIE1966">ki</lem><rdg 
+	    source="#Sarma1993"></rdg></app>niya <persName
+	    key="pers:Sa-Kāmā"><app><lem 
+	    source="#Sarma1993">kā</lem><rdg
+	    souce="#ARIE1966">kaṃ</rdg></app>māya</persName></ab>
 	</div>
 	<div type="textpart" n="c">
-	  <ab><lb n="1"/><app><lem wit="#Sarma1993">lekhaka</lem><rdg wit="#Sarma1993">lekha<unclear>ka</unclear></rdg><rdg wit="#ARIE1966">lodha<unclear>ka</unclear></rdg></app>putasa <persName key="pers:Sa-Kaṇhakoṭava"><app><lem>ka</lem><rdg wit="#Sarma1993 #ARIE1966">na</rdg></app>ṇhakoṭavasa</persName></ab>
+	  <ab><lb n="1"/><app><lem 
+	    source="#Sarma1993">lekhaka</lem><rdg
+	    source="#Sarma1993">lekha<unclear>ka</unclear></rdg><rdg
+	    source="#ARIE1966">lodha<unclear>ka</unclear></rdg></app>putasa <persName 
+	    key="pers:Sa-Kaṇhakoṭava"><app><lem
+	    resp="#AO">ka</lem><rdg
+	    source="#Sarma1993 #ARIE1966">na</rdg></app>ṇhakoṭavasa</persName></ab>
 	</div>
       </div>
       <div type="translation">

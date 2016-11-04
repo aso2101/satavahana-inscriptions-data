@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaC7">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati C7 (of Daṭilā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaC7</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>Fragment of a broken slab.</p>
+		  <dimension unit="cm">
+		    <height>31</height>
+		    <width>2</width>
+		    <depth>11</depth>
+		  </dimension>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered">
+	      <p>Found in the terrace wall below the Chandralāmbā Temple 
+	         (<placeName key="pl:SA-6">SA-6</placeName>)
+		 by J. Varaprasada Rao; accession number
+	         482.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaC7-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 20.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>C8</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost"
+	       unit="character"
+	       quantity="unknown"/><persName key="pers:Sa-Daṭilā">daṭilāya</persName>
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       unit="character"
+	       quantity="unknown"/>sa
+	</p>
+      </div>
+      <div type="translation">
+	<p>Of <persName key="pers:Sa-Daṭilā">Daṭilā</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
