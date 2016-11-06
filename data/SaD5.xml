@@ -37,17 +37,22 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile></facsimile>
+  <facsimile>
+    <graphic
+	url="images/SaD5-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 22-B.</desc>
+    </graphic>
+  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:ARIE1968">ARIE 1968–1969</ptr>
-	  <citedRange>no. 91</citedRange>
+	  <citedRange>91</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:NagarajaRao1985"/>
-	  <citedRange>no. 10</citedRange>
+	  <citedRange>10</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:Sarma1993"/>
@@ -55,17 +60,22 @@
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>. Both this source, and <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>, mention that an almost-identical inscription occurs on another fragment, but they do not provide images or details. Hence it is impossible to know which of the two inscriptions is identical to the one reported in <ref target="bibl:ARIE1968">ARIE 1968–1969</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  ghariṇīya <persName key="pers:Sa-Samā">samāya</persName>
+	  ghari<app><lem
+	    source="#NagarajaRao1985">ṇi</lem><rdg
+	    source="#ARIE1968">ni</rdg><rdg
+	    source="#Sarma1993">ṇī</rdg></app>ya 
+	  <persName key="pers:Sa-Samā">sa<app><lem
+	    source="#NagarajaRao1985 #Sarma1993">māya</lem><rdg
+	    source="#ARIE1968"><unclear>va</unclear></rdg></app></persName>
 	</p>
       </div>
       <div type="translation">
-	<p>Of the banker <persName key="pers:Sa-Samā">Samā</persName>
-	</p>
+	<p>Of the gṛhiṇī <persName key="pers:Sa-Samā">Samā</persName>.</p>
       </div>
     </body>
   </text>

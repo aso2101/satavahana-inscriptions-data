@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati D.6 (of the Nāṭikās)</title>
+	<title>Sannati D6 (of the Nāṭikās)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -17,13 +17,16 @@
 	<msDesc>
 	  <msIdentifier></msIdentifier>
 	  <physDesc>
+	    <supportDesc>
+	      <support>
+		<p>A large pillar.</p>
+	      </support>
+	    </supportDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Sannati">Sannati</placeName>,
-		on a large pillar lying in the field of Channabasappa
-		Gowda.
+		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
 	      <origDate
 		  notBefore-custom="0100"
@@ -31,6 +34,15 @@
 		  precision="medium"
 		  evidence="nomenclature">2nd c. CE</origDate>
 	    </origin>
+	    <provenance type="found" subtype="discovered" notAfter="1966">
+	      <p>Found lying in the field of Channabasappa
+		Gowda.</p>
+	    </provenance>
+	    <provenance type="observed" when="2014">
+	      <p>Observed at the State Museum at 
+	        <placeName key="pl:Gulbarga">Gulbarga</placeName>
+		by Andrew Ollett in 2014.</p>
+	    </provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
@@ -42,29 +54,103 @@
       <desc>Photograph from Annual Report on 
         Indian Epigraphy 1966-1967.</desc>
     </graphic>
+    <graphic
+	url="images/SaD6-sarma1993">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 22-B.</desc>
+    </graphic>
   </facsimile>
   <text>
     <body>
-	<div type="commentary" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with minor corrections by AO based on the photograph.</p>
-	  <p>The interpretation of the editors is unsatisfactory. All but the last word seem to be names to me. (Andrew Ollett, 01/10/2015)</p>
-	</div>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>213</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Seshadri1972"/>
+	  <citedRange>pl. 20</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>4</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>D6</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with minor corrections by AO based on the photograph.</p>
+	<p>The interpretation of the editors is unsatisfactory. All but the last word seem to be names to me. Notes: we always have <foreign xml:lang="mi-Latn">nāṭikā</foreign> and <foreign xml:lang="mi-Latn">naḍiya</foreign> (i.e., the variants a/ā, ṭ/ḍ, and k/y co-occur). (Andrew Ollett, 01/10/2015)</p>
+	<p>I do not give “diacritical” variants from <ref target="bibl:Seshadri1972">Seshadri 1972</ref>.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  siri<gap reason="lost"
-	           quantity="3"
-		   unit="character"/>mi
-	  putasa hathilasa nāṭikāya budhaseniyāna 
-	  munāḍiya-nāṭikāya pākārayatiyāya 
-	  govidasiya
-	  <lb n="2"/>
-	  <gap reason="lost"
+	  <app><lem 
+	     source="#Sarma1993">siri</lem><rdg
+	     source="#ARIE1966 #Seshadri1972 #NagarajaRao1985"><gap 
+	       reason="lost"
 	       quantity="unknown"
-	       unit="character"/>ikāya naḍiya-khaḍaputīya a
-	  ayadāsīya 
-	  naḍiya-vālukiyāya
-	  mukhādiko yaṃ
+	       unit="character"/></rdg>
+	   <gap reason="lost"
+	        quantity="3"
+		unit="character"/><app><lem
+             source="#Seshadri1972 #Sarma1993">mi</lem><rdg
+	     source="#ARIE1966 #NagarajaRao1985"><unclear>mī</unclear></rdg></app>putasa 
+	  hathilasa 
+	  <app><lem
+	     source="#ARIE1966">nā</lem><rdg 
+	     source="#NagarajaRao1985 #Sarma1993">na</rdg></app>ṭikāya
+	  bu<app><lem
+	     source="#ARIE1966 #NagarajaRao1985">dha</lem><rdg
+	     source="#Sarma1993">ddha</rdg></app>se<app><lem
+	     source="#ARIE1966 #Sarma1993">niyāna</lem><rdg
+	     source="#NagarajaRao1985">ṇiyāṇa</rdg></app>
+	  mu<app><lem
+	     source="#Sarma1993">nāḍi</lem><rdg
+	     source="#NagarajaRao1985">ṇāli</rdg><rdg
+	     source="#ARIE1966">nāḷi</rdg></app>ya-nāṭikāya
+	  <app><lem
+	     source="#ARIE1966 #Sarma1993">pā</lem><rdg
+	     source="#NagarajaRao1985">pa</rdg></app>kārayatiyāya 
+	  govi<app><lem
+	     resp="#AO">da</lem><rdg
+	     source="#Sarma1993">nda</rdg><rdg
+	     source="#ARIE1966 #NagarajaRao1985">dā</rdg></app>siya
+	  <lb n="2"/>
+	  <app><lem 
+	     resp="#AO"><unclear>nāṭ</unclear>i</lem><rdg
+	     source="#Sarma1993">naṭi</rdg><rdg
+	     source="#ARIE1966 #NagarajaRao1985"><gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>i</rdg></app>kāya 
+	  naḍiya<app><lem
+	     source="#ARIE1966">gū</lem><rdg
+	     source="#NagarajaRao1985 #Sarma1993">gu</rdg></app>ḍaputī<app><lem
+	     source="#ARIE1966 #NagarajaRao1985">yā</lem><rdg
+	     source="#Sarma1993">ya</rdg></app>a
+	  <app><lem
+             source="#Sarma1993">a</lem><rdg
+	     source="#ARIE1966 #NagarajaRao1985">ā</rdg></app>ya<app><lem
+	     source="#NagarajaRao1985">dasi</lem><rdg
+	     source="#ARIE1966">dāsi</rdg><rdg
+	     source="#Sarma1993">dāsī</rdg></app><app><lem
+	     source="#ARIE1966 #NagarajaRao1985">ya</lem><rdg
+	     source="#Sarma1993">yaṃ</rdg></app>
+	  <app><lem
+	     source="#ARIE1966 #NagarajaRao1985">na</lem><rdg
+	     source="#Sarma1993">nā</rdg></app>ḍiya-<app><lem
+	     resp="#AO">vaḍu</lem><rdg
+	     source="#ARIE1966 #NagarajaRao1985">vāḷu</rdg><rdg
+	     source="#Sarma1993">vālu</rdg><rdg
+	     source="#Seshadri1972">vādu</rdg></app>kiyāya
+	  mu<app><lem
+	     source="#ARIE1966 #NagarajaRao1985">>gū</lem><rdg
+	     source="#Sarma1993">khu</rdg><rdg
+	     source="#Seshadri1972">gi</rdg></app>di<app><lem
+	     source="#ARIE1966 #NagarajaRao1985">kāya</lem><rdg
+	     source="#Sarma193">ko yaṃ</rdg></app>
 	</p>
       </div>
       <div type="translation">

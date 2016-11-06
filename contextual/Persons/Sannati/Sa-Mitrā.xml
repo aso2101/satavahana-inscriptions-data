@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Mitrā">
+  <sex value="F"/>
+  <persName>Mitrā</persName>
+  <note>gṛhiṇī</note>
+</person>

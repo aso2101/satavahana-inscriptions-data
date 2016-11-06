@@ -9,5 +9,7 @@
     <relation name="parent" active="#Sa-Otika" passive="#Sa-Puruṣadattā"/>
     <!-- from SaB8 !-->
     <relation name="spouse" mutual="#Sa-Mugarakoṇha #Sa-Kāmā"/>
+    <!-- from SaD8c !-->
+    <relation name="spouse" mutual="#Sa-Vīra #Sa-Nāaṇī"/>
   </listRelation>
 </listRelation>

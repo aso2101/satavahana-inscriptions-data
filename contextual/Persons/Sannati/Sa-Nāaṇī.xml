@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Nāaṇī">
+  <sex value="F"/>
+  <persName>Nāaṇī</persName>
+  <occupation key="terms:Vaṇijikā">Merchant-woman</occupation> 
+</person>

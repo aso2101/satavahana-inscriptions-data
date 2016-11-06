@@ -1,0 +1,5 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" xml:id="Sannati">
+    <placeName type="modern" xml:lang="ka-Latn">Beḷvāḍigig</placeName>
+    <geo>77.078563 17.130225</geo>
+    <desc>So called by <ref target="bibl:Ramesh1967">Ramesh 1967</ref>, but seems to be the modern town of Chittapur, east of Shahabad.</desc>
+</place>

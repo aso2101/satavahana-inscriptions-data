@@ -554,6 +554,19 @@
     <publisher>Government of Andhra Pradesh</publisher>
     <date when="1979">1979</date>
   </bibl>
+  <bibl xml:id="Desai1968" type="article">
+    <author>
+      <name>
+	<surname>Desai</surname>
+	<forename>P. B.</forename>
+      </name>
+    </author>
+    <title level="a">A New Buddhist Centre</title>
+    <title level="j">The Journal of Karnatak University: Social Sciences</title>
+    <biblScope unit="vol">4</biblScope>
+    <biblScope unit="pp" from="158" to="163">158–163</biblScope>
+    <date when="1968">1968</date>
+  </bibl>
   <bibl xml:id="HanumathaRao1998" type="book">
     <author>
       <name>

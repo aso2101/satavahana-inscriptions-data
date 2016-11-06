@@ -3,41 +3,39 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaD1">
+     xml:id="SaD7">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati D.1 (of Nāganikā and Girija)</title>
+	<title>Sannati D7</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>SaD1</idno><!-- ID follows Sarma and Rao. !-->
+	<idno>SaD7</idno><!-- ID follows Sarma and Rao. !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier></msIdentifier>
 	  <physDesc>
 	    <supportDesc>
-	      <support>An āyaka-slab, with three caitya window arches
-	      with a railing in front. The upper portion has a
-	      representation of two figures, and the lower part
-	      has a representation of two attendants (one male
-	      and one female).</support>
+	      <support>A slab.</support>
 	    </supportDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Sannati">Sannati</placeName>,
-		in a field halfway between between the Canralāmbā
-		and Durgā temples.
+		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
 	      <origDate
-		  notBefore-custom="0100"
-		  notAfter-custom="0200"
+		  notBefore-custom="-0100"
+		  notAfter-custom="0000"
 		  precision="medium"
-		  evidence="nomenclature">2nd c. CE</origDate>
+		  evidence="paleography">1st c. BCE</origDate>
 	    </origin>
+	    <provenance type="found" subtype="discovered" notAfter="1966">
+	      <p>Discovered in the house of Md. Ali in Sannati village,
+	         paved into the floor at the entrance.</p>
+	    </provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
@@ -45,40 +43,46 @@
   </teiHeader>
   <facsimile>
     <graphic 
-	url="images/SaD1-001.jpg">
-      <desc>Photograph from Annual Report on 
-        Indian Epigraphy 1966-1967.</desc>
-    </graphic>
-    <graphic 
-	url="images/SaD1-seshadri1972-pl19.png">
-      <desc>Photograph from <ref target="bibl:Seshadri1972">Seshadri 1972</ref> plate 19.</desc>
-    </graphic>
-    <graphic 
-	url="images/SaD1-seshadri1972-pl8.png">
-      <desc>Photograph from <ref target="bibl:Seshadri1972">Seshadri 1972</ref> plate 8.</desc>
+	url="images/SaD1-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 22-B.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
-	<div type="commentary" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
-	</div>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>204</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Seshadri1972"/>
+	  <citedRange>pl. 24</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>D7</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>It is not clear to me whether Yakhagharinī is a personal name or a title.</p>
+      </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  ahimarikāya 
-	  <persName key="pers:Nāganikā-1">nāganikāya</persName>
-	  <lb n="2"/>
-	  arikābhātuno
-	  <persName key="pers:Girija">girijagaṇakasa</persName>
+	  ya<app><lem
+	    source="#Sarma1993">kha</lem><rdg
+	    source="#Seshadri1972">khā</rdg><rdg
+	    source="#ARIE1966">kā</rdg></app>ghari<app><lem 
+	    source="#ARIE1966 #Seshadri1972">ni</lem><rdg
+	    source="#Sarma1993">ṇī</rdg></app><app><lem
+	    source="#Sarma1993 #Seshadri1972">ya</lem><rdg
+	    source="#ARIE1966">yā</rdg></app>
 	</p>
       </div>
       <div type="translation">
-	<p>
-	  (Pillar) of <persName key="pers:Nāganikā-1">Nāganikā</persName>
-	  of Ahimarikā and of <persName key="pers:Girija">Girija</persName>,
-	  the accountant, brother of Arika.
-	</p>
+	<p>Of Yakṣagṛhiṇī.</p>
       </div>
     </body>
   </text>

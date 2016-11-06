@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Vīra">
+  <sex value="M"/>
+  <persName>Vīra</persName>
+  <occupation key="terms:Vaṇij">Merchant</occupation> 
+</person>

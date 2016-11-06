@@ -37,17 +37,22 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile></facsimile>
+  <facsimile>
+    <graphic
+	url="images/SaD2-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 22-A.</desc>
+    </graphic>
+  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:ARIE1968">ARIE 1968–1969</ptr>
-	  <citedRange>no. 95</citedRange>
+	  <citedRange>95</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:NagarajaRao1985"/>
-	  <citedRange>no. 16</citedRange>
+	  <citedRange>16</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:Sarma1993"/>
@@ -78,8 +83,8 @@
 	</p>
       </div>
       <div type="translation">
-	<p>Of the banker <persName key="pers:Sa-Sihaḍī">Sihaḍī</persName>
-	   and ... <persName key="pers:Sa-Nandā">Nandā</persName>.
+	<p>Of the gṛhiṇī <persName key="pers:Sa-Sihaḍī">Sihaḍī</persName>
+	   and ... <persName key="pers:Sa-nandā">-nandā</persName>.
 	</p>
       </div>
     </body>
