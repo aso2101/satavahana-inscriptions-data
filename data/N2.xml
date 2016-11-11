@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="N2">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +21,8 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
-		on the back wall of the veranda in Cave No. 3,
+		on the back wall of the veranda in 
+		<placeName key="pl:Nasik-3">Cave No. 3</placeName>,
 		above the entrance.
 	      </origPlace>
 	      <origDate
