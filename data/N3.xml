@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="N3">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,6 +21,7 @@
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		<placeName key="pl:Nasik-3">cave no. 3</placeName>,
 		engraved in continuation of No. 2, from which it is
 		separated only by a Svastika followed by another
 		symbol.
