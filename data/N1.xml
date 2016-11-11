@@ -4,7 +4,6 @@
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xml:id="N1">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +57,7 @@
 	</bibl>
       </div>
       <div type="notes" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	<p>This edition is based on <ref target="bibl:N">Senart 1905–1906</ref>.</p>
       </div>
       <div type="edition" xml:lang="mi-Latn">
 	<p>
