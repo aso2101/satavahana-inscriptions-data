@@ -1,0 +1,6 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Muka">
+  <sex value="M"/>
+  <persName>Muka</persName>
+</person>

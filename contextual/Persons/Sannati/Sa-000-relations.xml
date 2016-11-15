@@ -11,5 +11,7 @@
     <relation name="spouse" mutual="#Sa-Mugarakoṇha #Sa-Kāmā"/>
     <!-- from SaD8c !-->
     <relation name="spouse" mutual="#Sa-Vīra #Sa-Nāaṇī"/>
+    <!-- from SaE1 !-->
+    <relation name="parent" active="#Sa-Serāma" passive="#Sa-Muka"/>
   </listRelation>
 </listRelation>

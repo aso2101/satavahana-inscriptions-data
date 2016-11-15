@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaE1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati E1 (of Muka)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaE1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>Flat slab with a half-lotus medallion and a beaded line border on top.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="0000"
+		  notAfter-custom="0100"
+		  precision="medium">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="transferred"
+			notAfter="1968">
+	      <p>Transferred to the State Museum at <placeName
+	         key="pl:Gulbarga">Gulbarga</placeName> before 1968.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaE1-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 25.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>5</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>E1</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p><ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref> reproduce the text and notes of <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>, with some typographic errors, but then add a slightly different translation. This edition and translation is based on the plate provided by <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>This is one of the few inscriptions from Sannati to use the invocatory phrase <foreign xml:lang="mi-Latn">sidham</foreign>.</p>
+	<p>For <foreign xml:lang="mi-Latn">putana</foreign> read <foreign xml:lang="mi-Latn">putena</foreign>.</p>
+	<p>I suggest that we read <foreign xml:lang="mi-Latn">dovachadako</foreign>, in the meaning of <foreign xml:lang="sa-Latn">dvi-upacchadaka</foreign>, a “double covering” or “double awning.”</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  sidham <persName 
+	    key="pers:Sa-Serāma">serāmasa</persName> pu<app><lem
+	    source="#NagarajaRao1985">ta</lem><rdg
+	    source="#Sarma1993">tā</rdg></app><app><lem
+	    resp="#AO">na</lem><rdg
+	    source="#Sarma1993">naṃ</rdg><rdg
+	    source="#NagarajaRao1985">ṇaṃ</rdg></app>
+	  <lb n="2"/>
+	  <persName key="pers:Sa-Muka">mukena</persName>
+	  kārito dovachada<app><lem 
+	    source="#NagarajaRao1985">ko</lem><rdg
+	    source="#Sarma1993">ke</rdg></app>
+	</p>
+      </div>
+      <div type="translation">
+	<p>Success. This double awning was caused to be made
+	   by <persName key="pers:Sa-Muka">Muka</persName>,
+	   the son of <persName key="pers:Sa-Serāma">Serāma</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
