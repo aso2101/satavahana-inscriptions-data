@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:space="preserve"
+     xml:lang="en"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="SaE7">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati E7 (of Amanikā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaE7</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier></msIdentifier>
+	  <physDesc>
+	    <supportDesc>
+	      <support>
+		<p>A rectangular slab.</p>
+	        <dimensions unit="cm">
+		  <height>45</height>
+		  <width>36</width>
+		  <depth>10</depth>
+		</dimensions>
+	      </support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>.
+	      </origPlace>
+	      <origDate
+		  notBefore-custom="-0100"
+		  notAfter-custom="0000"
+		  precision="medium">1st c. BCE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered" notAfter="1993">
+	      <p>Discovered on the terrace surrounding the 
+	         Candralāmbā Temple (<placeName key="pl:SAN-6">SAN-6</placeName>). Its accession number is 278.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+	url="images/SaE7-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 26.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>E7</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="mi-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Sa-Amanikā">amanikāya</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p>of <persName key="pers:Sa-Amanikā">Amanikā</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
