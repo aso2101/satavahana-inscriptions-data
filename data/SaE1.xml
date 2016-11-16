@@ -31,11 +31,6 @@
 		  notAfter-custom="0100"
 		  precision="medium">1st c. CE</origDate>
 	    </origin>
-	    <provenance type="transferred"
-			notAfter="1968">
-	      <p>Transferred to the State Museum at <placeName
-	         key="pl:Gulbarga">Gulbarga</placeName> before 1968.</p>
-	    </provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
