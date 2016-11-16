@@ -1,3 +1,3 @@
-# srophe-app-data
-Repository for Syriaca.org TEI data, used by srophe-eXist-app. 
+# satavahana-inscriptions-data
+Repository for the TEI data used by satavahana-inscriptions.
 
