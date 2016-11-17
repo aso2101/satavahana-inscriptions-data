@@ -1,0 +1,6 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Sa-Brāhmī">
+  <sex value="F"/>
+  <persName>Brāhmī</persName>
+</person>
