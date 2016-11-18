@@ -4,15 +4,36 @@
         <fulltext default="none" attributes="no"/>
         <!-- Full text search configuration  -->
         <lucene diacritics="no">
-            <!-- Does not currently search tei header info, other then title -->
-            <!-- Should maybe not index placeName, location, state or event?-->
+            <!-- default search  -->
+            <text qname="tei:TEI"/>
             <text qname="tei:text"/>
+            <text qname="tei:p"/>
+            <text qname="tei:head"/>
+            <text qname="tei:lg"/>
+            <text qname="tei:trailer"/>
+            <text qname="tei:l"/>
+            <text qname="tei:quote"/>
+            <text qname="tei:unclear"/>
+            <text qname="tei:supplied"/>
+            <!-- Elements used for translation filter -->
+            <text qname="tei:div"/>
+            <!-- Elements for metadata filter -->
+            <text qname="tei:teiHeader"/>
+            <text qname="tei:bibl"/>
+            <text qname="tei:person"/>
+            <text qname="tei:place"/>
         </lucene>
         
         <!-- Range indexes -->
         <range>
             <create qname="@xml:lang" type="xs:string"/>
             <create qname="@xml:id" type="xs:string"/>
+            <create qname="@type" type="xs:string"/>
+            <create qname="@notAfter-custom" type="xs:gYear"/>
+            <create qname="@notBefore-custom" type="xs:gYear"/>
+            <create qname="tei:title" type="xs:string"/>
+            <create qname="tei:term" type="xs:string"/>
+            <create qname="tei:origDate" type="xs:string"/>
         </range>
     </index>
 </collection>
