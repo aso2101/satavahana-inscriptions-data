@@ -3,15 +3,15 @@
      xml:lang="en"
      xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaE12">
+     xml:id="SaE14">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati E12 (of Bhaṭṭapāla)</title>
+	<title>Sannati E14 (of Sadāśrī)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>SaE12</idno><!-- ID follows Sarma and Rao. !-->
+	<idno>SaE14</idno><!-- ID follows Sarma and Rao. !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -19,7 +19,7 @@
 	  <physDesc>
 	    <supportDesc>
 	      <support>
-		<p>A fragment of limestone.</p>
+		<p>A fragmentary slab set up against the wall of the Devamma Temple.</p>
 	      </support>
 	    </supportDesc>
 	  </physDesc>
@@ -33,8 +33,8 @@
 		  notAfter-custom="0100"
 		  precision="medium">1st c. CE</origDate>
 	    </origin>
-	    <provenance type="found" subtype="discovered" notAfter="1993">
-	      <p>Found in <placeName key="pl:SAN-8">SAN-8</placeName>.</p>
+	    <provenance type="found" subtype="discovered" notAfter="1966">
+	      <p>Found set up against the wall of the temple of Devamma.</p>
 	    </provenance>
 	  </history>
 	</msDesc>
@@ -48,18 +48,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <facsimile>
-    <graphic
-	url="images/SaE12-sarma1993.jpg">
-      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 23-A.</desc>
-    </graphic>
-  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>208</citedRange>
+	</bibl>
+	<bibl>
 	  <ptr target="bibl:Sarma1993"/>
-	  <citedRange>E12</citedRange>
+	  <citedRange>E14</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -68,25 +66,15 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <gap reason="lost"
-	       quantity="unknown"
-	       unit="character"/>rakasa <persName
-	       key="pers:Sa-Bhaṭṭapāla">bhaṭapāla</persName><gap 
-	       reason="lost"
-	       quantity="unknown"
-	       unit="character"/>
-	  <lb n="2"/><gap 
-	       reason="lost"
-	       quantity="unknown"
-	       unit="character"/>samaṇakasa<gap 
-	       reason="lost"
-	       quantity="unknown"
-	       unit="character"/>
+	  <app><lem
+	    source="#ARIE1966"><unclear>sa</unclear></lem><rdg
+	    source="#Sarma1993">sa</rdg></app>dāsiri<app><lem
+	    source="#ARIE1966">yā</lem><rdg
+	    source="#Sarma1993">ya</rdg></app>
 	</p>
       </div>
       <div type="translation">
-	<p>Of <persName key="pers:Sa-Bhaṭṭapāla">Bhaṭṭapāla</persName>
-	   from (Ahimārika?), the monk (śramaṇaka).</p>
+	<p>Of <persName key="pers:Sa-Sadāśrī">Sadāśrī</persName> (?).</p>
       </div>
     </body>
   </text>
