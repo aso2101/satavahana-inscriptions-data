@@ -51,11 +51,11 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  <app><lem wit="#K"><gap
+	  <app><lem source="#K"><gap
 	    reason="lost"
 	    quantity="5"
 	    unit="character"/>maṇayūtāya</lem>
-	    <rdg wit="#AS #CTI"><gap 
+	    <rdg source="#AS #CTI"><gap 
 	      reason="lost"
 	      quantity="4"
 	      unit="character"/><supplied 

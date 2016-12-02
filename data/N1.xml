@@ -62,22 +62,22 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  si<app><lem>dha</lem><rdg wit="#AS">dhaṃ</rdg></app>
+	  si<app><lem>dha</lem><rdg source="#AS">dhaṃ</rdg></app>
 	  raño
 	  <persName key="pers:VpŚrīPuḷumāvi">
-	    vā<app><lem>si</lem><rdg wit="#G #AS">sa</rdg></app>ṭhiputasa
+	    vā<app><lem>si</lem><rdg source="#G #AS">sa</rdg></app>ṭhiputasa
 	    siripuḷumayisa
 	  </persName>
-	  <app><lem>saṃ</lem><rdg wit="#G #AS">sa</rdg></app>vachare
+	  <app><lem>saṃ</lem><rdg source="#G #AS">sa</rdg></app>vachare
 	  <date when-custom="6"
 		datingPoint="pers:VpŚrīPuḷumāvi"
 		datingMethod="regnal">chaṭe 6</date>
-	  gi<app><lem>mha</lem><rdg wit="#AS">ma</rdg></app>pakhe
+	  gi<app><lem>mha</lem><rdg source="#AS">ma</rdg></app>pakhe
 	  pacame 5 divase
 	  <app><lem><gap reason="lost"
 			 quantity="5"
 			 unit="character"/></lem>
-	       <rdg wit="#AS">
+	       <rdg source="#AS">
 		1<gap reason="lost" quantity="1" unit="character"/>
 		po<gap reason="lost" quantity="1" unit="character"/>
 		hi<gap reason="lost" quantity="1" unit="character"/>

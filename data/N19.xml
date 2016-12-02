@@ -71,17 +71,17 @@
 	  <lb n="1"/>
 	  rāyāmaca-<persName key="pers:Arahalaya">arahalayasa</persName>
 	  <placeName key="pl:Calisīlaṇa">ca<app
-	    ><lem wit="#N">lisī</lem>
-	     <rdg wit="#G">līsi</rdg>
-	     <rdg wit="#AS">lisā</rdg>
+	    ><lem source="#N">lisī</lem>
+	     <rdg source="#G">līsi</rdg>
+	     <rdg source="#AS">lisā</rdg>
 	    </app>laṇakasa</placeName> duhutuya 
 	  <persName key="pers:Hakusiri">mahāhakusi<lb n="2" break="no"/><app
-	    ><lem wit="#N">r<gap
+	    ><lem source="#N">r<gap
 	        reason="lost"
 		quantity="2"
 		unit="character"/>ya</lem>
-	     <rdg wit="#G">rirāya</rdg>
-	     <rdg wit="#AS">ri<supplied reason="lost">yā</supplied>yaya</rdg>
+	     <rdg source="#G">rirāya</rdg>
+	     <rdg source="#AS">ri<supplied reason="lost">yā</supplied>yaya</rdg>
 	  </app></persName>
 	  <persName key="pers:Bhaṭṭapālikā">bhaṭapālikāya</persName>
 	  rāyāmacasa <persName key="pers:Agiyataṇaka">agiyataṇakasa</persName>

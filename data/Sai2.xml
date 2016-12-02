@@ -53,31 +53,31 @@
 	  <lb n="1"/>
 	  sidhaṃ
 	  <lb n="2"/>
-	  therānaṃ bha<app><lem wit="#Kosambi1955">yaṃ</lem><rdg
-	    wit="#DasGupta1949"></rdg></app>ta-<persName
+	  therānaṃ bha<app><lem source="#Kosambi1955">yaṃ</lem><rdg
+	    source="#DasGupta1949"></rdg></app>ta-<persName
 	    key="pers:BhSiṃha">sihāṇa</persName>
 	  ate-āsiṇiya
 	  <lb n="3"/>
 	  pāvaïti<app><lem
-	    wit="#DasGupta1949">rā<note xml:lang="en">correction by the editor of EI.</note></lem><rdg
-	    wit="#DasGupta1949 #Kosambi1955">kā</rdg></app>ya
+	    source="#DasGupta1949">rā<note xml:lang="en">correction by the editor of EI.</note></lem><rdg
+	    source="#DasGupta1949 #Kosambi1955">kā</rdg></app>ya
 	  <persName key="pers:Ghaürā"><app><lem
-	    wit="#Kosambi1955">ghaürāya</lem><rdg
-	wit="#DasGupta1949">ghapa<unclear>rā</unclear>ya</rdg></app></persName>
+	    source="#Kosambi1955">ghaürāya</lem><rdg
+	source="#DasGupta1949">ghapa<unclear>rā</unclear>ya</rdg></app></persName>
 	  bālikāā
 	  <persName key="pers:Saṃghā">saghāya</persName>
 	  <persName key="pers:Budhā">budhā<lb n="4"
 	    break="no"/>a</persName> ca cetiyagharo
 	  deyadha<unclear>ṃ</unclear>ma mātā-pita <app><lem
-	    wit="#DasGupta1949">u</lem><rdg
-	    wit="#Kosambi1955">ū</rdg></app>disa saha <unclear>ca</unclear>
+	    source="#DasGupta1949">u</lem><rdg
+	    source="#Kosambi1955">ū</rdg></app>disa saha <unclear>ca</unclear>
 	  sa<lb n="5" break="no"/>vehi bhi<app><lem
-	    wit="#Kosambi1955">khu</lem><rdg
-	    wit="#DasGupta1949">khā</rdg></app>-kulehi sa<app><lem
-	    wit="#Kosambi1955">ha</lem><rdg
-	    wit="#DasGupta1949">hā</rdg></app> ca
-	  ācari<app><lem wit="#Kosambi1955">ve</lem><rdg
-	    wit="#DasGupta1949"><unclear>ye</unclear></rdg></app>hi bhatavireyehi sa<lb n="6" break="no"/>māpito
+	    source="#Kosambi1955">khu</lem><rdg
+	    source="#DasGupta1949">khā</rdg></app>-kulehi sa<app><lem
+	    source="#Kosambi1955">ha</lem><rdg
+	    source="#DasGupta1949">hā</rdg></app> ca
+	  ācari<app><lem source="#Kosambi1955">ve</lem><rdg
+	    source="#DasGupta1949"><unclear>ye</unclear></rdg></app>hi bhatavireyehi sa<lb n="6" break="no"/>māpito
 	</p>
       </div>
       <div type="translation" xml:lang="en">

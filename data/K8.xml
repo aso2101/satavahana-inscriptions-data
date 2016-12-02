@@ -51,51 +51,51 @@
 	<p>
 	  <lb n="1"/>
 	    <placeName key="pl:Śūrpāraka">sopārakā</placeName>
-	    bhaya<app><lem wit="#K">tānaṃ</lem>
-	              <rdg wit="#AS #CTI">tāna</rdg>
+	    bhaya<app><lem source="#K">tānaṃ</lem>
+	              <rdg source="#AS #CTI">tāna</rdg>
 		  </app>
-	    dhamu<app><lem wit="#K">tari</lem>
-	              <rdg wit="#AS #CTI">tara</rdg>
+	    dhamu<app><lem source="#K">tari</lem>
+	              <rdg source="#AS #CTI">tara</rdg>
 		 </app><lb n="2" break="no"/>yāna 
-	    sa<app><lem wit="#K"><gap reason="lost"
+	    sa<app><lem source="#K"><gap reason="lost"
 	                              quantity="1"
 				      unit="character"/></lem>
-	           <rdg wit="#AS #CTI">mā</rdg>
-	      </app>nathasa therasa<app><lem wit="#K"
+	           <rdg source="#AS #CTI">mā</rdg>
+	      </app>nathasa therasa<app><lem source="#K"
 	      ><gap reason="lost" quantity="1" unit="character"/></lem>
-	      <rdg wit="#CTI">ma</rdg><rdg wit="#AS">a</rdg></app>
+	      <rdg source="#CTI">ma</rdg><rdg source="#AS">a</rdg></app>
 	  <lb n="3"/>
-	    bha<app><lem wit="#K"><gap reason="lost"
+	    bha<app><lem source="#K"><gap reason="lost"
 	                               quantity="2"
 				       unit="character"/>
 	            </lem>
-		    <rdg wit="#AS #CTI">tula</rdg></app>sa
+		    <rdg source="#AS #CTI">tula</rdg></app>sa
 	    aṃtevāsisa bhāna<lb n="4" break="no"/>kasa
-	    na<app><lem wit="#K"><gap reason="lost"
+	    na<app><lem source="#K"><gap reason="lost"
 	                              quantity="1"
 				      unit="character"/>pat<gap 
 				      reason="lost"
 				      quantity="1"
 				      unit="character"/>sa</lem>
-		   <rdg wit="#AS">dipatisa</rdg>
-		   <rdg wit="#CTI">dāputisa</rdg>
+		   <rdg source="#AS">dipatisa</rdg>
+		   <rdg source="#CTI">dāputisa</rdg>
 	      </app> 
 	      <persName key="pers:Svātimitra">sātimitasa</persName>
 	  <lb n="5"/>
-	    saha <app><lem wit="#K"
+	    saha <app><lem source="#K"
 	           ><gap reason="lost"
 	                  quantity="3"
 			  unit="character"/>t<unclear>i</unclear>hi</lem>
-	               <rdg wit="#CTI"><supplied reason="lost">matapi</supplied>tuya</rdg>
-		       <rdg wit="#CTI"><gap reason="lost"
+	               <rdg source="#CTI"><supplied reason="lost">matapi</supplied>tuya</rdg>
+		       <rdg source="#CTI"><gap reason="lost"
 	                                    quantity="3"
 					    unit="character"/>tiga</rdg>
 		       <note xml:lang="en"><p>Senart suggests the reading
 		         <foreign xml:lang="mi-Latn"><supplied reason="lost">matapi</supplied>tihi</foreign>.</p></note>
 		 </app> <supplied reason="lost">tha</supplied>bho
-	  dānamu<app><lem wit="#K">kha</lem>
-	             <rdg wit="#CTI">la</rdg>
-		     <rdg wit="#AS"><gap reason="lost" unit="character" quantity="1"/></rdg>
+	  dānamu<app><lem source="#K">kha</lem>
+	             <rdg source="#CTI">la</rdg>
+		     <rdg source="#AS"><gap reason="lost" unit="character" quantity="1"/></rdg>
 		</app>
 	</p>
       </div>

@@ -51,8 +51,8 @@
 	  <lb n="2"/>
 	  <persName key="pers:Rāmaṇaka-2">rāmaṃṇakasa</persName> leṇam
 	  deya<app
-	    ><lem wit="#N">dhaṃmaṃ</lem>
-	     <rdg wit="#G">dhamaṃ</rdg>
+	    ><lem source="#N">dhaṃmaṃ</lem>
+	     <rdg source="#G">dhamaṃ</rdg>
 	  </app>
 	</p> 
       </div>

@@ -54,34 +54,34 @@
 	    when-custom="7"
 	    datingPoint="pers:GpŚrīyajñaSātakarṇi"
 	    datingMethod="regnal"><app
-	    ><lem wit="#N">saṃvachare</lem>
-	     <rdg wit="#G #AS">savachare</rdg>
+	    ><lem source="#N">saṃvachare</lem>
+	     <rdg source="#G #AS">savachare</rdg>
 	    </app> sātame 7</date> hematāṇa pakhe tatiye 3 
 	  <lb n="2"/>
 	  divase <app
-	    ><lem wit="#N">pathame</lem>
-	     <rdg wit="#G">padhame</rdg>
-	     <rdg wit="#AS">paṭhame</rdg>
+	    ><lem source="#N">pathame</lem>
+	     <rdg source="#G">padhame</rdg>
+	     <rdg source="#AS">paṭhame</rdg>
 	    </app> kosikasa mahāseṇāpatisa 
 	   <persName key="pers:Bhavagopa">bhavagopasa</persName> bharijāya
 	   mahā<app
-	     ><lem wit="#N">seṇāpatiṇiya</lem>
-	      <rdg wit="#AS">senāpatiniya</rdg>
+	     ><lem source="#N">seṇāpatiṇiya</lem>
+	      <rdg source="#AS">senāpatiniya</rdg>
 	     </app> <persName key="pers:Vāsu">vāsuya</persName> leṇa
 	   <lb n="3"/>
 	   <persName key="pers:Bopaki">bopaki</persName>yatisujamāna 
 	   apa<app
-	     ><lem wit="#N">yavasita</lem>
-	      <rdg wit="#AS">yavesita</rdg>
+	     ><lem source="#N">yavasita</lem>
+	      <rdg source="#AS">yavesita</rdg>
 	     </app>sa<app
-	     ><lem wit="#N">māne ba</lem>
-	      <rdg wit="#G #AS">māṇasa pa</rdg>
+	     ><lem source="#N">māne ba</lem>
+	      <rdg source="#G #AS">māṇasa pa</rdg>
 	    </app>hukāṇi varisāṇi ukute <app
-	     ><lem wit="#N">payavasāṇa</lem>
-	      <rdg wit="#AS">payavasāne</rdg>
+	     ><lem source="#N">payavasāṇa</lem>
+	      <rdg source="#AS">payavasāne</rdg>
 	     </app> <app
-	     ><lem wit="#N">nito</lem>
-	      <rdg wit="#G">nīte</rdg>
+	     ><lem source="#N">nito</lem>
+	      <rdg source="#G">nīte</rdg>
 	     </app>
 	   cātudi<lb n="4" break="no"/>sasa ca
 	   bhikhusaghasa āvāso dato ti

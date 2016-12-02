@@ -53,8 +53,8 @@
 	  <lb n="1"/>
 	  <persName key="pers:Bhadrasama">bhadasamasa</persName>
 	  bhikhusa 
-	  deyadha<app><lem wit="#K">maṃ</lem><rdg wit="#AS #CTI">ma</rdg></app>
-	  mithū<app><lem wit="#K">naṃ</lem><rdg wit="#AS #CTI">na</rdg></app>
+	  deyadha<app><lem source="#K">maṃ</lem><rdg source="#AS #CTI">ma</rdg></app>
+	  mithū<app><lem source="#K">naṃ</lem><rdg source="#AS #CTI">na</rdg></app>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

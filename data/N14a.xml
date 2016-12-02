@@ -62,27 +62,27 @@
 	    netyakesu
 	  <lb n="3"/>
 	  <app>
-	    <lem wit="#N"><gap reason="lost"
+	    <lem source="#N"><gap reason="lost"
 	                       quantity="7"
 	                       unit="character"/>
 	      cechiṃñe</lem>
-	    <rdg wit="#AS"><gap reason="lost"
+	    <rdg source="#AS"><gap reason="lost"
 				quantity="5"
 				unit="character"/>
 	      <supplied reason="lost">śorpāra</supplied>ge
 	      veciṃñe</rdg>
 	  </app>
 	    <placeName key="pl:Dāhanukā">dāhanūkāna<app
-	      ><lem wit="#N">gara</lem>
-	       <rdg wit="#AS #G">gare</rdg>
+	      ><lem source="#N">gara</lem>
+	       <rdg source="#AS #G">gare</rdg>
 	    </app></placeName>
 	    <placeName key="pl:Kekāpura">kekāpure</placeName>
 	  <lb n="4"/>
 	  <app>
-	    <lem wit="#N"><gap reason="lost"
+	    <lem source="#N"><gap reason="lost"
 			       quantity="8"
 			       unit="character"/>?e</lem>
-	    <rdg wit="#G #AS"><gap reason="lost"
+	    <rdg source="#G #AS"><gap reason="lost"
 				   quantity="4"
 				   unit="character"/>
 	      <supplied reason="lost">bharuka</supplied>che</rdg>
@@ -94,33 +94,33 @@
 	  <gap reason="lost"
 	       quantity="9"
 	       unit="character"/>to brāhmaṇā <app
-	     ><lem wit="#N">bhujate</lem>
-	      <rdg wit="#G">bhuṃjate</rdg></app> satasāha<lb n="6" break="no"/>
+	     ><lem source="#N">bhujate</lem>
+	      <rdg source="#G">bhuṃjate</rdg></app> satasāha<lb n="6" break="no"/>
 	  <app>
-	    <lem wit="#N">
+	    <lem source="#N">
 	      <gap reason="lost"
 		   quantity="8"
 		   unit="character"/>vatā
 	    </lem>
-	    <rdg wit="#G">
+	    <rdg source="#G">
 	      <gap reason="lost"
 		   quantity="4"
 		   unit="character"/><supplied
 	           reason="lost">bhagavatāṃ</supplied>
 	    </rdg>
-	    <rdg wit="#AS">
+	    <rdg source="#AS">
 	      <supplied reason="lost">rī</supplied>
 	      <gap reason="lost"
 		   quantity="10"/>
 	    </rdg>
 	  </app> brāhmaṇānaṃ gavāṃ satasa<lb n="7" break="no"/>
 	  <app>
-	    <lem wit="#N">
+	    <lem source="#N">
 	      <gap reason="lost"
 		   quantity="9"
 		   unit="character"/> bhagavatā
 	    </lem>
-	    <rdg wit="#G #AS">
+	    <rdg source="#G #AS">
 	      <supplied reason="lost">hasra</supplied>
 	      <gap reason="lost"
 		   quantity="7"
@@ -133,24 +133,24 @@
 	       quantity="9"
 	       unit="character"/>
 	    cetrasudhe pana<app>
-	      <lem wit="#N">rasa</lem>
-	      <rdg wit="#G">rase</rdg>
+	      <lem source="#N">rasa</lem>
+	      <rdg source="#G">rase</rdg>
 	    </app> kṣaharā<lb n="9" break="no"/>
 	    <gap reason="lost"
 	         quantity="10"
 	         unit="character"/>
 	    gavāṃ <app
-	      ><lem wit="#N"><gap reason="lost" quantity="1" unit="character"/>ta</lem>
-	       <rdg wit="#G #AS">śata</rdg>
+	      ><lem source="#N"><gap reason="lost" quantity="1" unit="character"/>ta</lem>
+	       <rdg source="#G #AS">śata</rdg>
 	    </app>sahasradena 
 	    <persName key="pers:Uṣavadāta">uṣa</persName><lb n="10" break="no"/>
 	  <app>
-	    <lem wit="#N">
+	    <lem source="#N">
 	      <gap reason="lost"
 		   quantity="12"
 		   unit="character"/>
 	    </lem>
-	    <rdg wit="#G">
+	    <rdg source="#G">
 	      <supplied reason="lost">vadātena</supplied>
 	      <gap reason="lost"
 		   quantity="6"
@@ -160,30 +160,30 @@
 		   quantity="5"
 		   unit="character"/>
 	    </rdg>
-	  </app> nadī<app><lem wit="#N">ye</lem><rdg wit="#AS">ya</rdg></app>
+	  </app> nadī<app><lem source="#N">ye</lem><rdg source="#AS">ya</rdg></app>
 	    <placeName key="pl:Bārṇāsā">baṇā<app
-	      ><lem wit="#N">saya</lem>
-	       <rdg wit="#G #AS">sāya</rdg>
+	      ><lem source="#N">saya</lem>
+	       <rdg source="#G #AS">sāya</rdg>
 	    </app></placeName> da<lb n="11" break="no"/>
 	  <gap reason="lost"
 	       quantity="10"
 	       unit="character"/>
 	  <app>
-	    <lem wit="#N">suvaṇa ti</lem>
-	    <rdg wit="#AS">vaṇāti</rdg>
+	    <lem source="#N">suvaṇa ti</lem>
+	    <rdg source="#AS">vaṇāti</rdg>
 	  </app>tha
 	  <app>
-	    <lem wit="#N">ce ñayate</lem>
-	    <rdg wit="#G">ca ñāyate</rdg>
+	    <lem source="#N">ce ñayate</lem>
+	    <rdg source="#G">ca ñāyate</rdg>
 	  </app> tasa
 	  <lb n="12"/>
 	  <app>
-	    <lem wit="#N">
+	    <lem source="#N">
 	      <gap reason="lost"
 		   quantity="21"
 		   unit="character"/>
 	    </lem>
-	    <rdg wit="#G">
+	    <rdg source="#G">
 	      <gap reason="lost"
 		   quantity="10"
 		   unit="character"/>cati

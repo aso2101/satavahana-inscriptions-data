@@ -68,33 +68,33 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  si<app><lem>ddhaṃ ra</lem><rdg wit="#G">ddha ra</rdg></app>ño
-	  vāsi<app><lem>ṭhī</lem><rdg wit="#G #AS">ṭhi</rdg></app>putasa
+	  si<app><lem>ddhaṃ ra</lem><rdg source="#G">ddha ra</rdg></app>ño
+	  vāsi<app><lem>ṭhī</lem><rdg source="#G #AS">ṭhi</rdg></app>putasa
 	  <persName key="pers:VpŚrīPuḷumāvi">siri-puḷumāyisa</persName>
-	  <app><lem>savī</lem><rdg wit="#G">sava</rdg>
-	                      <rdg wit="#AS">saṃva</rdg></app>chare
+	  <app><lem>savī</lem><rdg source="#G">sava</rdg>
+	                      <rdg source="#AS">saṃva</rdg></app>chare
 	  ekunavise
 	  <date when-custom="19" 
 		datingPoint="pers:VpŚrīPuḷumāvi"
 		datingMethod="regnal">19</date>
-	  gimhā<app><lem>ṇa</lem><rdg wit="#G #AS">na</rdg></app>
+	  gimhā<app><lem>ṇa</lem><rdg source="#G #AS">na</rdg></app>
 	  pakhe bitīye 2 divase terase 13 rājaraño 
 	  <persName key="pers:GpŚrīSātakarṇi">gotamīputasa</persName>
 	  himavata-meru<lb n="2" break="no"/>madara-pavatasamasārasa
 	  <placeName key="pl:Ṛṣika">asika</placeName
 	  ><placeName key="pl:Aśmaka">a<app><lem>saka</lem>
-	              <rdg wit="#G">sika</rdg></app></placeName
-	  ><placeName key="pl:Mulaka"><app><lem>muḷa</lem><rdg wit="#G">susa</rdg></app>ka</placeName
+	              <rdg source="#G">sika</rdg></app></placeName
+	  ><placeName key="pl:Mulaka"><app><lem>muḷa</lem><rdg source="#G">susa</rdg></app>ka</placeName
           ><placeName key="pl:Surāṣṭra">suraṭha</placeName
 	  ><placeName key="pl:Kukura">kukur</placeName
 	  ><placeName key="pl:Aparānta">āpa<app
-	    ><lem>raṃ</lem><rdg wit="#G">rā</rdg></app>ta</placeName
+	    ><lem>raṃ</lem><rdg source="#G">rā</rdg></app>ta</placeName
 	  ><placeName key="pl:Anupa">anupa</placeName
 	  ><placeName key="pl:Vidarbha">vidabha</placeName
 	  ><placeName key="pl:Ākarāvantī">ākarāvati</placeName>rājasa
 	  <placeName key="pl:Vindhya"
 	    >vijha</placeName>-chavata-<placeName key="pl:Pārijāta"
-	    ><app><lem>pāricā</lem><rdg wit="#AS">parivā</rdg></app
+	    ><app><lem>pāricā</lem><rdg source="#AS">parivā</rdg></app
 	    >ta</placeName>-<placeName key="pl:Sahya"
 	    >sahya</placeName>-<placeName key="pl:Kṛṣṇagiri"
 	    >kaṇhagiri</placeName>-maca-siriṭana-<placeName key="pl:Malaya"
@@ -107,7 +107,7 @@
 	     <note xml:lang="en">
 	       <p>The character <em>lo</em> is all but clear.</p>
 	     </note>
-	  </app>ka<app><lem>ma</lem><rdg wit="#AS">maṃ</rdg></app>ḍalapatigahītasāsanasa
+	  </app>ka<app><lem>ma</lem><rdg source="#AS">maṃ</rdg></app>ḍalapatigahītasāsanasa
 	  divasakara<app
 	    >
 	     <lem>ka</lem>
@@ -118,9 +118,9 @@
 	  tisamudatoyapītavāhanasa
 	  paṭipuṇacadamaḍalasasirīka<lb n="4" break="no"/>piyadasanasa
 	  varavāraṇavikamacāruvikamasa
-	  bhujagapatibhogapīna<app><lem>vā</lem><rdg wit="#G #AS">va</rdg></app>ṭa-vipuladīghasuda<supplied reason="lost">ra</supplied>bhujasa
+	  bhujagapatibhogapīna<app><lem>vā</lem><rdg source="#G #AS">va</rdg></app>ṭa-vipuladīghasuda<supplied reason="lost">ra</supplied>bhujasa
 	  abhayodakadānakilinanibhayakarasa
-	  avipanamātu<app><lem>sasū</lem><rdg wit="#G">susu</rdg></app>sākasa
+	  avipanamātu<app><lem>sasū</lem><rdg source="#G">susu</rdg></app>sākasa
 	  suvibhatativagadesakālasa
           <lb n="5"/>
 	  porajananivisesasamasukhadukhasa
@@ -136,27 +136,27 @@
 	  dhamapajitakaraviniyogakarasa
 	  kitāparādhe pi satujane apāṇahisārucisa
 	  dijāvarakuṭubavivadha<lb n="6" break="no"/>nasa
-	  khakharāta<app><lem>va</lem><rdg wit="#AS">vaṃ</rdg></app>saniravasesakarasa
-	  sātavāhanakulayasapati<app><lem>thā</lem><rdg wit="#AS">ṭhā</rdg></app>panakarasa
-	  sava<app><lem>ma</lem><rdg wit="#AS">maṃ</rdg></app>ḍalābhivāditaca<supplied reason="lost">ra</supplied>ṇasa
+	  khakharāta<app><lem>va</lem><rdg source="#AS">vaṃ</rdg></app>saniravasesakarasa
+	  sātavāhanakulayasapati<app><lem>thā</lem><rdg source="#AS">ṭhā</rdg></app>panakarasa
+	  sava<app><lem>ma</lem><rdg source="#AS">maṃ</rdg></app>ḍalābhivāditaca<supplied reason="lost">ra</supplied>ṇasa
 	  vinivatitacātuvaṇasakarasa
 	  anekasamarāvajitasatusaghasa
-	  aparājitavijayapatākasatujanadupadha<app><lem>sa</lem><rdg wit="#AS">sasa</rdg></app>nīya<lb n="7" break="no"/>puravarasa
+	  aparājitavijayapatākasatujanadupadha<app><lem>sa</lem><rdg source="#AS">sasa</rdg></app>nīya<lb n="7" break="no"/>puravarasa
 	  kulapurisaparaparāgatavipularājasadasa
-	  āgamā<app><lem>na</lem><rdg wit="#G">naṃ</rdg></app>
+	  āgamā<app><lem>na</lem><rdg source="#G">naṃ</rdg></app>
 	  nilayasa sapurisānaṃ asayasa sirīy[a] adhiṭhānasa
-	  upacārā<app><lem>na</lem><rdg wit="#G">naṃ</rdg></app>
+	  upacārā<app><lem>na</lem><rdg source="#G">naṃ</rdg></app>
 	  pabhavasa ekakusasa ekadhanudharasa
-	  <app><lem>ekasūrasa</lem><rdg wit="#AS"></rdg></app> ekabamhaṇasa
-	  rāma<lb n="8" break="no"/>kesavājunabhīmasenatulapa<app><lem>ra</lem><rdg wit="#AS">rā</rdg></app>kamasa
-	  chaṇa<app><lem>gha</lem><rdg wit="#G">ya</rdg></app>nusavasamājakārakasa
-	  <app><lem>nā</lem><rdg wit="#AS">na</rdg></app>bhāganahusajanamejayasakarayayātirāmābarīsasamatejasa
-	  aparimitam akhayam acitam abhu<app><lem>ta</lem><rdg wit="#G">taṃ</rdg></app>
-	  pavanagaru<app><lem>ḷa</lem><rdg wit="#G">ḍa</rdg></app>sidhayakharakhasavijādharabhūtagadhavacāraṇa<lb n="9" break="no"/>cadadivākaranakhatagahaviciṇasamarasirasi
-	  jitaripusaghasa <app><lem>nā</lem><rdg wit="#G">ṇa</rdg><rdg wit="#AS">na</rdg></app>gavarakhadhā
+	  <app><lem>ekasūrasa</lem><rdg source="#AS"></rdg></app> ekabamhaṇasa
+	  rāma<lb n="8" break="no"/>kesavājunabhīmasenatulapa<app><lem>ra</lem><rdg source="#AS">rā</rdg></app>kamasa
+	  chaṇa<app><lem>gha</lem><rdg source="#G">ya</rdg></app>nusavasamājakārakasa
+	  <app><lem>nā</lem><rdg source="#AS">na</rdg></app>bhāganahusajanamejayasakarayayātirāmābarīsasamatejasa
+	  aparimitam akhayam acitam abhu<app><lem>ta</lem><rdg source="#G">taṃ</rdg></app>
+	  pavanagaru<app><lem>ḷa</lem><rdg source="#G">ḍa</rdg></app>sidhayakharakhasavijādharabhūtagadhavacāraṇa<lb n="9" break="no"/>cadadivākaranakhatagahaviciṇasamarasirasi
+	  jitaripusaghasa <app><lem>nā</lem><rdg source="#G">ṇa</rdg><rdg source="#AS">na</rdg></app>gavarakhadhā
 	  gaganatalam abhivigāḍhasa kulavipulasirikarasa
 	  <persName key="pers:GpŚrīSātakarṇi">sirisātakaṇisa</persName> mātuya
-	  mahāde<app><lem>vī</lem><rdg wit="#AS">vi</rdg></app>ya 
+	  mahāde<app><lem>vī</lem><rdg source="#AS">vi</rdg></app>ya 
 	  gotamiya <persName key="pers:Balaśrī">balasirīya</persName>
 	  sacavacanadānakha<app
 	    >
@@ -164,33 +164,33 @@
 	     <note xml:lang="en">
 	       <p><em>ā</em> seems at least doubtful.</p>
 	     </note>
-          </app><app><lem>hi</lem><rdg wit="#G">hiṃ</rdg></app>sāniratāya
+          </app><app><lem>hi</lem><rdg source="#G">hiṃ</rdg></app>sāniratāya
 	  tapadamaniya<lb n="10" break="no"/>mopavāsataparāya
-	  rājarisiva<app><lem>dhu</lem><rdg wit="#AS">dhū</rdg></app>sadam
+	  rājarisiva<app><lem>dhu</lem><rdg source="#AS">dhū</rdg></app>sadam
 	  akhilam anuvidhīyamānāya kārita deyadhama
 	  <supplied reason="lost">kelāsa</supplied>pa<supplied reason="lost">vata</supplied>sikharasadise
 	  <placeName key="pl:Tiraṇhu">tiraṇhu</placeName>pavatasikhare
 	  vi<supplied reason="lost">māna</supplied> varanivisesamahiḍhīka
 	  leṇa eta ca leṇa mahādevī mahārājamātā
-	  mahārāja<app><lem><supplied reason="lost">pi</supplied></lem><rdg wit="#G">pa</rdg></app>tāmahī
-	  dadāti nikāyasa bhadāva<app><lem>nī</lem><rdg wit="#G #AS">ni</rdg></app>yā<app><lem>naṃ</lem><rdg wit="#G #AS">na</rdg></app> 
-	  bhikhu<app><lem>sa</lem><rdg wit="#G">saṃ</rdg></app>ghasa
+	  mahārāja<app><lem><supplied reason="lost">pi</supplied></lem><rdg source="#G">pa</rdg></app>tāmahī
+	  dadāti nikāyasa bhadāva<app><lem>nī</lem><rdg source="#G #AS">ni</rdg></app>yā<app><lem>naṃ</lem><rdg source="#G #AS">na</rdg></app> 
+	  bhikhu<app><lem>sa</lem><rdg source="#G">saṃ</rdg></app>ghasa
           <lb n="11"/>
 	  etasa ca leṇasa
-	  cita<app><lem>ṇa</lem><rdg wit="#AS">nā</rdg></app>nimita
-	  mahādevīya ayakāya se<app><lem>va</lem><rdg wit="#G">vā</rdg></app>kāmo
+	  cita<app><lem>ṇa</lem><rdg source="#AS">nā</rdg></app>nimita
+	  mahādevīya ayakāya se<app><lem>va</lem><rdg source="#G">vā</rdg></app>kāmo
 	  piyakāmo ca 
 	  <app><lem
 	    >ṇat<supplied reason="lost">ā</supplied>
 	         <gap reason="lost" unit="character" quantity="6"/>
-	  </lem><rdg wit="#AS">ṇa<supplied reason="lost">tā</supplied>
+	  </lem><rdg source="#AS">ṇa<supplied reason="lost">tā</supplied>
 	         <gap reason="lost" unit="character" quantity="4"/>
 		 <supplied reason="lost">dakhiṇā</supplied>
-	  </rdg></app> pa<app><lem>the</lem><rdg wit="#AS">ṭhi</rdg></app>saro
+	  </rdg></app> pa<app><lem>the</lem><rdg source="#AS">ṭhi</rdg></app>saro
 	  pitupatiyo dhamasetusa dadāti 
-	  gā<app><lem>ma</lem><rdg wit="#AS">maṃ</rdg></app> tiraṇhupavatasa
+	  gā<app><lem>ma</lem><rdg source="#AS">maṃ</rdg></app> tiraṇhupavatasa
 	  aparadakhiṇapase 
-	  <placeName key="pl:Pisājīpadaka"><app><lem>pisājī</lem><rdg wit="#AS">pisāci</rdg></app>padakaṃ</placeName>
+	  <placeName key="pl:Pisājīpadaka"><app><lem>pisājī</lem><rdg source="#AS">pisāci</rdg></app>padakaṃ</placeName>
 	  savajātabhoganirathi.
         </p>
       </div>

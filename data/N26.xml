@@ -50,22 +50,22 @@
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ śakasa <app
-	    ><lem wit="#N">dāma</lem>
-	     <rdg wit="#G">dama</rdg>
+	    ><lem source="#N">dāma</lem>
+	     <rdg source="#G">dama</rdg>
 	    </app>cikasa
 	  lekhakasa vudhikasa 
 	  <lb n="2"/>
 	  viṣṇudata<app
-	    ><lem wit="#N">putasa</lem>
-	     <rdg wit="#G">putrasa</rdg>
+	    ><lem source="#N">putasa</lem>
+	     <rdg source="#G">putrasa</rdg>
 	    </app>
 	  daśapuravāthavasa leṇa po<lb n="3" break="no"/>dhiyo
-	  ca <app><lem wit="#N">do </lem>
-	          <rdg wit="#G">de </rdg>
+	  ca <app><lem source="#N">do </lem>
+	          <rdg source="#G">de </rdg>
 	     </app> 2 ato ekā podhi yā 
-	     <app><lem wit="#N">aparadha sa</lem>
-	          <rdg wit="#G">apara esa</rdg>
-		  <rdg wit="#AS">apara<supplied reason="lost">dhā</supplied></rdg>
+	     <app><lem source="#N">aparadha sa</lem>
+	          <rdg source="#G">apara esa</rdg>
+		  <rdg source="#AS">apara<supplied reason="lost">dhā</supplied></rdg>
 	     </app> me mātā
 	  <lb n="4"/>
 	  <gap 

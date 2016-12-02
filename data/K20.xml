@@ -69,12 +69,12 @@
 	<p>
 	  <lb n="1"/>
 	    si<app>
-	        <lem wit="#K">dha</lem>
-	        <rdg wit="#CTI">dhaṃ</rdg>
+	        <lem source="#K">dha</lem>
+	        <rdg source="#CTI">dhaṃ</rdg>
 	      </app> 
 	    ra<app>
-	        <lem wit="#K">ño</lem>
-		<rdg wit="#AS">ṇo</rdg>
+	        <lem source="#K">ño</lem>
+		<rdg source="#AS">ṇo</rdg>
 	      </app>
 	    <persName key="pers:VpŚrīPuḷumāvi">vāsiṭhiputasa
 	      siri-puḷumāvisa</persName>
@@ -83,8 +83,8 @@
 		  datingMethod="regnal">savacchare
 	      catuvise 24</date>
 	    he<app>
-	        <lem wit="#K">maṃ</lem>
-		<rdg wit="#CTI #AS">ma</rdg>
+	        <lem source="#K">maṃ</lem>
+		<rdg source="#CTI #AS">ma</rdg>
 	      </app>tāna pakhe tatiye 3 divase
 	    bi<lb n="2" break="no"/>tiye 2 upāsakasa
 	    <persName key="pers:Harapharaṇa">harapharaṇasa</persName>
@@ -92,9 +92,9 @@
 	    so<unclear>va</unclear>sakasya
 	    <placeName key="pl:Abulāmā">abulāmāya</placeName>
 	    vathavasya ima deyadhama
-	    ma<app><lem wit="#K">ḍa</lem><rdg wit="#CTI #AS">ṭa</rdg></app>po
+	    ma<app><lem source="#K">ḍa</lem><rdg source="#CTI #AS">ṭa</rdg></app>po
 	  <lb n="3"/>
-	    nava<app><lem wit="#K">gabha</lem><note xml:lang="en"
+	    nava<app><lem source="#K">gabha</lem><note xml:lang="en"
 	      ><p>The <foreign xml:lang="mi-Latn">bh</foreign> has a 
 	          vertical stroke at the top, which is so pronounced that
 		  I am doubtful we we ought not to read 
@@ -103,44 +103,44 @@
 		  <foreign xml:lang="mi-Latn">-puttasya</foreign> and
 		  <foreign xml:lang="mi-Latn">sovasakasya</foreign>
 		  would have to be compared. (Senart)</p></note></app>
-	     māhāsaghiyā<app><lem wit="#K">naṃ</lem>
-	                     <rdg wit="#AS">na</rdg></app>
-	     pariga<app><lem wit="#K">ho</lem><rdg wit="#AS #CTI">he</rdg></app>
+	     māhāsaghiyā<app><lem source="#K">naṃ</lem>
+	                     <rdg source="#AS">na</rdg></app>
+	     pariga<app><lem source="#K">ho</lem><rdg source="#AS #CTI">he</rdg></app>
 	     saghe cātudise di<app
-	       ><lem wit="#K">na</lem>
-	        <rdg wit="#CTI">naṃ</rdg>
+	       ><lem source="#K">na</lem>
+	        <rdg source="#CTI">naṃ</rdg>
 	       </app><app
-	       ><lem wit="#K"><gap reason="lost"
+	       ><lem source="#K"><gap reason="lost"
 	                           quantity="1"
 	                           unit="character"/></lem>
-	        <rdg wit="#CTI"></rdg>
+	        <rdg source="#CTI"></rdg>
 	      </app>
 	      mātāpitu<app
-	        ><lem wit="#K">naṃ pu</lem>
-	         <rdg wit="#AS #CTI">na pū</rdg>
+	        ><lem source="#K">naṃ pu</lem>
+	         <rdg source="#AS #CTI">na pū</rdg>
 	      </app>jā savasatānaṃ 
 	      hitasagha<app
-	        ><lem wit="#K">sthataye</lem>
-	         <rdg wit="#CTI">sṭhataya</rdg>
-		 <rdg wit="#AS">sthataya</rdg>
+	        ><lem source="#K">sthataye</lem>
+	         <rdg source="#CTI">sṭhataya</rdg>
+		 <rdg source="#AS">sthataya</rdg>
 	      </app> 
-	      ĕka<app><lem wit="#K">vise</lem>
-	              <rdg wit="#CTI">visa</rdg>
-		      <rdg wit="#AS">tise</rdg></app>
+	      ĕka<app><lem source="#K">vise</lem>
+	              <rdg source="#CTI">visa</rdg>
+		      <rdg source="#AS">tise</rdg></app>
 	      sa<lb n="4" break="no"/>vachare niṭhito
-	      sa<app><lem wit="#K">he</lem><rdg wit="#CTI">ha</rdg></app>ta
+	      sa<app><lem source="#K">he</lem><rdg source="#CTI">ha</rdg></app>ta
 	      ca me puna
 	      <persName key="pers:Buddharakṣita">budharakhitena</persName>
 	      mātara 
-	      <app><lem wit="#K">casya</lem><rdg wit="#AS">khiā</rdg></app>
-	      upāsi<app><lem wit="#K">kā</lem><note xml:lang="en"
+	      <app><lem source="#K">casya</lem><rdg source="#AS">khiā</rdg></app>
+	      upāsi<app><lem source="#K">kā</lem><note xml:lang="en"
 	        ><p>The <foreign xml:lang="mi-Latn">kā</foreign> is very
 	            indistinct. (Senart)</p>
 		  </note></app>
 	      <persName key="pers:Buddharakṣita">budharakhitasa</persName>
 	      mā<supplied reason="lost">tu deya</supplied><app
-	        ><lem wit="#K">dhaṃma</lem>
-	         <rdg wit="#CTI #AS">dhama</rdg>
+	        ><lem source="#K">dhaṃma</lem>
+	         <rdg source="#CTI #AS">dhama</rdg>
 	      </app> <unclear>pāṭho</unclear>
 	      a<unclear>no</unclear>
 	</p>

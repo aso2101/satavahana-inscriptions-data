@@ -68,7 +68,7 @@
 	  <lb n="1"/>
 	  raño 
 	  <persName key="pers:VpŚrīPuḷumāvi"><app
-	     ><lem wit="#K">vā</lem><rdg wit="#AS">va</rdg></app>siṭhiputasa
+	     ><lem source="#K">vā</lem><rdg source="#AS">va</rdg></app>siṭhiputasa
 	     sāmisirip<supplied reason="lost">ulumāyi</supplied>s<supplied
 	       reason="lost">a</supplied></persName>
 	  <date when-custom="7"
@@ -78,26 +78,26 @@
 	  <lb n="2"/>
 	  <unclear>d</unclear>ivase pathame etāya puvāya
 	  okhaḷakiyāna 
-	  mahāra<app><lem wit="#K">thi</lem><rdg wit="#CTI">ṭhi</rdg></app>sa
+	  mahāra<app><lem source="#K">thi</lem><rdg source="#CTI">ṭhi</rdg></app>sa
 	  kosikiputasa <persName key="pers:KpMitradeva">mitadeva</persName>
 	  putena
 	  <lb n="3"/>
 	  <supplied reason="lost">ma</supplied>hārathinā vāsiṭhiputena
 	  <persName key="pers:VpSomadeva">somadevena</persName> gāmo dato
 	  <placeName key="pl:Valūraka">valura<app
-	    ><lem wit="#K">ka</lem>
-	     <rdg wit="#AS">kā</rdg></app></placeName><app
-	    ><lem wit="#K">sa</lem>
-	     <rdg wit="#AS">saṃ</rdg></app>ghasa
+	    ><lem source="#K">ka</lem>
+	     <rdg source="#AS">kā</rdg></app></placeName><app
+	    ><lem source="#K">sa</lem>
+	     <rdg source="#AS">saṃ</rdg></app>ghasa
 	  <placeName key="pl:Valūraka">va<app
-	    ><lem wit="#K">lu</lem>
-	     <rdg wit="#AS">lū</rdg>
+	    ><lem source="#K">lu</lem>
+	     <rdg source="#AS">lū</rdg>
 	  </app>raka</placeName>le<app
-	    ><lem wit="#K">nāna</lem>
-	     <rdg wit="#AS">nana</rdg>
+	    ><lem source="#K">nāna</lem>
+	     <rdg source="#AS">nana</rdg>
 	  </app> saka<app
-	    ><lem wit="#N #AS">rukaro</lem>
-	     <rdg wit="#CTI">rakara</rdg>
+	    ><lem source="#N #AS">rukaro</lem>
+	     <rdg source="#CTI">rakara</rdg>
 	  </app> sadeya<lb n="4" break="no"/>meyo
 	</p>
       </div>

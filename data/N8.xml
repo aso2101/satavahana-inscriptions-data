@@ -49,9 +49,9 @@
 	  <lb n="1"/>
 	  dāsakasa
 	  <persName key="pers:Mugūdāsa">mu<app
-	    ><lem>gū</lem><rdg wit="#AS">gu</rdg></app>dāsasa</persName>
-	  saparivārasa le<app><lem>ṇa</lem><rdg wit="#G">ṇaṃ</rdg></app>
-	  deya<app><lem>dha</lem><rdg wit="#G">dhaṃ</rdg></app>ma
+	    ><lem>gū</lem><rdg source="#AS">gu</rdg></app>dāsasa</persName>
+	  saparivārasa le<app><lem>ṇa</lem><rdg source="#G">ṇaṃ</rdg></app>
+	  deya<app><lem>dha</lem><rdg source="#G">dhaṃ</rdg></app>ma
         </p>
       </div>
       <div type="translation" xml:lang="en">

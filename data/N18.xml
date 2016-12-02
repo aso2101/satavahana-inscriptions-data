@@ -50,17 +50,17 @@
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ otarāhasa <placeName key="pl:Dattāmitrī"><app
-	    ><lem wit="#N">dātā</lem>
-	     <rdg wit="#G #AS">daṃtā</rdg>
+	    ><lem source="#N">dātā</lem>
+	     <rdg source="#G #AS">daṃtā</rdg>
            </app>mitiyakasa</placeName> teṇakasa 
 	   <persName key="pers:Dharmadeva">dhaṃmadeva</persName>putasa
 	   <persName key="pers:Indrāgnidatta"><app
-	     ><lem wit="#N">īdrāgni</lem>
-	      <rdg wit="#G">iṃdrāgni</rdg>
-	      <rdg wit="#AS">īdāgni</rdg>
+	     ><lem source="#N">īdrāgni</lem>
+	      <rdg source="#G">iṃdrāgni</rdg>
+	      <rdg source="#AS">īdāgni</rdg>
 	   </app>datasa</persName>
 	   dhaṃmātma<app
-	     ><lem wit="#N">nā</lem>
+	     ><lem source="#N">nā</lem>
 	      <rdg>
 		<note xml:lang="sa">
 		  <p>Senart notes: “The stroke which, rising perpendicularly,
@@ -72,21 +72,21 @@
 	   </app>
 	   <lb n="2"/>
 	   <app>
-	     <lem wit="#N">imaṃ le</lem>
-	     <rdg wit="#G #AS">ima te</rdg>
+	     <lem source="#N">imaṃ le</lem>
+	     <rdg source="#G #AS">ima te</rdg>
 	   </app>ṇaṃ pavate <placeName key="pl:Tiraṇhu">tiraṃṇhumhi</placeName>
 	   khānitaṃ abhaṃtaraṃ ca leṇasa cetiyagharo <app
-	     ><lem wit="#N">poḍhiyo</lem>
-	      <rdg wit="#G">podhiṃyo</rdg>
-	      <rdg wit="#AS">poṃdhiyo</rdg>
+	     ><lem source="#N">poḍhiyo</lem>
+	      <rdg source="#G">podhiṃyo</rdg>
+	      <rdg source="#AS">poṃdhiyo</rdg>
 	   </app> ca mātāpi<lb n="3" break="no"/>taro
 	   udisa ima <app
-	     ><lem wit="#N">leṇa</lem>
-	      <rdg wit="#AS">leṇaṃ</rdg>
+	     ><lem source="#N">leṇa</lem>
+	      <rdg source="#AS">leṇaṃ</rdg>
 	   </app> kāritaṃ sava-budha-pujāya
 	   cātudiśasa <app
-	     ><lem wit="#N">bhikhū</lem>
-	      <rdg wit="#G">bhikhu</rdg>
+	     ><lem source="#N">bhikhū</lem>
+	      <rdg source="#G">bhikhu</rdg>
            </app>saṃghasa niyātitaṃ
 	   sa<lb n="4" break="no"/>ha putena 
 	   <persName key="pers:Dharmarakṣita">dhaṃmarakhitena</persName>

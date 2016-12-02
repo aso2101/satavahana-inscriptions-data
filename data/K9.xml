@@ -53,8 +53,8 @@
 	  <lb n="1"/>
 	    <placeName key="pl:Śūrpāraka">sopārakā</placeName>
 	    bhayaṃtānaṃ dhamutariyā<app
-	      ><lem wit="#K">naṃ</lem>
-	       <rdg wit="#AS #CTI">na</rdg>
+	      ><lem source="#K">naṃ</lem>
+	       <rdg source="#AS #CTI">na</rdg>
 	    </app> bhāṇa<lb n="2" break="no"/>kasa 
 	    <persName key="pers:Svātimitra">sātimitasa</persName>
 	  <lb n="3"/>sasariro thabo dānaṃ

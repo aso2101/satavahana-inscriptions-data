@@ -59,26 +59,26 @@
 	      reason="lost">nī</supplied>ka</persName>pūtena
 	  <persName key="pers:Uṣavadāta">usabhadātena</persName>
 	  <app><lem 
-	      wit="#K">ti</lem><rdg 
-	      wit="#AS">tiṇi</rdg></app><lb n="2" 
+	      source="#K">ti</lem><rdg 
+	      source="#AS">tiṇi</rdg></app><lb n="2" 
 	      break="no"/>gosatasahasa<supplied 
 	      reason="lost">de</supplied>ṇa
 	  <app><lem
-	      wit="#K">na</lem>
-	      <rdg wit="#AS">ṇa</rdg>
+	      source="#K">na</lem>
+	      <rdg source="#AS">ṇa</rdg>
 	  </app>diyā <placeName key="pl:Bārṇāsā">baṇā<app><lem
-	      wit="#K">sāyā</lem>
-	      <rdg wit="#CTI">sayaṃ</rdg>
+	      source="#K">sāyā</lem>
+	      <rdg source="#CTI">sayaṃ</rdg>
 	  </app></placeName>
 	  s<supplied reason="lost">u</supplied>vaṇa<app><lem
-	      wit="#K">tatha</lem>
-	      <rdg wit="#AS #CTI">ratha</rdg>
+	      source="#K">tatha</lem>
+	      <rdg source="#AS #CTI">ratha</rdg>
 	      <note xml:lang="en">Senart notes that the 
 	        <foreign xml:lang="mi-Latn">i</foreign> has
 		been lost in <foreign 
 		xml:lang="mi-Latn">titha</foreign>.</note>
 	  </app>karena <app><lem
-	      wit="#K"><gap reason="lost"
+	      source="#K"><gap reason="lost"
 	      quantity="3"
 	      unit="character"/></lem>
 	      <note xml:lang="en">The restoration
@@ -87,8 +87,8 @@
 		at Nasik.</note>
 	  </app> 
 	  brahma<app><lem
-	      wit="#K">ṇana</lem>
-	      <rdg wit="#CTI #AS">ṇāṇa<supplied reason="lost">ṃ</supplied></rdg>
+	      source="#K">ṇana</lem>
+	      <rdg source="#CTI #AS">ṇāṇa<supplied reason="lost">ṃ</supplied></rdg>
 	  </app> ca soḷa<supplied 
 	      reason="lost">sa</supplied>gā<lb n="3" break="no"/>ma<supplied
 	      reason="lost">d</supplied>e<gap reason="lost"
@@ -96,36 +96,36 @@
 	      unit="character"/>
 	  <placeName key="pl:Prabhāsa">pabhāse</placeName>
 	  <app><lem
-	      wit="#K">pūta</lem>
-	      <rdg wit="#AS">puña</rdg>
+	      source="#K">pūta</lem>
+	      <rdg source="#AS">puña</rdg>
 	  </app>tithe brahmaṇāṇa aṭhabhāyā<app><lem
-	      wit="#K">p<supplied 
+	      source="#K">p<supplied 
 	      reason="lost">r</supplied>a<gap
 	      reason="lost"
 	      quantity="2"
 	      unit="character"/><supplied
 	      reason="lost">a</supplied>nuvāsaṃ
-	  pi tu</lem><rdg wit="#CTI">pradena
+	  pi tu</lem><rdg source="#CTI">pradena
 	      gāvasāpi tri</rdg>
 	      <note xml:lang="en">The restoration
 	        <foreign xml:lang="mi-Latn">pradena</foreign>
 		is quite certain (Senart).</note>
 	  </app>
 	  sata<app><lem
-	      wit="#K">sahasaṃ bho</lem>
-	      <rdg wit="#AS">sāhasi<unclear>bho</unclear></rdg>
+	      source="#K">sahasaṃ bho</lem>
+	      <rdg source="#AS">sāhasi<unclear>bho</unclear></rdg>
 	  </app><lb n="4" break="no"/>japayita 
 	  <placeName key="pl:Valūraka">valūrakesu</placeName> 
 	  leṇavā<app><lem
-	      wit="#K">sinaṃ</lem>
-	      <rdg wit="#AS #CTI">sāna</rdg>
+	      source="#K">sinaṃ</lem>
+	      <rdg source="#AS #CTI">sāna</rdg>
 	  </app> pavajitānaṃ <gap reason="lost"
 	      quantity="1"
 	      unit="character"/>cātudisasa saghasa
 	  <lb n="5"/>yāpaṇatha gāmo 
 	  <placeName key="pl:Karajika"><supplied 
 	      reason="lost">kā</supplied><app><lem
-	      wit="#K">r<supplied
+	      source="#K">r<supplied
 	      reason="lost">a</supplied></lem>
 	      <note xml:lang="en">The <foreign 
 	      xml:lang="mi-Latn">ra</foreign> would
@@ -133,10 +133,10 @@
 	      xml:lang="mi-Latn">ā</foreign> or <foreign 
 	      xml:lang="mi-Latn">o</foreign>.</note>
 	  </app>jiko</placeName> dato <app><lem
-	     wit="#K">sa<gap reason="lost" quantity="1" 
+	     source="#K">sa<gap reason="lost" quantity="1" 
 	     gunit="character"/>na<gap reason="lost" quantity="3" 
 	     unit="character"/>vāsitānaṃ</lem>
-	     <rdg wit="#AS #CTI">savāna vāsavāsitānaṃ</rdg>
+	     <rdg source="#AS #CTI">savāna vāsavāsitānaṃ</rdg>
 	  </app>
 	</p>
       </div>

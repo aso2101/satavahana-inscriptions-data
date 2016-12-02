@@ -52,10 +52,10 @@
 	    <gap reason="lost"
 		 quantity="unknown"
 		 unit="character"/><unclear>ḍ</unclear>ibuci <persName
-		 key="pers:Am-Śrīvādi">sirivādiyasa</persName> puto<app><lem wit="#Chandra1919"><gap
+		 key="pers:Am-Śrīvādi">sirivādiyasa</persName> puto<app><lem source="#Chandra1919"><gap
 		 reason="lost"
 		 quantity="1"
-		 unit="character"/></lem><rdg wit="#ed"><unclear>śa</unclear></rdg></app>lama
+		 unit="character"/></lem><rdg resp="#AO"><unclear>śa</unclear></rdg></app>lama
 	</p>
       </div>
       <div type="translation" xml:lang="en">

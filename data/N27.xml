@@ -45,15 +45,15 @@
 	  <lb n="1"/>
 	  sidhaṃ sakaśa
 	    <app>
-	      <lem wit="#N">dāma</lem>
-	      <rdg wit="#G">dama</rdg>
+	      <lem source="#N">dāma</lem>
+	      <rdg source="#G">dama</rdg>
 	      </app>cikasa
 	  <lb n="2"/>
 	  leghakasa vudhikasa 
 	    <app>
-	      <lem wit="#N">poḍhī</lem>
-	      <rdg wit="#G">poḍhi</rdg>
-	      <rdg wit="#AS">podhi</rdg>
+	      <lem source="#N">poḍhī</lem>
+	      <rdg source="#G">poḍhi</rdg>
+	      <rdg source="#AS">podhi</rdg>
 	    </app>
 	</p>
       </div>

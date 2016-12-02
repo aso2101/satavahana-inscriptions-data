@@ -48,20 +48,20 @@
 	  <lb n="1"/>
 	  sidhaṃ 
 	  <persName key="pers:Vīra">viragahapatisa</persName>
-	  nye<app><lem>gamaṃsa</lem><rdg wit="#AS">gamasa</rdg></app>
-	  le<app><lem>ṇaṃ</lem><rdg wit="#G #AS">ṇa</rdg></app>
+	  nye<app><lem>gamaṃsa</lem><rdg source="#AS">gamasa</rdg></app>
+	  le<app><lem>ṇaṃ</lem><rdg source="#G #AS">ṇa</rdg></app>
 	  <lb n="2"/>
-	  deyadhama kuṭumbi<app><lem>ṇiya</lem><rdg wit="#G">niya</rdg></app>
+	  deyadhama kuṭumbi<app><lem>ṇiya</lem><rdg source="#G">niya</rdg></app>
 	  casa 
 	  <persName key="pers:Nandaśrī">nanda<app
 	    ><lem>siriya</lem>
-	     <rdg wit="#AS">sarāya</rdg>
+	     <rdg source="#AS">sarāya</rdg>
 	  </app></persName> ovarako
 	  duhutu<lb n="3" break="no"/>ya
 	  casa <persName key="pers:Puruṣadattā">purisadatāva</persName>
 	  ovarako eva leṇaṃ catugabhaṃ
 	  <lb n="4"/>
-	  <app><lem>ṇi</lem><rdg wit="#G">ni</rdg></app>yuta
+	  <app><lem>ṇi</lem><rdg source="#G">ni</rdg></app>yuta
 	  bhikhusaṃghasa cātudisasa ṇiyācitaṃ
         </p>
       </div>

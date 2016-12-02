@@ -70,9 +70,9 @@
 	  sidhaṃ raño <persName key="pers:VpŚrīPuḷumāvi">vāsiṭhiputasa 
 	  sāmi-siri-pulu<lb n="2" break="no"/>māisa</persName>
 	  saṃvachare 2 hemaṃtā pakhe 4 divase <app
-	    ><lem wit="#N">1</lem>
-	     <rdg wit="#G">6</rdg>
-	     <rdg wit="#AS">8</rdg>
+	    ><lem source="#N">1</lem>
+	     <rdg source="#G">6</rdg>
+	     <rdg source="#AS">8</rdg>
 	   </app>
 	   <lb n="3"/>
 	   etiya puvāya kuṭuṃbikeṇa <persName key="pers:Dhaṇama">dhaṇameṇa</persName> iṇa

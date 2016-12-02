@@ -54,10 +54,10 @@
 	  <lb n="1"/>
 	   <persName key="pers:Āṣāḍhamitrā">asāḍhamitāye</persName>
 	   bhikhuṇi <app>
-	              <lem wit="#K"><gap reason="lost"
+	              <lem source="#K"><gap reason="lost"
 	                                 quantity="1"
 					 unit="character"/></lem>
-		      <rdg wit="#AS #CTI"><supplied reason="lost">ye</supplied></rdg>
+		      <rdg source="#AS #CTI"><supplied reason="lost">ye</supplied></rdg>
 		    </app> dānaṃ
 	</p>
       </div>

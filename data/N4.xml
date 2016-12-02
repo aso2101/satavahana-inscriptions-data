@@ -69,91 +69,91 @@
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ senāye 
-	  ve<app><lem>jayaṃ</lem><rdg wit="#AS">jaya</rdg></app>tiye
+	  ve<app><lem>jayaṃ</lem><rdg source="#AS">jaya</rdg></app>tiye
 	  vijayakhadhāvārā
 	  <placeName key="pl:Govardhana">govadhanasa</placeName>
 	  <placeName key="pl:Beṇākaṭa">benākaṭa<app
 	     ><lem>ka</lem>
-	      <rdg wit="#G #AS">kā</rdg>
+	      <rdg source="#G #AS">kā</rdg>
 	     </app></placeName>svāmi
 	  <persName key="pers:GpŚrīSātakarṇi">gotamiputo 
-	    sirisada<app><lem>ka</lem><rdg wit="#G">kā</rdg></app>ṇi</persName>
+	    sirisada<app><lem>ka</lem><rdg source="#G">kā</rdg></app>ṇi</persName>
 	  <lb n="2"/>
 	  ānapayati <placeName key="pl:Govardhana">govadhane</placeName>
 	  amaca <persName key="pers:Viṣṇupālita">viṇhupāli<app
-	    ><lem>ta</lem><rdg wit="#G #AS">taṃ</rdg></app></persName>
+	    ><lem>ta</lem><rdg source="#G #AS">taṃ</rdg></app></persName>
 	  gāme
 	  <placeName key="pl:Kakhaḍi">aparakakhaḍi<app
 	    ><lem>ye ya</lem>
-	     <rdg wit="#G">yaṃ yaṃ</rdg>
-	     <rdg wit="#AS">ya ya</rdg>
+	     <rdg source="#G">yaṃ yaṃ</rdg>
+	     <rdg source="#AS">ya ya</rdg>
 	  </app></placeName> khetaṃ
 	  <placeName key="pl:Ajakālakiya">ajakālakiyaṃ</placeName>
 	  <persName key="pers:Uṣavadāta"><app
              ><lem>usabhadatena</lem>
-	      <rdg wit="#G">uṣabhadātena</rdg>
+	      <rdg source="#G">uṣabhadātena</rdg>
 	  </app></persName> bhūtaṃ 
-	  nivata<app><lem>na</lem><rdg wit="#AS">ne</rdg></app><lb n="3" break="no"/>satāni 
+	  nivata<app><lem>na</lem><rdg source="#AS">ne</rdg></app><lb n="3" break="no"/>satāni 
 	  be 200 eta amhakheta
-	  nivataṇasa<app><lem>tā</lem><rdg wit="#AS">tāṃ</rdg></app>ni
+	  nivataṇasa<app><lem>tā</lem><rdg source="#AS">tāṃ</rdg></app>ni
 	  be 200 imesa pavajitāna
 	  tekirasi<app
 	     ><lem>ṇa</lem>
-	      <rdg wit="#G">na</rdg>
-	      <rdg wit="#AS">nā</rdg>
+	      <rdg source="#G">na</rdg>
+	      <rdg source="#AS">nā</rdg>
 	  </app> vitarāma etasa casa khetasa parihāra
 	  <lb n="4"/>
 	  vitarāma a<app
 	     ><lem>pavesa</lem>
-	      <rdg wit="#G">apāvesa</rdg>
-	      <rdg wit="#N">apavesaṃ</rdg>
+	      <rdg source="#G">apāvesa</rdg>
+	      <rdg source="#N">apavesaṃ</rdg>
 	  </app> anoma<app
 	     ><lem>sa</lem>
-	      <rdg wit="#AS">saṃ</rdg>
+	      <rdg source="#AS">saṃ</rdg>
 	  </app> aloṇakhādaka
 	  araṭhasavinayaka
-	  savajāta<app><lem>pā</lem><rdg wit="#G">pa</rdg></app>rihārika
+	  savajāta<app><lem>pā</lem><rdg source="#G">pa</rdg></app>rihārika
 	  ca etahi na parihārehi pari<app
 	     ><lem>har<gap reason="lost" quantity="1" unit="character"/>hi</lem>
-	      <rdg wit="#G">harahi</rdg>
-	      <rdg wit="#AS">harīhi</rdg>
+	      <rdg source="#G">harahi</rdg>
+	      <rdg source="#AS">harīhi</rdg>
 	  </app>
 	  <lb n="5"/>
-	  e<app><lem>te</lem><rdg wit="#AS">ta</rdg></app> casa
+	  e<app><lem>te</lem><rdg source="#AS">ta</rdg></app> casa
 	  khetaparihā<app
 	    ><lem>r<gap reason="lost" quantity="1" unit="character"/></lem>
-	     <rdg wit="#G #AS">re</rdg>
+	     <rdg source="#G #AS">re</rdg>
 	  </app> ca eta 
 	  niba<app
 	    ><lem>dhāpehi</lem>
-	     <rdg wit="#G #AS">dho lihi</rdg>
+	     <rdg source="#G #AS">dho lihi</rdg>
 	  </app>
 	  <app>
 	    <lem>aviyena</lem>
-	    <rdg wit="#G">suviyeṇa</rdg>
-	    <rdg wit="#AS">aviyeṇa</rdg>
+	    <rdg source="#G">suviyeṇa</rdg>
+	    <rdg source="#AS">aviyeṇa</rdg>
 	  </app>
 	  āṇataṃ amacena
 	  <persName key="pers:Śivagupta">sivagutena</persName>
 	  chato mahāsāmiyehi 
-	  uparakhi<app><lem>to</lem><rdg wit="#G">tā</rdg></app>
+	  uparakhi<app><lem>to</lem><rdg source="#G">tā</rdg></app>
 	  <lb n="6"/>
 	  datā paṭikā <date when-custom="18"
 	                    datingPoint="pers:GpŚrīSātakarṇi"
 			    datingMethod="regnal">savachare <app
 	     ><lem>18</lem>
-	      <rdg wit="#AS">14</rdg>
+	      <rdg source="#AS">14</rdg>
 	      <note xml:lang="en"><p>Corrected to 18
 	        by Bühler in his <hi rend="italics">Die
 	        Indische Inschriften und die Kunstpoesie</hi>.</p></note>
 	  </app></date>
 	  <app
 	      ><lem>vāsapakhe</lem>
-	       <rdg wit="#G">vasāpakhe</rdg>
-	       <rdg wit="#AS">vasapa<supplied reason="lost">khe</supplied></rdg>
+	       <rdg source="#G">vasāpakhe</rdg>
+	       <rdg source="#AS">vasapa<supplied reason="lost">khe</supplied></rdg>
 	  </app> 2 divase 1 
 	  <persName key="pers:Tāpasa">tāpa<app
-	    ><lem>se</lem><rdg wit="#G">sa</rdg></app>na</persName> 
+	    ><lem>se</lem><rdg source="#G">sa</rdg></app>na</persName> 
 	  kaṭā
         </p>
       </div>

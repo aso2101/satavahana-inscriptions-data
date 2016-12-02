@@ -50,23 +50,23 @@
 	  chetika-upāsakiyasa 
 	  <persName key="pers:Mugūdāsa"><app
 	    ><lem>mugū</lem>
-	     <rdg wit="#AS">mūgū</rdg>
+	     <rdg source="#AS">mūgū</rdg>
 	  </app>dāsasa</persName>
-	  saparivārasa le<app><lem>ṇaṃ</lem><rdg wit="#G #AS">ṇa</rdg></app>
+	  saparivārasa le<app><lem>ṇaṃ</lem><rdg source="#G #AS">ṇa</rdg></app>
 	  deyadha<app><lem>ma</lem><note xml:lang="en"><p>Perhaps
 	    <foreign xml:lang="mi-Latn">-dhamo</foreign>, but the 
 	    vowel-mark would then, contrary to use, be attached to the
 	    top of the <foreign xml:lang="mi-Latn">m</foreign>.</p></note>
-	  </app> etasa le<app><lem>ṇa</lem><rdg wit="#AS">na</rdg></app>sa
+	  </app> etasa le<app><lem>ṇa</lem><rdg source="#AS">na</rdg></app>sa
 	  <persName key="pers:Bodhigupta">bodhiguta</persName><lb n="2" break="no"/>
 	  upāsakasa putena
 	  <persName key="pers:Dharmanandin">dhamanaṃdinā</persName>
-	  da<app><lem>taṃ</lem><rdg wit="#AS">ta</rdg></app>
-	  khe<app><lem>taṃ</lem><rdg wit="#G #AS">ta</rdg></app>
+	  da<app><lem>taṃ</lem><rdg source="#AS">ta</rdg></app>
+	  khe<app><lem>taṃ</lem><rdg source="#G #AS">ta</rdg></app>
 	  aparilīya
 	  <placeName key="pl:Kaṇhahini">kaṇhahiniya</placeName>
 	  eto ca khetāto 
-	  <app><lem>cīvarikaṃ</lem><rdg wit="#G #AS">civarika</rdg></app>
+	  <app><lem>cīvarikaṃ</lem><rdg source="#G #AS">civarika</rdg></app>
 	  pavaïtasa
         </p>
       </div>

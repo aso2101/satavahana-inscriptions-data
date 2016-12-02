@@ -59,9 +59,9 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="1"/>
-	  u<app><lem wit="#Kolte1969">pā</lem><rdg wit="#Deo1972">pa</rdg></app>sikāya
+	  u<app><lem source="#Kolte1969">pā</lem><rdg source="#Deo1972">pa</rdg></app>sikāya
 	  <persName key="pers:Pau-Viśvamitrā">visamitāya</persName> 
-	  dāna<app><lem wit="#Deo1972">ṃ</lem><rdg wit="#Kolte1969"></rdg></app>
+	  dāna<app><lem source="#Deo1972">ṃ</lem><rdg source="#Kolte1969"></rdg></app>
 	</p>
       </div>
       <div type="translation">

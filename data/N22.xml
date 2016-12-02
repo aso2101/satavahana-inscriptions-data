@@ -73,14 +73,14 @@
 	<p>
 	  <lb n="1"/>
 	  sādavāhana<app
-	    ><lem wit="#N">kule</lem>
-	     <rdg wit="#AS">kula</rdg>
+	    ><lem source="#N">kule</lem>
+	     <rdg source="#AS">kula</rdg>
 	   </app> <persName key="pers:Kṛṣṇa">kanhe</persName>
 	  rājini <placeName key="pl:Nāsikya">nāsikakena</placeName>
 	  <lb n="2"/>
 	  samaṇena mahāmāteṇa leṇa <app
-	    ><lem wit="#N">kārita</lem>
-	     <rdg wit="#G">kāritaṃ</rdg>
+	    ><lem source="#N">kārita</lem>
+	     <rdg source="#G">kāritaṃ</rdg>
 	    </app>
 	</p>
       </div>

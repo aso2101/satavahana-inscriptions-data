@@ -56,17 +56,17 @@
 	<p>
 	  <lb n="1"/>
 	  si<app>
-	      <lem wit="#K">dhaṃ</lem>
-	      <rdg wit="#CTI #AS">dha</rdg>
+	      <lem source="#K">dhaṃ</lem>
+	      <rdg source="#CTI #AS">dha</rdg>
 	    </app> 
 	  pava<app>
-	        <lem wit="#K">e</lem>
-		<rdg wit="#CTI #AS">ï</rdg>
+	        <lem source="#K">e</lem>
+		<rdg source="#CTI #AS">ï</rdg>
 	      </app>tasa
 	  <persName key="pers:Buddharakṣita">budharakhitasa</persName>
 	  deyadha<app>
-	           <lem wit="#K">ma</lem>
-		   <rdg wit="#CTI #AS">maṃ</rdg>
+	           <lem source="#K">ma</lem>
+		   <rdg source="#CTI #AS">maṃ</rdg>
 		 </app>
 	</p>
       </div>

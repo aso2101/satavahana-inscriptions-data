@@ -50,63 +50,63 @@
 	<p>
 	  <lb n="1"/>
 	    siddha || na<supplied reason="lost">mo</supplied>
-	    bhagavato samasabudhasa <app><lem wit="#Poonacha">adholoka</lem
-	      ><rdg wit="#Falk">śudhalaka</rdg></app
+	    bhagavato samasabudhasa <app><lem source="#Poonacha">adholoka</lem
+	      ><rdg source="#Falk">śudhalaka</rdg></app
 	      >-mahā<lb n="2" break="no"/>
 	    ce<supplied reason="lost">t</supplied>iya
 	    <supplied reason="lost">ra</supplied>ño
 	    <persName key="pers:VpŚrīPuḷumāvi">vā<app
-	      ><lem wit="#Falk">seṭhi</lem>
-	       <rdg wit="#Poonacha">sithī</rdg>
+	      ><lem source="#Falk">seṭhi</lem>
+	       <rdg source="#Poonacha">sithī</rdg>
 	    </app><unclear>p</unclear>uta-siri-pu<app
-	      ><lem wit="#Falk">lu</lem>
-	       <rdg wit="#Poonacha">ḷu</rdg>
+	      ><lem source="#Falk">lu</lem>
+	       <rdg source="#Poonacha">ḷu</rdg>
 	    </app>māvisa</persName>
 	  <lb n="3"/>
 	    savachare <date when-custom="35"
 	                    datingPoint="pers:VpŚrīPuḷumāvi"
 			    datingMethod="regnal">30 5</date>
 	    <unclear>gimhana pakhe</unclear> 2 10 
-	    <placeName key="pl:Koruṅkala"><app><lem wit="#Falk">koruku<unclear>lana</unclear></lem
-	      ><rdg wit="#Poonacha">kotujilāna</rdg></app></placeName>
+	    <placeName key="pl:Koruṅkala"><app><lem source="#Falk">koruku<unclear>lana</unclear></lem
+	      ><rdg source="#Poonacha">kotujilāna</rdg></app></placeName>
 	  <lb n="4"/>
 	    bhikhu<app
-	      ><lem wit="#Poonacha">nīya</lem
-	      ><rdg wit="#Falk">niye</rdg>
+	      ><lem source="#Poonacha">nīya</lem
+	      ><rdg source="#Falk">niye</rdg>
 	    </app> 
 	    <persName key="pers:Dharmaśrī">dhamasiriyāya</persName> a<app
-	      ><lem wit="#Poonacha">gatuko </lem>
-	       <rdg wit="#Falk">khar<unclear>i</unclear>ka</rdg>
+	      ><lem source="#Poonacha">gatuko </lem>
+	       <rdg source="#Falk">khar<unclear>i</unclear>ka</rdg>
 	    </app>pa<app
-	      ><lem wit="#Falk">ṭa</lem>
-	       <rdg wit="#Poonacha">tha <note xml:lang="en">(a typo for ṭa)</note></rdg>
+	      ><lem source="#Falk">ṭa</lem>
+	       <rdg source="#Poonacha">tha <note xml:lang="en">(a typo for ṭa)</note></rdg>
 	      </app>sa<lb n="5" break="no"/>tharo ca deyadhama 
-	    sa<app><lem wit="#Falk">ha a<unclear>māpitu</unclear>hi</lem>
-	           <rdg wit="#Poonacha">hā amāpi hi</rdg></app> saha ca <app
-	      ><lem wit="#Falk">me</lem
-	      ><rdg wit="#Poonacha">mā</rdg>
+	    sa<app><lem source="#Falk">ha a<unclear>māpitu</unclear>hi</lem>
+	           <rdg source="#Poonacha">hā amāpi hi</rdg></app> saha ca <app
+	      ><lem source="#Falk">me</lem
+	      ><rdg source="#Poonacha">mā</rdg>
 	    </app>
 	  <lb n="6"/>
 	    upajā<app
-	      ><lem wit="#Falk">e</lem>
-	       <rdg wit="#Poonacha">tha</rdg>
+	      ><lem source="#Falk">e</lem>
+	       <rdg source="#Poonacha">tha</rdg>
 	    </app>hi bhayata-<persName key="pers:BhVaraṇabhūti">varana<app
-	      ><lem wit="#Falk">bhu</lem>
-	       <rdg wit="#Poonacha">bhū</rdg>
+	      ><lem source="#Falk">bhu</lem>
+	       <rdg source="#Poonacha">bhū</rdg>
 	    </app>tihi</persName> sa<app
-	      ><lem wit="#Falk">ha</lem>
-	       <rdg wit="#Poonacha">hi</rdg>
+	      ><lem source="#Falk">ha</lem>
+	       <rdg source="#Poonacha">hi</rdg>
 	    </app> ca bhayata
 	  <lb n="7"/>
 	    <persName key="pers:BhSiṃha"><unclear>s</unclear>i<app
-	      ><lem wit="#Falk">he</lem>
-	       <rdg wit="#Poonacha">pe</rdg>
+	      ><lem source="#Falk">he</lem>
+	       <rdg source="#Poonacha">pe</rdg>
 	    </app>hi</persName> savasa<app
-	      ><lem wit="#Falk"><unclear>ta</unclear></lem>
-	       <rdg wit="#Poonacha">tā</rdg></app>na
+	      ><lem source="#Falk"><unclear>ta</unclear></lem>
+	       <rdg source="#Poonacha">tā</rdg></app>na
 	    ca hitasu<app
-	      ><lem wit="#Falk">gha</lem>
-	       <rdg wit="#Poonacha">ghā</rdg>
+	      ><lem source="#Falk">gha</lem>
+	       <rdg source="#Poonacha">ghā</rdg>
 	    </app>tha
 	</p>
       </div>

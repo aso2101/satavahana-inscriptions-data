@@ -47,7 +47,7 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  <app><lem wit="#N"><gap reason="lost"
+	  <app><lem source="#N"><gap reason="lost"
 	       quantity="5"
 	       unit="character"/></lem>
 	       <rdg><note xml:lang="en"><p>Senart discerns 
@@ -58,11 +58,11 @@
 	  <gap reason="lost"
 	       quantity="3"
 	       unit="character"/>ni<app
-	    ><lem wit="#N"
+	    ><lem source="#N"
 	      ><gap reason="lost"
 	            quantity="5"
 		    unit="character"/></lem>
-	     <rdg wit="#AS"
+	     <rdg source="#AS"
 	      ><gap reason="lost"
 		    quantity="1"
 		    unit="character"/>e<gap
@@ -70,17 +70,17 @@
 		    quantity="3"
 		    unit="character"/></rdg>
 	    </app><app
-	      ><lem wit="#N #AS">yāva</lem>
-	       <rdg wit="#G">yāca</rdg>
+	      ><lem source="#N #AS">yāva</lem>
+	       <rdg source="#G">yāca</rdg>
 	    </app> <persName key="pers:Nadāśrī"><app
-	      ><lem wit="#N">nadā</lem>
-	       <rdg wit="#G">nada</rdg>
+	      ><lem source="#N">nadā</lem>
+	       <rdg source="#G">nada</rdg>
 	    </app>siriyāva</persName> ca <app
-	      ><lem wit="#N">veikā</lem>
-	       <rdg wit="#G">veyikā</rdg>
+	      ><lem source="#N">veikā</lem>
+	       <rdg source="#G">veyikā</rdg>
 	    </app> yakho ca <app
-	      ><lem wit="#N">kāritā</lem>
-	       <rdg wit="#G">kārito</rdg>
+	      ><lem source="#N">kāritā</lem>
+	       <rdg source="#G">kārito</rdg>
 	    </app>
 	</p> 
       </div>

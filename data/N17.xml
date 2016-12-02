@@ -50,16 +50,16 @@
 	<p>
 	  <lb n="1"/>
 	  <persName key="pers:Velīdāta">ve<app
-	    ><lem wit="#N">līdāta</lem>
-	     <rdg wit="#G">līdata</rdg>
-	     <rdg wit="#AS">lidata</rdg>
+	    ><lem source="#N">līdāta</lem>
+	     <rdg source="#G">līdata</rdg>
+	     <rdg source="#AS">lidata</rdg>
 	  </app></persName>putasa nekamasa
 	  <persName key="pers:Rāmaṇaka">rāmaṇakasa</persName>
 	  <lb n="2"/>
 	  <placeName key="pl:Chākalepa">chākalepakiyasa</placeName>
 	  lenaṃ deyadhaṃmaṃ ca <app
-	    ><lem wit="#N">catu</lem>
-	     <rdg wit="#G #AS">cātu</rdg>
+	    ><lem source="#N">catu</lem>
+	     <rdg source="#G #AS">cātu</rdg>
 	  </app>di<lb n="3" break="no"/>sasa
 	  bhikusaṃghasa niyātitaṃ data ca
 	  <lb n="4"/>

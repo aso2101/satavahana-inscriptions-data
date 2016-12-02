@@ -53,17 +53,17 @@
 	  sidhaṃ rāño kṣaharātasa kṣatrapasa 
 	  <persName key="pers:Nahapāna">nahapāna<lb n="2" break="no"/>sa</persName>
 	  <app>
-	    <lem wit="#N">dīhitu</lem>
-	    <rdg wit="#G">dihitu</rdg>
+	    <lem source="#N">dīhitu</lem>
+	    <rdg source="#G">dihitu</rdg>
 	  </app> <persName key="pers:Dīnīka">dīnīka</persName>putrasa
 	  <persName key="pers:Uṣavadāta">uṣavadātasa</persName>
 	  <lb n="3"/>
 	  <app>
-	    <lem wit="#N">kuḍuṃbiniya</lem>
-	    <rdg wit="#G">kuṭuṃbiniya</rdg>
+	    <lem source="#N">kuḍuṃbiniya</lem>
+	    <rdg source="#G">kuṭuṃbiniya</rdg>
 	  </app>
 	  <persName key="pers:Dakṣamitrā">dakhamitrāya</persName>
-	  deya<app><lem wit="#N">dhaṃmaṃ</lem><rdg wit="#G">dhamaṃ</rdg></app>
+	  deya<app><lem source="#N">dhaṃmaṃ</lem><rdg source="#G">dhamaṃ</rdg></app>
 	  ovarako
 	</p> 
       </div>

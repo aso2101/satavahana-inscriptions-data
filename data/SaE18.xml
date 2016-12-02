@@ -69,11 +69,12 @@
 	  <lb n="1"/>
 	  <persName key="pers:Sa-Śivatanaka">sivata<app><lem
 	    source="#ARIE1966">ṇa</lem><rdg
-	    source="#Sarma1993">na</rdg></app>kasa <app><lem
+	    source="#Sarma1993">na</rdg></app>kasa</persName> <app><lem
 	    source="#ARIE1966"><gap reason="lost"
 	       quantity="unknown"
 	       unit="character"/></lem><rdg
 	    source="#Sarma1993">gaṇakasa</rdg></app>
+
 	</p>
       </div>
       <div type="translation">

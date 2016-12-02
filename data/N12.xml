@@ -51,8 +51,8 @@
 	  <lb n="1"/>
 	    sidhaṃ vase 42 vesākhamase 
 	    <app>
-	      <lem wit="#N">rāño</lem>
-	      <rdg wit="#AS">raño</rdg>
+	      <lem source="#N">rāño</lem>
+	      <rdg source="#AS">raño</rdg>
 	    </app> 
 	    kṣaharātasa kṣatrapasa
 	    <persName key="pers:Nahapāna">nahapānasa</persName>
@@ -60,98 +60,98 @@
 	    <persName key="pers:Uṣavadāta">uṣavadātena</persName>
 	    saṃghasa cātudisasa
 	    <app>
-	      <lem wit="#N">imaṃ leṇaṃ</lem>
-	      <rdg wit="#G #AS">ima leṇa</rdg>
+	      <lem source="#N">imaṃ leṇaṃ</lem>
+	      <rdg source="#G #AS">ima leṇa</rdg>
 	    </app> niyātitaṃ 
 	    <app>
-	      <lem wit="#N">data cānena</lem>
-	      <rdg wit="#G">datā nena</rdg>
-	      <rdg wit="#AS">data canena</rdg>
+	      <lem source="#N">data cānena</lem>
+	      <rdg source="#G">datā nena</rdg>
+	      <rdg source="#AS">data canena</rdg>
 	    </app> akṣayanivi kāhāpaṇasahasrā<lb n="2" break="no"/>ni
 	    trini 3000 saṃghasa cātudisasa ye imasmiṃ leṇe
 	    <app>
-	      <lem wit="#N">vasaṃtānaṃ</lem>
-	      <rdg wit="#G #AS">vasātāna</rdg>
+	      <lem source="#N">vasaṃtānaṃ</lem>
+	      <rdg source="#G #AS">vasātāna</rdg>
 	    </app> bhavisati chivarika 
 	    <app>
-	      <lem wit="#N">kuśaṇamūle</lem>
-	      <rdg wit="#G">kuśaṇamula</rdg>
+	      <lem source="#N">kuśaṇamūle</lem>
+	      <rdg source="#G">kuśaṇamula</rdg>
 	    </app> ca ete ca kāhāpaṇā prayutā
 	    <placeName key="pl:Govardhana">govadhana</placeName>vāthavāsu
 	    <app>
-	      <lem wit="#N">śreṇisu</lem>
-	      <rdg wit="#AS">śreṇīsu</rdg>
+	      <lem source="#N">śreṇisu</lem>
+	      <rdg source="#AS">śreṇīsu</rdg>
 	    </app> 
 	    <app>
-	      <lem wit="#N">kolīka</lem>
-	      <rdg wit="#AS">kolika</rdg>
+	      <lem source="#N">kolīka</lem>
+	      <rdg source="#AS">kolika</rdg>
 	    </app>nikāye 2000 
 	    <app>
-	      <lem wit="#N">vṛdhi</lem>
-	      <rdg wit="#AS">vadhi</rdg>
+	      <lem source="#N">vṛdhi</lem>
+	      <rdg source="#AS">vadhi</rdg>
 	    </app> paḍikaśata apara<app>
-	      <lem wit="#N">kolīka</lem>
-	      <rdg wit="#AS">kolika</rdg>
+	      <lem source="#N">kolīka</lem>
+	      <rdg source="#AS">kolika</rdg>
 	    </app>nikā<lb n="3" break="no"/>ye 1000 vadhi
 	    <app>
-	      <lem wit="#N">pāyūna</lem>
-	      <rdg wit="#G #AS">pāyuna</rdg>
+	      <lem source="#N">pāyūna</lem>
+	      <rdg source="#G #AS">pāyuna</rdg>
 	    </app>paḍikaśata ete ca kāhāpaṇā apaḍidātavā
 	    vadhibhojā eto chivarikasaha<app>
-	      <lem wit="#N">srāni</lem>
-	      <rdg wit="#G">srāṇi</rdg>
+	      <lem source="#N">srāni</lem>
+	      <rdg source="#G">srāṇi</rdg>
 	    </app> be 2000 ye paḍike sate eto mama leṇe
 	    vasavuthāna bhikhunaṃ vīsāya ekīkasa
 	    chivarika bārasaka
 	    <app>
-	      <lem wit="#N">yā</lem>
-	      <rdg wit="#G #AS">ya</rdg>
+	      <lem source="#N">yā</lem>
+	      <rdg source="#G #AS">ya</rdg>
 	    </app> sahasra prayutaṃ
 	    <app>
-	      <lem wit="#N">pāyūna</lem>
-	      <rdg wit="#G #AS">pāyuna</rdg>
+	      <lem source="#N">pāyūna</lem>
+	      <rdg source="#G #AS">pāyuna</rdg>
 	    </app>paḍike śate ato kuśaṇa<lb n="4" break="no"/><app>
-	      <lem wit="#N">mūla</lem>
-	      <rdg wit="#G">mula</rdg>
+	      <lem source="#N">mūla</lem>
+	      <rdg source="#G">mula</rdg>
 	    </app> <placeName key="pl:Kāpurāhāra">kāpurāhāre</placeName> ca
 	    gāme <placeName key="pl:Cikhalapadra">cikhalapadre</placeName>
 	    datāni nāligerāna mulasahasrāni aṭha 8000 eta ca 
 	    <app>
-	      <lem wit="#N">sarva</lem>
-	      <rdg wit="#G">sarvaṃ</rdg>
+	      <lem source="#N">sarva</lem>
+	      <rdg source="#G">sarvaṃ</rdg>
 	    </app>
 	    <app>
-	      <lem wit="#N">srāvita</lem>
-	      <rdg wit="#G">sāvita</rdg>
+	      <lem source="#N">srāvita</lem>
+	      <rdg source="#G">sāvita</rdg>
 	    </app> nigamasabhāya 
 	    <app>
-	      <lem wit="#N">ninadha</lem>
-	      <rdg wit="#G">nībadha</rdg>
+	      <lem source="#N">ninadha</lem>
+	      <rdg source="#G">nībadha</rdg>
 	    </app> ca phalakavāre caritratoti bhūyo nena dataṃ vase 41
 	    kātikaśudhe 
-	    pana<app><lem wit="#N">rasa</lem><rdg wit="#G">rase</rdg></app> 
+	    pana<app><lem source="#N">rasa</lem><rdg source="#G">rase</rdg></app> 
 	    puvāka vase 45 
 	  <lb n="5"/>
 	    panarasa
 	    <app>
-	      <lem wit="#N">niyuta</lem>
-	      <rdg wit="#G">niyutaṃ</rdg>
+	      <lem source="#N">niyuta</lem>
+	      <rdg source="#G">niyutaṃ</rdg>
 	    </app> bhagavatāṃ devānaṃ brāhmaṇānaṃ ca 
-	    karṣāpaṇasaha<app><lem wit="#N">srāṇi</lem><rdg wit="#G">srāni</rdg></app> satari 70000 
-	    paṃca<app><lem wit="#N">triśaka</lem><rdg wit="#G">triṃśaka</rdg></app>
+	    karṣāpaṇasaha<app><lem source="#N">srāṇi</lem><rdg source="#G">srāni</rdg></app> satari 70000 
+	    paṃca<app><lem source="#N">triśaka</lem><rdg source="#G">triṃśaka</rdg></app>
 	    <app>
-	      <lem wit="#N">suvarṇa</lem>
-	      <rdg wit="#G">suvarṇaṃ</rdg>
+	      <lem source="#N">suvarṇa</lem>
+	      <rdg source="#G">suvarṇaṃ</rdg>
 	    </app> kṛtā dina 
 	    suvarṇasaha<app>
-	      <lem wit="#N">sraṇaṃ</lem>
-	      <rdg wit="#G">srāṇaṃ</rdg>
-	      <rdg wit="#AS">sranaṃ</rdg>
+	      <lem source="#N">sraṇaṃ</lem>
+	      <rdg source="#G">srāṇaṃ</rdg>
+	      <rdg source="#AS">sranaṃ</rdg>
 	    </app>
 	    <app>
-	      <lem wit="#N">mūlyaṃ</lem>
-	      <rdg wit="#G">mulyaṃ</rdg>
-	      <rdg wit="#AS">mūla</rdg>
+	      <lem source="#N">mūlyaṃ</lem>
+	      <rdg source="#G">mulyaṃ</rdg>
+	      <rdg source="#AS">mūla</rdg>
 	    </app>
 	  <lb n="6"/>
 	    phalakavāre caritratoti

@@ -51,13 +51,13 @@
 	<p>
 	  <lb n="1"/>
 	  <app>
-	    <lem wit="#N">sīdhaṃ</lem>
-	    <rdg wit="#G #AS">sidhaṃ</rdg>
+	    <lem source="#N">sīdhaṃ</lem>
+	    <rdg source="#G #AS">sidhaṃ</rdg>
 	  </app>
 	  <app>
-	    <lem wit="#N">rāṃño</lem>
-	    <rdg wit="#G">rāño</rdg>
-	    <rdg wit="#AS">raño</rdg>
+	    <lem source="#N">rāṃño</lem>
+	    <rdg source="#G">rāño</rdg>
+	    <rdg source="#AS">raño</rdg>
 	  </app>
 	  kṣaharātasa kṣatrapasa
 	  <persName key="pers:Nahapāna">nahapānasa</persName>
@@ -65,10 +65,10 @@
 	  <persName key="pers:Dīnīka">dīnīka</persName>putrasa
 	  <persName key="pers:Uṣavadāta">uṣavadātasa</persName>
 	  kuḍumbiniya <persName key="pers:Dakṣamitrā">dakha<app
-	    ><lem wit="#N">mitrāya</lem>
-	     <rdg wit="#AS">mitāya</rdg></app></persName>
-	  deya<app><lem wit="#N">dhaṃmaṃ</lem>
-	           <rdg wit="#G">dhammaṃ</rdg></app>
+	    ><lem source="#N">mitrāya</lem>
+	     <rdg source="#AS">mitāya</rdg></app></persName>
+	  deya<app><lem source="#N">dhaṃmaṃ</lem>
+	           <rdg source="#G">dhammaṃ</rdg></app>
 	  ovarako
 	</p> 
       </div>

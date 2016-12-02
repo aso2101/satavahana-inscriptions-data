@@ -53,7 +53,7 @@
 	  siddhaṃ rājñaḥ kṣaharātasya kṣatrapasya 
 	  <persName key="pers:Nahapāna">nahapānasya</persName>
 	  <app>
-	    <lem wit="#N">jāmātrā</lem>
+	    <lem source="#N">jāmātrā</lem>
 	    <note xml:lang="en"><p>Senart: The reading <foreign xml:lang="sa-Latn">trā</foreign> is very distinct; the right side of the t however bears a slight trace of the vowel u, as if the form <foreign xml:lang="sa-Latn">jāmātu</foreign> had been present, along with the form <foreign xml:lang="sa-Latn">jāmātrā</foreign>, in the mind of the writer.</p></note>
 	  </app>
 	  <persName key="pers:Dīnīka">dīnīka</persName>putreṇa 
@@ -62,8 +62,8 @@
 	  <placeName key="pl:Bārṇāsā">bārṇāsāyāṃ</placeName>
 	  survarṇadānatīrthakareṇa devatābhyaḥ brāhmaṇebhyaśca
 	  ṣoḍaśagrāmadena anu<app
-	       ><lem wit="#N">varṣaṃ</lem>
-	        <rdg wit="#AS">varṣa</rdg>
+	       ><lem source="#N">varṣaṃ</lem>
+	        <rdg source="#AS">varṣa</rdg>
           </app> brāhmaṇaśatasāhasrībhojāpayitrā
 	  <lb n="2"/>
 	  <placeName key="pl:Prabhāsa">prabhāse</placeName> puṇyatīrthe
@@ -74,8 +74,8 @@
 	  <placeName key="pl:Śūrpāraka">śorpārage</placeName> ca
 	  catuśālāvasadhapratiśrayapradena 
 	  ārāma<app
-	       ><lem wit="#N">taḍāga</lem>
-	        <rdg wit="#AS">tadāga</rdg>
+	       ><lem source="#N">taḍāga</lem>
+	        <rdg source="#AS">tadāga</rdg>
           </app> udapānakareṇa 
 	  <placeName key="pl:Ibā">ibā</placeName>-<placeName
 	             key="pl:Pārādā">pārādā</placeName>-<placeName
@@ -86,34 +86,34 @@
 	  etāsāṃ ca nadīnāṃ ubhatotīram 
 	  sabhā<lb n="2" break="no"/>prapākareṇa
 	  <placeName key="pl:Piṃḍitakā"><app>
-	    <lem wit="#N">piṃḍi</lem>
-	    <rdg wit="#G">piṃdī</rdg></app>takā</placeName>vaḍe
+	    <lem source="#N">piṃḍi</lem>
+	    <rdg source="#G">piṃdī</rdg></app>takā</placeName>vaḍe
 	  <placeName key="pl:Govardhana">govardhane</placeName>
 	  <placeName key="pl:Survarṇamukha">suvarṇamukhe</placeName>
 	  <placeName key="pl:Śūrpāraka">śorpārage</placeName> ca
 	  <placeName key="pl:Rāmatīrtha">rāmatīrthe</placeName>
 	  carakaparṣabhyaḥ 
 	  <app>
-	    <lem wit="#N">grāme</lem>
-	    <rdg wit="#AS">grāma</rdg>
+	    <lem source="#N">grāme</lem>
+	    <rdg source="#AS">grāma</rdg>
 	  </app> <placeName key="pl:Nānaṃgola">nānaṃgole</placeName>
 	  dvātrīśatanāḷiḡeramūla<app
-	       ><lem wit="#N">sahasrapradena</lem>
-	        <rdg wit="#AS">sahasradena</rdg>
+	       ><lem source="#N">sahasrapradena</lem>
+	        <rdg source="#AS">sahasradena</rdg>
 	  </app> <placeName key="pl:Govardhana">govardhane</placeName>
 	  <placeName key="pl:Tiraṇhu">triraśmiṣu</placeName>
 	  parvateṣu dharmātmanā idaṃ
 	  <app>
-	    <lem wit="#N">leṇaṃ</lem>
-	    <rdg wit="#G #AS">leṇa</rdg>
+	    <lem source="#N">leṇaṃ</lem>
+	    <rdg source="#G #AS">leṇa</rdg>
 	  </app> kāritaṃ imā ca 
 	  <app>
-	    <lem wit="#N">poḍhiyo</lem>
-	    <rdg wit="#AS">podhiyo</rdg>
+	    <lem source="#N">poḍhiyo</lem>
+	    <rdg source="#AS">podhiyo</rdg>
 	  </app> <supplied>||</supplied>
 	  bhaṭārakā 
 	  <app>
-	    <lem wit="#N">aṃñātiyā</lem>
+	    <lem source="#N">aṃñātiyā</lem>
 	    <note xml:lang="en"><p>The syllable <foreign xml:lang="sa-Latn">aṃ</foreign>
 	    (for the <foreign xml:lang="sa-Latn">anusvāra</foreign> 
 	    is qutie visible) has been added between 
@@ -128,9 +128,9 @@
 	    the vowel-mark is not ordinarily, as would here be the
 	    case, placed at the top of the vertical line.</p></note>
 	  </app>
-	  ca gato <app><lem wit="#N">smiṃ</lem><rdg wit="#AS">smi</rdg></app>
+	  ca gato <app><lem source="#N">smiṃ</lem><rdg source="#AS">smi</rdg></app>
 	  <app>
-	    <lem wit="#N">varṣāratuṃ</lem>
+	    <lem source="#N">varṣāratuṃ</lem>
 	    <note xml:lang="en"><p>The <foreign xml:lang="sa-Latn">u</foreign>
 	    is subscribed in two ways, the one very similar to 
 	    <foreign xml:lang="sa-Latn">r</foreign>, as here and in
@@ -140,7 +140,7 @@
 	    <foreign xml:lang="sa-Latn">pitu</foreign>.</p></note>
 	  </app>
 	  <app>
-	    <lem wit="#N">mālehi</lem>
+	    <lem source="#N">mālehi</lem>
 	    <note xml:lang="en"><p>Between 
 	    <foreign xml:lang="sa-Latn">ye</foreign> and 
 	    <foreign xml:lang="sa-Latn">hi</foreign> there is a blank,
@@ -148,50 +148,50 @@
 	    that would have been effaced.</p></note>
 	  </app> rudhaṃ 
 	  utama<app>
-	    <lem wit="#N">bhādraṃ</lem>
-	    <rdg wit="#AS">bhadraṃ</rdg>
+	    <lem source="#N">bhādraṃ</lem>
+	    <rdg source="#AS">bhadraṃ</rdg>
 	  </app> mocayituṃ
 	  <lb n="4"/>
 	  te ca <placeName key="pl:Mālaya">mālaya</placeName> pranādeneva
 	  apayātā utamabhadra<app>
-	    <lem wit="#N">kānaṃ</lem>
-	    <rdg wit="#AS">kānāṃ</rdg>
+	    <lem source="#N">kānaṃ</lem>
+	    <rdg source="#AS">kānāṃ</rdg>
 	  </app> ca kṣatriyānaṃ sarve parigrahā kṛtā
-	  tato <app><lem wit="#N">smiṃ</lem><rdg wit="#AS">smi</rdg></app>
+	  tato <app><lem source="#N">smiṃ</lem><rdg source="#AS">smi</rdg></app>
 	  gato <placeName key="pl:Pokṣara">pokṣarāni</placeName> tatra
 	  ca mayā abhiseko kṛto 
 	  <app>
-	    <lem wit="#N">trīṇi ca</lem>
-	    <rdg wit="#AS">tīṇi</rdg>
+	    <lem source="#N">trīṇi ca</lem>
+	    <rdg source="#AS">tīṇi</rdg>
 	  </app> gosahasrāni datāni 
 	  <app>
-	    <lem wit="#N">grāmo</lem>
-	    <rdg wit="#AS">gāmo</rdg>
+	    <lem source="#N">grāmo</lem>
+	    <rdg source="#AS">gāmo</rdg>
 	  </app> ca <supplied>||</supplied> data
 	  <app>
-	    <lem wit="#N">cānena</lem>
-	    <rdg wit="#G">ca nena</rdg>
+	    <lem source="#N">cānena</lem>
+	    <rdg source="#G">ca nena</rdg>
 	  </app> <app>
-	    <lem wit="#N">kṣetraṃ</lem>
-	    <rdg wit="#AS">kṣstra</rdg>
+	    <lem source="#N">kṣetraṃ</lem>
+	    <rdg source="#AS">kṣstra</rdg>
 	  </app> brāhmaṇasa 
 	  <persName key="pers:Vārāhi">vārāhi</persName>putrasa
 	  <persName key="pers:Aśvibhūti">aśvibhūtisa</persName>
 	  hathe kīṇitā 
 	  <app>
-	    <lem wit="#N">mulena</lem>
-	    <rdg wit="#G #AS">mūlena</rdg>
+	    <lem source="#N">mulena</lem>
+	    <rdg source="#G #AS">mūlena</rdg>
 	  </app> kāhāpaṇasahasrehi catuhi 4000 ya sapitusataka
 	  nagarasīmāya utarāparāya 
 	  <app>
-	    <lem wit="#N">dīsāya</lem>
-	    <rdg wit="#G">disāya</rdg>
+	    <lem source="#N">dīsāya</lem>
+	    <rdg source="#G">disāya</rdg>
 	  </app> eto mama leṇe vasa<lb n="5" break="no"/><app
-	      ><lem wit="#N">tānaṃ</lem>
-	       <rdg wit="#G #AS">tāna</rdg>
+	      ><lem source="#N">tānaṃ</lem>
+	       <rdg source="#G #AS">tāna</rdg>
           </app> cātu<app
-	      ><lem wit="#N">dī</lem>
-	       <rdg wit="#G">di</rdg>
+	      ><lem source="#N">dī</lem>
+	       <rdg source="#G">di</rdg>
 	  </app>sasa bhikhusaghasa mukhāhāro bhavisatī
 	</p> 
       </div>

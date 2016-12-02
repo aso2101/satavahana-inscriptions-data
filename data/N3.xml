@@ -69,20 +69,20 @@
       <div type="edition" xml:lang="mi-Latn">
 	<p>
 	  <lb n="11"/>
-	  si<app><lem>ddha</lem><rdg wit="#AS">ddhaṃ</rdg></app>
+	  si<app><lem>ddha</lem><rdg source="#AS">ddhaṃ</rdg></app>
 	  navanarasvāmī
 	  <persName key="pers:VpŚrīPuḷumāvi">
 	    vāsiṭhīputo 
-	    si<app><lem>ri</lem><rdg wit="#G">rī</rdg></app>puḷumāvi
+	    si<app><lem>ri</lem><rdg source="#G">rī</rdg></app>puḷumāvi
 	  </persName>
 	  ānapayati 
 	  <placeName key="pl:Govardhana">govadhane</placeName>
-	  <roleName key="role:Amātya"><app><lem>ā</lem><rdg wit="#G #AS">a</rdg></app>maca</roleName>
+	  <roleName key="role:Amātya"><app><lem>ā</lem><rdg source="#G #AS">a</rdg></app>maca</roleName>
 	  <lb n="12"/>
 	  <persName key="pers:Śivaskandila">sivakhadila</persName>
 	  <app><lem>ya amhehi</lem>
-	       <rdg wit="#G">na sumepa</rdg>
-	       <rdg wit="#AS">ya amhepa</rdg>
+	       <rdg source="#G">na sumepa</rdg>
+	       <rdg source="#AS">ya amhepa</rdg>
 	  </app>
 	  <date when-custom="19"
 		datingPoint="pers:VpŚrīPuḷumāvi"
@@ -90,8 +90,8 @@
 	  gi pa 2 diva 13
 	  <app
 	     ><lem>benākaṭa</lem>
-	      <rdg wit="#G">dhanaṃkaṭa</rdg>
-	      <rdg wit="#N">dhanakaṭa</rdg>
+	      <rdg source="#G">dhanaṃkaṭa</rdg>
+	      <rdg source="#N">dhanakaṭa</rdg>
 	      <note xml:lang="en" resp="#AO"><p>
 		Senart adopted the reading
 		<foreign xml:lang="mi-Latn">dhanakaṭa</foreign>
@@ -99,15 +99,15 @@
 		reading <foreign xml:lang="mi-Latn">benākaṭa</foreign>,
 		which is adopted here (and in the translation).</p></note>
 	  </app>amanehi
-	  ya etha <app><lem>pavate</lem><rdg wit="#G">pa<unclear>va</unclear>te</rdg></app>
+	  ya etha <app><lem>pavate</lem><rdg source="#G">pa<unclear>va</unclear>te</rdg></app>
 	  tira<app
 	    ><lem><gap reason="lost" quantity="11" unit="character"/></lem>
-	     <rdg wit="#G #AS"><supplied reason="lost">ṇhumi</supplied>
+	     <rdg source="#G #AS"><supplied reason="lost">ṇhumi</supplied>
 	                       <gap reason="lost" quantity="9" unit="character"/></rdg>
 	  </app>na <app
 	    ><lem>na dhavasetusa</lem>
-	     <rdg wit="#G">na etasatasa</rdg>
-	     <rdg wit="#AS">dhavāsetisa</rdg>
+	     <rdg source="#G">na etasatasa</rdg>
+	     <rdg source="#AS">dhavāsetisa</rdg>
 	     <note xml:lang="en"><p>I have no doubt that the 
 	       text really have <foreign xml:lang="mi-Latn">dhama-</foreign>.</p></note>
 	  </app> leṇasa <app
@@ -128,98 +128,98 @@
 	  </app><gap reason="lost" quantity="1" unit="character"/> akhaya
 	  <app
 	    ><lem><gap reason="lost" quantity="2" unit="character"/></lem>
-	     <rdg wit="#G #AS"><supplied reason="lost">nīvī</supplied></rdg>
+	     <rdg source="#G #AS"><supplied reason="lost">nīvī</supplied></rdg>
 	  </app> hetu etha
 	  <placeName key="pl:Govardhana">govadhanāhāre</placeName>
 	  dakhiṇamage gāmo
 	  <placeName key="pl:Sudarśana">
 	  <app
 	    ><lem>sudisaṇā</lem>
-	     <rdg wit="#G"><gap reason="lost" quantity="1" unit="character"/>sudisaṇa</rdg>
-	     <rdg wit="#AS">sadasanā</rdg>
+	     <rdg source="#G"><gap reason="lost" quantity="1" unit="character"/>sudisaṇa</rdg>
+	     <rdg source="#AS">sadasanā</rdg>
 	  </app></placeName>
 	  bhikhuhi devileṇavāsehi nikāyena
-	  bhadāya<app><lem>niyehi</lem><rdg wit="#AS">niyena</rdg></app>
+	  bhadāya<app><lem>niyehi</lem><rdg source="#AS">niyena</rdg></app>
 	  pa<app
 	    ><lem>tigaya</lem>
-	     <rdg wit="#G">tikhaya</rdg> 
-	     <rdg wit="#AS">ṭikhaya</rdg>
-	  </app> da<app><lem>to</lem><rdg wit="#AS">tā</rdg></app>
+	     <rdg source="#G">tikhaya</rdg> 
+	     <rdg source="#AS">ṭikhaya</rdg>
+	  </app> da<app><lem>to</lem><rdg source="#AS">tā</rdg></app>
 	  etasa dānagāmasa 
 	  <placeName key="pl:Sudarśana">sudasanāna</placeName>
 	  parivaṭake etha
 	  <placeName key="pl:Govardhana">govadha<app
 	    ><lem>nahare</lem>
-	     <rdg wit="#AS">nāhāre</rdg></app></placeName>
-	  puva<app><lem>mage</lem><rdg wit="#G">sime</rdg></app>
+	     <rdg source="#AS">nāhāre</rdg></app></placeName>
+	  puva<app><lem>mage</lem><rdg source="#G">sime</rdg></app>
 	  <lb n="13"/>
-	  gā<app><lem>ma</lem><rdg wit="#G #AS">mo</rdg></app>
+	  gā<app><lem>ma</lem><rdg source="#G #AS">mo</rdg></app>
 	  <placeName key="pl:Sāmalipada">samalipada</placeName>
-	  da<app><lem>dā</lem><rdg wit="#G #AS">di</rdg></app>ma 
+	  da<app><lem>dā</lem><rdg source="#G #AS">di</rdg></app>ma 
 	  etata 
-	  ma<app><lem>ha</lem><rdg wit="#G">ā</rdg></app>aïra<app
-	     ><lem>ke</lem><rdg wit="#G #AS">ka</rdg></app>na
-	  o<app><lem>de</lem><rdg wit="#G">dā</rdg></app>na
+	  ma<app><lem>ha</lem><rdg source="#G">ā</rdg></app>aïra<app
+	     ><lem>ke</lem><rdg source="#G #AS">ka</rdg></app>na
+	  o<app><lem>de</lem><rdg source="#G">dā</rdg></app>na
 	  dhamasetusa leṇasa
-	  paṭi<app><lem>sa</lem><rdg wit="#G">saṃ</rdg></app>tharaṇe
-	  akhayanivihe<app><lem>tu</lem><rdg wit="#AS">ta</rdg></app>
+	  paṭi<app><lem>sa</lem><rdg source="#G">saṃ</rdg></app>tharaṇe
+	  akhayanivihe<app><lem>tu</lem><rdg source="#AS">ta</rdg></app>
 	  gāma 
 	  <placeName key="pl:Sāmalipada">sāmalipa<app
-	     ><lem>da</lem><rdg wit="#G">daṃ</rdg></app></placeName>
+	     ><lem>da</lem><rdg source="#G">daṃ</rdg></app></placeName>
 	  bhi<supplied reason="lost">khu</supplied>hi
-	  de<app><lem>vi</lem><rdg wit="#G">vī</rdg></app>leṇa
+	  de<app><lem>vi</lem><rdg source="#G">vī</rdg></app>leṇa
 	  <app
 	      ><lem><gap reason="lost" quantity="5" unit="character"/>ye</lem>
-	       <rdg wit="#G">vā<supplied reason="lost">sehi nikā</supplied>ye</rdg>
-	       <rdg wit="#AS"><supplied reason="lost">vāsehi nikā</supplied>y<supplied reason="lost">e</supplied></rdg>
+	       <rdg source="#G">vā<supplied reason="lost">sehi nikā</supplied>ye</rdg>
+	       <rdg source="#AS"><supplied reason="lost">vāsehi nikā</supplied>y<supplied reason="lost">e</supplied></rdg>
 	  </app>na 
 	  bhadā<app
 	     ><lem>yanayehi</lem>
-	      <rdg wit="#G">yaniyehi</rdg>
-	      <rdg wit="#AS">yanayahi</rdg>
+	      <rdg source="#G">yaniyehi</rdg>
+	      <rdg source="#AS">yanayahi</rdg>
 	  </app> 
 	  pati<app
 	     ><lem>gayha</lem>
-	      <rdg wit="#G">gahya</rdg>
-	      <rdg wit="#AS">khaya</rdg>
+	      <rdg source="#G">gahya</rdg>
+	      <rdg source="#AS">khaya</rdg>
 	  </app> 
 	  <app
 	     ><lem>oyapapehi</lem>
-	      <rdg wit="#G">uyapa<gap reason="lost" extent="unknown" unit="character"/>ehi</rdg>
-	      <rdg wit="#AS">uyapaya ehi</rdg>
+	      <rdg source="#G">uyapa<gap reason="lost" extent="unknown" unit="character"/>ehi</rdg>
+	      <rdg source="#AS">uyapaya ehi</rdg>
 	  </app>
 	  etasa ca gāmasa <placeName key="pl:Sāmalipada"><app
-	     ><lem>sā</lem><rdg wit="#AS">sa</rdg></app>malipadasa</placeName>
-	  bhikhuhalaparihā<app><lem>ra</lem><rdg wit="#G">raṃ</rdg></app>
+	     ><lem>sā</lem><rdg source="#AS">sa</rdg></app>malipadasa</placeName>
+	  bhikhuhalaparihā<app><lem>ra</lem><rdg source="#G">raṃ</rdg></app>
 	  <lb n="14"/>
 	  vitarāma apālasa a<app
-	     ><lem>no</lem><rdg wit="#G">ṇa</rdg></app>masa 
+	     ><lem>no</lem><rdg source="#G">ṇa</rdg></app>masa 
 	  aloṇakhādaka araṭhasavinaka savajātaparihārika ca
 	  etehi na pari<app
-	     ><lem>hā</lem><rdg wit="#AS">ha</rdg></app>rehi
+	     ><lem>hā</lem><rdg source="#AS">ha</rdg></app>rehi
 	  pariha<app
-	     ><lem>re</lem><rdg wit="#AS">rī</rdg></app>hi 
-	  <app><lem>eta</lem><rdg wit="#G">dataṃ</rdg></app> ca gāma 
+	     ><lem>re</lem><rdg source="#AS">rī</rdg></app>hi 
+	  <app><lem>eta</lem><rdg source="#G">dataṃ</rdg></app> ca gāma 
 	  <placeName key="pl:Sāmalipada">sama<app
 	     ><lem>lipada</lem>
-	      <rdg wit="#G">lipadaṃ</rdg>
-	      <rdg wit="#AS">lapada</rdg></app></placeName>
+	      <rdg source="#G">lipadaṃ</rdg>
+	      <rdg source="#AS">lapada</rdg></app></placeName>
 	  pani<app
 	     ><lem>hāre ca</lem>
-	      <rdg wit="#G">hārānaṃ</rdg>
-	      <rdg wit="#AS">hāre ṇa</rdg>
-	  </app> <app><lem>etha</lem><rdg wit="#AS">eṭha</rdg></app>
+	      <rdg source="#G">hārānaṃ</rdg>
+	      <rdg source="#AS">hāre ṇa</rdg>
+	  </app> <app><lem>etha</lem><rdg source="#AS">eṭha</rdg></app>
 	  ni<app
 	     ><lem>badhāpehi 
 	        <placeName 
 		    key="pl:Sudarśana">sud<supplied 
 		    reason="lost">dasa</supplied>na</placeName>
 	      </lem>
-	      <rdg wit="#G">baṃdhāpanaṃ<gap
+	      <rdg source="#G">baṃdhāpanaṃ<gap
 	            reason="lost"
 	            quantity="5"
 		    unit="character"/></rdg>
-	      <rdg wit="#AS">badhala<gap
+	      <rdg source="#AS">badhala<gap
 	            reason="lost"
 		    quantity="3"
 		    unit="character"/>mi<gap
@@ -228,15 +228,15 @@
 		    unit="character"/></rdg>
 	  </app> gāmasa
           ca <placeName key="pl:Sudarśana">sudasanāna</placeName>
-	  viniba<app><lem>dha</lem><rdg wit="#AS"></rdg></app>kārehi 
-	  <app><lem>aṇatā</lem><rdg wit="#G">ānato</rdg></app>
-	  mahāse<app><lem>nā</lem><rdg wit="#AS">na</rdg></app>patinā
+	  viniba<app><lem>dha</lem><rdg source="#AS"></rdg></app>kārehi 
+	  <app><lem>aṇatā</lem><rdg source="#G">ānato</rdg></app>
+	  mahāse<app><lem>nā</lem><rdg source="#AS">na</rdg></app>patinā
 	  <persName key="pers:Medhuna">medhunena</persName>
 	  <app><lem><gap
 			reason="lost"
 			quantity="4"
 			unit="character"/></lem>
-	       <rdg wit="#G">sātakani</rdg>
+	       <rdg source="#G">sātakani</rdg>
 	  </app>nā chato <app
 	     ><lem>baṭikā <gap reason="lost"
 	                             quantity="1" 
@@ -244,46 +244,46 @@
 				     reason="lost"
 				     quantity="2"
 				     unit="character"/>kehi</lem>
-	      <rdg wit="#G">binikaṭavāsakahi</rdg>
-	      <rdg wit="#AS">paṭikā<gap reason="lost" quantity="1"
+	      <rdg source="#G">binikaṭavāsakahi</rdg>
+	      <rdg source="#AS">paṭikā<gap reason="lost" quantity="1"
 	                                unit="character"/>vāsakehi</rdg>
 	  </app> ha<app
 	      ><lem>tha<gap reason="lost" quantity="1" unit="character"/>to</lem>
-	       <rdg wit="#G">thachatā</rdg><rdg wit="#AS">thichatā</rdg>
+	       <rdg source="#G">thachatā</rdg><rdg source="#AS">thichatā</rdg>
 	  </app>
 	  datā <app
 	      ><lem>paṭikā</lem>
-	       <rdg wit="#AS">hiṇa</rdg>
+	       <rdg source="#AS">hiṇa</rdg>
 	     </app> <date when-custom="22"
 	                  datingPoint="pers:GpŚrīSātakarṇi"
 			  datingMethod="regnal">sava 22</date>
 	  gi <app
 	    ><lem>pakhe</lem>
-	     <rdg wit="#G #AS">pa<gap reason="lost" quantity="2" unit="character"/></rdg>
+	     <rdg source="#G #AS">pa<gap reason="lost" quantity="2" unit="character"/></rdg>
 	  </app> <gap reason="lost" quantity="1" unit="character"/> diva 7
 	  <app 
 	    ><lem><supplied reason="lost">sā</supplied>takaṇinā</lem>
-	     <rdg wit="#G">sātakaṇinā</rdg>
-	     <rdg wit="#AS">sā<supplied reason="lost">ta</supplied>kanena</rdg>
+	     <rdg source="#G">sātakaṇinā</rdg>
+	     <rdg source="#AS">sā<supplied reason="lost">ta</supplied>kanena</rdg>
 	  </app> 
 	  kaṭā <placeName key="pl:Govardhana">govadhana</placeName><app
-	     ><lem>vā</lem><rdg wit="#AS">va</rdg></app>thavāna 
+	     ><lem>vā</lem><rdg source="#AS">va</rdg></app>thavāna 
 	  <app><lem>phā<gap reason="lost" quantity="1" unit="character"/>yo</lem>
-	       <rdg wit="#G">phāsukāyam</rdg>
-	       <rdg wit="#AS">phesakaye</rdg>
+	       <rdg source="#G">phāsukāyam</rdg>
+	       <rdg source="#AS">phesakaye</rdg>
 	  </app> <persName key="pers:Viṣṇupāla"><app
 	     ><lem>viṇhu</lem>
-	      <rdg wit="#AS">viṇhu</rdg>
-	      <rdg wit="#G">veṇhu</rdg>
+	      <rdg source="#AS">viṇhu</rdg>
+	      <rdg source="#G">veṇhu</rdg>
 	  </app>pālena</persName>
 	  <app><lem>svāmivaṇaṇaṇata</lem>
-	       <rdg wit="#G">sāmivaṇanāṇata</rdg>
-	       <rdg wit="#AS">sāmivananānata</rdg>
-	  </app> na<app><lem>ma</lem><rdg wit="#G">mo</rdg></app>
+	       <rdg source="#G">sāmivaṇanāṇata</rdg>
+	       <rdg source="#AS">sāmivananānata</rdg>
+	  </app> na<app><lem>ma</lem><rdg source="#G">mo</rdg></app>
 	  <app><lem>bhaga</lem>
-	       <rdg wit="#G">bhaga<supplied reason="omitted">va</supplied
+	       <rdg source="#G">bhaga<supplied reason="omitted">va</supplied
 	  ></rdg></app>tasapatipa<app
-	     ><lem>ta</lem><rdg wit="#G">ti</rdg></app>pasa
+	     ><lem>ta</lem><rdg source="#G">ti</rdg></app>pasa
 	  jinavarasa budhasa
         </p>
       </div>

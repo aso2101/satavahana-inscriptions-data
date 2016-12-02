@@ -59,7 +59,7 @@
 	<ref target="bibl:VaraprasadaRao1995">Varaprasada Rao 1995</ref>.
 	Andrew Ollett, Oskar von Hinüber, and Arlo Griffiths 
 	contributed to the reading and interpretation.</p>
-	<p>We have a portion of a <emph>vasantatilaka</emph> verse.</p>
+	<p>We have a portion of a <hi rend="italic">vasantatilaka</hi> verse.</p>
 	<p>The inscription is notable for being among the earliest
 	inscriptions in Sanskrit, and the earliest inscriptions in
 	verse.</p>
@@ -68,9 +68,9 @@
 	<lg met="vasantatilaka">
 	  <l><lb n="1"/>yas sva<supplied reason="omitted">r</supplied>ggatas samavasṛjya narendralakṣmīṃ<caesura/> 
 	  puttrottame suta-sahasra-samāna-sāre</l>
-	  <l>rā<app><lem wit="#AG">jñāṅ ku</lem><rdg wit="#VPR">ja-kuśa</rdg></app>la-kṣaya-kar<app
-	    ><lem wit="#OVH">ax ku</lem>
-	     <rdg wit="#VPR">aṃ ku</rdg>
+	  <l>rā<app><lem resp="#AG">jñāṅ ku</lem><rdg source="#VPR">ja-kuśa</rdg></app>la-kṣaya-kar<app
+	    ><lem resp="#OVH">ax ku</lem>
+	     <rdg resp="#VPR">aṃ ku</rdg>
 	  </app>la<seg met="+-++"><gap
 	     reason="lost" quantity="unknown" unit="character"/></seg></l>
 	</lg>

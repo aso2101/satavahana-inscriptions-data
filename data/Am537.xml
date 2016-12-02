@@ -55,7 +55,7 @@
 		 quantity="unknown"/>tasa 
 	    <persName key="pers:Am-Likhita">likhitasa</persName> 
 	    thaṃbho bhi<app><lem 
-	      wit="#Chandra1919">da nāpa<unclear>ṭali</unclear>talē</lem><note
+	      source="#Chandra1919">da nāpa<unclear>ṭali</unclear>talē</lem><note
 	      xml:lang="en"><p>The editor (F.W. Thomas) suggests the
 	      reading <foreign xml:lang="sa-Latn">bhikhuṇo pāṭaliputāto</foreign>.</p></note></app><gap
 	      reason="lost"
