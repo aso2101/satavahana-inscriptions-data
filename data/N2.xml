@@ -65,7 +65,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  si<app><lem>ddhaṃ ra</lem><rdg source="#G">ddha ra</rdg></app>ño
@@ -130,7 +130,7 @@
 	     <note xml:lang="en">
 	       <p>The top of the <em>na</em> of <em>dana</em> seems to
 	       bear a horizontal stroke, and I am inclined to think that 
-	       <foreign xml:lang="mi=Latn">madaṇasa</foreign> was intended.</p>
+	       <foreign xml:lang="pra-Latn">madaṇasa</foreign> was intended.</p>
 	     </note>
 	  </app> saka-yavana-palhava-nisūdanasa
 	  dhamapajitakaraviniyogakarasa

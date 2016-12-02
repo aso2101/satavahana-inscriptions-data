@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" xml:lang="sa-Latn">
+      <div type="edition" xml:lang="san-Latn">
 	<div type="introduction" xml:lang="en">
 	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
 	</div>
@@ -67,13 +67,13 @@
 	      ><lem source="#N">navama<gap reason="missing"
 	                                quantity="1"
 					unit="character"/></lem>
-	       <rdg source="#AS">navame <supplied reason="missing">9</supplied> <note xml:lang="en"><p>(reading <foreign xml:lang="sa-Latn">gi</foreign> at the beginning of line 3)</p></note></rdg>
+	       <rdg source="#AS">navame <supplied reason="missing">9</supplied> <note xml:lang="en"><p>(reading <foreign xml:lang="san-Latn">gi</foreign> at the beginning of line 3)</p></note></rdg>
 	       <rdg source="#G">navama <supplied reason="missing">gi</supplied></rdg>
 	  </app>
 	  <lb n="3"/>
 	  mhapakhe cothe 4 divase trayoda<app
 	    ><lem source="#N">śa 13</lem>
-	     <note xml:lang="en"><p>Senart: “Of the <foreign xml:lang="sa-Latn">śa</foreign> and of the number I cannot make out anything.”</p></note>
+	     <note xml:lang="en"><p>Senart: “Of the <foreign xml:lang="san-Latn">śa</foreign> and of the number I cannot make out anything.”</p></note>
 	  </app><gap reason="lost"
 	             quantity="2"
 		     unit="character"/>
@@ -177,14 +177,14 @@
 	                        quantity="5"
 		                unit="character"/></lem>
 	     <note xml:lang="en">
-	       <p>Senart notes that G and AS add fragments of one more line (of which he can discern nothing on the estampages): <foreign xml:lang="sa-Latn">sya ma</foreign> (AS <foreign xml:lang="sa-Latn">mā</foreign>) . . . . <foreign xml:lang="sa-Latn">sarva</foreign> (AS <foreign xml:lang="sa-Latn">sarva[ṃ]</foreign>) <foreign xml:lang="sa-Latn">rakṣāti</foreign> (AS <foreign xml:lang="sa-Latn">rakṣati</foreign>) <foreign xml:lang="sa-Latn">vidya</foreign> (AS <foreign xml:lang="sa-Latn">viṣṇ[udatā]</foreign>) . . . . . 
+	       <p>Senart notes that G and AS add fragments of one more line (of which he can discern nothing on the estampages): <foreign xml:lang="san-Latn">sya ma</foreign> (AS <foreign xml:lang="san-Latn">mā</foreign>) . . . . <foreign xml:lang="san-Latn">sarva</foreign> (AS <foreign xml:lang="san-Latn">sarva[ṃ]</foreign>) <foreign xml:lang="san-Latn">rakṣāti</foreign> (AS <foreign xml:lang="san-Latn">rakṣati</foreign>) <foreign xml:lang="san-Latn">vidya</foreign> (AS <foreign xml:lang="san-Latn">viṣṇ[udatā]</foreign>) . . . . . 
 	       </p>
 	     </note>
 	  </app>
 	</p> 
       </div>
       <div type="translation" xml:lang="en">
-	<p>Success! In the ninth year of king <persName key="pers:MpĪśvarasena">Īśvarasena</persName>, the Ābhīra, son of <persName key="pers:Śivadatta">Śivadatta</persName>, the Ābhīra, son of Māḍharī, on the thirteenth—13th—day of the fourth—4th—fortnight of summer onh the above, by the lay devotee <persName key="pers:Viṣṇudattā">Viṣṇudattā</persName>, the Śakānī, mother of the <foreign xml:lang="sa-Latn">Gaṇapaka</foreign> <persName key="pers:Viśvavarman">Viśvavarman</persName>, wife of the <foreign xml:lang="sa-Latn">Gaṇapaka</foreign> <persName key="pers:Rebhila">Rebhila</persName>, daughter of <persName key="pers:Agnivarman">Agnivarman</persName>, the Śaka, for the well-being and happiness of all beings, in order to provide medicines for the sick of the <foreign xml:lang="sa-Latn">saṃgha</foreign> of monks of whatever sect and origin dwelling in this monastery on mount <placeName key="pl:Tiraṇhu">Triraśmi</placeName>, a perpetual endowment has been invested for all time to come with the guilds dwelling [at Govardhana], vis. in the hands of the guild of Kularikas, one-thousand—1000—<foreign xml:lang="sa-Latn">kārṣāpaṇa</foreign>s, of the guild of Odayantrikas, two-thousand, of the guild of . . . . . five-hundred—500—, of the guild of oil-millers . . . . . . . . . . and those <foreign xml:lang="sa-Latn">kārṣāpaṇa</foreign>s. . . . . . . . . .</p>
+	<p>Success! In the ninth year of king <persName key="pers:MpĪśvarasena">Īśvarasena</persName>, the Ābhīra, son of <persName key="pers:Śivadatta">Śivadatta</persName>, the Ābhīra, son of Māḍharī, on the thirteenth—13th—day of the fourth—4th—fortnight of summer onh the above, by the lay devotee <persName key="pers:Viṣṇudattā">Viṣṇudattā</persName>, the Śakānī, mother of the <foreign xml:lang="san-Latn">Gaṇapaka</foreign> <persName key="pers:Viśvavarman">Viśvavarman</persName>, wife of the <foreign xml:lang="san-Latn">Gaṇapaka</foreign> <persName key="pers:Rebhila">Rebhila</persName>, daughter of <persName key="pers:Agnivarman">Agnivarman</persName>, the Śaka, for the well-being and happiness of all beings, in order to provide medicines for the sick of the <foreign xml:lang="san-Latn">saṃgha</foreign> of monks of whatever sect and origin dwelling in this monastery on mount <placeName key="pl:Tiraṇhu">Triraśmi</placeName>, a perpetual endowment has been invested for all time to come with the guilds dwelling [at Govardhana], vis. in the hands of the guild of Kularikas, one-thousand—1000—<foreign xml:lang="san-Latn">kārṣāpaṇa</foreign>s, of the guild of Odayantrikas, two-thousand, of the guild of . . . . . five-hundred—500—, of the guild of oil-millers . . . . . . . . . . and those <foreign xml:lang="san-Latn">kārṣāpaṇa</foreign>s. . . . . . . . . .</p>
       </div>
     </body>
   </text>

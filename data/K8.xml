@@ -47,7 +47,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. The inscription is closely connected with <ref target="in:K9">K9</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <placeName key="pl:Śūrpāraka">sopārakā</placeName>
@@ -91,7 +91,7 @@
 	                                    quantity="3"
 					    unit="character"/>tiga</rdg>
 		       <note xml:lang="en"><p>Senart suggests the reading
-		         <foreign xml:lang="mi-Latn"><supplied reason="lost">matapi</supplied>tihi</foreign>.</p></note>
+		         <foreign xml:lang="pra-Latn"><supplied reason="lost">matapi</supplied>tihi</foreign>.</p></note>
 		 </app> <supplied reason="lost">tha</supplied>bho
 	  dānamu<app><lem source="#K">kha</lem>
 	             <rdg source="#CTI">la</rdg>

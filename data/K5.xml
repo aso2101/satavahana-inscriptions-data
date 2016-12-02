@@ -49,13 +49,13 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  gahatasa <persName key="pers:Mahādevaṇaka">mahādeva<lb n="2" break="no"/>ṇakasa</persName> mātu 
 	  <persName key="pers:Bhāyilā">bhāyilāyā</persName><app
 	    ><note xml:lang="en"><p>(Senart:) I cannot say
-	       that the <foreign xml:lang="mi-Latn">ā</foreign>
+	       that the <foreign xml:lang="pra-Latn">ā</foreign>
 	       of the last syllable appears to me certain.</p></note></app>
 	  dānaṃ
 	</p>

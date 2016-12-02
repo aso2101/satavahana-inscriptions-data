@@ -65,7 +65,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    si<app>
@@ -95,13 +95,13 @@
 	    ma<app><lem source="#K">ḍa</lem><rdg source="#CTI #AS">ṭa</rdg></app>po
 	  <lb n="3"/>
 	    nava<app><lem source="#K">gabha</lem><note xml:lang="en"
-	      ><p>The <foreign xml:lang="mi-Latn">bh</foreign> has a 
+	      ><p>The <foreign xml:lang="pra-Latn">bh</foreign> has a 
 	          vertical stroke at the top, which is so pronounced that
 		  I am doubtful we we ought not to read 
-		  <foreign xml:lang="mi-Latn">-garbha</foreign>
+		  <foreign xml:lang="pra-Latn">-garbha</foreign>
 		  with which the Sanskritisms 
-		  <foreign xml:lang="mi-Latn">-puttasya</foreign> and
-		  <foreign xml:lang="mi-Latn">sovasakasya</foreign>
+		  <foreign xml:lang="pra-Latn">-puttasya</foreign> and
+		  <foreign xml:lang="pra-Latn">sovasakasya</foreign>
 		  would have to be compared. (Senart)</p></note></app>
 	     māhāsaghiyā<app><lem source="#K">naṃ</lem>
 	                     <rdg source="#AS">na</rdg></app>
@@ -134,7 +134,7 @@
 	      mātara 
 	      <app><lem source="#K">casya</lem><rdg source="#AS">khiā</rdg></app>
 	      upāsi<app><lem source="#K">kā</lem><note xml:lang="en"
-	        ><p>The <foreign xml:lang="mi-Latn">kā</foreign> is very
+	        ><p>The <foreign xml:lang="pra-Latn">kā</foreign> is very
 	            indistinct. (Senart)</p>
 		  </note></app>
 	      <persName key="pers:Buddharakṣita">budharakhitasa</persName>

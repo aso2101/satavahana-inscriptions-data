@@ -47,7 +47,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <gap reason="lost"
@@ -57,7 +57,7 @@
 	    thaṃbho bhi<app><lem 
 	      source="#Chandra1919">da nāpa<unclear>ṭali</unclear>talē</lem><note
 	      xml:lang="en"><p>The editor (F.W. Thomas) suggests the
-	      reading <foreign xml:lang="sa-Latn">bhikhuṇo pāṭaliputāto</foreign>.</p></note></app><gap
+	      reading <foreign xml:lang="san-Latn">bhikhuṇo pāṭaliputāto</foreign>.</p></note></app><gap
 	      reason="lost"
 	      quantity="unknown"
 	      unit="character"/>	      

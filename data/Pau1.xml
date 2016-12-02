@@ -56,7 +56,7 @@
       <div type="commentary" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:Kolte1969">Kolte 1969</ref>. The inscription is on the same pillar as inscription <ref target="in:Pau4">Pau2</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  u<app><lem source="#Kolte1969">pā</lem><rdg source="#Deo1972">pa</rdg></app>sikāya

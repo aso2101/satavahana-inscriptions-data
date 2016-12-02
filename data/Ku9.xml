@@ -54,9 +54,9 @@
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. The phrase <foreign xml:lang="mi-Latn">selarūpakama</foreign> refers to the pairs of figures in the back corners of the cave.</p>
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. The phrase <foreign xml:lang="pra-Latn">selarūpakama</foreign> refers to the pairs of figures in the back corners of the cave.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    mahā<choice><sic>bhojiya</sic><corr>bhojīya</corr></choice> sāḍageriya

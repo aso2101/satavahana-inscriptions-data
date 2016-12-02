@@ -44,7 +44,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" xml:lang="sa-Latn">
+      <div type="edition" xml:lang="san-Latn">
 	<div type="introduction" xml:lang="en">
 	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
 	</div>
@@ -54,7 +54,7 @@
 	  <persName key="pers:Nahapāna">nahapānasya</persName>
 	  <app>
 	    <lem source="#N">jāmātrā</lem>
-	    <note xml:lang="en"><p>Senart: The reading <foreign xml:lang="sa-Latn">trā</foreign> is very distinct; the right side of the t however bears a slight trace of the vowel u, as if the form <foreign xml:lang="sa-Latn">jāmātu</foreign> had been present, along with the form <foreign xml:lang="sa-Latn">jāmātrā</foreign>, in the mind of the writer.</p></note>
+	    <note xml:lang="en"><p>Senart: The reading <foreign xml:lang="san-Latn">trā</foreign> is very distinct; the right side of the t however bears a slight trace of the vowel u, as if the form <foreign xml:lang="san-Latn">jāmātu</foreign> had been present, along with the form <foreign xml:lang="san-Latn">jāmātrā</foreign>, in the mind of the writer.</p></note>
 	  </app>
 	  <persName key="pers:Dīnīka">dīnīka</persName>putreṇa 
 	  <persName key="pers:Uṣavadāta">uṣavadātena</persName>
@@ -114,36 +114,36 @@
 	  bhaṭārakā 
 	  <app>
 	    <lem source="#N">aṃñātiyā</lem>
-	    <note xml:lang="en"><p>The syllable <foreign xml:lang="sa-Latn">aṃ</foreign>
-	    (for the <foreign xml:lang="sa-Latn">anusvāra</foreign> 
+	    <note xml:lang="en"><p>The syllable <foreign xml:lang="san-Latn">aṃ</foreign>
+	    (for the <foreign xml:lang="san-Latn">anusvāra</foreign> 
 	    is qutie visible) has been added between 
-	    <foreign xml:lang="sa-Latn">kā</foreign> and 
-	    <foreign xml:lang="sa-Latn">ñā</foreign>, probably in 
+	    <foreign xml:lang="san-Latn">kā</foreign> and 
+	    <foreign xml:lang="san-Latn">ñā</foreign>, probably in 
 	    order to point out that the initial
-	    <foreign xml:lang="sa-Latn">a</foreign> has been 
-	    absorbed into the <foreign xml:lang="sa-Latn">ā</foreign>
-	    of <foreign xml:lang="sa-Latn">kā</foreign>. The
-	    <foreign xml:lang="sa-Latn">ā</foreign> of 
-	    <foreign xml:lang="sa-Latn">ñā</foreign> is doubtful;
+	    <foreign xml:lang="san-Latn">a</foreign> has been 
+	    absorbed into the <foreign xml:lang="san-Latn">ā</foreign>
+	    of <foreign xml:lang="san-Latn">kā</foreign>. The
+	    <foreign xml:lang="san-Latn">ā</foreign> of 
+	    <foreign xml:lang="san-Latn">ñā</foreign> is doubtful;
 	    the vowel-mark is not ordinarily, as would here be the
 	    case, placed at the top of the vertical line.</p></note>
 	  </app>
 	  ca gato <app><lem source="#N">smiṃ</lem><rdg source="#AS">smi</rdg></app>
 	  <app>
 	    <lem source="#N">varṣāratuṃ</lem>
-	    <note xml:lang="en"><p>The <foreign xml:lang="sa-Latn">u</foreign>
+	    <note xml:lang="en"><p>The <foreign xml:lang="san-Latn">u</foreign>
 	    is subscribed in two ways, the one very similar to 
-	    <foreign xml:lang="sa-Latn">r</foreign>, as here and in
-	    <foreign xml:lang="sa-Latn">putrasa</foreign> in the next
+	    <foreign xml:lang="san-Latn">r</foreign>, as here and in
+	    <foreign xml:lang="san-Latn">putrasa</foreign> in the next
 	    line, the other in the shape of a small horizontal stroke,
-	    as in <foreign xml:lang="sa-Latn">mocayituṃ</foreign>,
-	    <foreign xml:lang="sa-Latn">pitu</foreign>.</p></note>
+	    as in <foreign xml:lang="san-Latn">mocayituṃ</foreign>,
+	    <foreign xml:lang="san-Latn">pitu</foreign>.</p></note>
 	  </app>
 	  <app>
 	    <lem source="#N">mālehi</lem>
 	    <note xml:lang="en"><p>Between 
-	    <foreign xml:lang="sa-Latn">ye</foreign> and 
-	    <foreign xml:lang="sa-Latn">hi</foreign> there is a blank,
+	    <foreign xml:lang="san-Latn">ye</foreign> and 
+	    <foreign xml:lang="san-Latn">hi</foreign> there is a blank,
 	    which seems to have been filled up by two or three characters
 	    that would have been effaced.</p></note>
 	  </app> rudhaṃ 

@@ -66,7 +66,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="11"/>
 	  si<app><lem>ddha</lem><rdg source="#AS">ddhaṃ</rdg></app>
@@ -94,9 +94,9 @@
 	      <rdg source="#N">dhanakaṭa</rdg>
 	      <note xml:lang="en" resp="#AO"><p>
 		Senart adopted the reading
-		<foreign xml:lang="mi-Latn">dhanakaṭa</foreign>
+		<foreign xml:lang="pra-Latn">dhanakaṭa</foreign>
 		in his edition, but in his notes proposed the
-		reading <foreign xml:lang="mi-Latn">benākaṭa</foreign>,
+		reading <foreign xml:lang="pra-Latn">benākaṭa</foreign>,
 		which is adopted here (and in the translation).</p></note>
 	  </app>amanehi
 	  ya etha <app><lem>pavate</lem><rdg source="#G">pa<unclear>va</unclear>te</rdg></app>
@@ -109,20 +109,20 @@
 	     <rdg source="#G">na etasatasa</rdg>
 	     <rdg source="#AS">dhavāsetisa</rdg>
 	     <note xml:lang="en"><p>I have no doubt that the 
-	       text really have <foreign xml:lang="mi-Latn">dhama-</foreign>.</p></note>
+	       text really have <foreign xml:lang="pra-Latn">dhama-</foreign>.</p></note>
 	  </app> leṇasa <app
 	    ><lem>paṭisatharaṇe</lem>
 	     <note xml:lang="en"><p>AS notes no lacuna between
-	       <foreign xml:lang="mi-Latn">-ṇe</foreign> and 
-	       <foreign xml:lang="mi-Latn">a-</foreign>, and G.
+	       <foreign xml:lang="pra-Latn">-ṇe</foreign> and 
+	       <foreign xml:lang="pra-Latn">a-</foreign>, and G.
 	       only points out an undetermined one. I admit not only
 	       that there remains room for one character, but that
 	       the back of the estampage seems to retain
 	       some traces of it, which might be mistaken for
-	       <foreign xml:lang="mi-Latn">na</foreign>. As, however,
+	       <foreign xml:lang="pra-Latn">na</foreign>. As, however,
 	       in the repetition which will follow, and the phraseology
 	       of which is the exact counterpart of this first formula,
-	       the reading <foreign xml:lang="mi-Latn">-tharaṇe</foreign>
+	       the reading <foreign xml:lang="pra-Latn">-tharaṇe</foreign>
 	       is certain and perfectly complete, it seems hardly
 	       possible that the text should have been different here.</p></note>
 	  </app><gap reason="lost" quantity="1" unit="character"/> akhaya

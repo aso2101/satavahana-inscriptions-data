@@ -56,11 +56,11 @@
       </div>
       <div type="commentary" xml:lang="en">
 	<p><ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref> reproduce the text and notes of <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>, with some typographic errors, but then add a slightly different translation. This edition and translation is based on the plate provided by <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
-	<p>This is one of the few inscriptions from Sannati to use the invocatory phrase <foreign xml:lang="mi-Latn">sidham</foreign>.</p>
-	<p>For <foreign xml:lang="mi-Latn">putana</foreign> read <foreign xml:lang="mi-Latn">putena</foreign>.</p>
-	<p>I suggest that we read <foreign xml:lang="mi-Latn">dovachadako</foreign>, in the meaning of <foreign xml:lang="sa-Latn">dvi-upacchadaka</foreign>, a “double covering” or “double awning.”</p>
+	<p>This is one of the few inscriptions from Sannati to use the invocatory phrase <foreign xml:lang="pra-Latn">sidham</foreign>.</p>
+	<p>For <foreign xml:lang="pra-Latn">putana</foreign> read <foreign xml:lang="pra-Latn">putena</foreign>.</p>
+	<p>I suggest that we read <foreign xml:lang="pra-Latn">dovachadako</foreign>, in the meaning of <foreign xml:lang="san-Latn">dvi-upacchadaka</foreign>, a “double covering” or “double awning.”</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidham <persName 

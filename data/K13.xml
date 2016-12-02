@@ -48,7 +48,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ raño khaharātasa khatapasa
@@ -74,15 +74,15 @@
 	      source="#K">tatha</lem>
 	      <rdg source="#AS #CTI">ratha</rdg>
 	      <note xml:lang="en">Senart notes that the 
-	        <foreign xml:lang="mi-Latn">i</foreign> has
+	        <foreign xml:lang="pra-Latn">i</foreign> has
 		been lost in <foreign 
-		xml:lang="mi-Latn">titha</foreign>.</note>
+		xml:lang="pra-Latn">titha</foreign>.</note>
 	  </app>karena <app><lem
 	      source="#K"><gap reason="lost"
 	      quantity="3"
 	      unit="character"/></lem>
 	      <note xml:lang="en">The restoration
-	        <foreign xml:lang="mi-Latn">devāna</foreign>
+	        <foreign xml:lang="pra-Latn">devāna</foreign>
 		is guaranteed by the parallel text
 		at Nasik.</note>
 	  </app> 
@@ -108,7 +108,7 @@
 	  pi tu</lem><rdg source="#CTI">pradena
 	      gāvasāpi tri</rdg>
 	      <note xml:lang="en">The restoration
-	        <foreign xml:lang="mi-Latn">pradena</foreign>
+	        <foreign xml:lang="pra-Latn">pradena</foreign>
 		is quite certain (Senart).</note>
 	  </app>
 	  sata<app><lem
@@ -128,10 +128,10 @@
 	      source="#K">r<supplied
 	      reason="lost">a</supplied></lem>
 	      <note xml:lang="en">The <foreign 
-	      xml:lang="mi-Latn">ra</foreign> would
+	      xml:lang="pra-Latn">ra</foreign> would
 	      seem to have at the top the vowel-mark <foreign 
-	      xml:lang="mi-Latn">ā</foreign> or <foreign 
-	      xml:lang="mi-Latn">o</foreign>.</note>
+	      xml:lang="pra-Latn">ā</foreign> or <foreign 
+	      xml:lang="pra-Latn">o</foreign>.</note>
 	  </app>jiko</placeName> dato <app><lem
 	     source="#K">sa<gap reason="lost" quantity="1" 
 	     gunit="character"/>na<gap reason="lost" quantity="3" 

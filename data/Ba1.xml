@@ -51,7 +51,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<div type="introduction" xml:lang="en">
 	  <p>This edition is based on <ref target="bibl:NarasimhaMurthy1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>.</p>
 	</div>

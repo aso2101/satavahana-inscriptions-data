@@ -72,9 +72,9 @@
       </div>
       <div type="commentary" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, slightly revised by me (AO).</p>
-	<p><foreign xml:lang="mi-Latn">ūmārasa</foreign> is probably an engraver’s mistake for <foreign xml:lang="mi-Latn">kumārasa</foreign>.</p>
+	<p><foreign xml:lang="pra-Latn">ūmārasa</foreign> is probably an engraver’s mistake for <foreign xml:lang="pra-Latn">kumārasa</foreign>.</p>
       </div>
-      <div type="edition" xml:lang="mi-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  muḍāna mahāgāmi-<app><lem 
