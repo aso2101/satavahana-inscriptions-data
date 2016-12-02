@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Kṛṣṇagiri">
+  <placeName type="ancient" xml:lang="san-Latn">Kṛṣṇagiri</placeName>
+  <placeName type="modern" xml:lang="mar-Latn">Kaṇheri</placeName>
+  <geo>72.8274892 19.2230443</geo>
+</place> 

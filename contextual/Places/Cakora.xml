@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Cakora">
+  <placeName xml:lang="san-Latn">Cakora</placeName>
+  <placeName xml:lang="gre-Latn">Tiagoura</placeName>
+  <!-- <p>According to Ptolemy, Tiagoura is 1°10' west and 1°40' south of <placeName key="pl:Ujjayinī">Ujjayinī</placeName> (<ref target="bibl:Levi1936">Lévi 1936</ref>).</p> !-->
+</place>

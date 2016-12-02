@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Vijayapurī">
+  <placeName type="ancient" xml:lang="san-Latn">Vijayapurī</placeName>
+  <placeName type="modern" xml:lang="tel-Latn">Nāgārjunakoṇḍa</placeName>
+  <geo>79.240903 16.522168</geo>
+</place>

@@ -1,0 +1,7 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Vaijayantī">
+  <placeName type="ancient" xml:lang="san-Latn">Vaijayantī</placeName>
+  <placeName type="ancient" xml:lang="pra-Latn">Vejayaṃtī</placeName>
+  <placeName type="modern" xml:lang="kan-Latn">Banavāsi</placeName>
+  <geo>75.016076 14.534347</geo>
+</place>

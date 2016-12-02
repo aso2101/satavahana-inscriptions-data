@@ -1,4 +1,5 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" xml:id="Mahāḍ">
-    <placeName type="modern" xml:lang="ma-Latn">Mahāḍ</placeName>
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Mahāḍ">
+    <placeName type="modern" xml:lang="mar-Latn">Mahāḍ</placeName>
     <geo>73.417 18.063</geo>
 </place>

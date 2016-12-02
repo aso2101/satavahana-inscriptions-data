@@ -1,0 +1,9 @@
+<place xmlns="http://www.tei-c.org/ns/1.0"
+       xml:id="Māmāḍa">
+  <placeName type="ancient" xml:lang="mi-Latn">Māmāḍa</placeName>
+  <placeName type="ancient" xml:lang="mi-Latn">Māmāla</placeName>
+  <placeName type="modern" xml:lang="ma-Latn">Māvaḷ</placeName>
+  <geo>73.447519 18.757986</geo>
+  <note>The ancient region of Māmāḍa corresponds more or less to the modern district of Māvaḷ. <ref target="bibl:Kosambi1955">Kosambi (1995)</ref> discussed the inscriptions located in this district, which include those as <ref target="pl:Śelarvāḍī">Śelarvāḍī</ref>, <ref target="pl:Beḍsā">Beḍsā</ref>, <ref target="pl:Bhājā">Bhājā</ref>, and <ref target="pl:Valūraka">Karle</ref>.</note>
+</place>
+

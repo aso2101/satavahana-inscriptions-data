@@ -1,0 +1,5 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Kurnool">
+  <placeName type="modern" xml:lang="eng">Kurnool</placeName>
+  <geo>78.300912 15.155451</geo>
+</place>

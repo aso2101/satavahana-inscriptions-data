@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Chemura">
+  <placeName type="ancient" xml:lang="san-Latn">Chemura</placeName>
+  <placeName type="modern" xml:lang="mar-Latn">Chaul</placeName>
+  <geo>72.927 18.5461</geo>
+</place>

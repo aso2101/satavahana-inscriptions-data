@@ -1,0 +1,7 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Śūrpāraka">
+  <placeName type="ancient" xml:lang="san-Latn">Śūrpāraka</placeName>
+  <placeName type="modern" xml:lang="hin-Latn">Sopārā</placeName>
+  <placeName type="modern" xml:lang="mar-Latn">Sopārā</placeName>
+  <geo>72.788 19.418</geo>
+</place>

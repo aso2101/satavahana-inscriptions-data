@@ -1,0 +1,9 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Pratiṣṭhāna">
+  <placeName type="ancient" xml:lang="san-Latn">Pratiṣṭhāna</placeName>
+  <placeName type="ancient" xml:lang="pra-Latn">Païṭṭhāṇa</placeName>
+  <placeName type="ancient" xml:lang="hin-Latn">Paiṭhan</placeName>
+  <placeName type="ancient" xml:lang="gre-Latn">Baithana</placeName>
+  <placeName type="modern" xml:lang="mar-Latn">Paiṭhan</placeName>
+  <geo>75.39919 19.46091</geo>
+</place>

@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Nāsikya">
+  <placeName type="ancient" xml:lang="san-Latn">Nāsikya</placeName>
+  <placeName type="modern" xml:lang="mar-Latn">Nāsik</placeName>
+  <geo>73.792838 20.004674</geo>
+</place>

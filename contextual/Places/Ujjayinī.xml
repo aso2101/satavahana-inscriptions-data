@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Ujjayinī">
+  <placeName type="ancient" xml:lang="san-Latn">Ujjayinī</placeName>
+  <placeName type="modern" xml:lang="hin-Latn">Ujjain</placeName>
+  <geo>75.783144 23.178546</geo>
+</place>

@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Kalyāṇa">
+  <placeName type="ancient" xml:lang="san-Latn">Kalyāṇa</placeName>
+  <placeName type="modern" xml:lang="mar-Latn">Kalyāṇ</placeName>
+  <geo>73.138 19.245</geo>
+</place>

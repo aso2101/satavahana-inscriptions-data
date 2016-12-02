@@ -1,0 +1,7 @@
+<place xmlns="http://www.tei-c.org/ns/1.0"
+       xml:id="Valūraka">
+    <placeName type="ancient" xml:lang="san-Latn">Valūraka</placeName>
+    <placeName type="ancient" xml:lang="pra-Latn">Valūraka</placeName>
+    <placeName type="modern" xml:lang="mar-Latn">Karle</placeName>
+    <geo>73.470556 18.783287</geo>
+</place>

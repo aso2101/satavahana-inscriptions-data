@@ -1,5 +1,6 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" xml:id="Hipparagi">
-    <placeName type="modern" xml:lang="ka-Latn">Hipparagi</placeName>
-    <placeName type="modern" xml:lang="ka">ಹಿಪ್ಪರಗಿ</placeName>
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Hipparagi">
+    <placeName type="modern" xml:lang="kan-Latn">Hipparagi</placeName>
+    <placeName type="modern" xml:lang="kan">ಹಿಪ್ಪರಗಿ</placeName>
     <geo>76.768853 17.157391</geo>
 </place>

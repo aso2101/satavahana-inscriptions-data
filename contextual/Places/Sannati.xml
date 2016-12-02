@@ -1,5 +1,6 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" xml:id="Sannati">
-    <placeName type="modern" xml:lang="ka-Latn">Sannati</placeName>
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Sannati">
+    <placeName type="modern" xml:lang="kan-Latn">Sannati</placeName>
     <geo>76.908 16.829</geo>
     <desc>Sannati description.</desc>
     <place xml:id="SAN-1"/>

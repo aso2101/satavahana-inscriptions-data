@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Seṭagiri">
+  <placeName type="ancient" xml:lang="pra-Latn">Seṭagiri</placeName>
+  <placeName type="ancient" xml:lang="gre-Latn">Xērogerei</placeName>
+  <!--<p>According to Ptolemy, Xērogerei is 0°40' west and 0°40' north of <placeName key="pl:Ujjayinī">Ujjayinī</placeName> (<ref target="bibl:Levi1936">Lévi 1936</ref>).</p>!-->
+</place>

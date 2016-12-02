@@ -1,0 +1,8 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Koruṅkala">
+  <placeName type="ancient" xml:lang="san-Latn">Koruṅkala</placeName>
+  <placeName type="ancient" xml:lang="gre">κορουγγαλα</placeName>
+  <placeName type="modern" xml:lang="tel-Latn">Warangal</placeName>
+  <geo>79.598865 17.973580</geo>
+  <!--<note>Mentioned in Ptolemy’s Geography, 7.1.93. The identification with Warangal is doubtful.</note>!-->
+</place>

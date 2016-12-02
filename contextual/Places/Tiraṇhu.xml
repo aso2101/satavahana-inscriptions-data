@@ -1,0 +1,6 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Tiraṇhu">
+  <placeName type="ancient" xml:lang="pra-Latn">Tiraṇhu</placeName>
+  <placeName type="ancient" xml:lang="san-Latn">Triraśmi</placeName>
+  <geo>73.748842 19.940015</geo>
+</place>

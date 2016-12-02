@@ -1,0 +1,7 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Bharukaccha">
+  <placeName type="ancient" xml:lang="pra-Latn">Bharukaccha</placeName>
+  <placeName type="modern" xml:lang="guj-Latn">Bharuch</placeName>
+  <placeName type="modern" xml:lang="eng">Broach</placeName>
+  <geo>73.003970 21.705904</geo>
+</place>

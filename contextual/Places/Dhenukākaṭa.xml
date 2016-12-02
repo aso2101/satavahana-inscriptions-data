@@ -1,0 +1,8 @@
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Dhenukākaṭa">
+  <placeName type="ancient" xml:lang="pra-Latn">Dhenukākaṭa</placeName>
+  <placeName type="ancient" xml:lang="pra-Latn">Dhenukākaṭaka</placeName>
+  <placeName type="modern" xml:lang="mar-Latn">Devghaṛ</placeName>
+  <geo>73.469702 18.754397</geo>
+  <!-- <note>Identified with Devghar, just south of <ref target="pl:Valūraka">Karle</ref>, by <ref target="bibl:Kosambi1955">Kosambi</ref>.</note> !-->
+</place>

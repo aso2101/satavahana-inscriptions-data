@@ -1,5 +1,6 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" xml:id="Pauni">
-    <placeName type="modern" xml:lang="ma-Latn">Pauni</placeName>
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Pauni">
+    <placeName type="modern" xml:lang="mar-Latn">Pauni</placeName>
     <geo>79.636416 20.793791</geo>
     <desc>A few sculptures and inscriptions were discovered here in 1968. Subsequently it became clear that Pauni was the site of an ancient Buddhist stūpa. The stūpa was beneath a mound on which a temple of Jagannātha had been constructed.</desc>
 </place>

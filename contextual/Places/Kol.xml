@@ -1,4 +1,5 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" xml:id="Kol">
-    <placeName type="modern" xml:lang="ma-Latn">Kol</placeName>
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Kol">
+    <placeName type="modern" xml:lang="mar-Latn">Kol</placeName>
     <geo>73.431188 18.068489</geo>
 </place>

@@ -1,5 +1,6 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" xml:id="Kuḍā">
-    <placeName type="modern" xml:lang="ma-Latn">Kuḍā</placeName>
+<place xmlns="http://www.tei-c.org/ns/1.0" 
+       xml:id="Kuḍā">
+    <placeName type="modern" xml:lang="mar-Latn">Kuḍā</placeName>
     <geo>73.083 18.283</geo>
     <desc>
         <p>From <ref target="bibl:CTI">Burgess and Indraji 1881</ref>: 3: “Kuḍā is on the east side of the north-east arm of the Rājapur creek. A small branch creek runs up through mangrove bushes nearly to the village. The caves are about 150 to 200 feet above the sea lvel in a hill which is about 250 feet high at this point. They face to west-south-west, and the whole 26 caves are within about 200 years in two lines of elevation,—Nos. I to XV below, and Nos. XVI to XXVI some fort feet higher up the hill. The view from the caves is splendid, the wide expanse of the Rājapur creek, like a mountain like, some 5 miles wide, is right in front, entirely shut in by hills from 200 to 600 feet in height, which in most places run down nearly to the water, and a rocky islet occupies nearly the centre of the seeming lake. From the top of the hill, the hill fort of Ṭhala is plainly visible, and another to the north. The creek is called Kālwa khāḍī, and the hill north-east of the caves Mohola.”</p>
