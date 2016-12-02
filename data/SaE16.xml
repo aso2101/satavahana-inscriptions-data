@@ -68,11 +68,11 @@
 	  <lb n="1"/>
 	  <gap reason="lost"
 	       quantity="unknown"
-	       unit="character"/><unclear>sa</unclear>ṃba <persName key="pers-Sa:Samadāsa">samadāsasa</persName>
+	       unit="character"/><unclear>sa</unclear>ṃba <persName key="pers:Sa-Samadāsa">samadāsasa</persName>
 	</p>
       </div>
       <div type="translation">
-	<p>... of <persName key="pers-Sa:Samadāsa">Samadāsa</persName>.</p>
+	<p>... of <persName key="pers:Sa-Samadāsa">Samadāsa</persName>.</p>
       </div>
     </body>
   </text>
