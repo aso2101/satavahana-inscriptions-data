@@ -46,7 +46,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:Dandekar2006">Dandekar and Joshi 2006–2007</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ 

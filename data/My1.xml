@@ -70,7 +70,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:Sukthankar1917">Sukthankar 1917–1918</ref>. <ref target="bibl:Sharma19751976">Sharma (1975–1976)</ref> corrected Sukthankar’s reading from year 8 to year 6, and ascribed this inscription to the last ruler named Puḷumāvi, but <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao (1993: 79–80)</ref> and <ref target="bibl:Bhandare1999">Bhandare (1999: 319)</ref> affirm its attribution to the successor of Gautamīputra Śrī Sātakarṇi.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <unclear>si</unclear>dha<unclear>ṃ</unclear>

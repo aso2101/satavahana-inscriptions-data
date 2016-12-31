@@ -66,7 +66,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="11"/>
 	  si<app><lem>ddha</lem><rdg source="#AS">ddhaṃ</rdg></app>

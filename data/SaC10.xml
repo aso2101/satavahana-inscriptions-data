@@ -60,7 +60,7 @@
       <div type="commentary" xml:lang="en">
 	<p>This edition is based on the plate published in <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, an inspection of which confirms most of the readings of <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <app><lem source="#NagarajaRao1985">putatikasa</lem><rdg

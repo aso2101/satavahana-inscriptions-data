@@ -49,7 +49,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
-      <div type="edition" xml:lang="san-Latn">
+      <div type="edition" rend="break-none" xml:lang="san-Latn">
 	<p>
 	  <lb n="1"/>
 	    <unclear>de</unclear>yadharmo yaṃ saṃghopasāyikakārya hari

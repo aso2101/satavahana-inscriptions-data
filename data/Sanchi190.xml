@@ -62,7 +62,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:BT">Cunningham 1854</ref>, pp. 264–265.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  rajño 

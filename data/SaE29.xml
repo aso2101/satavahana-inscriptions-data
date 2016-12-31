@@ -64,7 +64,7 @@
       <div type="commentary" xml:lang="en">
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with the correction that <foreign xml:lang="pra-Latn">aṃtevāsin</foreign> means “student” and not “resident” in these inscriptions.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/><gap reason="lost"
 	       quantity="unknown"

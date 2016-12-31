@@ -48,7 +48,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. I give here, 
 	however, the reading of the editor, F. W. Thomas.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <supplied reason="lost">namo bha</supplied>gavata samasa<unclear>ṃ</unclear>budhasa <unclear>bu</unclear>

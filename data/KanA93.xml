@@ -44,7 +44,7 @@
       <div type="commentary" xml:lang="en">
 	<p>The edition is based on <ref target="bibl:Kan">Poonacha 2013</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<div type="textpart"
 	     subtype="section"
 	     n="93">

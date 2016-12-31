@@ -43,7 +43,7 @@
       <div type="commentary" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. They remark that the script of the vihāra inscriptions “differs very little from those in the Chaitya and may belong to about 100 B.C., or earlier a little.”</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  rājave<supplied reason="lost">jasa</supplied><gap

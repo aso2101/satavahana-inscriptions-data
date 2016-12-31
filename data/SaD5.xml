@@ -62,7 +62,7 @@
       <div type="commentary" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>. Both this source, and <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>, mention that an almost-identical inscription occurs on another fragment, but they do not provide images or details. Hence it is impossible to know which of the two inscriptions is identical to the one reported in <ref target="bibl:ARIE1968">ARIE 1968–1969</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  ghari<app><lem

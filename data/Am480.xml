@@ -47,7 +47,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. He writes: “There appears to be some space left out between se and p. The latter letter looks like ph in the impression.”</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <gap reason="lost"

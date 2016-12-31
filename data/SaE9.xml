@@ -67,7 +67,7 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
 	<p>I have not read <foreign xml:lang="pra-Latn">araka</foreign> as a name, as Varaprasada Rao did. Possibly it refers to an architectural element (such as an <hi rend="italic">ayaka</hi>/<hi rend="italic">āryaka</hi> pillar).</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  arakachata<app><lem

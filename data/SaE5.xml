@@ -59,7 +59,7 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
 	<p>Possibly a reference to <placeName key="pl:Nasik">Nasik</placeName>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  mahānāsikeva<gap reason="lost"

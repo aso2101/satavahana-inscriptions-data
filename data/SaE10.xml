@@ -73,7 +73,7 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
 	<p>Varaprasada Rao interpreted <foreign xml:lang="pra-Latn">bamhiya</foreign> as a place name. I think it is more likely to be a personal name.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <gap reason="lost"

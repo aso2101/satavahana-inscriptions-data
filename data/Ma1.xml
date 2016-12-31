@@ -54,7 +54,7 @@
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. Their translation is modified based on the remarks of Senart in <ref target="bibl:N">Epigraphia Indica 8</ref> p. 75.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ kumārasa 

@@ -41,7 +41,7 @@
       <div type="commentary" xml:lang="en">
 	<p>The edition is based on <ref target="bibl:Sarkar1965">Sarkar 1965–1966</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <supplied reason="lost">na</supplied>mo bhavagato

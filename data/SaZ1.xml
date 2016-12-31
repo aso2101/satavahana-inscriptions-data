@@ -64,7 +64,7 @@
 	inscriptions in Sanskrit, and the earliest inscriptions in
 	verse.</p>
       </div>
-      <div type="edition" xml:lang="san-Latn">
+      <div type="edition" rend="break-none" xml:lang="san-Latn">
 	<lg met="vasantatilaka">
 	  <l><lb n="1"/>yas sva<supplied reason="omitted">r</supplied>ggatas samavasṛjya narendralakṣmīṃ<caesura/> 
 	  puttrottame suta-sahasra-samāna-sāre</l>

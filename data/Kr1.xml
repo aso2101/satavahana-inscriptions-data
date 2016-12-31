@@ -46,7 +46,7 @@
 	  <citedRange>1077</citedRange>
 	</bibl>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<div type="introduction" xml:lang="en">
 	  <p>This edition is based on <ref target="bibl:AS">Bühler 1883</ref>.</p>
 	</div>

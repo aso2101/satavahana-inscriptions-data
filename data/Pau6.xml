@@ -55,7 +55,7 @@
       <div type="commentary" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:Deo1972">Deo and Joshi 1972</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<div type="textpart" n="A">
 	  <ab><lb n="1"/>heranikānaṃ</ab>
 	</div>

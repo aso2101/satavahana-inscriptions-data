@@ -73,7 +73,7 @@
       <div type="commentary" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:Sircar1963–1964">Sircar 1963–1964</ref>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<div type="textpart"
 	     subtype="plate"
 	     n="1B">

@@ -47,7 +47,7 @@
 	<p>This edition is based on <ref target="bibl:Sankalia1969">Sankalia and Gokhale 1969</ref>.</p>
 	<p>This is evidently the only Jain record from the Western Deccan of the early centuries CE.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  namo arahaṃtānam kātuna<unclear>ṃ</unclear>

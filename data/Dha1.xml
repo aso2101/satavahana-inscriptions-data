@@ -40,7 +40,7 @@
       <div type="commentary" xml:lang="en">
 	<p>The edition is based on <ref target="bibl:SeshadriShastri19371938">Seshadri Sastri 1937–1938</ref>. He surmised that it belonged to the reign of Vāsiṣṭhīputra Śrī Puḷumāvi (this would be necessary if the reading is indeed panatrise).</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <gap reason="lost"
