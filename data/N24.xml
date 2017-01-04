@@ -53,7 +53,7 @@
 	  sāmi-siriyaña-sātakaṇisa</persName> <date
 	    when-custom="7"
 	    datingPoint="pers:GpŚrīyajñaSātakarṇi"
-	    datingMethod="regnal"><app
+	    datingMethod="cal:regnal"><app
 	    ><lem source="#N">saṃvachare</lem>
 	     <rdg source="#G #AS">savachare</rdg>
 	    </app> sātame 7</date> hematāṇa pakhe tatiye 3 
@@ -90,7 +90,7 @@
       <div type="translation" xml:lang="en">
 	<p>Success! On the first day of the third—3rd—fortnight of winter, in the <date when-custom="7"
 	  datingPoint="pers:GpŚrīyajñaSātakarṇi"
-	  datingMethod="regnal">seventh—7th—year</date> of the king, the lord <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra Śrīyajña Sātakarṇi</persName>, the Mahāsenāpatnī <persName key="pers:Vāsu">Vāsu</persName>, wife of the Mahāsenāpati <persName key="pers:Bhavagopa">Bhavagopa</persName>, of the Kauśika family, has completed and given, as an abode to the universal saṃgha of monks, this cave which had been excavated for many years, but, after having been created by the ascetic <persName key="pers:Bopaki">Bopaki</persName>, had remained uncompleted.</p>
+	  datingMethod="cal:regnal">seventh—7th—year</date> of the king, the lord <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra Śrīyajña Sātakarṇi</persName>, the Mahāsenāpatnī <persName key="pers:Vāsu">Vāsu</persName>, wife of the Mahāsenāpati <persName key="pers:Bhavagopa">Bhavagopa</persName>, of the Kauśika family, has completed and given, as an abode to the universal saṃgha of monks, this cave which had been excavated for many years, but, after having been created by the ascetic <persName key="pers:Bopaki">Bopaki</persName>, had remained uncompleted.</p>
       </div>
     </body>
   </text>

@@ -86,7 +86,7 @@
 	  </app>
 	  <date when-custom="19"
 		datingPoint="pers:VpŚrīPuḷumāvi"
-		datingMethod="regnal">sava 19</date>
+		datingMethod="cal:regnal">sava 19</date>
 	  gi pa 2 diva 13
 	  <app
 	     ><lem>benākaṭa</lem>
@@ -256,7 +256,7 @@
 	       <rdg source="#AS">hiṇa</rdg>
 	     </app> <date when-custom="22"
 	                  datingPoint="pers:GpŚrīSātakarṇi"
-			  datingMethod="regnal">sava 22</date>
+			  datingMethod="cal:regnal">sava 22</date>
 	  gi <app
 	    ><lem>pakhe</lem>
 	     <rdg source="#G #AS">pa<gap reason="lost" quantity="2" unit="character"/></rdg>
@@ -339,7 +339,7 @@
 	  kept (?) by the . . . . . of deeds (?). The deed was delivered
 	  in the <date when-custom="22"
 	               datingPoint="pers:VpŚrīPuḷumāvi"
-		       datingMethod="regnal">year 22</date>,
+		       datingMethod="cal:regnal">year 22</date>,
 	  the 7th day of the . . fortnight of 
 	  summer; executed by . . . . . (?). With a view for the
 	  well-being of the inhabitants at 

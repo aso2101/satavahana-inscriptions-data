@@ -31,7 +31,7 @@
 	      </origPlace>
 	      <origDate
 		  notBefore-custom="-0100"
-		  notAfter-custom="0000"
+		  notAfter-custom="-0001"
 		  precision="medium"
 		  evidence="nomenclature">1st c. BCE</origDate>
 	    </origin>

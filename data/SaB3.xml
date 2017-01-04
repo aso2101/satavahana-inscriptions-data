@@ -33,7 +33,7 @@
 		in the wall of the Hanuman Temple (<placeName key="pl:SAN-4">SAN-4</placeName>).
 	      </origPlace>
 	      <origDate
-		  notBefore-custom="0000"
+		  notBefore-custom="0001"
 		  notAfter-custom="0100"
 		  precision="medium"
 		  evidence="paleography">1st c. CE</origDate>

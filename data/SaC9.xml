@@ -31,7 +31,7 @@
 		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
 	      <origDate
-		  notBefore-custom="0000"
+		  notBefore-custom="0001"
 		  notAfter-custom="0100"
 		  precision="medium">1st c. CE</origDate>
 	    </origin>

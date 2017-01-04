@@ -51,7 +51,7 @@
 	  siriyaña sātakanisa</persName>
 	  <date when-custom="11"
 	        datingPoint="pers:GpŚrīyajñaSātakarṇi"
-		datingMethod="regnal">sava 10 + 1</date>
+		datingMethod="cal:regnal">sava 10 + 1</date>
 	  <lb n="2"/>
 	  hematāna pakha 1 diva 1 bhikhusa
 	  dhamakadhikasa <persName key="pers:Bodhika">bodhikayasa</persName>

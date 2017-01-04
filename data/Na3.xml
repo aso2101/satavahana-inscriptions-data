@@ -60,7 +60,7 @@
 	  <lb n="2"/><date 
 	    when-custom="13"
 	    datingPoint="VpŚrīskandaSātakarṇi"
-	    datingMethod="regnal">savachara tara 10 3</date> 
+	    datingMethod="cal:regnal">savachara tara 10 3</date> 
 	    hemata pakha pacame divase 10
 	  <lb n="3"/>kamavanasa gahapatasa damaghasasa deyadhama
 	  <lb n="4"/>paniyapuvā deydhama satagarapavate etha

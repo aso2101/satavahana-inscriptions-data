@@ -53,7 +53,7 @@
 	  </persName>
 	  vasasatāya 
 	  <date when-custom="27"
-		datingMethod="regnal"
+		datingMethod="cal:regnal"
 		datingPoint="pers:GpŚrīyajñaSātakarṇi">saṃvachara 
 	        sata<unclear>vi</unclear><lb n="3" break="no"/>maṃ
 	        20 + 7</date>
@@ -74,7 +74,7 @@
 	  The year 
 	  <date when-custom="27"
 		datingPoint="pers:GpŚrīyajñaSātakarṇi"
-		datingMethod="regnal">twenty-seven (20+7)</date>
+		datingMethod="cal:regnal">twenty-seven (20+7)</date>
 	  of the existence of the power of the king, the lord
 	  <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra 
 	  Śrīyajña Sātakarṇi</persName>, the fourth (4) fortnight of summer,

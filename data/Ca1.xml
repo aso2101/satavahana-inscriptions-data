@@ -55,7 +55,7 @@
 	    siri sātakaṃṇi<lb n="2" break="no"/>sa
 	  </persName>
 	  <date when-custom="30"
-		datingMethod="regnal"
+		datingMethod="cal:regnal"
 		datingPoint="pers:ŚrīSātakarṇi">tise saṃvachare</date>
 	  sava<lb n="3" break="no"/>tobhada-donamukhasa
 	  ka<lb n="4" break="no"/>pāsasa kaṭakāraṃ
@@ -66,7 +66,7 @@
 	  In the 
 	  <date when-custom="30"
 		datingPoint="pers:ŚrīSātakarṇi"
-		datingMethod="regnal">year thirty</date>
+		datingMethod="cal:regnal">year thirty</date>
 	  of king
 	  <persName key="pers:ŚrīSātakarṇi">Śrī Sātakarṇi</persName>—(this
 	  is) the toll in cotton harvest of the Droṇamukha named

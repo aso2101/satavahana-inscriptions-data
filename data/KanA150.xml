@@ -52,7 +52,7 @@
 	    siri pulumāvisa</persName>
 	    <date when-custom="10"
 		  datingPoint="pers:MpŚrīPuḷumāvi"
-		  datingMethod="regnal">sava<supplied reason="lost">chare</supplied> 10</date>
+		  datingMethod="cal:regnal">sava<supplied reason="lost">chare</supplied> 10</date>
 	    diva 15 ka pavatakasa
 	  <lb n="2"/>
 	    <supplied reason="lost">de</supplied>vavanijaputasa

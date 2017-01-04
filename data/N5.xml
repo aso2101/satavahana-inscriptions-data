@@ -135,7 +135,7 @@
 	  </app> le<app><lem>kho</lem><rdg source="#G #AS">khe</rdg></app>
 	  <date when-custom="24"
 		datingPoint="pers:GpŚrīSātakarṇi"
-		datingMethod="regnal">savachare 24</date>
+		datingMethod="cal:regnal">savachare 24</date>
 	  <lb n="12"/>
 	  <app>
 	    <lem>vā</lem>
@@ -151,7 +151,7 @@
 	  nibadho 
 	  <date when-custom="24"
 		datingPoint="pers:GpŚrīSātakarṇi"
-		datingMethod="regnal"><app><lem>sava</lem><rdg source="#AS">saṃvā</rdg></app>chare
+		datingMethod="cal:regnal"><app><lem>sava</lem><rdg source="#AS">saṃvā</rdg></app>chare
 	  24</date> gimhāṇa pakhe 2 divase 10
         </p>
       </div>
@@ -198,12 +198,12 @@
 	  (the charter) executed by 
 	  <persName key="pers:Sujīvin">Sujīvin</persName> in the 
 	  <date when-custom="24"
-		datingMethod="regnal"
+		datingMethod="cal:regnal"
 		datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
 	  in the 4th fortnight of the rainy season, on the fifth —
 	  5th — day. The donation had been made in the 
 	  <date when-custom="24"
-		datingMethod="regnal"
+		datingMethod="cal:regnal"
 		datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
 	  in the 2nd fortnight of summer, on the 10th day.
 	</p>

@@ -140,7 +140,7 @@
 	  <lb n="6"/>
 	  datā paṭikā <date when-custom="18"
 	                    datingPoint="pers:GpŚrīSātakarṇi"
-			    datingMethod="regnal">savachare <app
+			    datingMethod="cal:regnal">savachare <app
 	     ><lem>18</lem>
 	      <rdg source="#AS">14</rdg>
 	      <note xml:lang="en"><p>Corrected to 18
@@ -185,7 +185,7 @@
 	  kept by the Mahāsāmiyas. The deed was delivered in the
 	  <date when-custom="18"
 		datingPoint="pers:GpŚrīSātakarṇi"
-		datingMethod="regnal">18th year</date>,
+		datingMethod="cal:regnal">18th year</date>,
 	  on the 1st day of the 2nd fortnight of the rainy season;
 	  executed by <persName key="pers:Tāpasa">Tāpasa</persName>.
 	</p>

@@ -65,7 +65,7 @@
 	  <lb n="3"/>
 	    savachare <date when-custom="35"
 	                    datingPoint="pers:VpŚrīPuḷumāvi"
-			    datingMethod="regnal">30 5</date>
+			    datingMethod="cal:regnal">30 5</date>
 	    <unclear>gimhana pakhe</unclear> 2 10 
 	    <placeName key="pl:Koruṅkala"><app><lem source="#Falk">koruku<unclear>lana</unclear></lem
 	      ><rdg source="#Poonacha">kotujilāna</rdg></app></placeName>
