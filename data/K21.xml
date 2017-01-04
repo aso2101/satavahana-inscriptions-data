@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K21">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,9 +21,7 @@
 		north of the chaitya cave, on two sides of a semicircular
 		cistern in a vihara.
 	      </origPlace>
-	      <origDate
-		  when-custom="0089"
-		  precision="low">ca. 89 CE</origDate>
+	      <origDate when-custom="0089" precision="low" datingMethod="cal:gregorian">ca. 89 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -58,64 +52,33 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <gap reason="lost"
-	       quantity="5"
-	       unit="character"/><supplied reason="lost">savachare</supplied>
+	  <gap reason="lost" quantity="5" unit="character"/><supplied reason="lost">savachare</supplied>
 	  5 hematāṇaṃ pa<supplied reason="lost">kh</supplied>e
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>ya puvāya <app
-	   ><lem>bha</lem><rdg source="#CTI #AS">dha</rdg></app>yata
+	  <gap reason="lost" quantity="3" unit="character"/>ya puvāya <app><lem>bha</lem><rdg source="#CTI #AS">dha</rdg></app>yata
 	  <lb n="2"/>
-	  <gap reason="lost"
-	       quantity="9"
-	       unit="character"/>hiṇa atevāsiniṇa 
+	  <gap reason="lost" quantity="9" unit="character"/>hiṇa atevāsiniṇa 
 	  le<app><lem source="#K">ṇaṃ</lem><rdg source="#CTI #AS">ṇa</rdg></app>
-	  <app><lem source="#K">bhagi<gap reason="lost"
-	                      quantity="7"
-			      unit="character"/>kāṇa</lem>
-	        <rdg source="#CTI #AS">bhagine<gap
-		  reason="lost"
-		  quantity="5"
-		  unit="character"/>sāvikāṇa</rdg>
+	  <app><lem source="#K">bhagi<gap reason="lost" quantity="7" unit="character"/>kāṇa</lem>
+	        <rdg source="#CTI #AS">bhagine<gap reason="lost" quantity="5" unit="character"/>sāvikāṇa</rdg>
 	  </app> sadigā
 	  <lb n="3"/>
-	  <app><lem source="#K"><gap reason="lost"
-				  quantity="9"
-				  unit="character"/>kale</lem>
-	       <rdg source="#CTI #AS"><gap
-		  reason="lost"
-		  quantity="7"
-		  unit="character"/>ghasu kāle</rdg>
+	  <app><lem source="#K"><gap reason="lost" quantity="9" unit="character"/>kale</lem>
+	       <rdg source="#CTI #AS"><gap reason="lost" quantity="7" unit="character"/>ghasu kāle</rdg>
 	  </app> pavaïtāṇa saṃghāya
-	  bu<app><lem source="#K"><gap reason="lost"
-	                            quantity="5"
-	 			    unit="character"/></lem>
-	         <rdg source="#CTI #AS"><gap reason="lost"
-			quantity="3"
-			unit="character"/>deya</rdg>
+	  bu<app><lem source="#K"><gap reason="lost" quantity="5" unit="character"/></lem>
+	         <rdg source="#CTI #AS"><gap reason="lost" quantity="3" unit="character"/>deya</rdg>
 	    </app>dhama poḍhi
 	  <lb n="4"/>
-	  <app><lem source="#K"><gap reason="lost"
-	                          quantity="24"
-				  unit="character"/></lem>
-	       <rdg source="#CTI #AS"><gap reason="lost"
-	                                quantity="11"
-					unit="character"/>
-	           parivāreṇa upaya<gap reason="lost"
-	                                quantity="4"
-					unit="character"/></rdg>
+	  <app><lem source="#K"><gap reason="lost" quantity="24" unit="character"/></lem>
+	       <rdg source="#CTI #AS"><gap reason="lost" quantity="11" unit="character"/>
+	           parivāreṇa upaya<gap reason="lost" quantity="4" unit="character"/></rdg>
 	  </app>
 	  <lb n="5"/>
-	  <gap reason="lost"
-	       quantity="9"
-	       unit="character"/>
+	  <gap reason="lost" quantity="9" unit="character"/>
 	  <app><lem source="#K">atevāsinihi</lem>
 	       <rdg source="#CTI #AS">mhi usubhāe</rdg>
 	  </app>
-	  <gap reason="lost"
-	       quantity="6"
-	       unit="character"/>
+	  <gap reason="lost" quantity="6" unit="character"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

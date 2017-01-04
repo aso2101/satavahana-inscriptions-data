@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaD9">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaD9">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
 	      <support>A sculptured stela.</support>
@@ -26,11 +22,7 @@
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0100"
-		  notAfter-custom="0200"
-		  precision="medium"
-		  evidence="nomenclature">2nd c. CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">2nd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

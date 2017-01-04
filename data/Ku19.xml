@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ku19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ku19">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,7 +20,7 @@
 		<placeName type="modern" key="pl:Kuḍā-13">Cave No. 13</placeName>, 
 		on the back wall of the verandah, over the window.
 	      </origPlace>
-	      <origDate></origDate><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>

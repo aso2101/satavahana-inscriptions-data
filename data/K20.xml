@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K20">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,9 +21,7 @@
 		north of the chaitya cave, on the wall of the second cell
 		(from the south) of a vihāra, right of entrance, top.
 	      </origPlace>
-	      <origDate
-		  when-custom="0108"
-		  precision="low">ca. 108 CE</origDate>
+	      <origDate when-custom="0108" precision="low" datingMethod="cal:gregorian">ca. 108 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -78,9 +72,7 @@
 	      </app>
 	    <persName key="pers:VpŚrīPuḷumāvi">vāsiṭhiputasa
 	      siri-puḷumāvisa</persName>
-	    <date when-custom="24"
-		  datingPoint="pers:VpŚrīPuḷumāvi"
-		  datingMethod="cal:regnal">savacchare
+	    <date when-custom="24" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">savacchare
 	      catuvise 24</date>
 	    he<app>
 	        <lem source="#K">maṃ</lem>
@@ -94,8 +86,7 @@
 	    vathavasya ima deyadhama
 	    ma<app><lem source="#K">ḍa</lem><rdg source="#CTI #AS">ṭa</rdg></app>po
 	  <lb n="3"/>
-	    nava<app><lem source="#K">gabha</lem><note xml:lang="en"
-	      ><p>The <foreign xml:lang="pra-Latn">bh</foreign> has a 
+	    nava<app><lem source="#K">gabha</lem><note xml:lang="en"><p>The <foreign xml:lang="pra-Latn">bh</foreign> has a 
 	          vertical stroke at the top, which is so pronounced that
 		  I am doubtful we we ought not to read 
 		  <foreign xml:lang="pra-Latn">-garbha</foreign>
@@ -106,21 +97,15 @@
 	     māhāsaghiyā<app><lem source="#K">naṃ</lem>
 	                     <rdg source="#AS">na</rdg></app>
 	     pariga<app><lem source="#K">ho</lem><rdg source="#AS #CTI">he</rdg></app>
-	     saghe cātudise di<app
-	       ><lem source="#K">na</lem>
+	     saghe cātudise di<app><lem source="#K">na</lem>
 	        <rdg source="#CTI">naṃ</rdg>
-	       </app><app
-	       ><lem source="#K"><gap reason="lost"
-	                           quantity="1"
-	                           unit="character"/></lem>
-	        <rdg source="#CTI"></rdg>
+	       </app><app><lem source="#K"><gap reason="lost" quantity="1" unit="character"/></lem>
+	        <rdg source="#CTI"/>
 	      </app>
-	      mātāpitu<app
-	        ><lem source="#K">naṃ pu</lem>
+	      mātāpitu<app><lem source="#K">naṃ pu</lem>
 	         <rdg source="#AS #CTI">na pū</rdg>
 	      </app>jā savasatānaṃ 
-	      hitasagha<app
-	        ><lem source="#K">sthataye</lem>
+	      hitasagha<app><lem source="#K">sthataye</lem>
 	         <rdg source="#CTI">sṭhataya</rdg>
 		 <rdg source="#AS">sthataya</rdg>
 	      </app> 
@@ -133,13 +118,11 @@
 	      <persName key="pers:Buddharakṣita">budharakhitena</persName>
 	      mātara 
 	      <app><lem source="#K">casya</lem><rdg source="#AS">khiā</rdg></app>
-	      upāsi<app><lem source="#K">kā</lem><note xml:lang="en"
-	        ><p>The <foreign xml:lang="pra-Latn">kā</foreign> is very
+	      upāsi<app><lem source="#K">kā</lem><note xml:lang="en"><p>The <foreign xml:lang="pra-Latn">kā</foreign> is very
 	            indistinct. (Senart)</p>
 		  </note></app>
 	      <persName key="pers:Buddharakṣita">budharakhitasa</persName>
-	      mā<supplied reason="lost">tu deya</supplied><app
-	        ><lem source="#K">dhaṃma</lem>
+	      mā<supplied reason="lost">tu deya</supplied><app><lem source="#K">dhaṃma</lem>
 	         <rdg source="#CTI #AS">dhama</rdg>
 	      </app> <unclear>pāṭho</unclear>
 	      a<unclear>no</unclear>

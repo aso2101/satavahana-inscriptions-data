@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI
-  xml:space="preserve"
-  xml:lang="en"
-  xmlns="http://www.tei-c.org/ns/1.0"
-  xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="Na1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Na1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,20 +12,20 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier>
-	    <repository></repository>
-	    <idno></idno>
+	    <repository/>
+	    <idno/>
 	  </msIdentifier>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
-		<support></support>
+		<support/>
 	      </supportDesc>
 	      <layoutDesc>
-		<layout></layout>
+		<layout/>
 	      </layoutDesc>
 	    </objectDesc>
 	    <handDesc>
-	      <handNote></handNote>
+	      <handNote/>
 	    </handDesc>
 	  </physDesc>
 	  <history>
@@ -38,10 +33,7 @@
 	      <origPlace>
 	        <placeName key="pl:Nāṇeghāṭ">Nāṇeghāṭ, Mahārāṣṭra</placeName>
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0100"
-		  notAfter-custom="-0050"
-		  precision="medium">Early 1st c. BCE</origDate>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0050" precision="medium" datingMethod="cal:gregorian">Early 1st c. BCE</origDate>
 	    </origin>
 	    <!--<provenance type="found">Findspot and circumstances/context</provenance>!--><!-- INCLUDE @when !-->
 	    <!--<provenance type="observed">Modern location(s) (if different from repository, above) </provenance>!--> <!-- INCLUDE @when !-->
@@ -99,367 +91,140 @@ Inscriptions by Dr. Georg Bühler, pp. 59-74 (Nānāghāṭ), 74-87.
 1. The Nānāghāt Inscriptions.
 !-->
 
-<div type="textpart"
-     subtype="section"
-     n="A">
+<div type="textpart" subtype="section" n="A">
 <head xml:lang="en">The Left Wall</head>
 
 <lb n="1"/> 
-<supplied 
-  reason="lost"
-  cert="low">sidhaṃ</supplied>
-<gap
-  reason="lost"
-  quantity="3"
-  unit="character"/>
+<supplied reason="lost" cert="low">sidhaṃ</supplied>
+<gap reason="lost" quantity="3" unit="character"/>
   no dhaṃmasa namo īdasa namo saṃkaṃsana-vāsudevānaṃ caṃda-sūrānaṃ
-<supplied 
-  reason="lost">mahi</supplied>mā<supplied reason="lost">v</supplied>atānaṃ
+<supplied reason="lost">mahi</supplied>mā<supplied reason="lost">v</supplied>atānaṃ
 catuṃnaṃ caṃ lokapālānaṃ yama-varuna-kubera-vāsavānaṃ namo kumāravarasa vedisirisa ra<supplied reason="lost">ñ</supplied>o 
 <lb n="2"/>
-<gap 
-  reason="lost"
-  quantity="8"
-  unit="character"/>
-<supplied
-  reason="lost">v</supplied>īrasa sūrasa apratihatacakasa dakhināpaṭhapatino <supplied reason="lost" cert="low">raño simukasātavāhanasa sunhāya</supplied>
-<gap
-  reason="lost"
-  quantity="21"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="8" unit="character"/>
+<supplied reason="lost">v</supplied>īrasa sūrasa apratihatacakasa dakhināpaṭhapatino <supplied reason="lost" cert="low">raño simukasātavāhanasa sunhāya</supplied>
+<gap reason="lost" quantity="21" unit="character" precision="low"/>
 <lb n="3"/>
 mā 
-<gap
-  reason="lost"
-  quantity="8"
-  unit="character"/>
-<supplied
-  reason="lost">bā</supplied>lāya mahāraṭhino aṃgiya-kulavadhanasa sagaragirivaravala<supplied reason="lost">yā</supplied>ya pathaviya pathamavīrasa vasa<gap 
-  reason="lost"
-  quantity="2"
-  unit="character"/>ya va alaha (?) 
-<gap
-  reason="lost"
-  quantity="10"
-  unit="character"
-  precision="low"/>salasu<gap reason="lost" quantity="1" unit="character"/>ya mahato maha
-<gap
-  reason="lost"
-  quantity="2"
-  unit="character"/>
+<gap reason="lost" quantity="8" unit="character"/>
+<supplied reason="lost">bā</supplied>lāya mahāraṭhino aṃgiya-kulavadhanasa sagaragirivaravala<supplied reason="lost">yā</supplied>ya pathaviya pathamavīrasa vasa<gap reason="lost" quantity="2" unit="character"/>ya va alaha (?) 
+<gap reason="lost" quantity="10" unit="character" precision="low"/>salasu<gap reason="lost" quantity="1" unit="character"/>ya mahato maha
+<gap reason="lost" quantity="2" unit="character"/>
 <lb n="4"/>
-<gap
-  reason="lost"
-  quantity="2"
-  unit="character"/>
+<gap reason="lost" quantity="2" unit="character"/>
 <supplied reason="lost" cert="low">sātakaṇi</supplied> sirisa bhāriyā devasa putadasa varadasa kāmadasa dhanadasa vedisiri-mātu satino sirimatasa ca mātuya sīma <gap reason="lost" quantity="12" unit="character" precision="low"/> pathamaya 
-<gap
-  reason="lost"
-  quantity="3"
-  unit="character"/>
+<gap reason="lost" quantity="3" unit="character"/>
 <lb n="5"/>
 variya
-<gap 
-  reason="lost"
-  quantity="12"
-  unit="character"/>
-ā<supplied reason="lost">n</supplied>āgavaradayiniya māsopavāsiniya gahaṭāpasāya caritabrahmacariyāya dikhavratayaṃñasuṃḍāya yañāhutādhūpanasugaṃdhāya niya <gap 
-  reason="lost"
-  quantity="7"
-  unit="character"/>
+<gap reason="lost" quantity="12" unit="character"/>
+ā<supplied reason="lost">n</supplied>āgavaradayiniya māsopavāsiniya gahaṭāpasāya caritabrahmacariyāya dikhavratayaṃñasuṃḍāya yañāhutādhūpanasugaṃdhāya niya <gap reason="lost" quantity="7" unit="character"/>
 <lb n="6"/>
 rāyasa 
-<gap 
-  reason="lost"
-  quantity="17"
-  unit="character"/>
+<gap reason="lost" quantity="17" unit="character"/>
 <supplied reason="lost">ya</supplied>ñehi yiṭhaṃ vano | agādheya-yaṃño dakhinā dinā gāvo bārasa 12 aso ca 1 anārabhaniyo yaṃño dakhinā dhenu
-<gap 
-  reason="lost"
-  quantity="21"
-  unit="character"/>
+<gap reason="lost" quantity="21" unit="character"/>
 <lb n="7"/>
-<gap
-  reason="lost"
-  quantity="48"
-  unit="character"/>
+<gap reason="lost" quantity="48" unit="character"/>
 dakhināya dinā gāvo 1700 hathī 10 
-<gap
-  reason="lost"
-  quantity="51"
-  unit="character"/>
+<gap reason="lost" quantity="51" unit="character"/>
 <lb n="8"/>
-<gap
-  reason="lost"
-  quantity="58"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="58" unit="character" precision="low"/>
 as
-<gap
-  reason="lost"
-  quantity="2"
-  unit="character"/>
+<gap reason="lost" quantity="2" unit="character"/>
 sasataraya <supplied reason="lost">v</supplied>āsalaṭhi 289 kubhiyo rupāmayiyo 17 bhi 
-<gap 
-  reason="lost"
-  quantity="35"
-  unit="character"/>
+<gap reason="lost" quantity="35" unit="character"/>
 <lb n="9"/>
-<gap
-  reason="lost"
-  quantity="38"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="38" unit="character" precision="low"/>
 riko yaṃño dakhināyo dinā gāvo 11,000 asā 1,000 pasa<supplied reason="lost">pako</supplied> 
-<gap
-  reason="lost"
-  quantity="46"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="46" unit="character" precision="low"/>
 <lb n="10"/>
-<gap
-  reason="lost"
-  quantity="14"
-  unit="character"/> 12 gamavaro 1 dakhinā kāhāpanā 24,400 pasapako kāhāpanā 6,000 | rāja<supplied reason="lost">sūya-yaṃño</supplied>
-<gap 
-  reason="lost"
-  quantity="22"
-  unit="character"
-  precision="low"/> sakaṭaṃ
+<gap reason="lost" quantity="14" unit="character"/> 12 gamavaro 1 dakhinā kāhāpanā 24,400 pasapako kāhāpanā 6,000 | rāja<supplied reason="lost">sūya-yaṃño</supplied>
+<gap reason="lost" quantity="22" unit="character" precision="low"/> sakaṭaṃ
 </div>
 
-<div type="textpart"
-     subtype="section"
-     n="B">
+<div type="textpart" subtype="section" n="B">
 <head xml:lang="en">The Right Wall</head>
 
 <lb n="1"/>
 dhaṃñagiritaṃsapayutaṃ sapaṭo 1 aso 1 asaratho 1 gāvīnaṃ 100 asamedho bitiyo <supplied reason="lost">yi</supplied>ṭho dakhināyo <supplied reason="lost">di</supplied>nā aso rupāla<supplied reason="lost">ṃkā</supplied>ro 1 suvaṃna 
-<gap
-  reason="lost" 
-  quantity="3"
-  unit="character"/>ni 12 dakhinā dinā kāhāpanā <supplied reason="lost">1</supplied>4,000 gāmo 1 ha<supplied reason="lost">ṭhi</supplied> 
-<gap 
-  reason="lost"
-  quantity="26"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="3" unit="character"/>ni 12 dakhinā dinā kāhāpanā <supplied reason="lost">1</supplied>4,000 gāmo 1 ha<supplied reason="lost">ṭhi</supplied> 
+<gap reason="lost" quantity="26" unit="character" precision="low"/>
 <supplied reason="lost">dakhi</supplied>nā dinā
 <lb n="2"/>
 gāvo <gap reason="lost" quantity="1" unit="character"/> sakaṭaṃ dhaṃñagirita<supplied reason="lost">ṃ</supplied>sapayutaṃ 
-<gap
-  reason="lost"
-  quantity="8"
-  unit="character"/>
+<gap reason="lost" quantity="8" unit="character"/>
 ovāyo yaṃño
-<gap
-  reason="lost"
-  quantity="43"
-  unit="character"/>
+<gap reason="lost" quantity="43" unit="character"/>
 17 dh<supplied reason="lost" cert="low">enu</supplied><gap reason="lost" quantity="2" unit="character"/> vāya<gap reason="lost" quantity="1" unit="character"/>satara sa 
 <lb n="3"/>
-<gap
-  reason="lost"
-  quantity="56"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="56" unit="character" precision="low"/>
 17 aca 
-<gap
-  reason="lost"
-  quantity="4"
-  unit="character"/>na
+<gap reason="lost" quantity="4" unit="character"/>na
 <gap reason="lost" quantity="1" unit="character"/>la ya
-<gap
-  reason="lost"
-  quantity="4"
-  unit="character"/>
+<gap reason="lost" quantity="4" unit="character"/>
 pasapako din<supplied reason="lost">o</supplied>
-<gap
-  reason="lost"
-  quantity="27"
-  unit="character"
-  precision="low"/>
-<supplied reason="lost">dakhi</supplied>nā dinā su<gap
-  reason="lost"
-  quantity="3"
-  unit="character"/>pīni 12 tesa rup<supplied reason="lost">ālaṃ</supplied>kāro 1 dakhinā kāhāpa<supplied reason="lost">nā</supplied> 10,000
-<gap
-  reason="lost"
-  quantity="3"
-  unit="character"/>2
+<gap reason="lost" quantity="27" unit="character" precision="low"/>
+<supplied reason="lost">dakhi</supplied>nā dinā su<gap reason="lost" quantity="3" unit="character"/>pīni 12 tesa rup<supplied reason="lost">ālaṃ</supplied>kāro 1 dakhinā kāhāpa<supplied reason="lost">nā</supplied> 10,000
+<gap reason="lost" quantity="3" unit="character"/>2
 <lb n="4"/>
-<gap
-  reason="lost"
-  quantity="6"
-  unit="character"/> gāvo 20,000 <supplied reason="lost" cert="low">bhaga</supplied>la-dasarato yaṃño y<supplied reason="lost">iṭho dakhinā di</supplied>nā <supplied reason="lost">gāvo</supplied> 10,000 | gargatirato yaño yiṭho dakhinā 
-<gap
-  reason="lost"
-  quantity="7"
-  unit="character"/>
+<gap reason="lost" quantity="6" unit="character"/> gāvo 20,000 <supplied reason="lost" cert="low">bhaga</supplied>la-dasarato yaṃño y<supplied reason="lost">iṭho dakhinā di</supplied>nā <supplied reason="lost">gāvo</supplied> 10,000 | gargatirato yaño yiṭho dakhinā 
+<gap reason="lost" quantity="7" unit="character"/>
 pasapako paṭā 301 gavāmayanaṃ yaṃño yiṭho<supplied reason="lost">dakhinā dinā</supplied> gāvo 1100 | 
-<gap
-  reason="lost"
-  quantity="29"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="29" unit="character" precision="low"/>
 gāvo 1100 (?) pasapako kāhāpanā<gap reason="lost" quantity="1" unit="character"/>paṭā 100 atuyāmo yaṃño 
-<gap
-  reason="lost"
-  quantity="4"
-  unit="character"/>
+<gap reason="lost" quantity="4" unit="character"/>
 <lb n="5"/>
-<gap
-  reason="lost"
-  quantity="11"
-  unit="character"
-  precision="low"/><supplied reason="lost">ga</supplied>vāmayanaṃ yañ<supplied reason="lost">o</supplied> dakhinā dinā gāvo 1100 | aṃgiras<supplied reason="lost">ā</supplied>mayanaṃ yaṃño yiṭho dakhinā gāvo 1,100 | ta 
-<gap
-  reason="lost"
-  quantity="13"
-  unit="character"/>
+<gap reason="lost" quantity="11" unit="character" precision="low"/><supplied reason="lost">ga</supplied>vāmayanaṃ yañ<supplied reason="lost">o</supplied> dakhinā dinā gāvo 1100 | aṃgiras<supplied reason="lost">ā</supplied>mayanaṃ yaṃño yiṭho dakhinā gāvo 1,100 | ta 
+<gap reason="lost" quantity="13" unit="character"/>
 <supplied reason="lost">dakhinā d</supplied>inā gāvo 1100 | satātirataṃ yaṃño
-<gap
-  reason="lost"
-  quantity="24"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="24" unit="character" precision="low"/>
 100 
-<gap
-  reason="lost"
-  quantity="7"
-  unit="character"/>
+<gap reason="lost" quantity="7" unit="character"/>
 <supplied reason="lost">ya</supplied>ño dakhinā g<supplied reason="lost">ā</supplied>vo 110 aṃgirasa<supplied reason="lost">ti</supplied>rato yaṃño yiṭho <supplied reason="lost">dakhi</supplied>nā gā<supplied reason="lost">vo</supplied>
 <lb n="6"/>
-<gap
-  reason="lost"
-  quantity="10"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="10" unit="character" precision="low"/>
 gāvo 1,002 chaṃdomapa<supplied reason="lost">va</supplied>mā<supplied reason="lost">natirato</supplied> dakhinā gāvo 100 | aṃg<supplied reason="lost">i</supplied>ra<supplied reason="lost">satira</supplied>to yaṃ<supplied reason="lost">ño yi</supplied>ṭho da<supplied reason="lost">khinā</supplied> 
-<gap
-  reason="lost"
-  quantity="19"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="19" unit="character" precision="low"/>
 rato yiṭho yaño dakhinā dinā 
-<gap
-  reason="lost"
-  quantity="14"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="14" unit="character" precision="low"/>
 to yaṃño yiṭho dakhinā 
-<gap
-  reason="lost"
-  quantity="14"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="14" unit="character" precision="low"/>
 yaṃño yiṭho dakhinā dinā gāvo 1000 | 
-<gap
-  reason="lost"
-  quantity="22"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="22" unit="character" precision="low"/>
 <lb n="7"/>
-<gap
-  reason="lost"
-  quantity="17"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="17" unit="character" precision="low"/>
 na<gap reason="lost" quantity="1" unit="character"/>sayaṃ 
-<gap
-  reason="lost"
-  quantity="16"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="16" unit="character" precision="low"/>
 dakhinā dinā gāvo 
-<gap
-  reason="lost"
-  quantity="27"
-  unit="character"
-  precision="low"/> 
+<gap reason="lost" quantity="27" unit="character" precision="low"/> 
 ta 
-<gap
-  reason="lost"
-  quantity="24"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="24" unit="character" precision="low"/>
 <supplied reason="lost">aṃ</supplied>gi<supplied reason="lost">rasā</supplied>mayanaṃ chavasa 
-<gap
-  reason="lost"
-  quantity="15"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="15" unit="character" precision="low"/>
 <supplied reason="lost">dakhi</supplied>nā dinā gāvo 1,000 
-<gap
-  reason="lost"
-  quantity="20"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="20" unit="character" precision="low"/>
 dakhinā dinā gāvo 1,001 terasa 
-<gap
-  reason="lost"
-  quantity="3"
-  unit="character"/>a
+<gap reason="lost" quantity="3" unit="character"/>a
 <lb n="8"/>
-<gap
-  reason="lost"
-  quantity="23"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="23" unit="character" precision="low"/>
 terasarato sa 
-<gap
-  reason="lost"
-  quantity="9"
-  unit="character"/>
+<gap reason="lost" quantity="9" unit="character"/>
 āge dakhinā dinā gāvo 
-<gap
-  reason="lost"
-  quantity="35"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="35" unit="character" precision="low"/>
 dasarato ma
-<gap
-  reason="lost"
-  quantity="34"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="34" unit="character" precision="low"/>
 <supplied reason="lost">di</supplied>nā gāvo 1,001 u
-<gap
-  reason="lost"
-  quantity="55"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="55" unit="character" precision="low"/>
 1,001 da
-<gap
-  reason="lost"
-  quantity="21"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="21" unit="character" precision="low"/>
 <lb n="9"/>
-<gap
-  reason="lost"
-  quantity="40"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="40" unit="character" precision="low"/>
 <supplied reason="lost">ya</supplied>ño dakhinā di<supplied reason="lost">nā</supplied>
-<gap
-  reason="lost"
-  quantity="52"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="52" unit="character" precision="low"/>
 <lb n="10"/>
-<gap
-  reason="lost"
-  quantity="52"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="52" unit="character" precision="low"/>
 <supplied reason="lost">da</supplied>khinā dinā
-<gap
-  reason="lost"
-  quantity="58"
-  unit="character"
-  precision="low"/>
+<gap reason="lost" quantity="58" unit="character" precision="low"/>
 </div>
 
 <!-->

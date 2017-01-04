@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaC12">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaC12">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
@@ -31,10 +27,7 @@
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0001"
-		  notAfter-custom="0100"
-		  precision="medium">1st c. CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -64,26 +57,10 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <persName key="pers:Tulabhūta"><app><lem
-		    source="#Sarma1993"><gap 
-	            reason="lost"
-		    quantity="unknown"
-		    unit="character"/><unclear>tu</unclear></lem><rdg
-		    source="#NagarajaRao1985"><gap
-		    reason="lost"
-		    quantity="unknown"
-		    unit="character"/></rdg></app>la<app><lem 
-		    source="#Sarma1993">bhūta</lem><rdg
-		    source="#NagarajaRao1985">bhātu</rdg></app>sa</persName>
-	  <app><lem source="#Sarma1993">putasa ya</lem><rdg
-	            source="#NagarajaRao1985">atisayāya</rdg></app>
-	  <app><lem source="#Sarma1993">chatha</lem><rdg
-	            source="#NagarajaRao1985">chāya</rdg></app>
-	  <app><lem source="#Sarma1993">kha<gap
-	            reason="lost"
-		    quantity="unknown"
-		    unit="character"/></lem><rdg
-		    source="#NagarajaRao1985"><unclear>padima</unclear></rdg></app>
+	  <persName key="pers:Tulabhūta"><app><lem source="#Sarma1993"><gap reason="lost" quantity="unknown" unit="character"/><unclear>tu</unclear></lem><rdg source="#NagarajaRao1985"><gap reason="lost" quantity="unknown" unit="character"/></rdg></app>la<app><lem source="#Sarma1993">bhūta</lem><rdg source="#NagarajaRao1985">bhātu</rdg></app>sa</persName>
+	  <app><lem source="#Sarma1993">putasa ya</lem><rdg source="#NagarajaRao1985">atisayāya</rdg></app>
+	  <app><lem source="#Sarma1993">chatha</lem><rdg source="#NagarajaRao1985">chāya</rdg></app>
+	  <app><lem source="#Sarma1993">kha<gap reason="lost" quantity="unknown" unit="character"/></lem><rdg source="#NagarajaRao1985"><unclear>padima</unclear></rdg></app>
 	</p>
       </div>
       <div type="translation">

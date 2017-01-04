@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="KanA93">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA93">
 
   <teiHeader>
     <fileDesc>
@@ -16,17 +12,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>,
 		on the upper drum (medhi) of the stūpa.
 	      </origPlace>
-	      <origDate notBefore-custom="0125"
-			notAfter-custom="0150"
-			precision="low">ca. 125–150 CE</origDate>
+	      <origDate notBefore-custom="0125" notAfter-custom="0150" precision="low" datingMethod="cal:gregorian">ca. 125–150 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -45,81 +39,61 @@
 	<p>The edition is based on <ref target="bibl:Kan">Poonacha 2013</ref>.</p>
       </div>
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<div type="textpart"
-	     subtype="section"
-	     n="93">
+	<div type="textpart" subtype="section" n="93">
 	  <head xml:lang="en">93</head>
 	  <p>
 	    <supplied reason="lost">bo</supplied>dhisato somarāto
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="94">
+	<div type="textpart" subtype="section" n="94">
 	  <head xml:lang="en">94</head>
 	  <p>
 	    rāyo <persName key="pers:Mantalaka">mātalako</persName>
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="95">
+	<div type="textpart" subtype="section" n="95">
 	  <head xml:lang="en">95</head>
 	  <p>
 	    rāyā <persName key="pers:Aśoka">asoko</persName>
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="96-A">
+	<div type="textpart" subtype="section" n="96-A">
 	  <head xml:lang="en">96-A</head>
 	  <p>
 	    rājā <persName key="pers:VpŚrīChimuka">siri chimuka sādavāhano</persName>
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="96-B">
+	<div type="textpart" subtype="section" n="96-B">
 	  <head xml:lang="en">96-B</head>
 	  <p>
 	    nāgarāyasa <unclear>sakhadhāvi</unclear>
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="97">
+	<div type="textpart" subtype="section" n="97">
 	  <head xml:lang="en">97</head>
 	  <p>
 	    rāyā <persName key="pers:Aśoka">asoko</persName>
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="98">
+	<div type="textpart" subtype="section" n="98">
 	  <head xml:lang="en">98</head>
 	  <p>
 	    rāya cakavaṭi satarajano
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="99">
+	<div type="textpart" subtype="section" n="99">
 	  <head xml:lang="en">99</head>
 	  <p>
 	    rāya <persName key="pers:VpŚrīPuḷumāvi">pudumāvi</persName> ajayatasa ujeni deti
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="100">
+	<div type="textpart" subtype="section" n="100">
 	  <head xml:lang="en">100</head>
 	  <p>
 	    rāya <supplied reason="lost">u</supplied>dayano
 	  </p>
 	</div>
-	<div type="textpart"
-	     subtype="section"
-	     n="102">
+	<div type="textpart" subtype="section" n="102">
 	  <head xml:lang="en">102</head>
 	  <p>
 	    rāya <persName key="pers:ŚrīSātakarṇi">sātakaṃni<supplied reason="lost">sa</supplied></persName>

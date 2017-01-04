@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N20">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,16 +9,14 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N20</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>

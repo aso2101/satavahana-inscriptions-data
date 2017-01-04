@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Sai1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Sai1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,15 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Śelarvāḍī">Śelarvāḍī</placeName>,
 		in one of the seven or eight caves there.
 	      </origPlace>
-	      <origDate></origDate><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -58,11 +54,9 @@
 	  vāthavasa
 	  <lb n="2"/>
 	  hālikayasa kuḍumbikasa
-	  <persName key="pers:Ṛṣabhaṇaka">usabha<lb n="3"
-	    break="no"/>ṇakasa</persName>
+	  <persName key="pers:Ṛṣabhaṇaka">usabha<lb n="3" break="no"/>ṇakasa</persName>
 	  kuḍubiṇiya
-	  <persName key="pers:Siṃhaguptaṇikā">siaguta<lb n="4"
-	    break="no"/>ṇikāya</persName>
+	  <persName key="pers:Siṃhaguptaṇikā">siaguta<lb n="4" break="no"/>ṇikāya</persName>
 	  deyadhaṃma leṇaṃ saha pute<lb n="5" break="no"/>ṇa
 	  <persName key="pers:Nanda">ṇaṃ<unclear>da</unclear></persName>gahapatiṇā saho
 	</p>

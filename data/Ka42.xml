@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ka3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ka3">
 
   <teiHeader>
     <fileDesc>
@@ -16,7 +12,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <layoutDesc>
@@ -36,9 +32,7 @@
 		on the left-hand side-wall outside the verandah 
 		of Cave No. 74.
 	      </origPlace>
-	      <origDate notBefore-custom="0200"
-			notAfter-custom="0300"
-			precision="medium">3rd c. CE</origDate>
+	      <origDate notBefore-custom="0200" notAfter-custom="0300" precision="medium" datingMethod="cal:gregorian">3rd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -61,46 +55,16 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  sadha ra<gap reason="lost"
-	               unit="character"
-		       quantity="3"
-		       precision="low"/>ma 
+	  sadha ra<gap reason="lost" unit="character" quantity="3" precision="low"/>ma 
 	  <unclear>dhariputasa svāmi sakase<lb n="2" break="no"/>nasa</unclear> 
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="5"
-	       precision="low"/><unclear>di</unclear> vā 10 etāyi
+	  <gap reason="lost" unit="character" quantity="5" precision="low"/><unclear>di</unclear> vā 10 etāyi
 	  <lb n="3"/>
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="unknown"
-	       precision="low"/>vaṭhaveya veṇhunaṃdiputra<lb
-	       n="4" break="no"/><unclear>sa</unclear>
-	  <gap reason="lost" 
-	       unit="character"
-	       quantity="7"
-	       precision="low"/>sa bhajāya <persName key="pers:Ka-Hālaṇikā">hālaṇikā</persName> le<lb
-	       n="5" break="no"/><unclear>ṇa patithapita sa</unclear>hā
+	  <gap reason="lost" unit="character" quantity="unknown" precision="low"/>vaṭhaveya veṇhunaṃdiputra<lb n="4" break="no"/><unclear>sa</unclear>
+	  <gap reason="lost" unit="character" quantity="7" precision="low"/>sa bhajāya <persName key="pers:Ka-Hālaṇikā">hālaṇikā</persName> le<lb n="5" break="no"/><unclear>ṇa patithapita sa</unclear>hā
 	  <persName key="pers:Ka-Āyyaka">āyyakena</persName>
-	  la<gap reason="lost"
-	       unit="character"
-	       quantity="4"
-	       precision="low"/>sa<gap reason="lost"
-	       unit="character"
-	       quantity="4"
-	       precision="low"/>
-	  <lb n="6"/><gap reason="lost"
-	       unit="character"
-	       quantity="7"
-	       precision="low"/>vasatena dhāmaye saha
-	  <lb n="7"/><gap reason="lost"
-	       unit="character"
-	       quantity="8"
-	       precision="low"/>budhakayena saha vi<gap
-	       reason="lost"
-	       unit="character"
-	       quantity="6"
-	       precision="low"/>
+	  la<gap reason="lost" unit="character" quantity="4" precision="low"/>sa<gap reason="lost" unit="character" quantity="4" precision="low"/>
+	  <lb n="6"/><gap reason="lost" unit="character" quantity="7" precision="low"/>vasatena dhāmaye saha
+	  <lb n="7"/><gap reason="lost" unit="character" quantity="8" precision="low"/>budhakayena saha vi<gap reason="lost" unit="character" quantity="6" precision="low"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

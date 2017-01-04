@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N15">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N15">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,25 +9,21 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N15</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
 		on the left wall of the court in Cave No. 10.
 	      </origPlace>
-	      <origDate notBefore-custom="0225"
-			notAfter-custom="0275"
-			precision="medium">mid-3rd c. CE</origDate>
+	      <origDate notBefore-custom="0225" notAfter-custom="0275" precision="medium" datingMethod="cal:gregorian">mid-3rd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,11 +42,8 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  sidhaṃ rājñaḥ <app
-	    ><lem source="#N">māḍha</lem>
-	     <rdg source="#AS"><gap reason="lost"
-				 quantity="2"
-				 unit="character"/></rdg>
+	  sidhaṃ rājñaḥ <app><lem source="#N">māḍha</lem>
+	     <rdg source="#AS"><gap reason="lost" quantity="2" unit="character"/></rdg>
 	     <note xml:lang="en"><p>Senart notes that many
 	     readings in this inscription are risky owing
 	     to the poor state of preservation.</p></note>
@@ -64,56 +53,39 @@
 	  <app><lem source="#N">saṃvatsare</lem>
 	       <rdg source="#AS">savatsare</rdg>
 	       <rdg source="#G">saṃvatsara</rdg></app> 2 
-	  <app
-	      ><lem source="#N">navama<gap reason="missing"
-	                                quantity="1"
-					unit="character"/></lem>
+	  <app><lem source="#N">navama<gap reason="missing" quantity="1" unit="character"/></lem>
 	       <rdg source="#AS">navame <supplied reason="missing">9</supplied> <note xml:lang="en"><p>(reading <foreign xml:lang="san-Latn">gi</foreign> at the beginning of line 3)</p></note></rdg>
 	       <rdg source="#G">navama <supplied reason="missing">gi</supplied></rdg>
 	  </app>
 	  <lb n="3"/>
-	  mhapakhe cothe 4 divase trayoda<app
-	    ><lem source="#N">śa 13</lem>
+	  mhapakhe cothe 4 divase trayoda<app><lem source="#N">śa 13</lem>
 	     <note xml:lang="en"><p>Senart: “Of the <foreign xml:lang="san-Latn">śa</foreign> and of the number I cannot make out anything.”</p></note>
-	  </app><gap reason="lost"
-	             quantity="2"
-		     unit="character"/>
+	  </app><gap reason="lost" quantity="2" unit="character"/>
 	  <lb n="4"/>
 	  <app><lem source="#N">ya puvaya</lem>
 	       <rdg source="#AS">yā puvāya</rdg>
 	  </app> <persName key="pers:Agnivarman">śakāgnivarmmaṇaḥ</persName> 
 	  <app><lem source="#N">duhitā</lem>
 	       <rdg source="#AS">duhitrā</rdg>
-	  </app> <app
-	      ><lem source="#N">gaṇapa</lem>
+	  </app> <app><lem source="#N">gaṇapa</lem>
 	       <rdg source="#AS">gaṇāpa</rdg>
-          </app>ka<gap reason="lost"
-	                      quantity="1"
-			      unit="character"/>
+          </app>ka<gap reason="lost" quantity="1" unit="character"/>
 	  <lb n="5"/>
 	  <persName key="pers:Rebhila">rebhilasya</persName> 
 	  <app><lem source="#N">bharyayā</lem>
 	       <rdg source="#G #AS">bhāryayā</rdg>
-          </app> <app
-	      ><lem source="#N">gaṇapa</lem>
+          </app> <app><lem source="#N">gaṇapa</lem>
 	       <rdg source="#AS">gaṇāpa</rdg>
 	  </app>kasya <persName key="pers:Viśvavarman">viśvavarmasya</persName>
-	  <gap reason="lost"
-	       quantity="1"
-	       unit="character"/>
+	  <gap reason="lost" quantity="1" unit="character"/>
 	  <lb n="6"/>
 	  <app><lem source="#N">trā śakanikayā</lem>
-	       <rdg source="#AS"><gap reason="lost"
-				   quantity="2"
-				   unit="character"/>gāśākānikāyā</rdg>
-	  </app> upāsikāya <persName key="pers:Viṣṇudattā">viṣṇu<app
-	    ><lem source="#N">datāyā</lem>
+	       <rdg source="#AS"><gap reason="lost" quantity="2" unit="character"/>gāśākānikāyā</rdg>
+	  </app> upāsikāya <persName key="pers:Viṣṇudattā">viṣṇu<app><lem source="#N">datāyā</lem>
 	     <rdg source="#G">dattayā</rdg>
-          </app></persName> sarva<app
-	    ><lem source="#N">satva</lem>
+          </app></persName> sarva<app><lem source="#N">satva</lem>
 	     <rdg source="#G">sattva</rdg>
-          </app>hi<lb n="7" break="no"/>ta<app
-	    ><lem source="#N">sukhārthaṃ</lem>
+          </app>hi<lb n="7" break="no"/>ta<app><lem source="#N">sukhārthaṃ</lem>
 	     <rdg source="#AS">sukhārtha</rdg>
 	  </app> 
 	  <placeName key="pl:Tiraṇhu">triraśmi</placeName>parvatavihāravāstavyasya 
@@ -123,60 +95,36 @@
 	  <lb n="8"/>
 	  <app><lem source="#N">bhikṣusaṃghasya</lem>
 	       <rdg source="#AS">bhikhusaghasya</rdg>
-	  </app> <app
-	    ><lem source="#N">gilāna</lem>
+	  </app> <app><lem source="#N">gilāna</lem>
 	     <rdg source="#AS">gilina</rdg>
           </app>bheṣajārtham akṣayanivī 
-	  prayuktā <app
-	    ><lem source="#N"><gap reason="lost"
-	                        quantity="5"
-	                        unit="character"/></lem>
+	  prayuktā <app><lem source="#N"><gap reason="lost" quantity="5" unit="character"/></lem>
 	     <rdg source="#AS"><gap reason="lost" quantity="1" unit="character"/>va<gap reason="lost" quantity="1" unit="character"/>na<gap reason="lost" quantity="2" unit="character"/></rdg>
           </app>
-	  vāsta<lb n="9"/>vyasu <app
-	    ><lem source="#N">āgatānāgatāsu</lem>
+	  vāsta<lb n="9"/>vyasu <app><lem source="#N">āgatānāgatāsu</lem>
 	     <rdg source="#G">āgatā<supplied reason="lost">nā</supplied>gatāsu</rdg>
 	     <rdg source="#AS">sugatāgatāsu</rdg>
-	  </app> <app
-	    ><lem source="#N">śreṇīṣu</lem>
+	  </app> <app><lem source="#N">śreṇīṣu</lem>
 	     <rdg source="#AS">sreṇiṣu</rdg>
           </app> yataḥ kularikaśreṇyā haste 
-	  karṣāpaṇa<lb n="10"/>sahasra 1000 <app
-	    ><lem source="#N">odayaṃtrikaśreṇyā</lem>
+	  karṣāpaṇa<lb n="10"/>sahasra 1000 <app><lem source="#N">odayaṃtrikaśreṇyā</lem>
 	     <rdg source="#G">oḍayaṃtrikaśreṇyāḥ</rdg>
 	     <rdg source="#AS">deuyatrikaśreṇyā<supplied reason="lost">ṃ</supplied></rdg>
-	  </app> sahasrāṇi dve <app
-	    ><lem source="#N"><gap reason="lost"
-	                        quantity="5"
-				unit="character"/></lem>
-	     <rdg source="#G">2<gap reason="lost"
-	                         quantity="5"
-	                         unit="character"/><supplied reason="lost"
-				 >śre</supplied></rdg>
+	  </app> sahasrāṇi dve <app><lem source="#N"><gap reason="lost" quantity="5" unit="character"/></lem>
+	     <rdg source="#G">2<gap reason="lost" quantity="5" unit="character"/><supplied reason="lost">śre</supplied></rdg>
 	  </app>
 	  <lb n="11"/>
 	  <app><lem source="#N">ṇyāḥ</lem>
 	       <rdg source="#AS">ṇyā<supplied reason="lost">ṃ</supplied></rdg>
-	  </app> śatāni paṃca 500 tilapiśaka<app
-	    ><lem source="#N">śreṇ<gap reason="lost"
-	                            quantity="3"
-				    unit="character"/></lem>
-	     <rdg source="#G">śreṇyā śatā <gap reason="lost"
-	                                    quantity="4"
-					    unit="character"/></rdg>
+	  </app> śatāni paṃca 500 tilapiśaka<app><lem source="#N">śreṇ<gap reason="lost" quantity="3" unit="character"/></lem>
+	     <rdg source="#G">śreṇyā śatā <gap reason="lost" quantity="4" unit="character"/></rdg>
 	     <rdg source="#AS">śreṇyā<supplied reason="lost">ṃ</supplied> śatā
-	       <gap reason="lost"
-		    quantity="5"
-		    unit="character"/></rdg>
+	       <gap reason="lost" quantity="5" unit="character"/></rdg>
 	  </app>
 	  <lb n="12"/>
-	  ete ca karṣāpaṇā <app
-	    ><lem source="#N">catālepa</lem>
+	  ete ca karṣāpaṇā <app><lem source="#N">catālepa</lem>
 	     <rdg source="#AS"><supplied reason="lost">cata</supplied>lopa</rdg>
-	  </app><app
-	    ><lem source="#N"><gap reason="lost"
-	                        quantity="5"
-		                unit="character"/></lem>
+	  </app><app><lem source="#N"><gap reason="lost" quantity="5" unit="character"/></lem>
 	     <note xml:lang="en">
 	       <p>Senart notes that G and AS add fragments of one more line (of which he can discern nothing on the estampages): <foreign xml:lang="san-Latn">sya ma</foreign> (AS <foreign xml:lang="san-Latn">mā</foreign>) . . . . <foreign xml:lang="san-Latn">sarva</foreign> (AS <foreign xml:lang="san-Latn">sarva[ṃ]</foreign>) <foreign xml:lang="san-Latn">rakṣāti</foreign> (AS <foreign xml:lang="san-Latn">rakṣati</foreign>) <foreign xml:lang="san-Latn">vidya</foreign> (AS <foreign xml:lang="san-Latn">viṣṇ[udatā]</foreign>) . . . . . 
 	       </p>

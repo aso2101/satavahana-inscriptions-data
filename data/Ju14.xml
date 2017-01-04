@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ju14">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ju14">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -27,7 +23,7 @@
 		on the back of the recess over the door and alongside
 		the window on its left, continguous to No. 13.
 	      </origPlace>
-	      <origDate></origDate><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -63,13 +59,7 @@
 	    talakavāḍake nivata<lb n="7" break="no"/>ṇāni 
 	    tini || nagarasa
 	  <lb n="7"/>
-	    <gap reason="lost"
-		 unit="character"
-		 quantity="3"
-		 precision="low"/>ka<gap reason="lost"
-		 unit="character"
-		 quantity="2"
-		 precision="low"/>selaüde<lb n="8" break="no"/>seṇa
+	    <gap reason="lost" unit="character" quantity="3" precision="low"/>ka<gap reason="lost" unit="character" quantity="2" precision="low"/>selaüde<lb n="8" break="no"/>seṇa
 	    nivataṇāni be
 	</p>
       </div>

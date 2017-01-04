@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N19">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,16 +9,14 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N19</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -30,9 +24,7 @@
 		in Cave No. 18, on the fifth and sixth pillars
 		of the right-hand row.
 	      </origPlace>
-	      <origDate notBefore-custom="-0025"
-			notAfter-custom="0025"
-			precision="medium">ca. 25 BCE to 25 CE</origDate>
+	      <origDate notBefore-custom="-0025" notAfter-custom="0025" precision="medium" datingMethod="cal:gregorian">ca. 25 BCE to 25 CE</origDate>
 	      <!-- NO DATE !-->
 	    </origin>
 	  </history>
@@ -71,16 +63,11 @@
 	<p>
 	  <lb n="1"/>
 	  rāyāmaca-<persName key="pers:Arahalaya">arahalayasa</persName>
-	  <placeName key="pl:Calisīlaṇa">ca<app
-	    ><lem source="#N">lisī</lem>
+	  <placeName key="pl:Calisīlaṇa">ca<app><lem source="#N">lisī</lem>
 	     <rdg source="#G">līsi</rdg>
 	     <rdg source="#AS">lisā</rdg>
 	    </app>laṇakasa</placeName> duhutuya 
-	  <persName key="pers:Hakusiri">mahāhakusi<lb n="2" break="no"/><app
-	    ><lem source="#N">r<gap
-	        reason="lost"
-		quantity="2"
-		unit="character"/>ya</lem>
+	  <persName key="pers:Hakusiri">mahāhakusi<lb n="2" break="no"/><app><lem source="#N">r<gap reason="lost" quantity="2" unit="character"/>ya</lem>
 	     <rdg source="#G">rirāya</rdg>
 	     <rdg source="#AS">ri<supplied reason="lost">yā</supplied>yaya</rdg>
 	  </app></persName>

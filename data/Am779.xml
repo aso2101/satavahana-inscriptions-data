@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am779">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am779">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,9 +20,7 @@
 		on the mid-region of an octagonal shaft for a 
 		chatrāvaḷi.
 	      </origPlace>
-	      <origDate notBefore-custom="0001"
-			notAfter-custom="0050"
-			precision="medium">Early first century CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0050" precision="medium" datingMethod="cal:gregorian">Early first century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

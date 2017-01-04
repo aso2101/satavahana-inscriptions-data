@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N24">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,25 +9,21 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N24</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
 		on the back wall of the veranda in Cave No. 20.
 	      </origPlace>
-	      <origDate
-		  when-custom="0178"
-		  precision="low">ca. 178 CE</origDate>
+	      <origDate when-custom="0178" precision="low" datingMethod="cal:gregorian">ca. 178 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -51,37 +43,27 @@
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ raño <persName key="pers:GpŚrīyajñaSātakarṇi">gotamiputasa
-	  sāmi-siriyaña-sātakaṇisa</persName> <date
-	    when-custom="7"
-	    datingPoint="pers:GpŚrīyajñaSātakarṇi"
-	    datingMethod="cal:regnal"><app
-	    ><lem source="#N">saṃvachare</lem>
+	  sāmi-siriyaña-sātakaṇisa</persName> <date when-custom="7" datingPoint="pers:GpŚrīyajñaSātakarṇi" datingMethod="cal:regnal"><app><lem source="#N">saṃvachare</lem>
 	     <rdg source="#G #AS">savachare</rdg>
 	    </app> sātame 7</date> hematāṇa pakhe tatiye 3 
 	  <lb n="2"/>
-	  divase <app
-	    ><lem source="#N">pathame</lem>
+	  divase <app><lem source="#N">pathame</lem>
 	     <rdg source="#G">padhame</rdg>
 	     <rdg source="#AS">paṭhame</rdg>
 	    </app> kosikasa mahāseṇāpatisa 
 	   <persName key="pers:Bhavagopa">bhavagopasa</persName> bharijāya
-	   mahā<app
-	     ><lem source="#N">seṇāpatiṇiya</lem>
+	   mahā<app><lem source="#N">seṇāpatiṇiya</lem>
 	      <rdg source="#AS">senāpatiniya</rdg>
 	     </app> <persName key="pers:Vāsu">vāsuya</persName> leṇa
 	   <lb n="3"/>
 	   <persName key="pers:Bopaki">bopaki</persName>yatisujamāna 
-	   apa<app
-	     ><lem source="#N">yavasita</lem>
+	   apa<app><lem source="#N">yavasita</lem>
 	      <rdg source="#AS">yavesita</rdg>
-	     </app>sa<app
-	     ><lem source="#N">māne ba</lem>
+	     </app>sa<app><lem source="#N">māne ba</lem>
 	      <rdg source="#G #AS">māṇasa pa</rdg>
-	    </app>hukāṇi varisāṇi ukute <app
-	     ><lem source="#N">payavasāṇa</lem>
+	    </app>hukāṇi varisāṇi ukute <app><lem source="#N">payavasāṇa</lem>
 	      <rdg source="#AS">payavasāne</rdg>
-	     </app> <app
-	     ><lem source="#N">nito</lem>
+	     </app> <app><lem source="#N">nito</lem>
 	      <rdg source="#G">nīte</rdg>
 	     </app>
 	   cātudi<lb n="4" break="no"/>sasa ca
@@ -89,9 +71,7 @@
 	</p>
       </div>
       <div type="translation" xml:lang="en">
-	<p>Success! On the first day of the third—3rd—fortnight of winter, in the <date when-custom="7"
-	  datingPoint="pers:GpŚrīyajñaSātakarṇi"
-	  datingMethod="cal:regnal">seventh—7th—year</date> of the king, the lord <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra Śrīyajña Sātakarṇi</persName>, the Mahāsenāpatnī <persName key="pers:Vāsu">Vāsu</persName>, wife of the Mahāsenāpati <persName key="pers:Bhavagopa">Bhavagopa</persName>, of the Kauśika family, has completed and given, as an abode to the universal saṃgha of monks, this cave which had been excavated for many years, but, after having been created by the ascetic <persName key="pers:Bopaki">Bopaki</persName>, had remained uncompleted.</p>
+	<p>Success! On the first day of the third—3rd—fortnight of winter, in the <date when-custom="7" datingPoint="pers:GpŚrīyajñaSātakarṇi" datingMethod="cal:regnal">seventh—7th—year</date> of the king, the lord <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra Śrīyajña Sātakarṇi</persName>, the Mahāsenāpatnī <persName key="pers:Vāsu">Vāsu</persName>, wife of the Mahāsenāpati <persName key="pers:Bhavagopa">Bhavagopa</persName>, of the Kauśika family, has completed and given, as an abode to the universal saṃgha of monks, this cave which had been excavated for many years, but, after having been created by the ascetic <persName key="pers:Bopaki">Bopaki</persName>, had remained uncompleted.</p>
       </div>
     </body>
   </text>

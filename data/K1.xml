@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K1">
 
   <teiHeader>
     <fileDesc>
@@ -16,15 +12,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
 		chaitya cave, left end of the verandah.
 	      </origPlace>
-	      <origDate><!-- I don't have a date for these. !-->
+	      <origDate datingMethod="cal:gregorian"><!-- I don't have a date for these. !-->
 	      </origDate>
 	    </origin>
 	  </history>
@@ -46,15 +42,13 @@
 	  <lb n="1"/>
 	  <placeName key="pl:Vaijayantī">vejayaṃtito</placeName>
 	  seṭhiṇā
-	  <persName key="pers:Bhūtapāla"><app
-             ><lem>bhu</lem>
+	  <persName key="pers:Bhūtapāla"><app><lem>bhu</lem>
 	      <rdg source="#CTI">bhū</rdg>
 	  </app>tapālen<unclear>ā</unclear></persName>
 	  selagha<app><lem>ra</lem><rdg source="#AS #CTL">raṃ</rdg></app>
 	  pariniṭhapita<unclear>ṃ</unclear>
 	 ja<unclear>ṃ</unclear>budipamhi
-	 <app
-	     ><lem>ūtama<unclear>ṃ</unclear></lem>
+	 <app><lem>ūtama<unclear>ṃ</unclear></lem>
 	      <rdg source="#AS">utama</rdg>
 	      <rdg source="#CTI">uttama</rdg>
 	 </app>

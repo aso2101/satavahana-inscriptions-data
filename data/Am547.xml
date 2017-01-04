@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am547">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am547">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		on a fragment of a rail pillar.
 	      </origPlace>
-	      <origDate notBefore-custom="0001"
-			notAfter-custom="0100"
-			precision="medium">ca. 1st century CE?</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">ca. 1st century CE?</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,32 +44,16 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    <gap reason="lost"
-		 quantity="4"
-		 unit="character"/><unclear>sa</unclear> <persName 
-		 key="pers:Am-Candra">cadasa</persName>
-	    ca mātūya<gap
-		 reason="lost"
-		 quantity="5"
-		 unit="character"/>
+	    <gap reason="lost" quantity="4" unit="character"/><unclear>sa</unclear> <persName key="pers:Am-Candra">cadasa</persName>
+	    ca mātūya<gap reason="lost" quantity="5" unit="character"/>
 	  <lb n="2"/>
-	    <gap reason="lost"
-		 quantity="4"
-		 unit="character"/>naṃ navakamikā <persName 
-		 key="pers:Am-Ḍadhānaḍāri">ḍadhānaḍāri</persName><gap
-		 reason="lost"
-		 quantity="3"
-		 unit="character"/>
+	    <gap reason="lost" quantity="4" unit="character"/>naṃ navakamikā <persName key="pers:Am-Ḍadhānaḍāri">ḍadhānaḍāri</persName><gap reason="lost" quantity="3" unit="character"/>
 	  <lb n="3"/>
-	    <gap reason="lost"
-		 quantity="4"
-		 unit="character"/>ṇo dhamakadhiko aya<persName 
-		 key="pers:Am-Ḍāraḍa">ḍāraḍo</persName> ca
+	    <gap reason="lost" quantity="4" unit="character"/>ṇo dhamakadhiko aya<persName key="pers:Am-Ḍāraḍa">ḍāraḍo</persName> ca
 	</p>
       </div>
       <div type="translation" xml:lang="en">
-	<p> ... of <persName 
-	  key="pers:Am-Candra">Candra</persName> and of his mother... 
+	<p> ... of <persName key="pers:Am-Candra">Candra</persName> and of his mother... 
 	  the overseer of works, <persName key="pers:Am-Ḍadhānaḍāri">Ḍadhānaḍāri</persName> ...
 	  and the preacher of the law, 
 	  the venerable <persName key="pers:Am-Ḍāraḍa">Ḍāraḍa</persName>.</p>

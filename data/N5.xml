@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N5">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,9 +21,7 @@
 		engraved in continuation of No. 4, from which it is separated
 		only by a Svastika.
 	      </origPlace>
-	      <origDate
-		  when-custom="0084"
-		  precision="low">ca. 84 CE</origDate>
+	      <origDate when-custom="0084" precision="low" datingMethod="cal:gregorian">ca. 84 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -66,8 +60,7 @@
 	  <lb n="6"/>
 	  si<app><lem>ddha</lem><rdg source="#AS">ddhaṃ</rdg></app> 
 	  <placeName key="pl:Govardhana">govadhane</placeName>
-	  amacasa <persName key="pers:Śyāmaka"><app
-	    ><lem>sā</lem><rdg source="#G #AS">sa</rdg></app>makasa</persName>
+	  amacasa <persName key="pers:Śyāmaka"><app><lem>sā</lem><rdg source="#G #AS">sa</rdg></app>makasa</persName>
 	  <unclear>de</unclear>yo 
 	  rā<app><lem>jāṇi</lem><rdg source="#G">jani</rdg><rdg source="#AS">jaṇi</rdg></app>to
 	  <lb n="7"/>
@@ -80,13 +73,12 @@
 	  <supplied reason="lost">ama</supplied>co 
 	  <persName key="pers:Śyāmaka">sāmako</persName>
 	  arogavatavo tato eva
-	  <app><lem>ca</lem><rdg source="#G #AS"></rdg></app>
+	  <app><lem>ca</lem><rdg source="#G #AS"/></app>
 	  <lb n="8"/>
 	  vatavo <app><lem>etha</lem><rdg source="#AS">eṭha</rdg></app>
 	  amhehi pavate
 	  <placeName key="pl:Tiraṇhu">tiraṇhumi</placeName>
-	  amhadhamadāne leṇe pativasatā<app
-	    ><lem>naṃ</lem>
+	  amhadhamadāne leṇe pativasatā<app><lem>naṃ</lem>
 	     <rdg source="#G #AS">na</rdg>
 	  </app> pavajitāna bhikhūna gāme
 	  <placeName key="pl:Kakhaḍi">kakhaḍīsu</placeName>
@@ -112,14 +104,12 @@
 	  khetasa nivataṇasataṃ 100 tasa ca khetasa 
 	  parihā<app><lem>ra</lem><rdg source="#G">raṃ</rdg></app>
 	  vitarāma apāvesa anomasa aloṇakhādaka araṭhasavinayika
-	  savajārapārihārika <app><lem>ca</lem><rdg source="#AS"></rdg></app>
+	  savajārapārihārika <app><lem>ca</lem><rdg source="#AS"/></app>
 	  <lb n="11"/>
-	  etehi na parihārehi pari<app
-	     ><lem>hareṭha</lem>
+	  etehi na parihārehi pari<app><lem>hareṭha</lem>
 	      <rdg source="#G">haratha</rdg>
 	      <rdg source="#AS">hereṭha</rdg>
-	  </app> eta casa khetapa<app
-	     ><lem>rīhāre</lem>
+	  </app> eta casa khetapa<app><lem>rīhāre</lem>
 	      <rdg source="#G">rihāra</rdg>
 	      <rdg source="#AS">rihāra</rdg>
 	  </app> ca <app><lem>etha</lem><rdg source="#AS">eṭha</rdg></app>
@@ -133,25 +123,20 @@
 	    <rdg source="#G">lājanīyamatā</rdg>
 	    <rdg source="#AS">loṭāya matā</rdg>
 	  </app> le<app><lem>kho</lem><rdg source="#G #AS">khe</rdg></app>
-	  <date when-custom="24"
-		datingPoint="pers:GpŚrīSātakarṇi"
-		datingMethod="cal:regnal">savachare 24</date>
+	  <date when-custom="24" datingPoint="pers:GpŚrīSātakarṇi" datingMethod="cal:regnal">savachare 24</date>
 	  <lb n="12"/>
 	  <app>
 	    <lem>vā</lem>
 	    <rdg source="#AS"><unclear>va</unclear></rdg>
 	  </app>sāna pakhe 4 divase 
 	  <app><lem>pa</lem><rdg source="#G">paṃ</rdg></app>chame
-	  5 <persName key="pers:Sujīvin"><app
-	    ><lem>sujivinā</lem>
+	  5 <persName key="pers:Sujīvin"><app><lem>sujivinā</lem>
 	     <rdg source="#G">pu<unclear>va</unclear>jitinā</rdg>
 	     <rdg source="#AS">pujitinā</rdg>
 	  </app></persName> kaṭā
 	  niba<app><lem>dho</lem><rdg source="#G">dhā</rdg></app>
 	  nibadho 
-	  <date when-custom="24"
-		datingPoint="pers:GpŚrīSātakarṇi"
-		datingMethod="cal:regnal"><app><lem>sava</lem><rdg source="#AS">saṃvā</rdg></app>chare
+	  <date when-custom="24" datingPoint="pers:GpŚrīSātakarṇi" datingMethod="cal:regnal"><app><lem>sava</lem><rdg source="#AS">saṃvā</rdg></app>chare
 	  24</date> gimhāṇa pakhe 2 divase 10
         </p>
       </div>
@@ -197,14 +182,10 @@
 	  <persName key="pers:Loṭā">Loṭā</persName>, the door-keeper;
 	  (the charter) executed by 
 	  <persName key="pers:Sujīvin">Sujīvin</persName> in the 
-	  <date when-custom="24"
-		datingMethod="cal:regnal"
-		datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
+	  <date when-custom="24" datingMethod="cal:regnal" datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
 	  in the 4th fortnight of the rainy season, on the fifth —
 	  5th — day. The donation had been made in the 
-	  <date when-custom="24"
-		datingMethod="cal:regnal"
-		datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
+	  <date when-custom="24" datingMethod="cal:regnal" datingPoint="pers:GpŚrīSātakarṇi">year 24</date>,
 	  in the 2nd fortnight of summer, on the 10th day.
 	</p>
       </div>

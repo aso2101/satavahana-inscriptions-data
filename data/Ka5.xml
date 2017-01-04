@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ka5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ka5">
 
   <teiHeader>
     <fileDesc>
@@ -16,7 +12,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <layoutDesc>
@@ -35,9 +31,7 @@
 		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
 		on the right hand gate post of the Caitya Cave, No. 3.
 	      </origPlace>
-	      <origDate notBefore-custom="0171"
-			notAfter-custom="0199"
-			precision="low">ca. 171–199 CE</origDate>
+	      <origDate notBefore-custom="0171" notAfter-custom="0199" precision="low" datingMethod="cal:gregorian">ca. 171–199 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -55,52 +49,32 @@
 	  raño <persName key="pers:GpŚrīyajñaSātakarṇi">gotam<supplied reason="lost">iputasa sāmi siri yaṇasa</supplied>
 	  <lb n="2"/>
 	  sotakaṃṇissa</persName> <supplied reason="lost">saṃvachare</supplied>
-	  <gap reason="lost"
-	       quantity="5"
-	       unit="character"/><supplied reason="lost">gi</supplied><lb n="3" break="no"/>mhapakhe paṃcame <supplied reason="lost">5 divase</supplied>
-	  <gap reason="lost"
-	       quantity="5"
-	       unit="character"/>
+	  <gap reason="lost" quantity="5" unit="character"/><supplied reason="lost">gi</supplied><lb n="3" break="no"/>mhapakhe paṃcame <supplied reason="lost">5 divase</supplied>
+	  <gap reason="lost" quantity="5" unit="character"/>
 	  <lb n="4"/>
-	  vāṇijakehi utu<gap reason="lost"
-	                     quantity="9"
-	                     unit="character"/>
+	  vāṇijakehi utu<gap reason="lost" quantity="9" unit="character"/>
 	  <lb n="5"/>
-	  ṇuya upaṃnehi gā<gap reason="lost"
-	                       quantity="10"
-			       unit="character"/>
+	  ṇuya upaṃnehi gā<gap reason="lost" quantity="10" unit="character"/>
 	  <lb n="6"/>
-	  khātiyehi bhātuhi<gap reason="lost"
-	                        extent="unknown"
-				unit="character"/>
+	  khātiyehi bhātuhi<gap reason="lost" extent="unknown" unit="character"/>
 	  <lb n="7"/>
 	  <persName key="pers:Gajasena">gajaseṇena</persName> 
 	  <persName key="pers:Gajamitra">gajami<supplied reason="lost">tena</supplied></persName>
-	  <gap reason="lost"
-	       extent="unknown"
-	       unit="character"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>
 	  <lb n="8"/>
 	  kapaṭhāyi ceti<supplied reason="lost">ya</supplied>
-	  <gap reason="lost"
-	       quantity="9"
-	       unit="character"/>
+	  <gap reason="lost" quantity="9" unit="character"/>
 	  <lb n="9"/>
 	  ācariyāṇaṃ nikā<supplied reason="lost">yasa</supplied>
-	  <gap reason="lost"
-	       quantity="5"
-	       unit="character"/>
+	  <gap reason="lost" quantity="5" unit="character"/>
 	  <supplied reason="lost">bhādāya</supplied>
 	  <lb n="10"/>
 	  nīyānaṃ parigahe pa<supplied reason="lost">tiṭhāpitaṃ</supplied>
-	  <gap reason="lost"
-	       quantity="5"
-	       unit="character"/>
+	  <gap reason="lost" quantity="5" unit="character"/>
 	  <supplied reason="lost">mā</supplied>
 	  <lb n="11"/>
 	  tapitunaṃ abhatītā<supplied reason="lost">naṃ</supplied>
-	  <gap reason="lost"
-	       quantity="7"
-	       unit="character"/>
+	  <gap reason="lost" quantity="7" unit="character"/>
 	  <lb n="12"/>
 	  pūjāya kuṭuṃbini<supplied reason="lost">na bāla</supplied><app>
 	    <lem>kānaṃ bāli</lem>
@@ -112,9 +86,7 @@
 	  vagasa ca aga paṭiasiya savvasa<supplied reason="lost">tānaṃ</supplied>
 	  <lb n="15"/>
 	  ca hitasukhāya hetu etha ca nave
-	  <gap reason="lost"
-	       quantity="4"
-	       unit="character"/>
+	  <gap reason="lost" quantity="4" unit="character"/>
 	  <lb n="16"/>
 	  kā pavajito therā bhadata <persName key="pers:BhAcala">acala</persName> bhadaṃ<supplied reason="lost">ta</supplied>
 	  <lb n="17"/>

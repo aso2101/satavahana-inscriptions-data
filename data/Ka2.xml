@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ka2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ka2">
 
   <teiHeader>
     <fileDesc>
@@ -16,7 +12,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <layoutDesc>
@@ -35,9 +31,7 @@
 		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
 		above a long bench on the back wall of Cave No. 2.
 	      </origPlace>
-	      <origDate notBefore-custom="0100"
-			notAfter-custom="0150"
-			precision="medium">early 2nd c. CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0150" precision="medium" datingMethod="cal:gregorian">early 2nd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N11">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N11">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,26 +9,22 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N11</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
-		in the veranda of Cave No> 10, over the doorway of the
+		in the veranda of Cave No&gt; 10, over the doorway of the
 		left cell.
 	      </origPlace>
-	      <origDate notBefore-custom="0060"
-			notAfter-custom="0084"
-			precision="medium">ca. 60–84 CE</origDate>
+	      <origDate notBefore-custom="0060" notAfter-custom="0084" precision="medium" datingMethod="cal:gregorian">ca. 60–84 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -65,8 +57,7 @@
 	  dīhi<lb n="2" break="no"/>tu
 	  <persName key="pers:Dīnīka">dīnīka</persName>putrasa
 	  <persName key="pers:Uṣavadāta">uṣavadātasa</persName>
-	  kuḍumbiniya <persName key="pers:Dakṣamitrā">dakha<app
-	    ><lem source="#N">mitrāya</lem>
+	  kuḍumbiniya <persName key="pers:Dakṣamitrā">dakha<app><lem source="#N">mitrāya</lem>
 	     <rdg source="#AS">mitāya</rdg></app></persName>
 	  deya<app><lem source="#N">dhaṃmaṃ</lem>
 	           <rdg source="#G">dhammaṃ</rdg></app>

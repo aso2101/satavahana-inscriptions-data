@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,18 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>.
 		on one of the dome-slabs.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0171"
-		  notAfter-custom="0199"
-		  precision="medium">c. 171–199 CE</origDate>
+	      <origDate notBefore-custom="0171" notAfter-custom="0199" precision="medium" datingMethod="cal:gregorian">c. 171–199 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -63,32 +56,20 @@
 	    gotamapu<supplied reason="lost">trasya</supplied>
 	    śrī-yajṇa-<unclear>sa</unclear>takaṇisya
 	  </persName>
-	  saṃvatsare <gap reason="lost"
-	                  quantity="3"
-			  unit="character"/>
+	  saṃvatsare <gap reason="lost" quantity="3" unit="character"/>
 	  vāsa-pa 5 divase 8 
 	  <placeName key="pl:Ujjayinī">ujjayini</placeName>-upasakena
 	  <lb n="2"/>
 	  <persName key="pers:Am-Jayila">jayilena</persName> 
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>
+	  <gap reason="lost" quantity="3" unit="character"/>
 	  mahācetiya
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>
+	  <gap reason="lost" quantity="3" unit="character"/>
 	  kāritaṃ
-	  <gap reason="lost"
-	       quantity="2"
-	       unit="character"/>
+	  <gap reason="lost" quantity="2" unit="character"/>
 	  <lb n="3"/>
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>
+	  <gap reason="lost" quantity="3" unit="character"/>
 	  <placeName key="pl:Dhānyakaṭaka">dhanakaṭa</placeName>-cetiya
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>
+	  <gap reason="lost" quantity="3" unit="character"/>
         </p>
       </div>
       <div type="translation" xml:lang="en">

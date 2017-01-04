@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N18">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N18">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,25 +9,21 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N18</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
 		on the back wall of the veranda in Cave No. 17.
 	      </origPlace>
-	      <origDate notBefore-custom="0050"
-			notAfter-custom="0100"
-			precision="medium">latter half of 1st c. CE.</origDate>
+	      <origDate notBefore-custom="0050" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">latter half of 1st c. CE.</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,18 +42,15 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  sidhaṃ otarāhasa <placeName key="pl:Dattāmitrī"><app
-	    ><lem source="#N">dātā</lem>
+	  sidhaṃ otarāhasa <placeName key="pl:Dattāmitrī"><app><lem source="#N">dātā</lem>
 	     <rdg source="#G #AS">daṃtā</rdg>
            </app>mitiyakasa</placeName> teṇakasa 
 	   <persName key="pers:Dharmadeva">dhaṃmadeva</persName>putasa
-	   <persName key="pers:Indrāgnidatta"><app
-	     ><lem source="#N">īdrāgni</lem>
+	   <persName key="pers:Indrāgnidatta"><app><lem source="#N">īdrāgni</lem>
 	      <rdg source="#G">iṃdrāgni</rdg>
 	      <rdg source="#AS">īdāgni</rdg>
 	   </app>datasa</persName>
-	   dhaṃmātma<app
-	     ><lem source="#N">nā</lem>
+	   dhaṃmātma<app><lem source="#N">nā</lem>
 	      <rdg>
 		<note xml:lang="sa">
 		  <p>Senart notes: “The stroke which, rising perpendicularly,
@@ -76,17 +65,14 @@
 	     <lem source="#N">imaṃ le</lem>
 	     <rdg source="#G #AS">ima te</rdg>
 	   </app>ṇaṃ pavate <placeName key="pl:Tiraṇhu">tiraṃṇhumhi</placeName>
-	   khānitaṃ abhaṃtaraṃ ca leṇasa cetiyagharo <app
-	     ><lem source="#N">poḍhiyo</lem>
+	   khānitaṃ abhaṃtaraṃ ca leṇasa cetiyagharo <app><lem source="#N">poḍhiyo</lem>
 	      <rdg source="#G">podhiṃyo</rdg>
 	      <rdg source="#AS">poṃdhiyo</rdg>
 	   </app> ca mātāpi<lb n="3" break="no"/>taro
-	   udisa ima <app
-	     ><lem source="#N">leṇa</lem>
+	   udisa ima <app><lem source="#N">leṇa</lem>
 	      <rdg source="#AS">leṇaṃ</rdg>
 	   </app> kāritaṃ sava-budha-pujāya
-	   cātudiśasa <app
-	     ><lem source="#N">bhikhū</lem>
+	   cātudiśasa <app><lem source="#N">bhikhū</lem>
 	      <rdg source="#G">bhikhu</rdg>
            </app>saṃghasa niyātitaṃ
 	   sa<lb n="4" break="no"/>ha putena 

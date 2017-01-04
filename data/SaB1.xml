@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaB1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaB1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
 	      <support>A <material>limestone</material> <objectType>slab</objectType>, 
@@ -34,22 +30,16 @@
 	      <origPlace>
 		Found during the excavations at <placeName key="pl:Sannati">Sannati</placeName> (<placeName key="pl:SAN-1">SAN-1</placeName>).
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0001"
-		  notAfter-custom="0100"
-		  precision="medium"
-		  evidence="paleography">1st c. CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="paleography" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
-	    <provenance
-		when="2016">Current whereabouts unknown.</provenance>
+	    <provenance when="2016">Current whereabouts unknown.</provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <graphic
-	url="images/SaB1-sarma1993.jpg">
+    <graphic url="images/SaB1-sarma1993.jpg">
       <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
     </graphic>
   </facsimile>
@@ -79,8 +69,7 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  ya a<app><lem resp="#AO">ma</lem><rdg
-	                source="#Sarma1993">mā</rdg></app>caputasa 
+	  ya a<app><lem resp="#AO">ma</lem><rdg source="#Sarma1993">mā</rdg></app>caputasa 
 	  <persName key="pers:Sa-Priyadatta">piyadatasa</persName>
 	</p>
       </div>

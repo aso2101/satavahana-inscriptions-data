@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaA3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaA3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
 	      <support>An inscribed limestone slab 
@@ -29,11 +25,7 @@
 		located in the compound wall of a house in the village
 		by J. Varaprasada Rao.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0148"
-		  notAfter-custom="0156"
-		  precision="medium"
-		  evidence="nomenclature">ca. 148–156 CE</origDate>
+	      <origDate notBefore-custom="0148" notAfter-custom="0156" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">ca. 148–156 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -49,47 +41,30 @@
 	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
 	</div>
 	<p>
-	  <div
-	      type="textpart"
-	      subtype="face"
-	      n="1">
+	  <div type="textpart" subtype="face" n="1">
 	    <ab>
 	      <lb n="1"/>
 	      <persName key="pers:VpŚivaśrīPuḷumāvi">
 		<supplied reason="lost">vāsiṭhī</supplied>puto 
 	        śivasiri puḍu<unclear>ma</unclear></persName>
 	      <lb n="2"/>
-	      <gap reason="lost"
-		   extent="unknown"
-		   unit="character"/>
-	      <unclear>na</unclear>su kinādikesu kadamūla<gap reason="lost"
-		   extent="unknown"
-		   unit="character"/>
+	      <gap reason="lost" extent="unknown" unit="character"/>
+	      <unclear>na</unclear>su kinādikesu kadamūla<gap reason="lost" extent="unknown" unit="character"/>
 	      <lb n="3"/>
-	      <gap reason="lost"
-		   extent="unknown"
-		   unit="character"/>
+	      <gap reason="lost" extent="unknown" unit="character"/>
 	      yayatelasa
 h	      <lb n="4"/>
-	      <gap reason="lost"
-		   extent="unknown"
-		   unit="character"/>
+	      <gap reason="lost" extent="unknown" unit="character"/>
 	      tapānakaretenam navasi
 	    </ab>
 	  </div>
-	  <div type="textpart"
-	       subtype="face"
-	       n="2">
+	  <div type="textpart" subtype="face" n="2">
 	    <ab>
 	      <lb n="5"/>
-	      <gap reason="lost"
-		   extent="unknown"
-		   unit="character"/>
+	      <gap reason="lost" extent="unknown" unit="character"/>
 	      atāpasanevānavasitavadāranā<unclear>la</unclear>
 	      <lb n="6"/>
-	      <gap reason="lost"
-		   extent="unknown"
-		   unit="character"/>
+	      <gap reason="lost" extent="unknown" unit="character"/>
 	      tavosudhāvāsikenachakaratiparivuthe
 	    </ab>
 	  </div>

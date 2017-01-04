@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaC5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaC5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
@@ -35,10 +31,7 @@
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0001"
-		  notAfter-custom="0100"
-		  precision="medium">1st c. CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	    <provenance type="found" subtype="discovered">
 	      <p>Found in 

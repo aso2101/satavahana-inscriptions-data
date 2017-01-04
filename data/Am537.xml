@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am537">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am537">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		on a fragment of an oblong rail pillar.
 	      </origPlace>
-	      <origDate notBefore-custom="0001"
-			notAfter-custom="0100"
-			precision="medium">ca. 1st century CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">ca. 1st century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,17 +44,10 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    <gap reason="lost"
-	         unit="character"
-		 quantity="unknown"/>tasa 
+	    <gap reason="lost" unit="character" quantity="unknown"/>tasa 
 	    <persName key="pers:Am-Likhita">likhitasa</persName> 
-	    thaṃbho bhi<app><lem 
-	      source="#Chandra1919">da nāpa<unclear>ṭali</unclear>talē</lem><note
-	      xml:lang="en"><p>The editor (F.W. Thomas) suggests the
-	      reading <foreign xml:lang="san-Latn">bhikhuṇo pāṭaliputāto</foreign>.</p></note></app><gap
-	      reason="lost"
-	      quantity="unknown"
-	      unit="character"/>	      
+	    thaṃbho bhi<app><lem source="#Chandra1919">da nāpa<unclear>ṭali</unclear>talē</lem><note xml:lang="en"><p>The editor (F.W. Thomas) suggests the
+	      reading <foreign xml:lang="san-Latn">bhikhuṇo pāṭaliputāto</foreign>.</p></note></app><gap reason="lost" quantity="unknown" unit="character"/>	      
         </p>
       </div>
       <div type="translation" xml:lang="en">

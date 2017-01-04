@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ca1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ca1">
 
   <teiHeader>
     <fileDesc>
@@ -16,17 +12,14 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Candankhedā">Candankhedā</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0100"
-		  notAfter-custom="-0075"
-		  precision="medium">early 1st c. BCE</origDate>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0075" precision="medium" datingMethod="cal:gregorian">early 1st c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -54,9 +47,7 @@
 	  <persName key="pers:ŚrīSātakarṇi">
 	    siri sātakaṃṇi<lb n="2" break="no"/>sa
 	  </persName>
-	  <date when-custom="30"
-		datingMethod="cal:regnal"
-		datingPoint="pers:ŚrīSātakarṇi">tise saṃvachare</date>
+	  <date when-custom="30" datingMethod="cal:regnal" datingPoint="pers:ŚrīSātakarṇi">tise saṃvachare</date>
 	  sava<lb n="3" break="no"/>tobhada-donamukhasa
 	  ka<lb n="4" break="no"/>pāsasa kaṭakāraṃ
         </p>
@@ -64,9 +55,7 @@
       <div type="translation" xml:lang="en">
 	<p>
 	  In the 
-	  <date when-custom="30"
-		datingPoint="pers:ŚrīSātakarṇi"
-		datingMethod="cal:regnal">year thirty</date>
+	  <date when-custom="30" datingPoint="pers:ŚrīSātakarṇi" datingMethod="cal:regnal">year thirty</date>
 	  of king
 	  <persName key="pers:ŚrīSātakarṇi">Śrī Sātakarṇi</persName>—(this
 	  is) the toll in cotton harvest of the Droṇamukha named

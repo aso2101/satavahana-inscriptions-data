@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N8">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,10 +21,7 @@
 		on the back wall of the veranda in Cave No. 8,
 		right of the doorway.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0060"
-		  notAfter-custom="0100"
-		  precision="medium">later 1st c. CE</origDate>
+	      <origDate notBefore-custom="0060" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">later 1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -48,8 +41,7 @@
 	<p>
 	  <lb n="1"/>
 	  dāsakasa
-	  <persName key="pers:Mugūdāsa">mu<app
-	    ><lem>gū</lem><rdg source="#AS">gu</rdg></app>dāsasa</persName>
+	  <persName key="pers:Mugūdāsa">mu<app><lem>gū</lem><rdg source="#AS">gu</rdg></app>dāsasa</persName>
 	  saparivārasa le<app><lem>ṇa</lem><rdg source="#G">ṇaṃ</rdg></app>
 	  deya<app><lem>dha</lem><rdg source="#G">dhaṃ</rdg></app>ma
         </p>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaB9">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaB9">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	  </physDesc>
 	  <history>
@@ -24,11 +20,7 @@
 		<placeName key="pl:Sannati">Sannati</placeName>,
 		in a stone built into the steps of the bathing ghāṭ.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0100"
-		  notAfter-custom="0200"
-		  precision="medium"
-		  evidence="nomenclature">2nd c. CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">2nd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -55,14 +47,11 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  bhoju <app><lem source="#Sarma1993">ja</lem><rdg
-	                  source="#ARIE1966">jā</rdg></app>na agiṭhoma
+	  bhoju <app><lem source="#Sarma1993">ja</lem><rdg source="#ARIE1966">jā</rdg></app>na agiṭhoma
 	  <lb n="2"/>
 	  <unclear>ravi</unclear>naka asabhaḍa<unclear>sa</unclear>
 	  <lb n="3"/>
-	  <gap reason="lost"
-	       quantity="1"
-	       unit="character"/>ya 
+	  <gap reason="lost" quantity="1" unit="character"/>ya 
 	  aṭha<unclear>sa</unclear>na<unclear>me</unclear>
 	  <lb n="4"/>
 	  pālitasa

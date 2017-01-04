@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Pau6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Pau6">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
@@ -32,18 +28,14 @@
 		<placeName key="pl:Pauni">Pauni</placeName>,
 		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0100"
-		  notAfter-custom="-0001"
-		  precision="medium"
-		  evidence="nomenclature">1st c. BCE</origDate>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1st c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile></facsimile>
+  <facsimile/>
   <text>
     <body>
       <div type="bibliography" xml:lang="en">

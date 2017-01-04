@@ -1,28 +1,23 @@
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Pallava-01">
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Pallava-01">
   <teiHeader>
     <fileDesc>
       <titleStmt>
 	<title>Penugonda Plates of Hastivarman</title>
       </titleStmt>
       <publicationStmt>
-	<authority>Sātavāhana Inscriptions</authority>
+	<authority>S&#x101;tav&#x101;hana Inscriptions</authority>
 	<idno>Pe1</idno><!-- How should the 
 	                       Pallava inscriptions 
 			       be named? !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
@@ -44,15 +39,12 @@
 	      <!-- <origPlace>
 		<placeName type="modern" key="pl:Penukoṇḍa">Penukoṇḍa</placeName>.
 	      </origPlace> !-->
-	      <origDate notBefore-custom="0325"
-			notAfter-custom="0375"
-			precision="medium">middle of the 4th c.</origDate>
+	      <origDate notBefore-custom="0325" notAfter-custom="0375" precision="medium" datingMethod="cal:gregorian">middle of the 4th c.</origDate>
 	    </origin>
 	    <provenance type="found">
-	      <placeName type="modern" key="pl:Penukoṇḍa">Penukoṇḍa</placeName>, in 
+	      <placeName type="modern" key="pl:Penuko&#x1E47;&#x1E0D;a">Penuko&#x1E47;&#x1E0D;a</placeName>, in 
 	      the West Godavari District,
-	      <placeName type="modern"
-			 key="pl:AndhraPradesh">Andhra Pradesh</placeName>.
+	      <placeName type="modern" key="pl:AndhraPradesh">Andhra Pradesh</placeName>.
 	      Sent to the Government Epigraphist by
 	      Mr. R. V. Krishna Rao of Rajahmundry.
 	    </provenance>
@@ -71,107 +63,84 @@
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
-	<p>This edition is based on <ref target="bibl:Sircar1963–1964">Sircar 1963–1964</ref>.</p>
+	<p>This edition is based on <ref target="bibl:Sircar1963&#x2013;1964">Sircar 1963&#x2013;1964</ref>.</p>
       </div>
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<div type="textpart"
-	     subtype="plate"
-	     n="1B">
+	<div type="textpart" subtype="plate" n="1B">
 	  <ab>
 	  <lb n="1"/>
-	  siddhaṃ <supplied reason="omitted">|</supplied>
-	  vijaya-<placeName key="pl:Jayapura">jayapurā</placeName>
-	  bhagavan-nārāyaṇa-caraṇāravinda<lb break="no"
-	    n="2"/>rajovaguṇḍita-śirassa vāsa-satāyukassa
-	  mahāraja-sirī-</ab>
+	  siddha&#x1E43; <supplied reason="omitted">|</supplied>
+	  vijaya-<placeName key="pl:Jayapura">jayapur&#x101;</placeName>
+	  bhagavan-n&#x101;r&#x101;ya&#x1E47;a-cara&#x1E47;&#x101;ravinda<lb break="no" n="2"/>rajovagu&#x1E47;&#x1E0D;ita-&#x15B;irassa v&#x101;sa-sat&#x101;yukassa
+	  mah&#x101;raja-sir&#x12B;-</ab>
 	</div>
       </div>
-      <div type="textpart"
-	   subtype="plate"
-	   n="2A">
+      <div type="textpart" subtype="plate" n="2A">
 	<ab>
-	<lb n="3" break="no"/><persName
-	  key="pers:Hastivarman">hatthivammassa</persName> vayaṇeṇa
-	  <placeName key="pl:Kānīra">kānīrāhāre</placeName> appaṇo
+	<lb n="3" break="no"/><persName key="pers:Hastivarman">hatthivammassa</persName> vaya&#x1E47;e&#x1E47;a
+	  <placeName key="pl:K&#x101;n&#x12B;ra">k&#x101;n&#x12B;r&#x101;h&#x101;re</placeName> appa&#x1E47;o
 	<lb n="4"/>
-	  dhammāyu-bala-vivaddhaṇatthaṃ svarnnayanārtthañca
+	  dhamm&#x101;yu-bala-vivaddha&#x1E47;attha&#x1E43; svarnnayan&#x101;rttha&#xF1;ca
 	</ab>
       </div>
-      <div type="textpart"
-	   subtype="plate"
-	   n="2B">
+      <div type="textpart" subtype="plate" n="2B">
 	<ab>
 	<lb n="5"/>
-          amha-punn-appāyana-nimitte <placeName
-	    key="pl:Mulukuli">mulukuli</placeName>-muduḍa-ppamu<lb
-	    n="6" break="no"/><choice><sic>hā</sic><corr>ho</corr></choice>
-	  gāmo bhāṇitavvo <supplied reason="omitted">|</supplied>
-	  etaṃ g<choice><sic>a</sic><corr>ā</corr></choice>maṃ
-	  nānā-gotra-caraṇa-
+          amha-punn-app&#x101;yana-nimitte <placeName key="pl:Mulukuli">mulukuli</placeName>-mudu&#x1E0D;a-ppamu<lb n="6" break="no"/><choice><sic>h&#x101;</sic><corr>ho</corr></choice>
+	  g&#x101;mo bh&#x101;&#x1E47;itavvo <supplied reason="omitted">|</supplied>
+	  eta&#x1E43; g<choice><sic>a</sic><corr>&#x101;</corr></choice>ma&#x1E43;
+	  n&#x101;n&#x101;-gotra-cara&#x1E47;a-
 	</ab>
       </div>
-      <div type="textpart"
-	   subtype="plate"
-	   n="3A">
+      <div type="textpart" subtype="plate" n="3A">
 	<ab>
-	<lb n="7" break="no"/>tapa-sajjhāya-homa-vrata-niyama-ratāṇam
-	  veda-vedāṅgeti<lb n="8"
-	  break="no"/>hāsa-purāṇa-niroga-chandovicita-pavayaṇa-pāragāṇaṃ 
+	<lb n="7" break="no"/>tapa-sajjh&#x101;ya-homa-vrata-niyama-rat&#x101;&#x1E47;am
+	  veda-ved&#x101;&#x1E45;geti<lb n="8" break="no"/>h&#x101;sa-pur&#x101;&#x1E47;a-niroga-chandovicita-pavaya&#x1E47;a-p&#x101;rag&#x101;&#x1E47;a&#x1E43; 
 	</ab>
       </div>
-      <div type="textpart"
-	   subtype="plate"
-	   n="3B">
+      <div type="textpart" subtype="plate" n="3B">
 	<ab>
 	<lb n="9"/>
-	  yajana-yājanādhyayanādhyāpana-dāna-pratigraha-ṣaṭka<lb
-	    n="10" break="no"/>rmma-niradāṇaṃ saṭṭhi-bamhaṇāṇaṃ
+	  yajana-y&#x101;jan&#x101;dhyayan&#x101;dhy&#x101;pana-d&#x101;na-pratigraha-&#x1E63;a&#x1E6D;ka<lb n="10" break="no"/>rmma-nirad&#x101;&#x1E47;a&#x1E43; sa&#x1E6D;&#x1E6D;hi-bamha&#x1E47;&#x101;&#x1E47;a&#x1E43;
 	  amhehi prathama-
 	</ab>
       </div>
-      <div type="textpart"
-	   subtype="plate"
-	   n="4">
+      <div type="textpart" subtype="plate" n="4">
 	<ab>
-	<lb n="11" break="no"/>kalyāṇa-dakṣiṇa-nimitte
-	  saṃ<choice><sic></sic><corr>pa</corr></choice>
-	  <supplied reason="omitted">|</supplied> taṃ
-	  devata<choice><sic>ttha</sic><corr>tthe</corr></choice>ṇa
+	<lb n="11" break="no"/>kaly&#x101;&#x1E47;a-dak&#x1E63;i&#x1E47;a-nimitte
+	  sa&#x1E43;<choice><sic/><corr>pa</corr></choice>
+	  <supplied reason="omitted">|</supplied> ta&#x1E43;
+	  devata<choice><sic>ttha</sic><corr>tthe</corr></choice>&#x1E47;a
 	<lb n="12"/>
-	  savva-bādha-parīhārehi pariharadha
-	  <supplied reason="omitted">|</supplied> ā-chanda-tārakaṃ
+	  savva-b&#x101;dha-par&#x12B;h&#x101;rehi pariharadha
+	  <supplied reason="omitted">|</supplied> &#x101;-chanda-t&#x101;raka&#x1E43;
 	</ab>
       </div>
-      <div type="textpart"
-	   subtype="plate"
-	   n="4B">
+      <div type="textpart" subtype="plate" n="4B">
 	<ab>
 	<lb n="13"/>
-	  bhuñjantu | <unclear>dabe
-	  sa</unclear>vaccha<choice><sic>re</sic><corr>rā</corr></choice>
-	  jeṭṭha-māsa-kālaṭṭhamiyaya
+	  bhu&#xF1;jantu | <unclear>dabe
+	  sa</unclear>vaccha<choice><sic>re</sic><corr>r&#x101;</corr></choice>
+	  je&#x1E6D;&#x1E6D;ha-m&#x101;sa-k&#x101;la&#x1E6D;&#x1E6D;hamiyaya
 	<lb n="14"/>
-	  sa-muhāṇattī bhadrapada-nakṣa<unclear>tre</unclear>
-	  saṃpadattaṃ || bahubhirvvasu<lb n="15" break="no"/>dhā
-	  dattā bahubhiśc<unclear>ān</unclear>upāli<unclear>t</unclear>ā
+	  sa-muh&#x101;&#x1E47;att&#x12B; bhadrapada-nak&#x1E63;a<unclear>tre</unclear>
+	  sa&#x1E43;padatta&#x1E43; || bahubhirvvasu<lb n="15" break="no"/>dh&#x101;
+	  datt&#x101; bahubhi&#x15B;c<unclear>&#x101;n</unclear>up&#x101;li<unclear>t</unclear>&#x101;
 	  <supplied reason="omitted">|</supplied>
 	</ab>
       </div>
-      <div type="textpart"
-	   subtype="plate"
-	   n="5A">
+      <div type="textpart" subtype="plate" n="5A">
 	<ab>
 	<lb n="16"/>
-	  yasya yasya yadā <unclear>bhū</unclear>mis tasya tasya tadā phalam
+	  yasya yasya yad&#x101; <unclear>bh&#x16B;</unclear>mis tasya tasya tad&#x101; phalam
  	  |<supplied reason="omitted">|</supplied>
 	<lb n="17"/>
-	  sa<choice><sic>ṣḍi</sic><corr>ṣṭi</corr></choice>-varṣa-saha<unclear>s</unclear>r<unclear>āṇ</unclear>i
+	  sa<choice><sic>&#x1E63;&#x1E0D;i</sic><corr>&#x1E63;&#x1E6D;i</corr></choice>-var&#x1E63;a-saha<unclear>s</unclear>r<unclear>&#x101;&#x1E47;</unclear>i
 	  sva<choice><sic>ggi</sic><corr>rgge</corr></choice>
-	  modati <unclear>bhū</unclear>midaḥ <supplied reason="omitted">|</supplied> apaharttā cānumantā ca
+	  modati <unclear>bh&#x16B;</unclear>mida&#x1E25; <supplied reason="omitted">|</supplied> apahartt&#x101; c&#x101;numant&#x101; ca
 	<lb n="18"/>
-	  tāvan narakam ṛcchati |<supplied reason="omitted">|</supplied>
-	  amāttya-<persName
-	    key="pers:Jayasvāmin">jayas<unclear>v</unclear>ā<choice><sic>mī</sic><corr>mi</corr></choice>nā</persName>
+	  t&#x101;van narakam &#x1E5B;cchati |<supplied reason="omitted">|</supplied>
+	  am&#x101;ttya-<persName key="pers:Jayasv&#x101;min">jayas<unclear>v</unclear>&#x101;<choice><sic>m&#x12B;</sic><corr>mi</corr></choice>n&#x101;</persName>
 	  <supplied reason="omitted">|</supplied>
 	</ab>
       </div>
@@ -179,33 +148,33 @@
 	<p>Let there be success! From the victorious
 	  <placeName key="pl:Jayapura">Jayapura</placeName>, the villagers
 	  of <placeName key="pl:Mulukuli">Mulukuli</placeName> in the
-	  <placeName key="pl:Kānīra">Kānīra</placeName> district, headed
-	  by (their) mutuḍa, should be addressed in the (following) words
-	  of the illustrious Mahārāja
+	  <placeName key="pl:K&#x101;n&#x12B;ra">K&#x101;n&#x12B;ra</placeName> district, headed
+	  by (their) mutu&#x1E0D;a, should be addressed in the (following) words
+	  of the illustrious Mah&#x101;r&#x101;ja
 	  <persName key="pers:Hastivarman">Hastivarman</persName> who is
 	  one hundred years old and whose head is covered with the pollens
-	  of the lotus that is the feet of Lord Nārāyaṇa:</p>
-	<p>“For the increase of our virtue, longevity and strength and for
+	  of the lotus that is the feet of Lord N&#x101;r&#x101;ya&#x1E47;a:</p>
+	<p>&#x201C;For the increase of our virtue, longevity and strength and for
 	  our passage to heaven, (and also) for our attainment of religious
-	  merit,—this village is granted by us as the dakṣiṇa of the
-	  first kalyāṇa (ceremony), to the sixty Brāhmaṇas (i.e. the priests
+	  merit,&#x2014;this village is granted by us as the dak&#x1E63;i&#x1E47;a of the
+	  first kaly&#x101;&#x1E47;a (ceremony), to the sixty Br&#x101;hma&#x1E47;as (i.e. the priests
 	  who performed the ceremony) who belong to various gotras and
-	  caraṇas; who are engaged in penance, recitation of sacred texts,
+	  cara&#x1E47;as; who are engaged in penance, recitation of sacred texts,
 	  offering of oblations to gods, observance of vows and religious
-	  austerities; who are experts in the veda, vedāṅga, tradition
-	  (itihāsa), purāṇa, medical science (nīroga), metrical science
+	  austerities; who are experts in the veda, ved&#x101;&#x1E45;ga, tradition
+	  (itih&#x101;sa), pur&#x101;&#x1E47;a, medical science (n&#x12B;roga), metrical science
 	  (chandovicita) and the exposition of texts (pravacana); and who
-	  are (also) engaged in the six duties (of the Brāhmaṇas, such as)
+	  are (also) engaged in the six duties (of the Br&#x101;hma&#x1E47;as, such as)
 	  study, teaching, offering sacrifices, conducting sacrifices,
 	  charity, and receipt of gifts. Exempt the said (village), for the
-	  god’s (i.e., Nārāyaṇa’s) sake, with all exemptions from obstacles.
+	  god&#x2019;s (i.e., N&#x101;r&#x101;ya&#x1E47;a&#x2019;s) sake, with all exemptions from obstacles.
 	  Let (the donees) enjoy (it) as long as the moon and stars endure.
 	  (It) is given by the orders from our own mouth on the dark eighth
-	  (i.e., the eighth of the dark fortnight) of the month of Jyeṣṭha
-	  when the nakṣatra is Bhādrapada and the (regnal) years are
-	  (to be counted as) two.”</p>
+	  (i.e., the eighth of the dark fortnight) of the month of Jye&#x1E63;&#x1E6D;ha
+	  when the nak&#x1E63;atra is Bh&#x101;drapada and the (regnal) years are
+	  (to be counted as) two.&#x201D;</p>
 	<p>(Two of the usual imprecatory and benedictory stanzas.)</p>
-	<p>(Written) by Amātya <persName key="pers:Jayasvāmin">Jayasvāmin</persName>.</p>
+	<p>(Written) by Am&#x101;tya <persName key="pers:Jayasv&#x101;min">Jayasv&#x101;min</persName>.</p>
       </div>
     </body>
   </text>

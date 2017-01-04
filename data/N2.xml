@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,9 +21,7 @@
 		<placeName key="pl:Nasik-3">Cave No. 3</placeName>,
 		above the entrance.
 	      </origPlace>
-	      <origDate
-		  when-custom="0103"
-		  precision="low">ca. 103 CE</origDate>
+	      <origDate when-custom="0103" precision="low" datingMethod="cal:gregorian">ca. 103 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -74,42 +68,21 @@
 	  <app><lem>savī</lem><rdg source="#G">sava</rdg>
 	                      <rdg source="#AS">saṃva</rdg></app>chare
 	  ekunavise
-	  <date when-custom="19" 
-		datingPoint="pers:VpŚrīPuḷumāvi"
-		datingMethod="cal:regnal">19</date>
+	  <date when-custom="19" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">19</date>
 	  gimhā<app><lem>ṇa</lem><rdg source="#G #AS">na</rdg></app>
 	  pakhe bitīye 2 divase terase 13 rājaraño 
 	  <persName key="pers:GpŚrīSātakarṇi">gotamīputasa</persName>
 	  himavata-meru<lb n="2" break="no"/>madara-pavatasamasārasa
-	  <placeName key="pl:Ṛṣika">asika</placeName
-	  ><placeName key="pl:Aśmaka">a<app><lem>saka</lem>
-	              <rdg source="#G">sika</rdg></app></placeName
-	  ><placeName key="pl:Mulaka"><app><lem>muḷa</lem><rdg source="#G">susa</rdg></app>ka</placeName
-          ><placeName key="pl:Surāṣṭra">suraṭha</placeName
-	  ><placeName key="pl:Kukura">kukur</placeName
-	  ><placeName key="pl:Aparānta">āpa<app
-	    ><lem>raṃ</lem><rdg source="#G">rā</rdg></app>ta</placeName
-	  ><placeName key="pl:Anupa">anupa</placeName
-	  ><placeName key="pl:Vidarbha">vidabha</placeName
-	  ><placeName key="pl:Ākarāvantī">ākarāvati</placeName>rājasa
-	  <placeName key="pl:Vindhya"
-	    >vijha</placeName>-chavata-<placeName key="pl:Pārijāta"
-	    ><app><lem>pāricā</lem><rdg source="#AS">parivā</rdg></app
-	    >ta</placeName>-<placeName key="pl:Sahya"
-	    >sahya</placeName>-<placeName key="pl:Kṛṣṇagiri"
-	    >kaṇhagiri</placeName>-maca-siriṭana-<placeName key="pl:Malaya"
-	    >malaya</placeName>-<placeName key="pl:Mahendra"
-	    >mahida</placeName><lb n="3" break="no"/>seṭagiri-<placeName key="pl:Cakora"
-	    >cakora</placeName>-pavatapatisa
-	  savarāja<app
-	    >
+	  <placeName key="pl:Ṛṣika">asika</placeName><placeName key="pl:Aśmaka">a<app><lem>saka</lem>
+	              <rdg source="#G">sika</rdg></app></placeName><placeName key="pl:Mulaka"><app><lem>muḷa</lem><rdg source="#G">susa</rdg></app>ka</placeName><placeName key="pl:Surāṣṭra">suraṭha</placeName><placeName key="pl:Kukura">kukur</placeName><placeName key="pl:Aparānta">āpa<app><lem>raṃ</lem><rdg source="#G">rā</rdg></app>ta</placeName><placeName key="pl:Anupa">anupa</placeName><placeName key="pl:Vidarbha">vidabha</placeName><placeName key="pl:Ākarāvantī">ākarāvati</placeName>rājasa
+	  <placeName key="pl:Vindhya">vijha</placeName>-chavata-<placeName key="pl:Pārijāta"><app><lem>pāricā</lem><rdg source="#AS">parivā</rdg></app>ta</placeName>-<placeName key="pl:Sahya">sahya</placeName>-<placeName key="pl:Kṛṣṇagiri">kaṇhagiri</placeName>-maca-siriṭana-<placeName key="pl:Malaya">malaya</placeName>-<placeName key="pl:Mahendra">mahida</placeName><lb n="3" break="no"/>seṭagiri-<placeName key="pl:Cakora">cakora</placeName>-pavatapatisa
+	  savarāja<app>
 	     <lem>lo</lem>
 	     <note xml:lang="en">
 	       <p>The character <em>lo</em> is all but clear.</p>
 	     </note>
 	  </app>ka<app><lem>ma</lem><rdg source="#AS">maṃ</rdg></app>ḍalapatigahītasāsanasa
-	  divasakara<app
-	    >
+	  divasakara<app>
 	     <lem>ka</lem>
 	     <note xml:lang="en">
 	       <p>Very indistinct.</p>
@@ -124,8 +97,7 @@
 	  suvibhatativagadesakālasa
           <lb n="5"/>
 	  porajananivisesasamasukhadukhasa
-	  khatiyadapamāna<app
-	    >
+	  khatiyadapamāna<app>
 	     <lem>madanasa</lem>
 	     <note xml:lang="en">
 	       <p>The top of the <em>na</em> of <em>dana</em> seems to
@@ -147,7 +119,7 @@
 	  nilayasa sapurisānaṃ asayasa sirīy[a] adhiṭhānasa
 	  upacārā<app><lem>na</lem><rdg source="#G">naṃ</rdg></app>
 	  pabhavasa ekakusasa ekadhanudharasa
-	  <app><lem>ekasūrasa</lem><rdg source="#AS"></rdg></app> ekabamhaṇasa
+	  <app><lem>ekasūrasa</lem><rdg source="#AS"/></app> ekabamhaṇasa
 	  rāma<lb n="8" break="no"/>kesavājunabhīmasenatulapa<app><lem>ra</lem><rdg source="#AS">rā</rdg></app>kamasa
 	  chaṇa<app><lem>gha</lem><rdg source="#G">ya</rdg></app>nusavasamājakārakasa
 	  <app><lem>nā</lem><rdg source="#AS">na</rdg></app>bhāganahusajanamejayasakarayayātirāmābarīsasamatejasa
@@ -158,8 +130,7 @@
 	  <persName key="pers:GpŚrīSātakarṇi">sirisātakaṇisa</persName> mātuya
 	  mahāde<app><lem>vī</lem><rdg source="#AS">vi</rdg></app>ya 
 	  gotamiya <persName key="pers:Balaśrī">balasirīya</persName>
-	  sacavacanadānakha<app
-	    >
+	  sacavacanadānakha<app>
 	     <lem>mā</lem>
 	     <note xml:lang="en">
 	       <p><em>ā</em> seems at least doubtful.</p>
@@ -180,8 +151,7 @@
 	  cita<app><lem>ṇa</lem><rdg source="#AS">nā</rdg></app>nimita
 	  mahādevīya ayakāya se<app><lem>va</lem><rdg source="#G">vā</rdg></app>kāmo
 	  piyakāmo ca 
-	  <app><lem
-	    >ṇat<supplied reason="lost">ā</supplied>
+	  <app><lem>ṇat<supplied reason="lost">ā</supplied>
 	         <gap reason="lost" unit="character" quantity="6"/>
 	  </lem><rdg source="#AS">ṇa<supplied reason="lost">tā</supplied>
 	         <gap reason="lost" unit="character" quantity="4"/>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N10">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,16 +9,14 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N11</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -30,9 +24,7 @@
 		on the back wall of the veranda in Cave No. 10, under
 		the ceiling.
 	      </origPlace>
-	      <origDate notBefore-custom="0060"
-			notAfter-custom="0084"
-			precision="medium">ca. 60–84 CE</origDate>
+	      <origDate notBefore-custom="0060" notAfter-custom="0084" precision="medium" datingMethod="cal:gregorian">ca. 60–84 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -62,8 +54,7 @@
 	  trigośatashasradena nadyā 
 	  <placeName key="pl:Bārṇāsā">bārṇāsāyāṃ</placeName>
 	  survarṇadānatīrthakareṇa devatābhyaḥ brāhmaṇebhyaśca
-	  ṣoḍaśagrāmadena anu<app
-	       ><lem source="#N">varṣaṃ</lem>
+	  ṣoḍaśagrāmadena anu<app><lem source="#N">varṣaṃ</lem>
 	        <rdg source="#AS">varṣa</rdg>
           </app> brāhmaṇaśatasāhasrībhojāpayitrā
 	  <lb n="2"/>
@@ -74,16 +65,10 @@
 	  <placeName key="pl:Govardhana">govardhane</placeName>
 	  <placeName key="pl:Śūrpāraka">śorpārage</placeName> ca
 	  catuśālāvasadhapratiśrayapradena 
-	  ārāma<app
-	       ><lem source="#N">taḍāga</lem>
+	  ārāma<app><lem source="#N">taḍāga</lem>
 	        <rdg source="#AS">tadāga</rdg>
           </app> udapānakareṇa 
-	  <placeName key="pl:Ibā">ibā</placeName>-<placeName
-	             key="pl:Pārādā">pārādā</placeName>-<placeName
-		     key="pl:Damaṇa">damaṇa</placeName>-<placeName
-		     key="pl:Tāpī">tāpī</placeName>-<placeName
-		     key="pl:Karabena">karabena</placeName>-<placeName
-		     key="pl:Dāhanukā">dāhanukā</placeName>-nāvāpuṇyatarakareṇa
+	  <placeName key="pl:Ibā">ibā</placeName>-<placeName key="pl:Pārādā">pārādā</placeName>-<placeName key="pl:Damaṇa">damaṇa</placeName>-<placeName key="pl:Tāpī">tāpī</placeName>-<placeName key="pl:Karabena">karabena</placeName>-<placeName key="pl:Dāhanukā">dāhanukā</placeName>-nāvāpuṇyatarakareṇa
 	  etāsāṃ ca nadīnāṃ ubhatotīram 
 	  sabhā<lb n="2" break="no"/>prapākareṇa
 	  <placeName key="pl:Piṃḍitakā"><app>
@@ -98,8 +83,7 @@
 	    <lem source="#N">grāme</lem>
 	    <rdg source="#AS">grāma</rdg>
 	  </app> <placeName key="pl:Nānaṃgola">nānaṃgole</placeName>
-	  dvātrīśatanāḷiḡeramūla<app
-	       ><lem source="#N">sahasrapradena</lem>
+	  dvātrīśatanāḷiḡeramūla<app><lem source="#N">sahasrapradena</lem>
 	        <rdg source="#AS">sahasradena</rdg>
 	  </app> <placeName key="pl:Govardhana">govardhane</placeName>
 	  <placeName key="pl:Tiraṇhu">triraśmiṣu</placeName>
@@ -187,17 +171,15 @@
 	  <app>
 	    <lem source="#N">dīsāya</lem>
 	    <rdg source="#G">disāya</rdg>
-	  </app> eto mama leṇe vasa<lb n="5" break="no"/><app
-	      ><lem source="#N">tānaṃ</lem>
+	  </app> eto mama leṇe vasa<lb n="5" break="no"/><app><lem source="#N">tānaṃ</lem>
 	       <rdg source="#G #AS">tāna</rdg>
-          </app> cātu<app
-	      ><lem source="#N">dī</lem>
+          </app> cātu<app><lem source="#N">dī</lem>
 	       <rdg source="#G">di</rdg>
 	  </app>sasa bhikhusaghasa mukhāhāro bhavisatī
 	</p> 
       </div>
       <div type="translation">
-	<p></p>
+	<p/>
       </div>
     </body>
   </text>

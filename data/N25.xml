@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N25">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N25">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,25 +9,21 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N25</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
 		on the front wall of an unfinished cave beyond Cave No. 23.
 	      </origPlace>
-	      <origDate
-		  when-custom="0086"
-		  precision="low">ca. 86 CE</origDate>
+	      <origDate when-custom="0086" precision="low" datingMethod="cal:gregorian">ca. 86 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -70,20 +62,15 @@
 	  <lb n="1"/>
 	  sidhaṃ raño <persName key="pers:VpŚrīPuḷumāvi">vāsiṭhiputasa 
 	  sāmi-siri-pulu<lb n="2" break="no"/>māisa</persName>
-	  saṃvachare 2 hemaṃtā pakhe 4 divase <app
-	    ><lem source="#N">1</lem>
+	  saṃvachare 2 hemaṃtā pakhe 4 divase <app><lem source="#N">1</lem>
 	     <rdg source="#G">6</rdg>
 	     <rdg source="#AS">8</rdg>
 	   </app>
 	   <lb n="3"/>
 	   etiya puvāya kuṭuṃbikeṇa <persName key="pers:Dhaṇama">dhaṇameṇa</persName> iṇa
 	   <lb n="4"/>
-	   kāritaṃ saha m<gap reason="lost"
-	                      quantity="2"
-			      unit="character"/>pituhi
-	   saha<app><lem><gap reason="lost"
-	                      quantity="5"
-			      unit="character"/></lem>
+	   kāritaṃ saha m<gap reason="lost" quantity="2" unit="character"/>pituhi
+	   saha<app><lem><gap reason="lost" quantity="5" unit="character"/></lem>
 	             <note><p>Senart notes <foreign xml:lang="pra-Latn">bhagine</foreign>, faintly.</p></note></app>
 	</p>
       </div>

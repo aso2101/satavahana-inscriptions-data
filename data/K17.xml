@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K17">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K17">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,10 +21,7 @@
 		Chaitya cave. On the wall to the right of the central door
 		(close to the rail pattern).
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0050"
-		  notAfter-custom="0100"
-		  precision="medium">late 1st c. CE</origDate>
+	      <origDate notBefore-custom="0050" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">late 1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -51,15 +44,8 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <app><lem source="#K"><gap
-	    reason="lost"
-	    quantity="5"
-	    unit="character"/>maṇayūtāya</lem>
-	    <rdg source="#AS #CTI"><gap 
-	      reason="lost"
-	      quantity="4"
-	      unit="character"/><supplied 
-	      reason="lost">sa</supplied>maṇāya mātuya</rdg>
+	  <app><lem source="#K"><gap reason="lost" quantity="5" unit="character"/>maṇayūtāya</lem>
+	    <rdg source="#AS #CTI"><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost">sa</supplied>maṇāya mātuya</rdg>
 	  </app>
 	  dānaṃ veyikā
 	</p>

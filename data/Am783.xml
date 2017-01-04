@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am783">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am783">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,9 +20,7 @@
 		on a sculpted fragment of a cross-beam (left end),
 		depicting the Buddha in a preaching posture.
 	      </origPlace>
-	      <origDate notBefore-custom="0250"
-			notAfter-custom="0350"
-			precision="medium">3rd to 4th century CE</origDate>
+	      <origDate notBefore-custom="0250" notAfter-custom="0350" precision="medium" datingMethod="cal:gregorian">3rd to 4th century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

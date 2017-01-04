@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N21">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,16 +9,14 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N21</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -48,39 +42,21 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  <app><lem source="#N"><gap reason="lost"
-	       quantity="5"
-	       unit="character"/></lem>
+	  <app><lem source="#N"><gap reason="lost" quantity="5" unit="character"/></lem>
 	       <rdg><note xml:lang="en"><p>Senart discerns 
 	       traces of <foreign xml:lang="pra-Latn">sidhaṃ
 	       kuṭuṃ</foreign> before 
 	       <foreign xml:lang="pra-Latn">bena</foreign>.</p></note></rdg>
 	  </app>bena ca
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>ni<app
-	    ><lem source="#N"
-	      ><gap reason="lost"
-	            quantity="5"
-		    unit="character"/></lem>
-	     <rdg source="#AS"
-	      ><gap reason="lost"
-		    quantity="1"
-		    unit="character"/>e<gap
-		    reason="lost"
-		    quantity="3"
-		    unit="character"/></rdg>
-	    </app><app
-	      ><lem source="#N #AS">yāva</lem>
+	  <gap reason="lost" quantity="3" unit="character"/>ni<app><lem source="#N"><gap reason="lost" quantity="5" unit="character"/></lem>
+	     <rdg source="#AS"><gap reason="lost" quantity="1" unit="character"/>e<gap reason="lost" quantity="3" unit="character"/></rdg>
+	    </app><app><lem source="#N #AS">yāva</lem>
 	       <rdg source="#G">yāca</rdg>
-	    </app> <persName key="pers:Nadāśrī"><app
-	      ><lem source="#N">nadā</lem>
+	    </app> <persName key="pers:Nadāśrī"><app><lem source="#N">nadā</lem>
 	       <rdg source="#G">nada</rdg>
-	    </app>siriyāva</persName> ca <app
-	      ><lem source="#N">veikā</lem>
+	    </app>siriyāva</persName> ca <app><lem source="#N">veikā</lem>
 	       <rdg source="#G">veyikā</rdg>
-	    </app> yakho ca <app
-	      ><lem source="#N">kāritā</lem>
+	    </app> yakho ca <app><lem source="#N">kāritā</lem>
 	       <rdg source="#G">kārito</rdg>
 	    </app>
 	</p> 

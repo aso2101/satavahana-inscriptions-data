@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Chi1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Chi1">
 
   <teiHeader>
     <fileDesc>
@@ -16,16 +12,14 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:China">China</placeName>.
 	      </origPlace>
-	      <origDate
-		  when-custom="0198"
-		  precision="low">ca. 198 CE</origDate>
+	      <origDate when-custom="0198" precision="low" datingMethod="cal:gregorian">ca. 198 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -52,9 +46,7 @@
 	    araka-siriyaña-sātakaṇisa
 	  </persName>
 	  vasasatāya 
-	  <date when-custom="27"
-		datingMethod="cal:regnal"
-		datingPoint="pers:GpŚrīyajñaSātakarṇi">saṃvachara 
+	  <date when-custom="27" datingMethod="cal:regnal" datingPoint="pers:GpŚrīyajñaSātakarṇi">saṃvachara 
 	        sata<unclear>vi</unclear><lb n="3" break="no"/>maṃ
 	        20 + 7</date>
 	  hematānaṃ pakhaṃ catuthaṃ 4 
@@ -72,9 +64,7 @@
 	<p>
 	  Success! Adoration to the divine. . . va!
 	  The year 
-	  <date when-custom="27"
-		datingPoint="pers:GpŚrīyajñaSātakarṇi"
-		datingMethod="cal:regnal">twenty-seven (20+7)</date>
+	  <date when-custom="27" datingPoint="pers:GpŚrīyajñaSātakarṇi" datingMethod="cal:regnal">twenty-seven (20+7)</date>
 	  of the existence of the power of the king, the lord
 	  <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra 
 	  Śrīyajña Sātakarṇi</persName>, the fourth (4) fortnight of summer,

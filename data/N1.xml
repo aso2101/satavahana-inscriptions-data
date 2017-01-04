@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
 		on the back wall of the veranda of Cave No. 2.
 	      </origPlace>
-	      <origDate
-		  when-custom="0090"
-		  precision="low">ca. 90 CE</origDate>
+	      <origDate when-custom="0090" precision="low" datingMethod="cal:gregorian">ca. 90 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -69,14 +63,10 @@
 	    siripuḷumayisa
 	  </persName>
 	  <app><lem>saṃ</lem><rdg source="#G #AS">sa</rdg></app>vachare
-	  <date when-custom="6"
-		datingPoint="pers:VpŚrīPuḷumāvi"
-		datingMethod="cal:regnal">chaṭe 6</date>
+	  <date when-custom="6" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">chaṭe 6</date>
 	  gi<app><lem>mha</lem><rdg source="#AS">ma</rdg></app>pakhe
 	  pacame 5 divase
-	  <app><lem><gap reason="lost"
-			 quantity="5"
-			 unit="character"/></lem>
+	  <app><lem><gap reason="lost" quantity="5" unit="character"/></lem>
 	       <rdg source="#AS">
 		1<gap reason="lost" quantity="1" unit="character"/>
 		po<gap reason="lost" quantity="1" unit="character"/>

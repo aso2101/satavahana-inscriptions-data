@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaD1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaD1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
 	      <support>An āyaka-slab, with three caitya window arches
@@ -30,11 +26,7 @@
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0100"
-		  notAfter-custom="0200"
-		  precision="medium"
-		  evidence="nomenclature">2nd c. CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">2nd c. CE</origDate>
 	    </origin>
 	    <provenance type="found" subtype="discovered">
 	      <p>Found in a field halfway between between the Candralāmbā
@@ -46,20 +38,16 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <graphic 
-	url="images/SaD1-001.jpg">
+    <graphic url="images/SaD1-001.jpg">
       <desc>Photograph from <ref target="bibl:ARIE1966">ARIE 1966–1967</ref>.</desc>
     </graphic>
-    <graphic
-	url="images/SaD1-sarma1993.jpg">
+    <graphic url="images/SaD1-sarma1993.jpg">
       <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 22-A.</desc>
     </graphic>
-    <graphic 
-	url="images/SaD1-seshadri1972-pl19.png">
+    <graphic url="images/SaD1-seshadri1972-pl19.png">
       <desc>Photograph from <ref target="bibl:Seshadri1972">Seshadri 1972</ref> plate 19.</desc>
     </graphic>
-    <graphic 
-	url="images/SaD1-seshadri1972-pl8.png">
+    <graphic url="images/SaD1-seshadri1972-pl8.png">
       <desc>Photograph from <ref target="bibl:Seshadri1972">Seshadri 1972</ref> plate 8.</desc>
     </graphic>
   </facsimile>
@@ -92,16 +80,8 @@
 	  <placeName key="pl:Ahimarika">ahimarikāya</placeName>
 	  <persName key="pers:Sa-Nāganikā">nāganikāya</persName>
 	  <lb n="2"/>
-	  <persName key="pers:Sa-Arikā">arikā</persName>bhātu<app><lem
-	    source="#ARIE1966">no</lem><rdg 
-	    source="#Seshadri1972">na</rdg><rdg 
-	    source="#Sarma1993">mo</rdg></app>
-	  <persName key="pers:Sa-Girijataṇaka">giri<app><lem 
-	    source="#Sarma1993 #Seshadri1972">ja</lem><rdg 
-	    source="#ARIE1966 #NAgarajaRao1985">da</rdg></app><app><lem
-	    source="#ARIE1966">taṇa</lem><rdg 
-	    source="#Sarma1993">gaṇa</rdg><rdg 
-	    source="#Seshadri1972 #NagarajaRao1985">tana</rdg></app>kasa</persName>
+	  <persName key="pers:Sa-Arikā">arikā</persName>bhātu<app><lem source="#ARIE1966">no</lem><rdg source="#Seshadri1972">na</rdg><rdg source="#Sarma1993">mo</rdg></app>
+	  <persName key="pers:Sa-Girijataṇaka">giri<app><lem source="#Sarma1993 #Seshadri1972">ja</lem><rdg source="#ARIE1966 #NAgarajaRao1985">da</rdg></app><app><lem source="#ARIE1966">taṇa</lem><rdg source="#Sarma1993">gaṇa</rdg><rdg source="#Seshadri1972 #NagarajaRao1985">tana</rdg></app>kasa</persName>
 	</p>
       </div>
       <div type="translation">

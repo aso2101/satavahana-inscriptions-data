@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am805">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am805">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,9 +20,7 @@
 		on one of the four coping slabs (uṣṇīṣa) belonging
 		to the railing of the stūpa. 
 	      </origPlace>
-	      <origDate notBefore-custom="0150"
-			notAfter-custom="0200"
-			precision="medium">Later half of the 2nd century CE</origDate>
+	      <origDate notBefore-custom="0150" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">Later half of the 2nd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -51,9 +45,7 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    <gap reason="lost"
-	         quantity="unknown"
-	         unit="character"/>kasa 
+	    <gap reason="lost" quantity="unknown" unit="character"/>kasa 
 	    <persName key="pers:Nāgabodhika">nāgabodhikasa</persName>
 	    bhariyāya <persName key="pers:Buddharakṣitā">budharakhitāya</persName>
 	    mātuyā <persName key="pers:Buddhā">budhāya</persName> chadāsasa 

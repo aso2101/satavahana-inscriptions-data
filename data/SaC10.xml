@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaC10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaC10">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
@@ -30,10 +26,7 @@
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0001"
-		  notAfter-custom="0100"
-		  precision="medium">1st c. CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -63,19 +56,11 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <app><lem source="#NagarajaRao1985">putatikasa</lem><rdg
-	            source="#Sarma1993">dujitakasa</rdg></app>
-	  <app><lem source="#NagarajaRao1985">mi</lem><rdg
-	            source="#Sarma1993">ki<note> (a typo)</note></rdg></app>ta<app><lem
-		    source="#NagarajaRao1985">bhū</lem><rdg
-		    source="#Sarma1993">bhu</rdg></app>tino 
-	  <app><lem source="#NagarajaRao1985">bha</lem><rdg
-	            source="#Sarma1993">bhā</rdg></app>gi<app><lem
-		    source="#NagarajaRao1985">niyā</lem><rdg
-		    source="#Sarma1993">nīya</rdg></app>
+	  <app><lem source="#NagarajaRao1985">putatikasa</lem><rdg source="#Sarma1993">dujitakasa</rdg></app>
+	  <app><lem source="#NagarajaRao1985">mi</lem><rdg source="#Sarma1993">ki<note> (a typo)</note></rdg></app>ta<app><lem source="#NagarajaRao1985">bhū</lem><rdg source="#Sarma1993">bhu</rdg></app>tino 
+	  <app><lem source="#NagarajaRao1985">bha</lem><rdg source="#Sarma1993">bhā</rdg></app>gi<app><lem source="#NagarajaRao1985">niyā</lem><rdg source="#Sarma1993">nīya</rdg></app>
 	  <persName key="pers:Sa-Samā-2">samā</persName> 
-	    upāsikā<app><lem source="#Sarma1993">ya</lem><rdg 
-	                     source="#NagarajaRao1985">yā</rdg></app>
+	    upāsikā<app><lem source="#Sarma1993">ya</lem><rdg source="#NagarajaRao1985">yā</rdg></app>
 	</p>
       </div>
       <div type="translation">

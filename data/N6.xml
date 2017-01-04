@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N6">
 
   <teiHeader>
     <fileDesc>
@@ -16,18 +12,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
 		on the back wall of the veranda in Cave No. 6.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0060"
-		  notAfter-custom="0100"
-		  precision="medium">later 1st c. CE</origDate>
+	      <origDate notBefore-custom="0060" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">later 1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -53,8 +46,7 @@
 	  <lb n="2"/>
 	  deyadhama kuṭumbi<app><lem>ṇiya</lem><rdg source="#G">niya</rdg></app>
 	  casa 
-	  <persName key="pers:Nandaśrī">nanda<app
-	    ><lem>siriya</lem>
+	  <persName key="pers:Nandaśrī">nanda<app><lem>siriya</lem>
 	     <rdg source="#AS">sarāya</rdg>
 	  </app></persName> ovarako
 	  duhutu<lb n="3" break="no"/>ya

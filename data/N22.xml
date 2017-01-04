@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N22">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N22">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,26 +9,21 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N22</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>, 
 		on the upper sill of the right window in Cave No. 19.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0100"
-		  notAfter-custom="-0050"
-		  precision="medium">early 1st c. BCE</origDate>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0050" precision="medium" datingMethod="cal:gregorian">early 1st c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -73,14 +64,12 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  sādavāhana<app
-	    ><lem source="#N">kule</lem>
+	  sādavāhana<app><lem source="#N">kule</lem>
 	     <rdg source="#AS">kula</rdg>
 	   </app> <persName key="pers:Kṛṣṇa">kanhe</persName>
 	  rājini <placeName key="pl:Nāsikya">nāsikakena</placeName>
 	  <lb n="2"/>
-	  samaṇena mahāmāteṇa leṇa <app
-	    ><lem source="#N">kārita</lem>
+	  samaṇena mahāmāteṇa leṇa <app><lem source="#N">kārita</lem>
 	     <rdg source="#G">kāritaṃ</rdg>
 	    </app>
 	</p>

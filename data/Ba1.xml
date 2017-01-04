@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ba1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ba1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
 	      <support>
@@ -35,10 +31,7 @@
 		<placeName type="modern" key="pl:Vaijayantī">Banavāsi</placeName>,
 		in front of the Madhukeśvara temple.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0150"
-		  notAfter-custom="0200"
-		  precision="medium">later 2nd c. CE</origDate>
+	      <origDate notBefore-custom="0150" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">later 2nd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

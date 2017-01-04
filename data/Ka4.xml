@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ka4">
-
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ka4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <layoutDesc>
@@ -35,9 +30,7 @@
 		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
 		in front of Cave No. 2, just above the cistern.
 	      </origPlace>
-	      <origDate notBefore-custom="0100"
-			notAfter-custom="0200"
-			precision="medium">2nd c. CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">2nd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N27">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N27">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,19 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Nāsikya">Nasik</placeName>, on 
 	        one of the two cisterns to the right of Cave No. 24.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0025"
-		  notAfter-custom="0075"
-		  precision="medium"
-		  evidence="nomenclature">mid-1st c. CE</origDate>
+	      <origDate notBefore-custom="0025" notAfter-custom="0075" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">mid-1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

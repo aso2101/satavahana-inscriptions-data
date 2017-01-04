@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ju25">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ju25">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,9 +21,7 @@
 		past a cistern and two small recesses, on the left side of
 		another recess with a bench on three sides.
 	      </origPlace>
-	      <origDate
-		  when-custom="0084"
-		  precision="low">ca. 84 CE</origDate>
+	      <origDate when-custom="0084" precision="low" datingMethod="cal:gregorian">ca. 84 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

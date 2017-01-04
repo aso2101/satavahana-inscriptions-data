@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ju8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ju8">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,7 +21,7 @@
 		Mānmoḍi hill about a mile east from the Chaitya,
 		on the back wall of an open verandah.
 	      </origPlace>
-	      <origDate></origDate><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -48,16 +44,10 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    <gap reason="lost"
-		 unit="character"
-		 quantity="6"
-		 precision="low"/><unclear>ga</unclear>hapatipu<unclear>tānaṃ</unclear>
+	    <gap reason="lost" unit="character" quantity="6" precision="low"/><unclear>ga</unclear>hapatipu<unclear>tānaṃ</unclear>
 	    bhātūṇaṃ dāṇa ka
 	  <lb n="2"/>
-	    <gap reason="lost"
-		 unit="character"
-		 quantity="6"
-		 precision="low"/>saca pa<unclear>ca</unclear>gabhaṃ deyadhaṃmaṃ
+	    <gap reason="lost" unit="character" quantity="6" precision="low"/>saca pa<unclear>ca</unclear>gabhaṃ deyadhaṃmaṃ
 	</p>
       </div>
       <div type="translation" xml:lang="en">

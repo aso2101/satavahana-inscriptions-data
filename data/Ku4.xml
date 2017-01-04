@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ku4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ku4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,7 +20,7 @@
 		<placeName type="modern" key="pl:Kuḍā-5">Cave No. 5</placeName>, 
 		on the right-hand wall.
 	      </origPlace>
-	      <origDate></origDate><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -55,21 +51,14 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  sidhaṃ therā<unclear>ṇaṃ bhadaṃta</unclear><persName 
-	    key="pers:Ku-Śivadatta">sivada<lb n="2" break="no"/>taṇa</persName>
+	  sidhaṃ therā<unclear>ṇaṃ bhadaṃta</unclear><persName key="pers:Ku-Śivadatta">sivada<lb n="2" break="no"/>taṇa</persName>
 	  aṃ<unclear>tevāsino</unclear> 
 	  pava<supplied reason="lost">i</supplied>ta<lb n="3" break="no"/>sa
-	  goa<gap reason="lost"
-	          unit="character"
-		  quantity="5"/><supplied reason="lost">i</supplied>ma
+	  goa<gap reason="lost" unit="character" quantity="5"/><supplied reason="lost">i</supplied>ma
 	  leṇaṃ
 	  <lb n="4"/>
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="7"/>sātimita<lb n="5" break="no"/>ya
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="9"/>yiya
+	  <gap reason="lost" unit="character" quantity="7"/>sātimita<lb n="5" break="no"/>ya
+	  <gap reason="lost" unit="character" quantity="9"/>yiya
 	</p>
       </div>
       <div type="translation" xml:lang="en">

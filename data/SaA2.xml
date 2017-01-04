@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaA2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaA2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	  </physDesc>
 	  <history>
@@ -25,11 +21,7 @@
 		discovered by G. S. Gai on a slab in the 
 		Candralāmbā temple.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0119"
-		  notAfter-custom="0148"
-		  precision="medium"
-		  evidence="nomenclature">ca. 119–148 CE</origDate>
+	      <origDate notBefore-custom="0119" notAfter-custom="0148" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">ca. 119–148 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -48,18 +40,14 @@
 	  <lb n="1"/>
 	  siddhaṃ raño
 	  <persName key="pers:VpŚrīSātakarṇi">
-	    vāsiṭhīputasa siri sāta<supplied reason="lost"
-	    >kaṇisa</supplied>
+	    vāsiṭhīputasa siri sāta<supplied reason="lost">kaṇisa</supplied>
 	  </persName>
 	  <lb n="2"/>
 	  pavajitena 
-	  <persName key="pers:Nāgabuddhī">nāgabudhi<supplied
-	    reason="lost">nā</supplied></persName>
+	  <persName key="pers:Nāgabuddhī">nāgabudhi<supplied reason="lost">nā</supplied></persName>
 	  antevāsinīya bhikuṇīyā
 	  <lb n="3"/>
-	  yakhiyāya<gap reason="lost"
-	                extent="unknown"
-			unit="character"/>
+	  yakhiyāya<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
       </div>
       <div type="translation">

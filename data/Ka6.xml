@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ka6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ka6">
 
   <teiHeader>
     <fileDesc>
@@ -16,7 +12,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <layoutDesc>
@@ -35,9 +31,7 @@
 		<placeName key="pl:Kṛṣṇagiri">Kanheri</placeName>,
 		on the left hand gate post of Caitya Cave No. 3.
 	      </origPlace>
-	      <origDate notBefore-custom="0050"
-			notAfter-custom="0150"
-			precision="low">ca. 50-150 CE</origDate>
+	      <origDate notBefore-custom="0050" notAfter-custom="0150" precision="low" datingMethod="cal:gregorian">ca. 50-150 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -52,31 +46,14 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <gap reason="lost"
-	       quantity="5"
-	       unit="character"/>khabhālakaresu adha<gap
-	       reason="lost"
-	       quantity="1"
-	       unit="character"/>
+	  <gap reason="lost" quantity="5" unit="character"/>khabhālakaresu adha<gap reason="lost" quantity="1" unit="character"/>
 	  <lb n="2"/>
-	  <gap reason="lost"
-	       quantity="5"
-	       unit="character"/>a<unclear>ka</unclear><gap
-	       reason="lost"
-	       quantity="2"
-	       unit="character"/>c<unclear>e</unclear>tiasa 
+	  <gap reason="lost" quantity="5" unit="character"/>a<unclear>ka</unclear><gap reason="lost" quantity="2" unit="character"/>c<unclear>e</unclear>tiasa 
 	  bha<lb n="3" break="no"/>
-	  <gap reason="lost"
-	       extent="unknown"
-	       unit="character"/>lakārasa<gap
-	       reason="lost"
-	       quantity="3"
-	       unit="character"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>lakārasa<gap reason="lost" quantity="3" unit="character"/>
 	  <supplied reason="lost">pa</supplied>vayitāṇa ya
 	  <lb n="4"/>
-	  <gap reason="lost"
-	       quantity="3"
-	       unit="character"/>akhayanivi
+	  <gap reason="lost" quantity="3" unit="character"/>akhayanivi
 	  <supplied reason="lost">da</supplied>tā 
 	  <placeName key="pl:Śūrpāraka">sopārakā</placeName>vihāre 
 	  ha<lb n="5" break="no"/><unclear>āni</unclear>

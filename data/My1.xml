@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="My1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="My1">
 
   <teiHeader>
     <fileDesc>
@@ -16,7 +12,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
 	      <support>Inscribed on a large boulder buried halfway
@@ -28,9 +24,7 @@
 	      <origPlace>
 		<placeName type="modern" key="pl:Myākadoni">Myākadoni</placeName>.
 	      </origPlace>
-	      <origDate
-		  when-custom="0090"
-		  precision="low">ca. 90 CE</origDate>
+	      <origDate when-custom="0090" precision="low" datingMethod="cal:gregorian">ca. 90 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -79,16 +73,13 @@
 	  <persName key="pers:VpŚrīPuḷumāvi">
 	    s<unclear>i</unclear>ri-puḷum<unclear>ā</unclear>visa
 	  </persName>
-	  <date when-custom="8"
-		datingMethod="cal:regnal"
-		datingPoint="pers:VpŚrīPuḷumāvi">sava 8</date>
+	  <date when-custom="8" datingMethod="cal:regnal" datingPoint="pers:VpŚrīPuḷumāvi">sava 8</date>
 	  hema 2 diva 1
 	  <lb n="2"/>
 	  <unclear>masa</unclear>
 	  mahāsenāpat<unclear>i</unclear>sa
 	  <persName key="pers:Skandanāga">khaṃda<unclear>nā</unclear>kasa</persName>
-	  janapāde <placeName key="pl:Sātavahanihāra"
-	    >s<unclear>ā</unclear>tavahanihāre</placeName>
+	  janapāde <placeName key="pl:Sātavahanihāra">s<unclear>ā</unclear>tavahanihāre</placeName>
 	  <lb n="3"/>
 	  <supplied reason="lost">gu</supplied>mikasa 
 	  <persName key="pers:Kumāradatta">kumāradatasa</persName>
@@ -104,9 +95,7 @@
 	<p>
 	  Success! On the first day of the first (fortnight of)
 	  the second month of winter in the 
-	  <date when-custom="8"
-		datingPoint="pers:VpŚrīPuḷumāvi"
-		datingMethod="cal:regnal">eighth year</date>
+	  <date when-custom="8" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">eighth year</date>
 	  (of the reign) of 
 	  <persName key="pers:VpŚrīPuḷumāvi">Śrī Puḷumāvi</persName>,
 	  King of the Sātavāhana (family), the reservoir was sunk by the 

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am493">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am493">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		on a fragment of an octogonal pillar.
 	      </origPlace>
-	      <origDate notBefore-custom="0200"
-			notAfter-custom="0300"
-			precision="medium">ca. 3rd century CE</origDate>
+	      <origDate notBefore-custom="0200" notAfter-custom="0300" precision="medium" datingMethod="cal:gregorian">ca. 3rd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,33 +44,14 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    <gap reason="lost"
-		 quantity="3"
-		 unit="character"
-		 precision="low"/>gāme vāthavasa gahapatisa <persName
-		 key="pers:Am-Vākāṭaka">vākāṭakasa</persName> 
+	    <gap reason="lost" quantity="3" unit="character" precision="low"/>gāme vāthavasa gahapatisa <persName key="pers:Am-Vākāṭaka">vākāṭakasa</persName> 
 	    gahapatiki<unclear>ni</unclear>
 	  <lb n="2"/>
-	    <gap reason="lost"
-		 quantity="5"
-		 unit="character"
-		 precision="low"/>nā therena <persName 
-		 key="pers:Am-Bodhika">bodhikena</persName> bhariyāya
-	    <persName key="pers:Am-Camunā">camunāya</persName> sabhātukehi<gap
-	         reason="lost"
-		 quantity="3"
-		 unit="character"
-		 precision="low"/>
+	    <gap reason="lost" quantity="5" unit="character" precision="low"/>nā therena <persName key="pers:Am-Bodhika">bodhikena</persName> bhariyāya
+	    <persName key="pers:Am-Camunā">camunāya</persName> sabhātukehi<gap reason="lost" quantity="3" unit="character" precision="low"/>
 	  <lb n="3"/>
-	    <gap reason="lost"
-		 quantity="3"
-		 unit="character"
-		 precision="low"/>kehi sanātimitabaṃdhavehi ca
-	    apaṇo āyuvadhanika<unclear>pu</unclear><gap
-	         reason="lost"
-		 quantity="4"
-		 unit="character"
-		 precision="low"/>
+	    <gap reason="lost" quantity="3" unit="character" precision="low"/>kehi sanātimitabaṃdhavehi ca
+	    apaṇo āyuvadhanika<unclear>pu</unclear><gap reason="lost" quantity="4" unit="character" precision="low"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

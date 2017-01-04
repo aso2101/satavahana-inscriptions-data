@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am563">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am563">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,16 +11,14 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>.
 	      </origPlace>
-	      <origDate notBefore-custom="0100"
-			notAfter-custom="0200"
-			precision="medium">ca. 2nd century CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">ca. 2nd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -49,12 +43,7 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    <gap reason="lost"
-		 quantity="unknown"
-		 unit="character"/>tumāya saputikāya sada<gap
-	         reason="lost"
-		 quantity="unknown"
-		 unit="character"/>
+	    <gap reason="lost" quantity="unknown" unit="character"/>tumāya saputikāya sada<gap reason="lost" quantity="unknown" unit="character"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K10">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,10 +21,7 @@
 		chaitya cave,
 		on the fourth pillar; left row.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="-0050"
-		  notAfter-custom="0050"
-		  precision="medium">late 1st c. BCE or early 1st c. CE</origDate>
+	      <origDate notBefore-custom="-0050" notAfter-custom="0050" precision="medium" datingMethod="cal:gregorian">late 1st c. BCE or early 1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

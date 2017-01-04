@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="KanA75">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA75">
 
   <teiHeader>
     <fileDesc>
@@ -16,16 +12,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>,
 		on a floor slab of the northwest of the stūpa.
 	      </origPlace>
-	      <origDate when-custom="0119"
-			precision="low">ca. 119 CE</origDate>
+	      <origDate when-custom="0119" precision="low" datingMethod="cal:gregorian">ca. 119 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,62 +45,43 @@
 	<p>
 	  <lb n="1"/>
 	    siddha || na<supplied reason="lost">mo</supplied>
-	    bhagavato samasabudhasa <app><lem source="#Poonacha">adholoka</lem
-	      ><rdg source="#Falk">śudhalaka</rdg></app
-	      >-mahā<lb n="2" break="no"/>
+	    bhagavato samasabudhasa <app><lem source="#Poonacha">adholoka</lem><rdg source="#Falk">śudhalaka</rdg></app>-mahā<lb n="2" break="no"/>
 	    ce<supplied reason="lost">t</supplied>iya
 	    <supplied reason="lost">ra</supplied>ño
-	    <persName key="pers:VpŚrīPuḷumāvi">vā<app
-	      ><lem source="#Falk">seṭhi</lem>
+	    <persName key="pers:VpŚrīPuḷumāvi">vā<app><lem source="#Falk">seṭhi</lem>
 	       <rdg source="#Poonacha">sithī</rdg>
-	    </app><unclear>p</unclear>uta-siri-pu<app
-	      ><lem source="#Falk">lu</lem>
+	    </app><unclear>p</unclear>uta-siri-pu<app><lem source="#Falk">lu</lem>
 	       <rdg source="#Poonacha">ḷu</rdg>
 	    </app>māvisa</persName>
 	  <lb n="3"/>
-	    savachare <date when-custom="35"
-	                    datingPoint="pers:VpŚrīPuḷumāvi"
-			    datingMethod="cal:regnal">30 5</date>
+	    savachare <date when-custom="35" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">30 5</date>
 	    <unclear>gimhana pakhe</unclear> 2 10 
-	    <placeName key="pl:Koruṅkala"><app><lem source="#Falk">koruku<unclear>lana</unclear></lem
-	      ><rdg source="#Poonacha">kotujilāna</rdg></app></placeName>
+	    <placeName key="pl:Koruṅkala"><app><lem source="#Falk">koruku<unclear>lana</unclear></lem><rdg source="#Poonacha">kotujilāna</rdg></app></placeName>
 	  <lb n="4"/>
-	    bhikhu<app
-	      ><lem source="#Poonacha">nīya</lem
-	      ><rdg source="#Falk">niye</rdg>
+	    bhikhu<app><lem source="#Poonacha">nīya</lem><rdg source="#Falk">niye</rdg>
 	    </app> 
-	    <persName key="pers:Dharmaśrī">dhamasiriyāya</persName> a<app
-	      ><lem source="#Poonacha">gatuko </lem>
+	    <persName key="pers:Dharmaśrī">dhamasiriyāya</persName> a<app><lem source="#Poonacha">gatuko </lem>
 	       <rdg source="#Falk">khar<unclear>i</unclear>ka</rdg>
-	    </app>pa<app
-	      ><lem source="#Falk">ṭa</lem>
+	    </app>pa<app><lem source="#Falk">ṭa</lem>
 	       <rdg source="#Poonacha">tha <note xml:lang="en">(a typo for ṭa)</note></rdg>
 	      </app>sa<lb n="5" break="no"/>tharo ca deyadhama 
 	    sa<app><lem source="#Falk">ha a<unclear>māpitu</unclear>hi</lem>
-	           <rdg source="#Poonacha">hā amāpi hi</rdg></app> saha ca <app
-	      ><lem source="#Falk">me</lem
-	      ><rdg source="#Poonacha">mā</rdg>
+	           <rdg source="#Poonacha">hā amāpi hi</rdg></app> saha ca <app><lem source="#Falk">me</lem><rdg source="#Poonacha">mā</rdg>
 	    </app>
 	  <lb n="6"/>
-	    upajā<app
-	      ><lem source="#Falk">e</lem>
+	    upajā<app><lem source="#Falk">e</lem>
 	       <rdg source="#Poonacha">tha</rdg>
-	    </app>hi bhayata-<persName key="pers:BhVaraṇabhūti">varana<app
-	      ><lem source="#Falk">bhu</lem>
+	    </app>hi bhayata-<persName key="pers:BhVaraṇabhūti">varana<app><lem source="#Falk">bhu</lem>
 	       <rdg source="#Poonacha">bhū</rdg>
-	    </app>tihi</persName> sa<app
-	      ><lem source="#Falk">ha</lem>
+	    </app>tihi</persName> sa<app><lem source="#Falk">ha</lem>
 	       <rdg source="#Poonacha">hi</rdg>
 	    </app> ca bhayata
 	  <lb n="7"/>
-	    <persName key="pers:BhSiṃha"><unclear>s</unclear>i<app
-	      ><lem source="#Falk">he</lem>
+	    <persName key="pers:BhSiṃha"><unclear>s</unclear>i<app><lem source="#Falk">he</lem>
 	       <rdg source="#Poonacha">pe</rdg>
-	    </app>hi</persName> savasa<app
-	      ><lem source="#Falk"><unclear>ta</unclear></lem>
+	    </app>hi</persName> savasa<app><lem source="#Falk"><unclear>ta</unclear></lem>
 	       <rdg source="#Poonacha">tā</rdg></app>na
-	    ca hitasu<app
-	      ><lem source="#Falk">gha</lem>
+	    ca hitasu<app><lem source="#Falk">gha</lem>
 	       <rdg source="#Poonacha">ghā</rdg>
 	    </app>tha
 	</p>

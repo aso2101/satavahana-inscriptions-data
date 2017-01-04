@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="KanA101">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA101">
 
   <teiHeader>
     <fileDesc>
@@ -16,17 +12,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>,
 		on the upper drum (medhi) of the stūpa.
 	      </origPlace>
-	      <origDate notBefore-custom="-0100"
-			notAfter-custom="-0050"
-			precision="low">ca. 100-50 BCE</origDate>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0050" precision="low" datingMethod="cal:gregorian">ca. 100-50 BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -49,9 +43,7 @@
 	  <lb n="1"/>
 	  raño <persName key="pers:VpŚrīChimuka">siri
 	  chimukasātavāhanasa</persName> savachare
-	  <date when-custom="16"
-	        datingPoint="pers:VpŚrīChimuka"
-		datingMethod="cal:regnal">sode 10 + 6</date>
+	  <date when-custom="16" datingPoint="pers:VpŚrīChimuka" datingMethod="cal:regnal">sode 10 + 6</date>
 	  māhiseka<lb n="2" break="no"/> gahapatino
 	  <persName key="pers:Tokhi">tokhisa</persName>
 	  sacana gahapatiputesa sabhariyesa 

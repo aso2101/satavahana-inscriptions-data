@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaA4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaA4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	  </physDesc>
 	  <history>
@@ -23,15 +19,9 @@
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>,
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0001"
-		  notAfter-custom="0100"
-		  precision="medium"
-		  evidence="nomenclature">1st c. CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
-	    <provenance
-		type="transferred"
-		notAfter="1968">Transferred to the State Museum at <placeName key="pl:Gulbarga">Gulbarga</placeName>. This is its current location as of 2014.</provenance>
+	    <provenance type="transferred" notAfter="1968">Transferred to the State Museum at <placeName key="pl:Gulbarga">Gulbarga</placeName>. This is its current location as of 2014.</provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
@@ -61,17 +51,9 @@
 
 	<p>
 	  <lb n="1"/>
-	  <app><lem source="#ARIE1968">ṇ<unclear>hā</unclear></lem><rdg
-	            source="#Sarma1993">nhā</rdg></app>sa 
-	  bhāradāyasa <app><lem source="#Sarma1993">kuṭu</lem><rdg
-	    source="#ARIE1968">kūtu</rdg></app>bi<app><lem 
-	    source="#Sarma1993">na mahā</lem><rdg 
-	    source="#ARIE1968">nam aha</rdg></app>tarakasa 
-	  mahāsāthavāhanasa <persName
-	    key="pers:Sa-Agniśarman"><app><lem resp="#AO">agnisa</lem><rdg
-	    source="#Sarma1993">agnisa</rdg><rdg
-	    source="#ARIE1968">agiṣa</rdg></app>ma<supplied 
-	    reason="lost">sa</supplied></persName>
+	  <app><lem source="#ARIE1968">ṇ<unclear>hā</unclear></lem><rdg source="#Sarma1993">nhā</rdg></app>sa 
+	  bhāradāyasa <app><lem source="#Sarma1993">kuṭu</lem><rdg source="#ARIE1968">kūtu</rdg></app>bi<app><lem source="#Sarma1993">na mahā</lem><rdg source="#ARIE1968">nam aha</rdg></app>tarakasa 
+	  mahāsāthavāhanasa <persName key="pers:Sa-Agniśarman"><app><lem resp="#AO">agnisa</lem><rdg source="#Sarma1993">agnisa</rdg><rdg source="#ARIE1968">agiṣa</rdg></app>ma<supplied reason="lost">sa</supplied></persName>
 	</p>
       </div>
       <div type="translation">

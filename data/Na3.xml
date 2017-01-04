@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI
-  xml:space="preserve"
-  xml:lang="en"
-  xmlns="http://www.tei-c.org/ns/1.0"
-  xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="Na3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Na3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,9 +17,7 @@
 	        <placeName key="pl:Nāṇeghāṭ">Nāṇeghāṭ, Mahārāṣṭra</placeName>,
 		above a cistern.
 	      </origPlace>
-	      <origDate
-		  when-custom="0169"
-		  precision="low">c. 169 CE</origDate>
+	      <origDate when-custom="0169" precision="low" datingMethod="cal:gregorian">c. 169 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -58,10 +51,7 @@
 	  <lb n="1"/>
 	    sidhaṃ raṇo <persName key="pers:VpŚrīskandaSātakarṇi">vasaṭhiputasa
 	    <supplied reason="lost">kada</supplied>sātakaṇisa</persName>
-	  <lb n="2"/><date 
-	    when-custom="13"
-	    datingPoint="VpŚrīskandaSātakarṇi"
-	    datingMethod="cal:regnal">savachara tara 10 3</date> 
+	  <lb n="2"/><date when-custom="13" datingPoint="VpŚrīskandaSātakarṇi" datingMethod="cal:regnal">savachara tara 10 3</date> 
 	    hemata pakha pacame divase 10
 	  <lb n="3"/>kamavanasa gahapatasa damaghasasa deyadhama
 	  <lb n="4"/>paniyapuvā deydhama satagarapavate etha

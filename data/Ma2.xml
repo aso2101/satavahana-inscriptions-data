@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ma2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ma2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,14 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Mahāḍ">Mahāḍ</placeName>.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0150"
-		  notAfter-custom="0200"
-		  precision="medium">late 2nd c. CE</origDate>
+	      <origDate notBefore-custom="0150" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">late 2nd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -54,37 +47,14 @@
 	  <lb n="1"/>
 	  sidhaṃ gahapatisa seṭhisa 
 	  <persName key="pers:Kol-Saṅgharakṣita">saṃgharakhita</persName>
-	  saputasa vi<gap 
-	    reason="lost"
-	    units="character"
-	    quantity="7"/>
+	  saputasa vi<gap reason="lost" units="character" quantity="7"/>
 	  <lb n="2"/>
 	  <persName key="pers:Ma-Vādaśrī">vādasiriya</persName> deyadhaṃmaṃ
-	    leṇaṃ cetiakodhi pā<gap 
-	    reason="lost"
-	    units="character"
-	    quantity="7"/>
-	  <lb n="3"/>chetāni yāni le<app><lem 
-	    source="#Dandekar2006">ṇāṇa</lem><rdg
-	    source="#AS">ṇasa</rdg></app> peṭhā gorāva<gap 
-	    reason="lost"
-	    units="character"
-	    quantity="2"/>naṃ<gap 
-	    reason="lost"
-	    units="character"
-	    quantity="6"/>
-	  <lb n="4"/>ti chetehi kare tato chetiasa gadha<gap 
-	    reason="lost"
-	    units="character"
-	    quantity="11"/>
-	  <lb n="5"/>aṭha 8 bhatakaṃmāṇikā aṭha 8 koḍhipura<gap 
-	    reason="lost"
-	    units="character"
-	    quantity="7"/>
-	  <lb n="6"/>kāraṇakāraṇe ca leṇasa savenā ka<gap 
-	    reason="lost"
-	    units="character"
-	    quantity="10"/>
+	    leṇaṃ cetiakodhi pā<gap reason="lost" units="character" quantity="7"/>
+	  <lb n="3"/>chetāni yāni le<app><lem source="#Dandekar2006">ṇāṇa</lem><rdg source="#AS">ṇasa</rdg></app> peṭhā gorāva<gap reason="lost" units="character" quantity="2"/>naṃ<gap reason="lost" units="character" quantity="6"/>
+	  <lb n="4"/>ti chetehi kare tato chetiasa gadha<gap reason="lost" units="character" quantity="11"/>
+	  <lb n="5"/>aṭha 8 bhatakaṃmāṇikā aṭha 8 koḍhipura<gap reason="lost" units="character" quantity="7"/>
+	  <lb n="6"/>kāraṇakāraṇe ca leṇasa savenā ka<gap reason="lost" units="character" quantity="10"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

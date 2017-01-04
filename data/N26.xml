@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="N26">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N26">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,27 +9,21 @@
 	<authority>Sātavāhana Inscriptions</authority>
 	<idno>N26</idno><!-- ID follows Senart. !-->
 	<availability>
-	  <licence 
-	      target="http://creativecommons.org/licenses/by/3.0/"
-	      >Licensed under a Creative Commons-Attribution 
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
 	       3.0 licence.</licence>
 	</availability>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
 		on the ruined back of the veranda in Cave No. 24.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0025"
-		  notAfter-custom="0075"
-		  precision="medium"
-		  evidence="nomenclature">mid-1st c. CE</origDate>
+	      <origDate notBefore-custom="0025" notAfter-custom="0075" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">mid-1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,14 +40,12 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  sidhaṃ śakasa <app
-	    ><lem source="#N">dāma</lem>
+	  sidhaṃ śakasa <app><lem source="#N">dāma</lem>
 	     <rdg source="#G">dama</rdg>
 	    </app>cikasa
 	  lekhakasa vudhikasa 
 	  <lb n="2"/>
-	  viṣṇudata<app
-	    ><lem source="#N">putasa</lem>
+	  viṣṇudata<app><lem source="#N">putasa</lem>
 	     <rdg source="#G">putrasa</rdg>
 	    </app>
 	  daśapuravāthavasa leṇa po<lb n="3" break="no"/>dhiyo
@@ -69,10 +57,7 @@
 		  <rdg source="#AS">apara<supplied reason="lost">dhā</supplied></rdg>
 	     </app> me mātā
 	  <lb n="4"/>
-	  <gap 
-	    reason="lost"
-	    quantity="1"
-	    unit="character"/>taro udisa
+	  <gap reason="lost" quantity="1" unit="character"/>taro udisa
 	</p>
       </div>
       <div type="translation" xml:lang="en">

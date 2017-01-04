@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaZ1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaZ1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physicalDesc>
 	    <supportDesc>
 	      <support>The inscription is on a limestone stele
@@ -32,10 +28,7 @@
 		of <ref target="in:SaA1">SaA1</ref> (the 
 		praśasti stele of Gautamīputra Śrī Sātakarṇi)
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0084"
-		  notAfter-custom="0100"
-		  precision="low">late 1st c. CE (?)</origDate>
+	      <origDate notBefore-custom="0084" notAfter-custom="0100" precision="low" datingMethod="cal:gregorian">late 1st c. CE (?)</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -43,8 +36,7 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <graphic 
-	url="images/SaZ1.png">
+    <graphic url="images/SaZ1.png">
       <desc>Photograph from <ref target="bibl:VaraprasadaRao1995">Varaprasada Rao 1995</ref>.</desc>
     </graphic>
   </facsimile>
@@ -69,11 +61,9 @@
 	<lg met="vasantatilaka">
 	  <l><lb n="1"/>yas sva<supplied reason="omitted">r</supplied>ggatas samavasṛjya narendralakṣmīṃ<caesura/> 
 	  puttrottame suta-sahasra-samāna-sāre</l>
-	  <l>rā<app><lem resp="#AG">jñāṅ ku</lem><rdg source="#VPR">ja-kuśa</rdg></app>la-kṣaya-kar<app
-	    ><lem resp="#OVH">ax ku</lem>
+	  <l>rā<app><lem resp="#AG">jñāṅ ku</lem><rdg source="#VPR">ja-kuśa</rdg></app>la-kṣaya-kar<app><lem resp="#OVH">ax ku</lem>
 	     <rdg resp="#VPR">aṃ ku</rdg>
-	  </app>la<seg met="+-++"><gap
-	     reason="lost" quantity="unknown" unit="character"/></seg></l>
+	  </app>la<seg met="+-++"><gap reason="lost" quantity="unknown" unit="character"/></seg></l>
 	</lg>
       </div>
       <div type="translation">

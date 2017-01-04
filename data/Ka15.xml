@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ka15">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ka15">
 
   <teiHeader>
     <fileDesc>
@@ -16,7 +12,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <objectDesc>
 	      <layoutDesc>
@@ -37,9 +33,7 @@
 		of the dagoba in the small circular chamber just to the
 		left side of the caitya.
 	      </origPlace>
-	      <origDate notBefore-custom="0050"
-			notAfter-custom="0150"
-			precision="low">ca. 50-150 CE</origDate>
+	      <origDate notBefore-custom="0050" notAfter-custom="0150" precision="low" datingMethod="cal:gregorian">ca. 50-150 CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

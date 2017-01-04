@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Kol2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Kol2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,14 +11,14 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kol">Kol</placeName>.
 	      </origPlace>
-	      <origDate><!-- I don't have a date for these. !-->
+	      <origDate datingMethod="cal:gregorian"><!-- I don't have a date for these. !-->
 	      </origDate>
 	    </origin>
 	  </history>
@@ -52,9 +48,7 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  <gap reason="lost"
-	       unit="character"
-	       quantity="3"/>
+	  <gap reason="lost" unit="character" quantity="3"/>
 	  upāsakasa duhutuya <persName key="pers:Kol-Dharmaśrī">dhamasiriya</persName>
 	  <persName key="pers:Kol-Śivadatta">sivadatasa</persName> bitiyakāya
 	  <lb n="2"/>

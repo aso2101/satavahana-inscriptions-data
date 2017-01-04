@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K13">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K13">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,10 +21,7 @@
 		chaitya cave,
 		on the upper frieze to the right of the central door.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0045"
-		  notAfter-custom="0065"
-		  precision="medium">mid-1st c. CE</origDate>
+	      <origDate notBefore-custom="0045" notAfter-custom="0065" precision="medium" datingMethod="cal:gregorian">mid-1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -54,88 +47,50 @@
 	  sidhaṃ raño khaharātasa khatapasa
 	  <persName key="pers:Nahapāna">nahapānasa</persName>
 	  jā<supplied reason="lost">mā</supplied>tarā 
-	  <persName key="pers:Dinīka"><supplied 
-	      reason="lost">di</supplied>n<supplied
-	      reason="lost">nī</supplied>ka</persName>pūtena
+	  <persName key="pers:Dinīka"><supplied reason="lost">di</supplied>n<supplied reason="lost">nī</supplied>ka</persName>pūtena
 	  <persName key="pers:Uṣavadāta">usabhadātena</persName>
-	  <app><lem 
-	      source="#K">ti</lem><rdg 
-	      source="#AS">tiṇi</rdg></app><lb n="2" 
-	      break="no"/>gosatasahasa<supplied 
-	      reason="lost">de</supplied>ṇa
-	  <app><lem
-	      source="#K">na</lem>
+	  <app><lem source="#K">ti</lem><rdg source="#AS">tiṇi</rdg></app><lb n="2" break="no"/>gosatasahasa<supplied reason="lost">de</supplied>ṇa
+	  <app><lem source="#K">na</lem>
 	      <rdg source="#AS">ṇa</rdg>
-	  </app>diyā <placeName key="pl:Bārṇāsā">baṇā<app><lem
-	      source="#K">sāyā</lem>
+	  </app>diyā <placeName key="pl:Bārṇāsā">baṇā<app><lem source="#K">sāyā</lem>
 	      <rdg source="#CTI">sayaṃ</rdg>
 	  </app></placeName>
-	  s<supplied reason="lost">u</supplied>vaṇa<app><lem
-	      source="#K">tatha</lem>
+	  s<supplied reason="lost">u</supplied>vaṇa<app><lem source="#K">tatha</lem>
 	      <rdg source="#AS #CTI">ratha</rdg>
 	      <note xml:lang="en">Senart notes that the 
 	        <foreign xml:lang="pra-Latn">i</foreign> has
-		been lost in <foreign 
-		xml:lang="pra-Latn">titha</foreign>.</note>
-	  </app>karena <app><lem
-	      source="#K"><gap reason="lost"
-	      quantity="3"
-	      unit="character"/></lem>
+		been lost in <foreign xml:lang="pra-Latn">titha</foreign>.</note>
+	  </app>karena <app><lem source="#K"><gap reason="lost" quantity="3" unit="character"/></lem>
 	      <note xml:lang="en">The restoration
 	        <foreign xml:lang="pra-Latn">devāna</foreign>
 		is guaranteed by the parallel text
 		at Nasik.</note>
 	  </app> 
-	  brahma<app><lem
-	      source="#K">ṇana</lem>
+	  brahma<app><lem source="#K">ṇana</lem>
 	      <rdg source="#CTI #AS">ṇāṇa<supplied reason="lost">ṃ</supplied></rdg>
-	  </app> ca soḷa<supplied 
-	      reason="lost">sa</supplied>gā<lb n="3" break="no"/>ma<supplied
-	      reason="lost">d</supplied>e<gap reason="lost"
-	      quantity="1"
-	      unit="character"/>
+	  </app> ca soḷa<supplied reason="lost">sa</supplied>gā<lb n="3" break="no"/>ma<supplied reason="lost">d</supplied>e<gap reason="lost" quantity="1" unit="character"/>
 	  <placeName key="pl:Prabhāsa">pabhāse</placeName>
-	  <app><lem
-	      source="#K">pūta</lem>
+	  <app><lem source="#K">pūta</lem>
 	      <rdg source="#AS">puña</rdg>
-	  </app>tithe brahmaṇāṇa aṭhabhāyā<app><lem
-	      source="#K">p<supplied 
-	      reason="lost">r</supplied>a<gap
-	      reason="lost"
-	      quantity="2"
-	      unit="character"/><supplied
-	      reason="lost">a</supplied>nuvāsaṃ
+	  </app>tithe brahmaṇāṇa aṭhabhāyā<app><lem source="#K">p<supplied reason="lost">r</supplied>a<gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">a</supplied>nuvāsaṃ
 	  pi tu</lem><rdg source="#CTI">pradena
 	      gāvasāpi tri</rdg>
 	      <note xml:lang="en">The restoration
 	        <foreign xml:lang="pra-Latn">pradena</foreign>
 		is quite certain (Senart).</note>
 	  </app>
-	  sata<app><lem
-	      source="#K">sahasaṃ bho</lem>
+	  sata<app><lem source="#K">sahasaṃ bho</lem>
 	      <rdg source="#AS">sāhasi<unclear>bho</unclear></rdg>
 	  </app><lb n="4" break="no"/>japayita 
 	  <placeName key="pl:Valūraka">valūrakesu</placeName> 
-	  leṇavā<app><lem
-	      source="#K">sinaṃ</lem>
+	  leṇavā<app><lem source="#K">sinaṃ</lem>
 	      <rdg source="#AS #CTI">sāna</rdg>
-	  </app> pavajitānaṃ <gap reason="lost"
-	      quantity="1"
-	      unit="character"/>cātudisasa saghasa
+	  </app> pavajitānaṃ <gap reason="lost" quantity="1" unit="character"/>cātudisasa saghasa
 	  <lb n="5"/>yāpaṇatha gāmo 
-	  <placeName key="pl:Karajika"><supplied 
-	      reason="lost">kā</supplied><app><lem
-	      source="#K">r<supplied
-	      reason="lost">a</supplied></lem>
-	      <note xml:lang="en">The <foreign 
-	      xml:lang="pra-Latn">ra</foreign> would
-	      seem to have at the top the vowel-mark <foreign 
-	      xml:lang="pra-Latn">ā</foreign> or <foreign 
-	      xml:lang="pra-Latn">o</foreign>.</note>
-	  </app>jiko</placeName> dato <app><lem
-	     source="#K">sa<gap reason="lost" quantity="1" 
-	     gunit="character"/>na<gap reason="lost" quantity="3" 
-	     unit="character"/>vāsitānaṃ</lem>
+	  <placeName key="pl:Karajika"><supplied reason="lost">kā</supplied><app><lem source="#K">r<supplied reason="lost">a</supplied></lem>
+	      <note xml:lang="en">The <foreign xml:lang="pra-Latn">ra</foreign> would
+	      seem to have at the top the vowel-mark <foreign xml:lang="pra-Latn">ā</foreign> or <foreign xml:lang="pra-Latn">o</foreign>.</note>
+	  </app>jiko</placeName> dato <app><lem source="#K">sa<gap reason="lost" quantity="1" gunit="character"/>na<gap reason="lost" quantity="3" unit="character"/>vāsitānaṃ</lem>
 	     <rdg source="#AS #CTI">savāna vāsavāsitānaṃ</rdg>
 	  </app>
 	</p>

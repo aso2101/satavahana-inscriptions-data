@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am474">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am474">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		on a fragment (corner) of a slab with sculpture.
 	      </origPlace>
-	      <origDate notBefore-custom="0100"
-			notAfter-custom="0200"
-			precision="medium">ca. 2nd century CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">ca. 2nd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,15 +44,9 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    sidhaṃ namo bhagavato sidha<gap reason="lost"
-	                                    quantity="4"
-					    unit="character"
-					    precision="low"/>
+	    sidhaṃ namo bhagavato sidha<gap reason="lost" quantity="4" unit="character" precision="low"/>
 	  <lb n="2"/>
-	    sanātimitaba<unclear>ṃ</unclear>dhav<choice><sic>va</sic><corr>vā</corr></choice>naṃ<gap reason="lost"
-	                                    quantity="6"
-					    unit="character"
-					    precision="low"/>
+	    sanātimitaba<unclear>ṃ</unclear>dhav<choice><sic>va</sic><corr>vā</corr></choice>naṃ<gap reason="lost" quantity="6" unit="character" precision="low"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

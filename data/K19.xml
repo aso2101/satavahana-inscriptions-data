@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="K19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K19">
 
   <teiHeader>
     <fileDesc>
@@ -16,8 +12,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -25,10 +21,7 @@
 		chaitya cave, on the 2nd and 3rd tiers of the frieze
 		between the central and the right-hand doors.
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0060"
-		  notAfter-custom="0090"
-		  precision="medium">later 1st c. CE</origDate>
+	      <origDate notBefore-custom="0060" notAfter-custom="0090" precision="medium" datingMethod="cal:gregorian">later 1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -65,54 +58,32 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <gap reason="lost"
-	       quantity="10"
-	       unit="character"/>
+	  <gap reason="lost" quantity="10" unit="character"/>
 	  <supplied reason="lost">ānapayati</supplied>
-	  <placeName key="pl:Māmāḍa">māmā<app
-	    ><lem source="#N">ḍe</lem>
+	  <placeName key="pl:Māmāḍa">māmā<app><lem source="#N">ḍe</lem>
 	     <rdg source="#AS">le</rdg>
 	  </app></placeName>
-	  amaca pa<app
-	    ><lem source="#N">r<gap reason="lost" quantity="1" unit="character"/></lem>
+	  amaca pa<app><lem source="#N">r<gap reason="lost" quantity="1" unit="character"/></lem>
 	     <rdg source="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg>
-	  </app>ga<app
-	    ><lem source="#N">ta<gap reason="lost" quantity="1" unit="character"/></lem>
+	  </app>ga<app><lem source="#N">ta<gap reason="lost" quantity="1" unit="character"/></lem>
 	     <rdg source="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg>
 	  </app>masu
 	  etha le<app><lem source="#N">ne</lem><rdg source="#AS">na</rdg></app>sa
-	  <placeName key="pl:Valūraka"><app
-	    ><lem source="#N">vā</lem><rdg source="#AS">va</rdg>
-	  </app>lura<app
-	    ><lem source="#N">ke</lem><rdg source="#AS">ka</rdg>
+	  <placeName key="pl:Valūraka"><app><lem source="#N">vā</lem><rdg source="#AS">va</rdg>
+	  </app>lura<app><lem source="#N">ke</lem><rdg source="#AS">ka</rdg>
 	  </app>sa</placeName>
 	  vā<app><lem source="#N">tha</lem><rdg source="#AS">ṭha</rdg></app>vāna
 	  <lb n="2"/>
 	  pavajitāna bhikhuna nikāyasa
-	  mahāsagh<gap reason="lost"
-	               quantity="1"
-		       unit="character"/>yāna 
-	  y<gap reason="lost"
-	        quantity="1"
-		unit="character"/>pan<gap reason="lost"
-		                          quantity="1"
-					  unit="character"/>ya
+	  mahāsagh<gap reason="lost" quantity="1" unit="character"/>yāna 
+	  y<gap reason="lost" quantity="1" unit="character"/>pan<gap reason="lost" quantity="1" unit="character"/>ya
 	  etha <placeName key="pl:Māmāḍa">māmālā</placeName>hāre
-	  uta<app
-	    ><lem source="#N">remage</lem>
+	  uta<app><lem source="#N">remage</lem>
 	     <rdg source="#AS">ramag<unclear>e</unclear></rdg>
-	  </app> <app
-	    ><lem source="#N">g<gap reason="lost"
-	                quantity="1"
-			unit="character"/>m<gap reason="lost"
-		                                quantity="1"
-						unit="character"/></lem>
+	  </app> <app><lem source="#N">g<gap reason="lost" quantity="1" unit="character"/>m<gap reason="lost" quantity="1" unit="character"/></lem>
 	     <rdg source="#AS">gām<unclear>e</unclear></rdg>
 	  </app>
-	  <placeName key="pl:Karajaka">karaja<app
-	    ><lem source="#N">k<gap reason="lost"
-	                quantity="1"
-			unit="character"/></lem>
+	  <placeName key="pl:Karajaka">karaja<app><lem source="#N">k<gap reason="lost" quantity="1" unit="character"/></lem>
 	     <rdg source="#AS">ke<unclear>su</unclear></rdg>
 	  </app></placeName>
 	  <lb n="3"/>
@@ -121,8 +92,7 @@
 	  <app><lem source="#N">etesa <unclear>tu</unclear></lem>
 	       <rdg source="#AS">etesa</rdg></app>
           — gā<app><lem source="#N">ma</lem><rdg source="#AS">m<unclear>e</unclear></rdg></app> —
-	  <placeName key="pl:Karajaka">karaja<app
-	    ><lem source="#N">ke</lem>
+	  <placeName key="pl:Karajaka">karaja<app><lem source="#N">ke</lem>
 	     <rdg source="#AS">ke<unclear>su</unclear></rdg>
 	  </app></placeName> —
 	  bhikhuhala — deya — 
@@ -131,37 +101,25 @@
 	  gāmasa <placeName key="pl:Karajaka">karajakāna</placeName>
 	  bhikhuhalaparihāra vitarāma 
 	  a<app><lem source="#N">pā</lem><rdg source="#AS"><unclear>pa</unclear></rdg></app>vesa
-	  a<gap reason="lost"
-	        quantity="10"
-		unit="character"/>pārihārika ca etehi
+	  a<gap reason="lost" quantity="10" unit="character"/>pārihārika ca etehi
 	  na parihārehi 
-	  pariha<app><lem source="#N">rah<gap reason="lost"
-	                          quantity="1"
-				  unit="character"/></lem>
+	  pariha<app><lem source="#N">rah<gap reason="lost" quantity="1" unit="character"/></lem>
 	             <rdg source="#AS">riha</rdg>
 		     <note><p>Senart suggests -reh<unclear>i</unclear>.</p></note>
 	  </app>
-	  <app><lem source="#N">et<gap reason="lost"
-	                   quantity="1"
-			   unit="character"/></lem>
+	  <app><lem source="#N">et<gap reason="lost" quantity="1" unit="character"/></lem>
 	       <rdg source="#AS">ete</rdg></app>
-	  casa gā<app><lem source="#N">ma</lem><rdg source="#AS">m<unclear></unclear></rdg></app>
-	  <placeName key="pl:Karajaka">karaja<app
-	    ><lem source="#N">ke</lem><rdg source="#AS">ke<unclear>se</unclear></rdg>
+	  casa gā<app><lem source="#N">ma</lem><rdg source="#AS">m<unclear/></rdg></app>
+	  <placeName key="pl:Karajaka">karaja<app><lem source="#N">ke</lem><rdg source="#AS">ke<unclear>se</unclear></rdg>
 	  </app></placeName>
 	  <lb n="5"/>
-	  bhikhuhalaparihāre ca etha niba<app
-	    ><lem source="#N">dhāpehi</lem>
+	  bhikhuhalaparihāre ca etha niba<app><lem source="#N">dhāpehi</lem>
 	     <rdg source="#AS">dho<unclear>lehi</unclear></rdg>
 	  </app> aviyena ānata
-	  <gap reason="lost"
-	         quantity="10"
-		 unit="character"/><app><lem source="#N">cha</lem>
+	  <gap reason="lost" quantity="10" unit="character"/><app><lem source="#N">cha</lem>
 	  <rdg source="#AS"><gap reason="lost" quantity="1" unit="character"/></rdg></app>to
 	  vijaya<app><lem source="#N">ṭhasa</lem><rdg source="#AS">thasā</rdg></app>tāre
-	  dato ṭhe <app><lem source="#N"><gap reason="lost"
-	                          quantity="2"
-				  unit="character"/></lem>
+	  dato ṭhe <app><lem source="#N"><gap reason="lost" quantity="2" unit="character"/></lem>
 	                <rdg source="#AS">rañā</rdg></app>
 	  <unclear>paṭikā</unclear> sava 1<unclear>4</unclear>
 	  <lb n="6"/>

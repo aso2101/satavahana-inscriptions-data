@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="SaD2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaD2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +11,7 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
+	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
 	      <support>A slab.</support>
@@ -26,11 +22,7 @@
 	      <origPlace>
 		<placeName key="pl:Sannati">Sannati</placeName>
 	      </origPlace>
-	      <origDate
-		  notBefore-custom="0100"
-		  notAfter-custom="0200"
-		  precision="medium"
-		  evidence="nomenclature">2nd c. CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">2nd c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -38,8 +30,7 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <graphic
-	url="images/SaD2-sarma1993.jpg">
+    <graphic url="images/SaD2-sarma1993.jpg">
       <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 22-A.</desc>
     </graphic>
   </facsimile>
@@ -66,20 +57,9 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <unclear>gha</unclear>ri<app><lem 
-	    source="#Sarma1993 #NagarajaRao1985">ṇī</lem><rdg
-	    source="#ARIE1968">ṇi</rdg></app>ya <persName
-	    key="pers:Sa-Sihaḍī">siha<app><lem 
-	    source="#Sarma1993">ḍī</lem><rdg 
-	    source="#ARIE1968 #NagarajaRao1985">ḷī</rdg></app>ya</persName>
+	  <unclear>gha</unclear>ri<app><lem source="#Sarma1993 #NagarajaRao1985">ṇī</lem><rdg source="#ARIE1968">ṇi</rdg></app>ya <persName key="pers:Sa-Sihaḍī">siha<app><lem source="#Sarma1993">ḍī</lem><rdg source="#ARIE1968 #NagarajaRao1985">ḷī</rdg></app>ya</persName>
 	  <lb n="2"/>
-	  <app><lem source="#Sarma1993"><unclear>he</unclear></lem><rdg
-	    source="#NagarajaRao1985">ma</rdg></app>ma<persName
-	    key="pers:Sa-Nandā"><app><lem 
-	    source="#ARIE1968">na</lem><rdg
-	    source="#NagarajaRao1985">ne</rdg></app><app><lem
-	    source="#Sarma1993">dā</lem><rdg 
-	    source="#ARIE1968 #NagarajaRao1985">de</rdg></app>ya</persName>
+	  <app><lem source="#Sarma1993"><unclear>he</unclear></lem><rdg source="#NagarajaRao1985">ma</rdg></app>ma<persName key="pers:Sa-Nandā"><app><lem source="#ARIE1968">na</lem><rdg source="#NagarajaRao1985">ne</rdg></app><app><lem source="#Sarma1993">dā</lem><rdg source="#ARIE1968 #NagarajaRao1985">de</rdg></app>ya</persName>
 	</p>
       </div>
       <div type="translation">

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Ju6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ju6">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,7 +20,7 @@
 		in the last excavation of the group, on the back of a recess
 		above an open cistern.
 	      </origPlace>
-	      <origDate></origDate><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
@@ -52,10 +48,7 @@
 	    <unclear>saha</unclear> bhayāya
 	    <persName key="pers:Śivapālanikā">sivapālanikāya</persName>
 	  <lb n="2"/> 
-	    deyadhama poḍhi lena ca etasa akhayanivi<gap reason="lost"
-	                                                 quantity="12"
-							 unit="character"
-							 precision="low"/>
+	    deyadhama poḍhi lena ca etasa akhayanivi<gap reason="lost" quantity="12" unit="character" precision="low"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

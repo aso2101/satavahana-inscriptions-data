@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am500">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am500">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		at the lower end of a sculptured slab (<emph>udha-paṭa</emph>).
 	      </origPlace>
-	      <origDate notBefore-custom="0100"
-			notAfter-custom="0200"
-			precision="medium">ca. 2nd century CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">ca. 2nd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -52,16 +46,10 @@
 	  <lb n="1"/>
 	    sidhaṃ <placeName key="pl:Turughura">turughura</placeName>-vathavasa
 	    <persName key="pers:Am-Candramukha">cadamukha</persName>-gahapatisa
-	    bālikā <persName key="pers:Am-Tanacandrā">tanacadaya</persName><gap
-	    reason="lost"
-	    unit="character"
-	    quantity="3"/>ca halikaya <persName
-	    key="pers:Am-Bādhā">badhaya</persName>
+	    bālikā <persName key="pers:Am-Tanacandrā">tanacadaya</persName><gap reason="lost" unit="character" quantity="3"/>ca halikaya <persName key="pers:Am-Bādhā">badhaya</persName>
 	  <lb n="2"/>
-	    nutukāya <persName 
-	    key="pers:Am-Bhadrā"><choice><sic>bha</sic><corr>ca</corr></choice>daya</persName> ca
-	    bhaga<unclear>vato</unclear> mahācetiyasa <app><lem resp="#AO">pura</lem><rdg
-	    source="#Chandra1919">para</rdg></app>dāre <unclear>dakhi</unclear>ne 
+	    nutukāya <persName key="pers:Am-Bhadrā"><choice><sic>bha</sic><corr>ca</corr></choice>daya</persName> ca
+	    bhaga<unclear>vato</unclear> mahācetiyasa <app><lem resp="#AO">pura</lem><rdg source="#Chandra1919">para</rdg></app>dāre <unclear>dakhi</unclear>ne 
 	    pase <unclear>u</unclear>dhapaṭa <unclear>de</unclear>ya-dhama
 	  <lb n="3"/>patiṭhapita
 	</p>

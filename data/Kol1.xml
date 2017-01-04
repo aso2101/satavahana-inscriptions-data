@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Kol1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Kol1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,15 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName type="modern" key="pl:Kol">Kol</placeName>,
 		in the cave to the south-east of the village.
 	      </origPlace>
-	      <origDate><!-- I don't have a date for these. !-->
+	      <origDate datingMethod="cal:gregorian"><!-- I don't have a date for these. !-->
 	      </origDate>
 	    </origin>
 	  </history>
@@ -57,8 +53,7 @@
 	</div>
 	<p>
 	  <lb n="1"/>
-	  gahapatiputasa seṭhi<persName key="pers:Kol-Saṅgharakṣita"
-	    >sa<lb n="2" break="no"/>gharakhitasa</persName>
+	  gahapatiputasa seṭhi<persName key="pers:Kol-Saṅgharakṣita">sa<lb n="2" break="no"/>gharakhitasa</persName>
 	  deyadhamaṃ lena<supplied reason="lost">ṃ</supplied>
         </p>
       </div>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am480">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am480">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,17 +11,15 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
 		on a fragment (corner) of a sculptured slab.
 	      </origPlace>
-	      <origDate notBefore-custom="0100"
-			notAfter-custom="0200"
-			precision="medium">ca. 2nd century CE</origDate>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">ca. 2nd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -50,25 +44,15 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	    <gap reason="lost"
-		 quantity="unknown"
-		 unit="character"/>lure <unclear>va</unclear>ṭhavasa 
-	    pegagaha<unclear>patibha</unclear><gap reason="lost"
-	         unit="character"
-		 quantity="1"/>
+	    <gap reason="lost" quantity="unknown" unit="character"/>lure <unclear>va</unclear>ṭhavasa 
+	    pegagaha<unclear>patibha</unclear><gap reason="lost" unit="character" quantity="1"/>
 	  <lb n="2"/>
-	    <gap reason="lost"
-		 quantity="unknown"
-		 unit="character"/><unclear>sa</unclear>bhatukasa 
+	    <gap reason="lost" quantity="unknown" unit="character"/><unclear>sa</unclear>bhatukasa 
 	    sa<unclear>bha</unclear>ginikasa
 	    sabha<unclear>ya</unclear>
 	  <lb n="3"/>
-	    <gap reason="lost"
-		 quantity="unknown"
-		 unit="character"/>kaṭamahācetayekapas<unclear>e</unclear>
-	    <gap reason="lost"
-		 quantity="2"
-		 unit="character"/><unclear>pa</unclear>tiṭhapi<unclear>to</unclear>
+	    <gap reason="lost" quantity="unknown" unit="character"/>kaṭamahācetayekapas<unclear>e</unclear>
+	    <gap reason="lost" quantity="2" unit="character"/><unclear>pa</unclear>tiṭhapi<unclear>to</unclear>
 	</p>
       </div>
       <div type="translation" xml:lang="en">

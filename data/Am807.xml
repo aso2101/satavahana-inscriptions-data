@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:space="preserve"
-     xml:lang="en"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="Am807">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am807">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +11,8 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier></msIdentifier>
-	  <physDesc></physDesc>
+	  <msIdentifier/>
+	  <physDesc/>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,9 +20,7 @@
 		on one of the four coping slabs (uṣṇīṣa) belonging
 		to the railing of the stūpa. 
 	      </origPlace>
-	      <origDate notBefore-custom="0150"
-			notAfter-custom="0200"
-			precision="medium">Later half of the 2nd century CE</origDate>
+	      <origDate notBefore-custom="0150" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">Later half of the 2nd century CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -60,9 +54,7 @@
 	  <lb n="2"/>
 	    <g type="triratna"/> <persName key="pers:Buddhī">budhi</persName> 
 	    gahapati putasa 
-	    <persName key="pers:Candra">caṃda</persName><gap reason="lost"
-	              unit="character"
-		      quantity="unknown"/>
+	    <persName key="pers:Candra">caṃda</persName><gap reason="lost" unit="character" quantity="unknown"/>
         </p>
       </div>
       <div type="translation" xml:lang="en">
@@ -71,8 +63,7 @@
 	  Buddhist saṃgha by the householder
 	  <persName key="pers:KoḍakhaMūla">Mūla</persName> residing in Koḍakha, his wife
 	  <persName key="pers:Mahākamā">Mahākāmā</persName> and his daughter 
-	  <persName key="pers:Koḍakaṃmā">Koḍakāṃya</persName>.—<persName 
-	  key="pers:Candra">Caṃdra</persName>, son of the
+	  <persName key="pers:Koḍakaṃmā">Koḍakāṃya</persName>.—<persName key="pers:Candra">Caṃdra</persName>, son of the
 	  householder <persName key="pers:Buddhī">Buddhī</persName>.
 	</p>
       </div>
