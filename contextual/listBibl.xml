@@ -12,6 +12,19 @@
     <biblScope unit="pp" from="59" to="96">59–96</biblScope>
     <date when="1905-1906">1905–1906</date>
   </bibl>
+  <bibl xml:id="Konow1908" type="article">
+    <author>
+      <name>
+	<surname>Konow</surname>
+	<forename>Sten</forename>
+      </name>
+    </author>
+    <title level="a">Note on the Āndhra king Caṇḍasāta</title>
+    <title level="j">Zeitschrift der Deutschen Morgenländischen Gesellschaft</title>
+    <biblScope unit="vol">62</biblScope>
+    <biblScope unit="pp" from="591" to="592">591–592</biblScope>
+    <date when="1908">1908</date>
+  </bibl>
   <bibl xml:id="Deo1972" type="book">
     <author>
       <name>
@@ -441,6 +454,20 @@
     <biblScope unit="vol">52</biblScope>
     <biblScope unit="pp" from="197" to="206">197–206</biblScope>
     <date when="2009">2009</date>
+  </bibl>
+
+  <bibl xml:id="KrishnaSastri19251926" type="article">
+    <author>
+      <name>
+	<surname>Krishna Sastri</surname>
+	<forename>H.</forename>
+      </name>
+    </author>
+    <title level="a">The Kodavali Rock-Inscription of Chandasati; the Second Year of Reign</title>
+    <title level="j">Epigraphia Indica</title>
+    <biblScope unit="vol">18</biblScope>
+    <biblScope unit="pp" from="316" to="319">316–319</biblScope>
+    <date when="1925">1925–1926</date>
   </bibl>
 
   <bibl xml:id="Reddy2000" type="incollection">
