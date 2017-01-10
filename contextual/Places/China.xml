@@ -1,6 +1,5 @@
 <place xmlns="http://www.tei-c.org/ns/1.0" 
        xml:id="China">
-  <placeName type="modern" xml:lang="eng">China</placeName>
-  <placeName type="gmodern" xml:lang="tel-Latn">Chinnaganjam</placeName>
+  <placeName type="gmodern" xml:lang="tel-Latn">Cinagañjāṃ</placeName>
   <geo>80.239710 15.697857</geo>
 </place>

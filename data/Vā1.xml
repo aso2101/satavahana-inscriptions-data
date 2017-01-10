@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Vā1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Vāsana 1 (mentioning Vāsiṣṭhīputra Śrī Puḷumāvi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Vā1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>
+		<p>A limestone pillar, octogonal above and rectangular at the base.</p>
+	      </support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Vāsana">Vāsana</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0084" notAfter-custom="0119" precision="medium" datingMethod="cal:gregorian">c. 84–119 CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered" notAfter="1981">
+	      <p>Found by Shri S.V.P. Halakatti, and reported in the <hi rend="italic">Deccan Herald</hi> in 1981.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:Sharma19751976"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>Based on <ref target="bibl:Sharma19751976">Sharma 1975–1976</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <supplied reason="lost">sidhaṃ sātavā</supplied>hanaraño <persName key="pers:VpŚrīPuḷumāvi">vāsaṭhīputasa siripuḷumāvisa</persName>
+	  <lb n="2"/>
+	  <gap reason="lost" quantity="5" unit="character" precision="low"/><unclear>vā</unclear>yatanavāsisa mahādevasa caṃḍasivasa
+	  <lb n="3"/>
+	  <gap reason="lost" quantity="5" unit="character" precision="low"/><unclear>sa</unclear>lavaḍhakisa
+	  <lb n="4"/>
+	  <gap reason="lost" quantity="5" unit="character" precision="low"/>teti |
+	</p>
+      </div>
+      <div type="translation">
+	<p>[This pillar] was made by the carpenter... for the Great God Caṇḍaśiva who dwells in the temple... [in the rule of] <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Śrī Puḷumāvi</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
