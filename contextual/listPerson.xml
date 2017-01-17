@@ -212,12 +212,6 @@
        donated (by the laywoman Śivapālitanikā) in his name.</p>
   </person>
 
-  <person xml:id="BhSiṃha" sex="M">
-    <persName>Siṃha</persName>
-    <faith>Buddhist</faith>
-    <state type="religious">Bhadanta</state>
-  </person>
-
   <person xml:id="Ghaürā" sex="feM">
     <persName>Ghaüra</persName>
     <faith>Buddhist</faith>
@@ -229,24 +223,11 @@
     <persName>Saṃghā</persName>
   </person>
 
-  <person xml:id="BhVaraṇabhūti" sex="M">
-    <persName>Varaṇabhūti</persName>
-    <faith>Buddhist</faith>
-    <state type="religious">Bhadanta</state>
-    <state type="religious">Upādhyāya</state>
-  </person>
-
   <person xml:id="BhVijaya" sex="M">
     <persName>Vijaya</persName>
     <faith>Buddhist</faith>
     <state type="religious">Sthavira</state>
     <state type="religious">Bhadanta</state>
-  </person>
-
-  <person xml:id="Dharmaśrī" sex="feM">
-    <persName>Dharmaśrī</persName>
-    <faith>Buddhist</faith>
-    <state type="religious">Bhikkhunī</state>
   </person>
 
   <person xml:id="Buddharakṣita" sex="M">
@@ -711,7 +692,7 @@
     <relation name="parent" active="#Setapharaṇa" passive="#Harapharaṇa"/>
     <relation name="parent" active="#Gṛhapati" passive="#Saṅgharakṣita"/>
     <relation name="parent" active="#Saḍagerī" passive="#Skandapālita"/>
-    <relation name="teacher" active="#BhVaraṇabhūti" passive="#Dharmaśrī"/>
+
     <relation name="teacher" active="#Haghana" passive="#Kṛṣṇaśrī"/>
     <relation name="sibling" mutual="#Kṛṣṇaśrī #Nāṇikā"/>
     <relation name="sibling" mutual="#Kṛṣṇaśrī #Saṅghaka"/>

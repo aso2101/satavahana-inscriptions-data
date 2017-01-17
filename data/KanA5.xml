@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA5">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A5 (Mantalaka)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA5</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A fragmentary two-tiered limestone panel. The lower tier shows riders on an elephant and a horse, and the upper tier shows a royal couple. King Mantalaka holds a precious drinking vessel in his right hand.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0100" notAfter-custom="0150" precision="medium" datingMethod="cal:gregorian">early 2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Label</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanA5.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.5</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Poonacha2013"/>
+	  <citedRange>A94</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Mantalaka">rāya matalako</persName>
+	</p>
+      </div>
+      <div type="translation">
+	<p><persName key="pers:Mantalaka">King Mantalako</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

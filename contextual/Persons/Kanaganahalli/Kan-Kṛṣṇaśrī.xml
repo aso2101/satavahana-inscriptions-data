@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Kṛṣṇaśrī">
+  <sex value="M"/>
+  <persName>Kṛṣṇaśrī</persName>
+  <faith>Buddhist</faith>
+  <note>hāgāṇa</note>
+  <state type="religious" key="terms:Pravrajita">Pravrajita</state>
+</person>

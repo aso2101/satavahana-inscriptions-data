@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA14">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A14 (reign of Māṭharīputra Śrī Puḷumāvi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA14</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“Above a panel located at the eastern entrance to the Caitya and showing a Caitya” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0220" notAfter-custom="0230" precision="medium" datingMethod="cal:gregorian">ca. 220–230 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.14</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. A.150</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	    <supplied reason="lost">namo bhaga</supplied>vato
+	    budhasa raño
+	    <persName key="pers:MpŚrīPuḷumāvi">
+	      <app><lem source="#MNOVH0214">māḍhar<unclear>i</unclear>putasa</lem><rdg source="#Poonacha2013">mādhariputasa</rdg></app>
+	      siri pulumāvisa
+	    </persName>
+	    <date when-custom="10" datingPoint="pers:MpŚrīPuḷumāvi" datingMethod="cal:regnal"><unclear>sa</unclear><supplied reason="lost">vachare</supplied> <app><lem source="#MNOVH2014"><gap reason="lost"
+	    unit="character"
+	    quantity="3"/></lem><rdg source="#Poonacha2013">10</rdg></app></date>
+	    d<unclear>i</unclear>va <app><lem source="#MNOVH2014"><unclear>10</unclear> 5</lem><rdg source="#Poonacha2013">15</rdg></app>
+	    <app><lem source="#MNOVH2014"><unclear>sā</unclear>dakapavatakasa <unclear>dhava</unclear><gap reason="lost"
+	      quantity="unknown"
+	      unit="character"/></lem><rdg source="#Poonacha2013">ka pavatakasa</rdg></app>
+	  <lb n="2"/>
+	    <unclear>de</unclear>va <app><lem source="#MNOVH2014">vāṇija</lem><rdg source="#Poonacha2013">vanija</rdg></app>putasa
+	    <app><lem source="#MNOVH2014">hāgāṇa</lem><rdg source="#Poonacha2013">hāgāna</rdg></app> 
+	    <persName key="pers:Kan-Kṛṣṇaśrī"><app><lem source="#MNOVH2014">kanḥa</lem><rdg source="#Poonacha2013">kanha</rdg></app>sirisa</persName>
+	    samāt<unclear>u</unclear>kasa <app><lem source="#MNOVH2014">sa<supplied reason="lost">bhā</supplied><unclear>tu</unclear>kasa</lem><rdg source="#Poonacha2013">sapitukasa</rdg></app> saputakasa <app><lem source="#MNOVH2014">deja</lem><rdg source="#Poonacha2013">deya</rdg></app>dhama <unclear>ce</unclear>ti<unclear>ya</unclear><app><lem source="#MNOVH2014">paṭo</lem><rdg source="#Poonacha2013">paṭa</rdg></app>
+	    sava<unclear>l</unclear><app><lem source="#Poonacha2013"><supplied reason="lost">okahitasukhāya</supplied></lem><rdg
+	      source="#MNOVH2014">oka<gap reason="lost" quantity="unknown" unit="character"/></rdg></app>
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

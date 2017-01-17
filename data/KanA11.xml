@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA11">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A11 (Year 6 of Vāsiṣṭhīputra Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA11</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“On the fragment of an octogonal pillar, probably the shaft of an umbrella” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate when-custom="0181" precision="low" datingMethod="cal:gregorian">c. 181 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanA11.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.11</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:GpŚrīyajñaSātakarṇi"><supplied reason="lost">ya</supplied>ñasātakaṇisa</persName>
+	  saṃvachare <unclear>10</unclear>
+	  <lb n="2"/>
+	  <gap reason="lost"
+	       quantity="unknown"
+	       unit="character"/>tak<unclear>ā</unclear>na 
+	  <persName key="pers:Kan-Mahaḍata">mahaḍatasa</persName><gap
+	       reason="lost"
+	       quantity="unknown"
+	       unit="character"/>
+	  <lb n="3"/>
+	  mahāceti<gap reason="lost"
+	               quantity="unknown"
+		       unit="character"/>
+	</p>
+      </div>
+      <div type="translation">
+	<p>In the year (10) of King <persName key="pers:GpŚrīyajñaSātakarṇi">Yajña Sātakarṇi</persName>,
+	<persName key="pers:Kan-Mahaḍata">Mahaḍata</persName> of the -taka family... the great Caitya.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

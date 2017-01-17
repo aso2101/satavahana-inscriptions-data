@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA10">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A10 (of Samala, year 6 of Vāsiṣṭhīputra Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA10</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“On an upright (or coping-stone?) of the railing” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate when-custom="0125" precision="low" datingMethod="cal:gregorian">c. 125 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanA10.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.10</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Poonacha2013"/>
+	  <citedRange>A15</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <app><lem source="#MNOVH2014"><supplied reason="lost">sidhaṃ</supplied></lem><rdg source="#Poonacha2013"></rdg></app> <app><lem source="#MNOVH2014">r<supplied reason="lost">a</supplied>ñ<supplied reason="lost">o</supplied></lem><rdg source="#Poonacha2013">rajño</rdg></app>
+	  <persName key="pers:VpŚrīSātakarṇi">
+	    <app><lem source="#MNOVH2014">v<supplied reason="lost">ā</supplied>s<unclear>i</unclear>ṭh<unclear>i</unclear>puta<unclear>sa</unclear></lem><rdg source="#Poonacha2014">vāsithīputasa</rdg></app> 
+	    <app><lem source="#MNOVH2014"><unclear>si</unclear>r<unclear>i</unclear></lem><rdg source="#Poonacha2013">siri</rdg></app>
+	    <app><lem source="#MNOVH2014">sadakan<unclear>i</unclear><supplied reason="lost">sa</supplied></lem><rdg source="#Poonacha2013">sādakanisa</rdg></app>
+	  </persName>
+	  <app><lem source="#MNOVH2014"><supplied reason="lost">savacha</supplied>r<unclear>a</unclear></lem><rdg source="#Poonacha2013">savachare</rdg></app> 
+	  <date when-custom="6" datingPoint="pers:VpŚrīSātakarṇi" datingMethod="cal:regnal"><app><lem wit="#MNOVH2014"><unclear>6</unclear></lem><rdg wit="#Poonacha2013">5</rdg></app></date>
+	  <app><lem source="#MNOVH2014">gi<unclear>mhā</unclear>na</lem><rdg source="#Poonacha2013">gīmhāna</rdg></app> 
+	  pakha 4 divasa 5 <app><lem source="#MNOVH2014">utarāhakena</lem><rdg source="#Poonacha2013">utarāhakona</rdg></app> 
+	  <app><lem source="#MNOVH2014">sathavāh<unclear>e</unclear>na</lem><rdg source="#Poonacha2013">sātavāhana</rdg></app> 
+	  <persName key="pers:Kan-Samala"><app><lem source="#MNOVH2014">sama<unclear>l</unclear><supplied reason="lost">e</supplied>ṇa</lem><rdg source="#Poonacha2013">samaṇena</rdg></app></persName>
+	  <app><lem source="#MNOVH2014">u<unclear>d</unclear>uk<unclear>o</unclear>pat<unclear>o</unclear></lem><rdg source="#Poonacha2013">ujukā pato</rdg></app> catāri ca 
+	  <app><lem source="#MNOVH2014">pāyaka</lem><rdg source="#Poonacha2013">pāyako</rdg></app>
+	  <unclear>de</unclear>ya<unclear>dhama</unclear>
+	  <lb n="2"/>
+	  savabudhapu<unclear>cā</unclear>ya mātā<app><lem source="#MNOVH2014">pituna</lem><rdg source="#Poonacha2013">pitūna</rdg></app>
+	  <app><lem source="#MNOVH2014">puyāya</lem><rdg source="#Poonacha2013">punyāya</rdg></app> savalokah<supplied reason="lost">ita</supplied><unclear>s</unclear>ughāya
+	</p>
+      </div>
+      <div type="translation">
+	<p>Success! In the year 6 of King <persName key="pers:VpŚrīSātakarṇi">Vāsiṣṭhīputra Śrī Sātakarṇi</persName>,
+	in the 4th half-month of the summer, on the 5th day. This is the pious gift by Samala, a caravan leader from the north, a coping stone (???) and four uprights, to honour all Buddhas, to honour the parents, for the happiness of the whole world.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

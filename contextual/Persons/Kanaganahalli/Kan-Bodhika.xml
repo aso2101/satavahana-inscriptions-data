@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Bodhika">
+  <sex value="M"/>
+  <persName>Bodhika</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Bhikṣu">Bhikṣu</state>
+  <state type="religious" key="terms:Dharmakathika">Dharmakathika</state>
+</person>

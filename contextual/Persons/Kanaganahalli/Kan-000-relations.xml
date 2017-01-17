@@ -1,0 +1,7 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- from KanA8 !-->
+  <relation name="teacher" active="#Kan-BhVaraṇabhūti" passive="#Kan-Dharmaśrī"/>
+  <!-- from KanA13 !-->
+  <relation name="sibling" mutual="#Kan-Kṛṣṇaśrī #Kan-Saṃghaka"/>
+</listRelation>

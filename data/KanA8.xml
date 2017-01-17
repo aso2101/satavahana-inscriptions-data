@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA8">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A8 (year 35 of Vāsiṣṭhīputra Śrī Puḷumāvi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA8</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate when-custom="0119" precision="low" datingMethod="cal:gregorian">ca. 119 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanA8.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MVOVH2014"/>
+	  <citedRange>I.8</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Poonacha2013"/>
+	  <citedRange>no. A.101</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Falk2009"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>The edition is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	    sidha || na<unclear>mo</unclear>
+	    bhagavato samasabudhasa <app><lem source="#MNOVH2014">adh<unclear>ā</unclear>laka</lem><rdg source="#Poonacha2013">adholoka</rdg><rdg source="#Falk2009">śudhalaka</rdg></app>-mahā<lb n="2" break="no"/>
+	    ce<supplied reason="lost">t</supplied>iyasa
+	    <supplied reason="lost">ra</supplied>ño
+	    <persName key="pers:VpŚrīPuḷumāvi">vā<app><lem source="#MNOVH2014 #Falk2009">seṭhi</lem>
+	       <rdg source="#Poonacha2013">sithī</rdg>
+	    </app><unclear>p</unclear>uta 
+	    siri pu<app><lem source="#MNOVH2014 #Falk2009">lu</lem><rdg source="#Poonacha2013">ḷu</rdg></app>māvisa</persName>
+	  <lb n="3"/>
+	    savachare <date when-custom="35" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">30 5</date>
+	    gi<unclear>m</unclear>h<unclear>ā</unclear>na pakhe 2 10 
+	    <app><lem source="#MNOVH2014">koruku<unclear>la</unclear>na</lem><rdg source="#Falk">koruku<unclear>lana</unclear></rdg><rdg source="#Poonacha2013">kotujilāna</rdg></app>
+	  <lb n="4"/>
+	    bhikhu<app><lem source="#MNOVH2014 #Falk2009">niye</lem><rdg source="#Poonacha">nīya</rdg></app> 
+	    <persName key="pers:Kan-Dharmaśrī">dhamasiriyāya</persName> 
+	    <app><lem source="#MNOVH2014">agarak<unclear>o</unclear></lem><rdg source="#Poonacha2013">agatuko</rdg><rdg source="#Falk2009">akhar<unclear>i</unclear>ka</rdg></app>
+	    pa<app><lem source="#MNOVH2014 #Falk2009">ṭa</lem><rdg source="#Poonacha2013">tha <note xml:lang="en">(a typo for ṭa)</note></rdg></app>sa<lb n="5" break="no"/>tharo 
+	    ca deyadhama 
+	    <app><lem source="#MNOVH2014">saha a<unclear>māpitū</unclear>hi</lem>
+	         <rdg source="#Falk2009">saha a<unclear>māpitu</unclear>hi</rdg>
+	         <rdg source="#Poonacha2013">sahā amāpi hi</rdg></app> 
+	    saha ca <app><lem source="#MNOVH2014">m<unclear>e</unclear></lem><rdg source="#Falk2009">me</rdg><rdg source="#Poonacha">mā</rdg>
+	    </app>
+	  <lb n="6"/>
+	    upajā<app><lem source="#MNOVH2014 #Falk2009">e</lem>
+	       <rdg source="#Poonacha2013">tha</rdg></app>hi 
+	    bhayata 
+	    <persName key="pers:Kan-BhVaraṇabhūti">varana<app><lem source="#MNOVH2014 #Falk2009">bhu</lem>
+	       <rdg source="#Poonacha2013">bhū</rdg></app>tihi</persName>
+	    sa<app><lem source="#MNOVH2014 #Falk2009">ha</lem><rdg source="#Poonacha2013">hi</rdg></app> ca bhayata
+	  <lb n="7"/>
+	    <persName key="pers:Kan-BhSiṃha"><unclear>s</unclear>i<app><lem source="#MNOVH2014 #Falk2009">he</lem><rdg source="#Poonacha2013">pe</rdg></app>hi</persName> 
+	    savasa<app><lem source="#MVOVH2014 #Poonacha2013">tā</lem><rdg source="#Falk2009"><unclear>ta</unclear></rdg></app>na
+	    ca hitasu<app><lem source="#MNOVH2014 #Falk2009">gha</lem><rdg source="#Poonacha2013">ghā</rdg></app>tha
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! Homage to the Lord,
+	  the perfectly Enlightened One,
+	  of the Great Caitya at Adhāloka.
+	  In the year 35 of King
+	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
+	    Śrī Puḷumāvi</persName>,
+	  in the second half-month of summer, on the 
+	  tenth day. An agaraka and a covering with slabs
+	  are the pious gift of the nun from the Koru family,
+	  <persName key="pers:Kan-Dharmaśrī">Dharmaśrī</persName>,
+	  together with (my) parents and with my teacher,
+	  the venerable <persName key="pers:Kan-BhVaraṇabhūti">Varaṇabhūti</persName>,
+	  and with the Venerable 
+	  <persName key="pers:Kan-BhSiṃha">Siṃha</persName>, and
+	  for the well-being and happiness of all beings.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

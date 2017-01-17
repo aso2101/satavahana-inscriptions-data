@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA13">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A13 (of Saṃghaka, year 11 of Vāsiṣṭhīputra Caṇḍa Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA13</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“Above a panel showing the distributed relics of the Buddha on elephants” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate when-custom="0217" precision="low" datingMethod="cal:gregorian">ca. 217 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.13</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. A.68</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	    <app><lem source="#MNOVH2014"><unclear>s</unclear><supplied reason="lost">i</supplied><unclear>dha</unclear></lem><rdg source="#Poonacha2013"></rdg></app>	    
+	    namo <unclear>bha</unclear>gavato 
+	    <app><lem source="#MNOVH2014">raño</lem><rdg source="#Poonacha2013">rājño</rdg></app>
+	    <persName key="pers:VpŚrīcaṇḍaSātakarṇi">
+	      <app><lem source="#MNOVH2014">vās<unclear>i</unclear>ṭhiputasa</lem><rdg source="#Poonacha2013">vāsithiputasa</rdg></app> 
+	      <app><lem source="#MNOVH2014">saḍa</lem><rdg source="#Poonacha2013">siri</rdg></app>
+	      <app><lem source="#MNOVH2014">satakanisa</lem><rdg source="#Poonacha2013">sātakaṇisa</rdg></app>
+	    </persName> 
+	    <date when-custom="2" datingPoint="pers:VpŚrīSātakarṇi" datingMethod="cal:regnal">sava 
+	      <app><lem source="#MNOVH2014">10 1</lem><rdg source="#Poonacha2013">2</rdg></app></date>
+	    <app><lem source="#MNOVH2014">vā pa</lem><rdg source="#Poonacha2013">pa</rdg></app> 1 di 1 
+	    <app><lem source="#MNOVH2014">pavabātasa</lem><rdg source="#Poonacha2013">pava<supplied reason="lost">y</supplied>itasa</rdg></app>
+	    <persName key="pers:Kan-Kṛṣṇaśrī">kanhasir<unclear>i</unclear>sa</persName>
+	    <app><lem source="#MNOVH2014">bhātuṇo</lem><rdg source="#Poonacha2013">bhātuno</rdg></app>
+	    <persName key="pers:Kan-Saṅghaka">saghakasa</persName>
+	    deyadha<supplied reason="lost">ma</supplied>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! Homage to the Lord.
+	  In the year 11 of King 
+	  <persName key="pers:VpŚrīcaṇḍaSātakarṇi">Vāsiṣṭhīputra Caṇḍa Sātakarṇi</persName>
+	  in the 1st half of the month of the rainy season, on the 1st day.
+	  The pious gift of 
+	  <persName key="pers:Kan-Saṃghaka">Saṃghaka</persName>,
+	  the brother of the novice 
+	  <persName key="pers:Kan-Kṛṣṇaśrī">Kṛṣṇaśrī</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

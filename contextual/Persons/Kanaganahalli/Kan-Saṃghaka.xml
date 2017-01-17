@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Saṃghaka">
+  <sex value="M"/>
+  <persName>Saṃghaka</persName>
+  <faith>Buddhist</faith>
+</person>

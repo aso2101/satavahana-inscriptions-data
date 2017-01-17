@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Samala">
+  <sex value="M"/>
+  <persName>Samala</persName>
+  <faith>Buddhist</faith>
+  <occupation>sārthavāhana</occupation>
+</person>

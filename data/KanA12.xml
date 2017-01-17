@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA12">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A12 (of Bodhikaya, year 11 of Gautamīputra Śrīyajña Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA12</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“On two sides of an octogonal pillar once supporting an umbrella” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate when-custom="0182" precision="low" datingMethod="cal:gregorian">ca. 182 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanA12.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.12</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. A.143</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <app><lem source="#MNOVH2014">siddhaṃ ||</lem><rdg source="#Poonacha2013">sidhaṃ</rdg></app> raño 
+	  <persName key="pers:GpŚrīyajñaSātakarṇi">gotamīputasa
+	  siriyaña <app><lem source="#MNOVH2014">sātakaṇ<unclear>i</unclear>sa</lem><rdg source="#Poonacha2013">sātakanisa</rdg></app></persName>
+	  <date when-custom="11" datingPoint="pers:GpŚrīyajñaSātakarṇi" datingMethod="cal:regnal">sa<unclear>va</unclear> 10 1</date>
+	  <lb n="2"/>
+	  hematāna <app><lem source="#MNOVH2014">pakhe</lem><rdg source="#Poonacha2013">pakha</rdg></app> 1 diva 1 bhikhusa
+	  dhamakadhikasa <persName key="pers:Kan-Bodhika">bodhikayasa</persName>
+	  <lb n="3"/>
+	  chata deyadhama sahā mātāpitūhi sahā ca bhātū<app><lem source="#MNOVH2014">bhaginihi</lem><rdg source="#Poonacha2013">bhaginīhi</rdg></app>
+	  <lb n="4"/>
+	  savalokahitāya
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>
+	  Success! In the year 11 of King 
+	  <persName key="pers:GpŚrīyajñaSātakarṇi">Gautamīputra
+	  Śrīyajña Sātakarṇi</persName>, in the 1st half-month
+	  of the winter, on the 1st day. The pious gift of the
+	  monk (and) preacher
+	  <persName key="pers:Kan-Bodhika">Bodhika</persName>,
+	  together with (his) parents and with (his) brothers and sisters
+	  for the well-being of the whole world.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

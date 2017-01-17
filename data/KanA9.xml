@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA9">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A9 (Puḷumāvi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA9</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“On a two-tiered panel, the lower one showing elephants and horses, the upper one a king making a donation to a second king” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0100" notAfter-custom="0150" precision="medium" datingMethod="cal:gregorian">early 2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Label</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanA9.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.9</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Poonacha2013"/>
+	  <citedRange>A99</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  rāyā <persName key="pers:VpŚrīPuḷumāvi">puḷumāvi</persName>
+	  <persName key="pers:Kan-Ajayata">ajayatasa</persName> <placeName key="pl:Ujjayinī">ujeni</placeName> deti
+	</p>
+      </div>
+      <div type="translation">
+	<p>King <persName key="pers:VpŚrīPuḷumāvi">Puḷumāvi</persName> hands over <placeName key="pl:Ujjayinī">Ujjain</placeName> to <persName key="pers:Kan-Ajayata">Ajayanta</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

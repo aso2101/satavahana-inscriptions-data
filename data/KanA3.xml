@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli A3 (16th year of Chimuka Sātavāhana)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanA3</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>A two-tiered panel: the top shows Kassapagotta being carried in a palanquin, the bottom shows riders on mythical animals.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate when-custom="-0104" precision="low" datingMethod="cal:gregorian">c. 104 BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanA3.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>I.3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Poonacha2013"/>
+	  <citedRange>A101</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. They edit four fragments separately that <ref target="bibl:Poonacha2013">Poonacha 2013</ref> reads as a single inscription: they are this inscription, <ref target="in:KanD9">KanD9</ref>, <ref target="in:KanD2">KanD2</ref>, and <ref target="in:KanB4">KanB4</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  raño <persName key="pers:VpŚrīChimuka">siri chimu<unclear>ka</unclear>sātavāhanasa</persName>
+	  savachare <date when-custom="16"
+	                  datingPoint="pers:VpŚrīChimuka"
+			  datingmethod="cal:regnal">soḍe 10 6</date> mātiseka<gap
+			  reason="lost"
+			  quantity="unknown"
+			  unit="character"/>
+	</p>
+      </div>
+      <div type="translation">
+	<p>In the year sixteen 16 of King <persName key="pers:VpŚrīChimuka">Śrī Chimuka Sātavāhana</persName>, Mātiseka....</p>
+      </div>
+    </body>
+  </text>
+</TEI>
