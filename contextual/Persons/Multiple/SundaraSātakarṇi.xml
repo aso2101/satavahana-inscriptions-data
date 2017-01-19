@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="SundaraSātakarṇi" 
+    sex="M">
+  <persName>Sundara Sātakarṇi</persName>
+  <state type="political"
+	 precision="low">King</state>
+</person>
