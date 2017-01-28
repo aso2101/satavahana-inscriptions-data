@@ -1,0 +1,6 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Utika">
+  <sex value="M"/>
+  <persName>Utika</persName>
+</person>

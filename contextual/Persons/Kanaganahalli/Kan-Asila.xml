@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Asila">
+  <sex value="M"/>
+  <persName xml:lang="pra-Latn">Asila</persName>
+  <persName xml:lang="san-Latn">Aśvila</persName>
+  <state type="social" key="terms:Gahapati">gahapati</state>
+  <trait type="family">Ṇaḷabāhuka</trait>
+</person>
