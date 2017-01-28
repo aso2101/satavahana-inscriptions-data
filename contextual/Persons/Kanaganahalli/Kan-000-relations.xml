@@ -6,4 +6,6 @@
   <relation name="sibling" mutual="#Kan-Kṛṣṇaśrī #Kan-Saṃghaka"/>
   <!-- from KanB1-1 !-->
   <relation name="parent" active="#Kan-Utika" passive="#Kan-Asila"/>
+  <!-- from KanB1-3 !-->
+  <relation name="teacher" active="#Kan-Śāntika" passive="#Kan-Buddharakṣitā"/>
 </listRelation>

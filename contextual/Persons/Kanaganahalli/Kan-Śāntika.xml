@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Śāntika">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Śāntika</persName>
+  <persName xml:lang="pra-Latn">Satika</persName>
+  <persName xml:lang="pra-Latn" cert="low">Saṃtika</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Ācārya">Ācārya</state>
+</person>

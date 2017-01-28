@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB1-3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B1-3 (of Buddharakṣitā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB1-2</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“On a series of panels showing scenes from the life of the Buddha located at the northern āyāga-platform” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0080" notAfter-custom="0120" precision="low" datingMethod="cal:gregorian">ca. 80-120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB1-3.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.1.3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. 71</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it is found on one of the āyāga pillars, which were only added in Phase III of the stūpa’s construction, it probably belongs to the second century CE. See also the accompanying inscription <ref target="in:KanB1-4">KanB1-4</ref>.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <supplied reason="lost">sidha | <placeName key="pl:Koruṅkala">korugālakāna</placeName></supplied>
+	  <unclear>ā</unclear>cariāna bhayata <persName key="pers:Kan-Śāntika">sat<unclear>ikana</unclear></persName>
+	  atevāsiniya <supplied reason="lost">pa</supplied>vaj<unclear>i</unclear>t<unclear>ā</unclear>ya <persName key="pers:Kan-Buddharakṣitā"><unclear>b</unclear>udharakhitāya</persName> āyākapaṭā adh<unclear>ā</unclear>lakacetiyadhamarajaka deyadhama patiṭhāpit<unclear>ā</unclear> <gap reason="lost" quantity="unknown" unit="character"/>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>[Success!] Slabs (decorating) the āyāga(-platform) were erected by the pupil of the venerable <persName key="pers:Kan-Śāntika">Sa(ṃ)tika</persName> (Śāntika?) of the teachers [from <placeName key="pl:Koruṅkala">Koru(ṃ)gāla</placeName>], the novice <persName key="pers:Kan-Buddharakṣitā">Buddharakkhitā</persName> (Buddharakṣitā), as a pious gift (belonging to) the Adhālaka-Cetiya-Dhammarājaka.</p>
+    </body>
+  </text>
+</TEI>
