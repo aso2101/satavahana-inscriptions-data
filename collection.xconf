@@ -23,6 +23,9 @@
             <create qname="@xml:id" type="xs:string"/>
             <create qname="@key" type="xs:string"/>
             <create qname="@type" type="xs:string"/>
+            <create qname="@active" type="xs:string"/>
+            <create qname="@passive" type="xs:string"/>
+            <create qname="@mutual" type="xs:string"/>
             <create qname="@notAfter-custom" type="xs:string"/>
             <create qname="@notBefore-custom" type="xs:string"/>
             <create qname="tei:title" type="xs:string"/>
