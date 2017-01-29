@@ -8,4 +8,6 @@
   <relation name="parent" active="#Kan-Utika" passive="#Kan-Asila"/>
   <!-- from KanB1-3 !-->
   <relation name="teacher" active="#Kan-Śāntika" passive="#Kan-Buddharakṣitā"/>
+  <!-- from KanB1-4 !-->
+  <relation name="teacher" active="#Kan-Śāntika" passive="#Kan-Dharmarakṣitā"/>
 </listRelation>
