@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Uttaramitrā">
+  <sex value="F"/>
+  <persName xml:lang="san-Latn" cert="low">Uttaramitrā</persName>
+  <persName xml:lang="pra-Latn" cert="low">Uttaramittā</persName>
+</person>

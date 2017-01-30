@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Nāgā">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Nāgā</persName>
+  <state type="social" key="terms:gṛhiṇī">Gṛhiṇī</state>
+  <residence>
+    <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
+  </residence>
+</person>

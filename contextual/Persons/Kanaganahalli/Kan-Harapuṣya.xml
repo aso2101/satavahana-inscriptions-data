@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Harapuṣya">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Harapuṣya</persName>
+  <persName xml:lang="pra-Latn" cert="low">Harapussa</persName>
+  <residence>
+    <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
+  </residence>
+</person>

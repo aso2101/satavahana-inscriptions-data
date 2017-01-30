@@ -41,11 +41,11 @@
     <body>
       <div type="bibliography" xml:lang="en">
 	<bibl>
-	  <ptr target="bibl:MVOVH2014"/>
+	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>I.8</citedRange>
 	</bibl>
 	<bibl>
-	  <ptr target="bibl:Poonacha2013"/>
+	  <ptr target="bibl:Kan"/>
 	  <citedRange>no. A.101</citedRange>
 	</bibl>
 	<bibl>

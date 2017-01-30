@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Mahāmariti">
+  <sex value="M"/>
+  <persName xml:lang="pra-Latn">Mahāmariti</persName>
+  <occupation key="terms:Maṇikāra">Jeweller</occupation>
+</person>

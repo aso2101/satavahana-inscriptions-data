@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Dāsī">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Dāsī</persName>
+  <state type="religious" key="terms:āryā">Āryā</state>
+  <residence>
+    <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
+  </residence>
+</person>
