@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Yakha-">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Yakha-</persName>
+  <persName xml:lang="san-Latn" cert="low">Yakṣa-</persName>
+  <residence>
+    <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
+  </residence>
+</person>

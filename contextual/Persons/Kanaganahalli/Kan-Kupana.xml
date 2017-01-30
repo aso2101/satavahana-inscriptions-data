@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Kupana">
+  <sex value="M"/>
+  <persName xml:lang="pra-Latn">Kupana</persName>
+  <residence>
+    <placeName key="pl:Mahiṣa">Mahiṣa</placeName>
+  </residence>
+</person>

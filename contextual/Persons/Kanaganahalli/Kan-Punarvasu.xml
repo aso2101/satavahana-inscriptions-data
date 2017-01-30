@@ -1,0 +1,11 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Punarvasu">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Punarvasu</persName>
+  <persName xml:lang="pra-Latn">Punavasu</persName>
+  <persName xml:lang="pra-Latn" cert="low">Punavvasu</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Sthavira">Sthavira</state>
+  <state type="religious" key="terms:Ārya">Ārya</state>
+</person>

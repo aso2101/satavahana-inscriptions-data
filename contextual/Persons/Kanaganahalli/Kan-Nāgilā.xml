@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Nāgilā">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Nāgilā</persName>
+  <residence>
+    <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
+  </residence>
+</person>

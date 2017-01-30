@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB2-16">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B2-16 (of a student of Mahārakṣita)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB2-16</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>On a puphagahani.</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate when-custom="120" cert="low" datingMethod="cal:gregorian">ca. 120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB2-16.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.2.16</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it mentions a cornice element, and because the upper pradakṣiṇapatha was only added in Phase III of the stūpa’s construction around 120 CE according to an inscription (<ref target="in:KanA8">KanA8</ref>), this inscription probably dates to around that time.</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost" quantity="2" unit="character" precision="low"/>ra therāna bhayata 
+	  <persName key="pers:Kan-Mahārakṣita">maharakhitāna</persName>
+	  at<unclear>e</unclear>vāsin<gap reason="lost" quantity="3" unit="character" precision="low"/>gha<gap reason="lost" quantity="10" unit="character" precision="low"/>tara<gap reason="lost" quantity="5" unit="character"/>ṇa<gap reason="lost" quantity="2" unit="character" precision="low"/><supplied reason="lost">de</supplied><unclear>ya</unclear>dha<supplied reason="lost">ma</supplied> <supplied reason="lost">dā</supplied>na ////
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>... the pious gift of the pupil of the Venerable Elder <persName key="pers:Kan-Mahārakṣita">Mahārakkhita</persName> (Mahārakṣita). ////</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Uttaraya-">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Utaraya-</persName>
+  <persName xml:lang="san-Latn" cert="low">Uttaraya-</persName>
+  <residence>
+    <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
+  </residence>
+</person>

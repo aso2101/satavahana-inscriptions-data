@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Nāgabuddhi">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Nāgabuddhi</persName>
+  <persName xml:lang="pra-Latn">Nāgabudhi</persName>
+  <persName xml:lang="pra-Latn" cert="low">Nāgabuddhi</persName>
+</person>

@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Cupana-">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Cupana-</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Upāsikā">Upāsikā</state>
+</person>
