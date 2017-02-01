@@ -1,0 +1,11 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Śrīkasambodhī">
+  <sex value="F"/>
+  <persName xml:lang="san-Latn" cert="low">Śrīkasambodhī</persName>
+  <persName xml:lang="pra-Latn">Sirikasabodhi</persName>
+  <persName xml:lang="pra-Latn" cert="low">Sirikasaṃbodhī</persName>
+  <residence>
+    <placeName key="pl:Sapuḍi">Sapuḍi</placeName>
+  </residence>
+</person>

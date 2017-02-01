@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB3-1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B3-1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB3-1</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“Above a fragmentary panel decorating the lower pradakṣiṇapatha” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="0120" precision="medium" datingMethod="cal:gregorian">c. 100 BCE–120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB3-1.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.3.1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>no. 32</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on slabs (paṭṭas).</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <persName key="pers:Kan-Kagi">kag<unclear>ī</unclear>sa</persName> sabhayasa saputakasa <unclear>sa</unclear><supplied reason="lost">p</supplied><unclear>u</unclear><supplied reason="lost">ti</supplied><unclear>kasa</unclear> <unclear>d</unclear><supplied reason="lost">e</supplied>ya<supplied reason="lost">dha</supplied><unclear>ma</unclear> paṭa
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>The gift, a slab, of <persName key="pers:Kan-Kagi">Kagi</persName> with his wife(s), with his son(s), with his (daughters)...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

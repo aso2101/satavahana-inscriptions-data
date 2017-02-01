@@ -1,4 +1,4 @@
-<listBibl xmlns="http://www.tei-c.org/ns/1.0">>
+<listBibl xmlns="http://www.tei-c.org/ns/1.0">
   <bibl xml:id="N" type="article">
     <author>
       <name>
@@ -106,7 +106,7 @@
     <title level="j">Bulletin of the Deccan College Research Institute</title>
     <biblScope unit="vol">66–67</biblScope>
     <biblScope unit="pp" from="241" to="244">241–244</biblScope>
-    <date when="2006-2007">2006–2007</date>
+    <date when="2006">2006–2007</date>
   </bibl>
   <bibl xml:id="K" type="article">
     <author>
@@ -119,7 +119,7 @@
     <title level="j">Epigraphica Indica</title>
     <biblScope unit="vol">7</biblScope>
     <biblScope unit="pp" from="47" to="74">47–74</biblScope>
-    <date when="1902-1903">1902–1903</date>
+    <date when="1902">1902–1903</date>
   </bibl>
   <bibl xml:id="Ka" type="book">
     <author>
@@ -251,7 +251,7 @@
     <title level="j">Epigraphia Indica</title>
     <biblScope unit="vol">14</biblScope>
     <biblScope unit="pp" from="153" to="155">153–155</biblScope>
-    <date when="1917–1918">1917–1918</date>
+    <date when="1917">1917–1918</date>
   </bibl>
   <bibl xml:id="NarasimhaMurthy1975" type="article">
     <author>
@@ -372,10 +372,10 @@
     <biblScope unit="pp" from="131" to="132">131–132</biblScope>
     <date when="1967">1967</date>
   </bibl>
-  <bibl xml:id="Chandra1919" type="article">
+  <bibl xml:id="Chanda1919" type="article">
     <author>
       <name>
-	<surname>Chandra</surname>
+	<surname>Chanda</surname>
 	<forename>Ramaprasad</forename>
       </name>
     </author>
@@ -824,7 +824,7 @@
     <title level="j">Epigraphia Indica</title>
     <biblScope unit="vol">24</biblScope>
     <biblScope unit="pp" from="256" to="260">256–260</biblScope>
-    <date when="1937–1938">1937–1938</date>
+    <date when="1937">1937–1938</date>
   </bibl>
   <bibl xml:id="Kosambi1955" type="article">
     <author>
@@ -851,7 +851,7 @@
     <title level="j">Epigraphia Indica</title>
     <biblScope unit="vol">28</biblScope>
     <biblScope unit="pp" from="76" to="77">76–77</biblScope>
-    <date when="1949–1950">1949–1950</date>
+    <date when="1949">1949–1950</date>
   </bibl>
 
 </listBibl>

@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Cullikā">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn" cert="low">Cullikā</persName>
+  <persName xml:land="pra-Latn">Culiyā</persName>
+</person>
