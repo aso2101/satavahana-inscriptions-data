@@ -26,11 +26,11 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimiles>
+  <facsimile>
     <graphic url="images/EIAD0001-Sarkar1965.jpg">
       <desc>Photograph from <ref target="bibl:Sarkar1965">Sarkar 1965–1966</ref>.</desc>
     </graphic>
-  </facsimiles>
+  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="en">
