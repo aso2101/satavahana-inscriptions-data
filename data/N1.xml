@@ -33,22 +33,24 @@
   <text>
     <body>
       <div type="bibliography" xml:lang="en">
-	<bibl>
-	  <ptr target="bibl:LL"/>
-	  <citedRange>1122</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:N"/>
-	  <citedrange>no. 1</citedrange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:Mirashi1981"/>
-	  <citedRange>no. 16</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:Tsu"/>
-	  <citedRange>Nasi.1</citedRange>
-	</bibl>
+	<listBibl type="secondary">
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>1122</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:N"/>
+	    <citedRange>no. 1</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Mirashi1981"/>
+	    <citedRange>no. 16</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Nasi.1</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="notes" xml:lang="en">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905–1906</ref>.</p>
@@ -67,13 +69,13 @@
 	  gi<app><lem>mha</lem><rdg source="#AS">ma</rdg></app>pakhe
 	  pacame 5 divase
 	  <app><lem><gap reason="lost" quantity="5" unit="character"/></lem>
-	       <rdg source="#AS">
-		1<gap reason="lost" quantity="1" unit="character"/>
-		po<gap reason="lost" quantity="1" unit="character"/>
-		hi<gap reason="lost" quantity="1" unit="character"/>
-		ti<gap reason="lost" quantity="1" unit="character"/>
-		ā
-	       </rdg>
+	  <rdg source="#AS">
+	    1<gap reason="lost" quantity="1" unit="character"/>
+	    po<gap reason="lost" quantity="1" unit="character"/>
+	    hi<gap reason="lost" quantity="1" unit="character"/>
+	    ti<gap reason="lost" quantity="1" unit="character"/>
+	    ā
+	  </rdg>
 	  </app>
         </p>
       </div>
@@ -81,7 +83,7 @@
 	<p>Success! On the . . . . . day of the fifth—5th—fortnight of
 	summer in the sixth—6th—year of king 
 	<persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
-	  Śrī Puḷumāvi</persName>. . . . . </p>
+	Śrī Puḷumāvi</persName>. . . . . </p>
       </div>
     </body>
   </text>
