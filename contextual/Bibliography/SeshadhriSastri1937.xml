@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="SeshadriSastri1937">
+      <biblStruct xml:id="SeshadriSastri1937" type="article">
 	<analytic>
 	  <author>
 	    <persName>

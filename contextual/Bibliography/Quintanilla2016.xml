@@ -33,9 +33,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct
-	  xmlns="http://www.tei-c.org/ns/1.0"
-	  xml:id="Quintanilla2016">
+      <biblStruct xml:id="Quintanilla2016" type="article">
 	<analytic>
 	  <author>
 	    <persName>

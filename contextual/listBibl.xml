@@ -14,7 +14,6 @@
     <pubPlace>New Delhi</pubPlace>
   </biblStruct>
 
-
   <biblStruct xml:id="AS" type="book">
     <author>
       <name>
@@ -28,7 +27,6 @@
     <publisher>Trübner and Co.</publisher>
     <date when="1883">1883</date>
   </biblStruct>
-
 
   <biblStruct xml:id="G" type="book">
     <author>
