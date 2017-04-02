@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Kaṇheri Inscriptions</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-05-01">April 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="BuhlerKa" type="incollection">
+	<analytic>
+	  <author>
+	    <name>
+              <surname>Bühler</surname>
+              <forename>George</forename>
+	    </name>
+	  </author>
+	  <title level="a">Kaṇheri Inscriptions</title>
+	</analytic>
+	<monogr>
+	  <title level="m">Archæological Survey of Western India</title>
+	  <editor>
+	    <name>
+              <surname>Burgess</surname>
+              <forename>J. A. S.</forename>
+	    </name>
+	  </editor>
+	  <imprint>
+	    <pubPlace>London</pubPlace>
+	    <publisher>Trübner and Co.</publisher>
+	    <date when="1883">1883</date>
+	  </imprint>
+	  <biblScope unit="vol">5</biblScope>
+	  <biblScope unit="pp" from="74" to="86">74–86</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

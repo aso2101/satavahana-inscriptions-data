@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">The History and Inscriptions of the Sātavāhanas and the Western Kshatrapas</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-05-01">April 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="Mirashi1981" type="book">
+	<monogr>
+	  <author>
+	    <name>
+	      <surname>Mirashi</surname>
+	      <forename>V. V.</forename>
+	    </name>
+	  </author>
+	  <title>The History and Inscriptions of the Sātavāhanas and the Western Kshatrapas</title>
+	  <imprint>
+	    <pubPlace>Bombay</pubPlace>
+	    <publisher>Maharashtra State Board for Literature and Culture</publisher>
+	    <date when="1981">1981</date>
+	  </imprint>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

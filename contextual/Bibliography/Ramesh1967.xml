@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">A Brahmi Inscription from Belvadigi</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-05-01">April 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="Ramesh1967" type="article">
+	<analytic>
+	  <author>
+	    <surname>Ramesh</surname>
+	    <forename>K. V.</forename>
+	  </author>
+	  <title level="a">A Brahmi Inscription from Belvadigi</title>
+	</analytic>
+	<monogr>
+	  <title level="j">Epigraphia Indica</title>
+	  <imprint>
+	    <date when="1967">1967</date>
+	  </imprint>
+	  <biblScope unit="vol">37</biblScope>
+	  <biblScope unit="pp" from="131" to="132">131–132</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

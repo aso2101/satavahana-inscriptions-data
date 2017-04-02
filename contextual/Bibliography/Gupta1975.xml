@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Nāneghāṭ Inscription of an Unknown Queen—A Historical Study</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-05-01">April 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="Gupta1975" type="article">
+	<analytic>
+	  <author>
+	    <name>
+	      <surname>Gupta</surname>
+	      <forename>P. L.</forename>
+	    </name>
+	  </author>
+	  <title level="a">Nāneghāṭ Inscription of an Unknown Queen—A Historical Study</title>
+	</analytic>
+	<monogr>
+	  <title level="j">Journal of the Epigraphical Society of India</title>
+	  <imprint>
+	    <date when="1975">1975</date>
+
+	  </imprint>
+	  <biblScope unit="vol">2</biblScope>
+	  <biblScope unit="pp" from="59" to="71">59–71</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

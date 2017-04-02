@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Am1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,15 +24,11 @@
 	  </history>
 	</msDesc>
       </sourceDesc>
-      <profileDesc>
-      </profileDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:LL"/>
 	  <citedRange>1248</citedRange>
@@ -50,7 +46,7 @@
 	  <citedRange>Amar.12</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Mirashi1981">Mirashi 1981</ref>.</p>
       </div>
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
@@ -69,16 +65,16 @@
 	  sa<persName key="pers:Am-Nākānikā">nākānikāya</persName> saputaka<supplied reason="lost">sa</supplied>
 	  <gap reason="lost" quantity="4" unit="character"/>
 	  <supplied reason="lost">to</supplied> mahācetiyacetikiyānaṃ 
-	  nikā<supplied reason="ommitted">ya</supplied>sa parigahe aparadāre
+	  nikā<supplied reason="omitted">ya</supplied>sa parigahe aparadāre
 	  dhamacakaṃ deyadha<supplied reason="lost">mmaṃ</supplied>
 	  thāpita
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Success! [In the year ... ] of King
 	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Svāmi Śrī Puḷumāvi</persName>, the gṛhapati 
-	  <persname key="pers:Am-Kahutara">Kahutara</persname>
+	  <persName key="pers:Am-Kahutara">Kahutara</persName>
 	  of the Piṇḍasutariya family and
 	  <persName key="pers:Am-Isila">Isila</persName>, the son of the
 	  gṛhapati

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Am2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,15 +24,11 @@
 	  </history>
 	</msDesc>
       </sourceDesc>
-      <profileDesc>
-      </profileDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:Sarkar1971"/>
 	</bibl>
@@ -45,7 +41,7 @@
 	  <citedRange>p. 59</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sarkar1971">Sarkar 1971</ref>.</p>
       </div>
       <div type="edition" rend="break-none" xml:lang="san-Latn">
@@ -72,7 +68,7 @@
 	  <gap reason="lost" quantity="3" unit="character"/>
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  In the ... year of the king
 	  <persName key="pers:GpŚrīyajñaSātakarṇi">

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Brāhmī Inscriptions and Their Bearing on the Great Stūpa at Sannati</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-05-01">April 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="NagarajaRao1985" type="incollection">
+	<analytic>
+	  <author>
+	    <name>
+	      <surname>Nagaraja Rao</surname>
+	      <forename>M. S.</forename>
+	    </name>
+	  </author>
+	  <title level="a">Brāhmī Inscriptions and Their Bearing on the Great Stūpa at Sannati</title>
+	</analytic>
+	<monogr>
+	  <title level="m">Indian Epigraphy: Its Bearing on the History of Art</title>
+	  <editor>
+	    <name>
+              <surname>Asher</surname>
+              <forename>Frederick M.</forename>
+	    </name>
+	  </editor>
+	  <editor>
+	    <name>
+              <surname>Gai</surname>
+              <forename>G. S.</forename>
+	    </name>
+	  </editor>
+	  <imprint>
+	    <pubPlace>New Delhi</pubPlace>
+	    <publisher>Oxford and IBH Publishing Company</publisher>
+	    <date when="1985">1985</date>
+	  </imprint>
+	  <biblScope unit="pp" from="41" to="45">41–45</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

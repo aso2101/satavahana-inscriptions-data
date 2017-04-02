@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">
+	  Transformations of Identity and the Buddha’s Infancy Narratives at Kanaganahalli
+	</title>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">
+	    Distributed under a Creative Commons Attribution 3.0 Unported License
+	  </licence>
+	</availability>
+	<date>2017-03-30</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-04-30" who="AndrewOllett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct
+	  xmlns="http://www.tei-c.org/ns/1.0"
+	  xml:id="Quintanilla2016">
+	<analytic>
+	  <author>
+	    <persName>
+	      <surname>Quintanilla</surname>
+	      <forename>Sonya Rhie</forename>
+	    </persName>
+	  </author>
+	  <title level="a">Transformations of Identity and the Buddha’s Infancy Narratives at Kanaganahalli</title>
+	  <idno type="DOI">10.1215/00666636-3788663</idno>
+	</analytic>
+	<monogr>
+	  <title level="j">Archives of Asian Art</title>
+	  <imprint>
+	    <date when="2916">2016</date>
+	  </imprint>
+	  <biblScope unit="vol">67</biblScope>
+	  <biblScope unit="issue">1</biblScope>
+	  <biblScope unit="pp" from="111" to="142">111–142</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

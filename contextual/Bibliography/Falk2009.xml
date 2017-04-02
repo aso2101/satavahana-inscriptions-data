@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Two Dated Sātavāhana Epigraphs</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-05-01">April 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="Falk2009" type="article">
+	<analytic>
+	  <author>
+	    <name>
+              <surname>Falk</surname>
+              <forename>Harry</forename>
+	    </name>
+	  </author>
+	  <title level="a">Two Dated Sātavāhana Epigraphs</title>
+	</analytic>
+	<monogr>
+	  <title level="j">Indo-Iranian Journal</title>
+	  <imprint>
+	    <date when="2009">2009</date>
+	  </imprint>
+	  <biblScope unit="vol">52</biblScope>
+	  <biblScope unit="pp" from="197" to="206">197–206</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

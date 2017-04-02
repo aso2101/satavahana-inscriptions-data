@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="EIAD407">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="EIAD407">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,12 +27,12 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:SeshadriShastri19371938"/>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>The edition is based on <ref target="bibl:SeshadriShastri19371938">Seshadri Sastri 1937–1938</ref>. He surmised that it belonged to the reign of Vāsiṣṭhīputra Śrī Puḷumāvi (this would be necessary if the reading is indeed panatrise).</p>
       </div>
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
@@ -54,7 +54,7 @@
 	    <placeName key="pl:Agaloka">agalokakena</placeName>
 	    <persName key="pers:Vīraskanda">virakha<supplied reason="lost">da</supplied>sa</persName>
 	  <lb n="5"/>
-	    putena amacena<app><note xml:lang="en"><p>This line has been
+	    putena amacena<app><note xml:lang="eng"><p>This line has been
 	      added after the rest of the inscription 
 	      was completed.</p></note></app>
 	  <lb n="6"/>
@@ -67,7 +67,7 @@
 	    sava-loka<lb n="9" break="no"/>satya-hita-sukhāya
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  In the (35th) year ... on the first day, the minister 
 	  Atapora from Agaloka, son of Vīraskanda,

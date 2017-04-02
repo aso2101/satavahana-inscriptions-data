@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am553">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Am553">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,13 +31,13 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:Chandra1919"/>
 	  <citedRange>no. 43 (No. 553 of 1907)</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
@@ -47,7 +47,7 @@
 	    <persName key="pers:Am-Tapā">tapa<supplied reason="omitted">ya</supplied></persName>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>Of <persName key="pers:Am-Culamakā">Culamakā</persName> ...
 	   of <persName key="pers:Am-Tapā">Tapā</persName>...</p>
       </div>

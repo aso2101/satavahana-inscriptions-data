@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Pauni Excavation, 1969–1970</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-05-01">April 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="Deo1972" type="book">
+	<monogr>
+	  <author>
+	    <name>
+	      <surname>Deo</surname>
+	      <forename>S. B.</forename>
+	    </name>
+	  </author>
+	  <author>
+	    <name>
+	      <surname>Joshi</surname>
+	      <forename>J. P.</forename>
+	    </name>
+	  </author>
+	  <title>Pauni Excavation, 1969–1970</title>
+	  <imprint>
+	    <publisher>Archaeological Survey of India and Nagpur University</publisher>
+	    <pubPlace>Nagpur</pubPlace>
+	    <date when="1972">1972</date>
+	  </imprint>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Am480">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Am480">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,13 +32,13 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:Chandra1919"/>
 	  <citedRange>no. 48 (No. 480 of 1913)</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. He writes: “There appears to be some space left out between se and p. The latter letter looks like ph in the impression.”</p>
       </div>
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
@@ -55,7 +55,7 @@
 	    <gap reason="lost" quantity="2" unit="character"/><unclear>pa</unclear>tiṭhapi<unclear>to</unclear>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>... placed by the householder Pega (?), an inhabitant of ... lura,
 	together with his brother, sister, and wife... on one side of the great
 	Caitya at <placeName key="pl:Dhānyakaṭaka"> [Dhānya]kaṭa</placeName>.</p>

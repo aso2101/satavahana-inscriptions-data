@@ -1,0 +1,52 @@
+<biblStruct
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Chhabra1945">
+  <analytic>
+    <author>
+      <name>
+	<surname>Chhabra</surname>
+	<forename>B. Ch.</forename>
+      </name>
+    </author>
+    <title level="a">Agaloka and the Kingdom of Agni</title>
+  </analytic>
+  <monogr>
+    <title level="m">B. C. Law Volume</title>
+    <editor>
+      <persName>
+	<surname>Bhandarkar</surname>
+	<forename>D. R.</forename>
+      </persName>
+    </editor>
+    <editor>
+      <persName>
+	<surname>Nilakanta Sastri</surname>
+	<forename>K. A.</forename>
+      </persName>
+    </editor>
+    <editor>
+      <persName>
+	<surname>Barua</surname>
+	<forename>B. M.</forename>
+      </persName>
+    </editor>
+    <editor>
+      <persName>
+	<surname>Ghosh</surname>
+	<forename>B. K..</forename>
+      </persName>
+    </editor>
+    <editor>
+      <persName>
+	<surname>Gode</surname>
+	<forename>P. K.</forename>
+      </persName>
+    </editor>
+    <biblScope unit="pp" from="170" to="172">170–172</biblScope>
+    <imprint>
+      <pubPlace>Calcutta</pubPlace>
+      <publisher>The Indian Research Institute</publisher>
+      <date when="1945">1945</date>
+    </imprint>
+  </monogr>
+</biblStruct>
