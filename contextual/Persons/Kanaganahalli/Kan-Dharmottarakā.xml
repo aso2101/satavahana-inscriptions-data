@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Dharmottarakā">
+  <sex value="F"/>
+  <persName xml:lang="san-Latn" cert="low">Dharmottarakā</persName>
+  <persName xml:lang="pra-Latn">Dhamutarayā</persName>
+  <persName xml:lang="pra-Latn" cert="low">Dhammuttarayā</persName>
+</person>

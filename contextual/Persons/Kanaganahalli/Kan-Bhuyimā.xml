@@ -1,0 +1,6 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Bhuyimā">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Bhuyimā</persName>
+</person>

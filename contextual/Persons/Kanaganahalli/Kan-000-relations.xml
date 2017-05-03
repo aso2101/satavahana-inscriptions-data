@@ -18,4 +18,6 @@
   <relation name="teacher" active="#Kan-Himarakṣitā" passive="#Kan-Vidhi"/>
   <!-- from KanB4-A-13 !-->
   <relation name="spouse" mutual="#Kan-Nāgaṇaka #Kan-Rāmaṇika"/>
+  <!-- from KanB4-B-18 !-->
+  <relation name="sibling" mutual="#Kan-Bhuyimā #Kan-Bhūtanikā"/>
 </listRelation>

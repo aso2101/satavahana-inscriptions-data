@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Sāmanikā">
+  <sex value="F"/>
+  <persName xml:lang="san-Latn" cert="low">Śyāmanikā</persName>
+  <persName xml:lang="pra-Latn">Sāmanikā</persName>
+</person>

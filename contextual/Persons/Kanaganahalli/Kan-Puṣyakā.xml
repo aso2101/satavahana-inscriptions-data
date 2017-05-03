@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Puṣyakā">
+  <sex value="F"/>
+  <persName xml:lang="san-Latn" cert="low">Puṣyakā</persName>
+  <persName xml:lang="pra-Latn">Pusayā</persName>
+  <persName xml:lang="pra-Latn" cert="low">Pussayā</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Bhikṣuṇī">Bhikṣuṇī</state>
+</person>

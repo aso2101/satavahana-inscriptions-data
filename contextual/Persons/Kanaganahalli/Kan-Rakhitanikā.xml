@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Rakhitanikā">
+  <sex value="F"/>
+  <persName xml:lang="san-Latn" cert="low">-rakṣitanikā</persName>
+  <persName xml:lang="pra-Latn">-rakhitanikā</persName>
+  <persName xml:lang="pra-Latn" cert="low">-rakkhitanikā</persName>
+</person>
