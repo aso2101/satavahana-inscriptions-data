@@ -2,4 +2,14 @@
        xml:id="Bhājā">
   <placeName type="modern" xml:lang="mar-Latn">Bhāje</placeName>
   <geo>73.481632 18.728027</geo>
+  <desc>
+    Bhāje is <quote rend="double">the oldest cave probably in Western India</quote> <bibl rend="parens"><ptr target="bibl:Burgess1883"/><citedRange>3</citedRange></bibl>, 
+  </desc>
+  <figure>
+    <graphic url="images/bhaja-map-asi-iv."/>
+    <figDesc>A map of the Bhāje cave, from <bibl target="bibl:Burgess1883"><citedRange>3</citedRange></bibl>.</figDesc>
+  </figure>
+  <listBibl>
+    <bibl><ptr target="bibl:Burgess1883"/><citedRange>3–8</citedRange></bibl>
+  </listBibl>
 </place>

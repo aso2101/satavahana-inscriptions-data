@@ -1,0 +1,8 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Vipulayaśas">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Vipulayaśas</persName>
+  <persName xml:lang="pra-Latn">Vipulayasa</persName>
+  <occupation key="terms:Navakarmika">Navakarmika</occupation>
+</person>

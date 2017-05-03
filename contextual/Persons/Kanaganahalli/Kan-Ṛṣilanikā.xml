@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Ṛṣilanikā">
+  <sex value="F"/>
+  <persName xml:lang="pra-Latn">Isilanikā</persName>
+  <persName xml:lang="san-Latn" cert="low">Ṛṣilanikā</persName>
+</person>

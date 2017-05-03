@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB4-A-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB4-A-5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kanaganahalli B4-A-3 (of Cullikā)</title>
+	<title>Kanaganahalli B4-A-5</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>KanB4-A-3</idno>
+	<idno>KanB4-A-5</idno>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -37,7 +37,7 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/KanB4-3.jpg">
+    <graphic url="images/KanB4-5.jpg">
       <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
     </graphic>
   </facsimile>
@@ -46,11 +46,11 @@
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
-	  <citedRange>II.4.A.3</citedRange>
+	  <citedRange>II.4.A.5</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:Kan"/>
-	  <citedRange>no. 10</citedRange>
+	  <citedRange>plate CXXXI.4 (p. 451, no. 14)</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -59,11 +59,11 @@
       <div type="edition" rend="break-none" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  uḍ<unclear>ā</unclear>rānaṃ āyuvadhanikaṃ <persName key="pers:Kan-Cullikā">cul<unclear>i</unclear>yā<lb n="2" break="no"/>ya</persName> deyadhaṃamṃ payako sasujiko
+	  pavay<supplied reason="lost">i</supplied>tasa <gap reason="lost" quantity="unknown" unit="character"/>
 	</p>
       </div>
       <div type="translation" xml:lang="en">
-	<p>The pious gift of <persName key="pers:Kan-Cullikā">Culiyā</persName> (Cūlikā/Cullikā), an upright together with crossbars, to prolong the life of high persons.</p>
+	<p>Of the mendicant...</p>
       </div>
     </body>
   </text>

@@ -12,4 +12,10 @@
   <relation name="teacher" active="#Kan-Śāntika" passive="#Kan-Dharmarakṣitā"/>
   <!-- from KanB2-19 !-->
   <relation name="sibling" mutual="#Kan-Nāgaśrī #Kan-Nāgabuddhi"/>
+  <!-- from KanB4-A-6 !-->
+  <relation name="teacher" active="#Kan-Ṛṣirakṣita" passive="#Kan-Nāgukā"/>
+  <!-- from KanB4-A-7 !-->
+  <relation name="teacher" active="#Kan-Himarakṣitā" passive="#Kan-Vidhi"/>
+  <!-- from KanB4-A-13 !-->
+  <relation name="spouse" mutual="#Kan-Nāgaṇaka #Kan-Rāmaṇika"/>
 </listRelation>

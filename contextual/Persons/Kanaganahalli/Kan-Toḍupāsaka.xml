@@ -1,0 +1,10 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Toḍupāsaka">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Toḍupāsaka</persName>
+  <persName xml:lang="pra-Latn">Toḍupāsaka</persName>
+  <residence>
+    <placeName key="pl:Mahiṣa">Mahiṣa</placeName>
+  </residence>
+</person>

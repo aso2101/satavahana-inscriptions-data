@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Bhūtila">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Bhūtila</persName>
+  <persName xml:lang="pra-Latn">Bhūtila</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Pravrajita">Pravrajita</state>
+</person>

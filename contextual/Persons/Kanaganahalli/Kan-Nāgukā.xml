@@ -1,0 +1,9 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Nāgukā">
+  <sex value="F"/>
+  <persName xml:lang="san-Latn" cert="low">Nāgukā</persName>
+  <persName xml:lang="pra-Latn">Nāguyā</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Bhikṣuṇī">Bhikṣuṇī</state>
+</person>

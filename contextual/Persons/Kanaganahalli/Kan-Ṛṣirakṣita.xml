@@ -1,0 +1,11 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Ṛṣirakṣita">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Ṛṣirakṣita</persName>
+  <persName xml:lang="pra-Latn">Isirakhita</persName>
+  <persName xml:lang="pra-Latn" cert="low">Isirakkhita</persName>
+  <faith>Buddhist</faith>
+  <state type="religious" key="terms:Ārya">Ārya</state>
+  <state type="religious" key="terms:Sthavira">Sthavira</state>
+</person>
