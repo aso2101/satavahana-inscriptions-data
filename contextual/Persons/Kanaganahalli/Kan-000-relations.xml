@@ -20,4 +20,8 @@
   <relation name="spouse" mutual="#Kan-Nāgaṇaka #Kan-Rāmaṇika"/>
   <!-- from KanB4-B-18 !-->
   <relation name="sibling" mutual="#Kan-Bhuyimā #Kan-Bhūtanikā"/>
+  <!-- from KanB5-4 !-->
+  <relation name="sibling" mutual="#Kan-Buddhikaya #Kan-Golā #Kan-Bodhi"/>
+  <!-- from KanB5-6 !-->
+  <relation name="parent" active="#Kan-Bhīṣmaṇaka" passive="#Kan-Vīranikā"/>
 </listRelation>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB5-8">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B5-8</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB5-8</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <supportDesc>
+	      <support>“On the fragment of a pillar (stambha)” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="0120" precision="medium" datingMethod="cal:gregorian">c. 100 BCE–120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB5-8.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="en">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.5.8</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>plate CXLII.2 (p. 468, no. 148)</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="en">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+	<p>They write: “The inscribed pillar was found in ‘Structure (STR) V’ shown on the photo plate XLVI, A and on the plan fig. 41, p. 119 (cf. also fig. 11, p. 44). This structure is described as ‘pillared platform’ (because of this one pillar?) (p. 120). There were, besides this pillar, a votive stūpa and fragments of a Buddhapāda on this platform. It is, however, not possible to identify the Buddhapāda with any of those mentioned in the report. Neither the Buddhapāda nor the votice stūpa can be discerned on plate XLVI, A, while the slanting shaft of the pillar is perhaps sseen in situ at the right side of the platform. The function of this pillar, which may have served as the shaft of an umbrella, cannot be inferred from the report.”</p>
+      </div>
+      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost" quantity="unknown" unit="character"/>
+	  <lb n="2"/>
+	  <gap reason="lost" quantity="unknown" unit="character"/>satikena <persName key="pers:Kan-Mahāsenadatta">mahāsenadatena</persName> <persName key="pers:Kan-Kumāradatta">k<supplied reason="lost">u</supplied>māradatena</persName> <persName key="pers:Kan-Bodhikā"><unclear>bodhi</unclear>kāya</persName> <persName key="pers:Kan-Vīranikā">v<supplied reason="lost">i</supplied>ranik<supplied reason="lost">āya</supplied></persName>
+	  <lb n="3"/>
+	  savalokahitas<supplied reason="lost">ughāya</supplied>
+	</p>
+      </div>
+      <div type="translation" xml:lang="en">
+	<p>... by <persName key="pers:Kan-Mahāsenadatta">Mahāsenadatta</persName> from -sata, <persName key="pers:Kan-Kumāradatta">Kumāradatta</persName> and <persName key="pers:Kan-Bodhikā">Bodhikā</persName>, <persName key="pers:Kan-Vīranikā">Vīranikā</persName> ... fro the wellbeing and happiness of the whole world..</p>
+      </div>
+    </body>
+  </text>
+</TEI>

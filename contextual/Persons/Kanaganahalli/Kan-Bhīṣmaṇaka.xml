@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Bhīṣmaṇaka">
+  <sex value="M"/>
+  <persName xml:lang="san-Latn" cert="low">Bhīṣmaṇaka</persName>
+  <persName xml:lang="pra-Latn">Bhimhaṇaka</persName>
+</person>

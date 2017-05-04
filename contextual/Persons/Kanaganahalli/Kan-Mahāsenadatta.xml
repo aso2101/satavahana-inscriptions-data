@@ -1,0 +1,7 @@
+<person 
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="Kan-Mahāsenadatta">
+  <sex value="M"/>
+  <persName xml:lang="pra-Latn" cert="low">Mahāsenadatta</persName>
+  <persName xml:lang="pra-Latn">Mahāsenadata</persName>
+</person>
