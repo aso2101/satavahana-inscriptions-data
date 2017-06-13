@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <uri resource="KanB5-10.xml" uri="tei-epidoc.rnc"/>
   <uri resource="Am2.xml" uri="../schemas/tei-epidoc.rnc"/>
   <uri resource="Am1.xml" uri="../schemas/tei-epidoc.rnc"/>
 </locatingRules>

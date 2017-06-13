@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB5-10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB6-1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Kanaganahalli B5-10</title>
+	<title>Kanaganahalli B6-1 (of Siṃha)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>KanB5-10</idno>
+	<idno>KanB6-1</idno>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
 	    <supportDesc>
-	      <support>“On a detached fragment (stara)” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	      <support>“On the pedestal of a Buddhapāda” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
 	    </supportDesc>
 	  </physDesc>
 	  <history>
@@ -37,7 +37,7 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/KanB5-10.jpg">
+    <graphic url="images/KanB6-1.jpg">
       <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
     </graphic>
   </facsimile>
@@ -46,11 +46,11 @@
       <div type="bibliography" xml:lang="en">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
-	  <citedRange>II.5.10</citedRange>
+	  <citedRange>II.6.1</citedRange>
 	</bibl>
 	<bibl>
 	  <ptr target="bibl:Kan"/>
-	  <citedRange>p. 477, no. 250</citedRange>
+	  <citedRange>CXXXVIII.5 (p. 462, no. 91)</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="en">
@@ -59,7 +59,8 @@
       <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/><unclear>rakhitasa</unclear> dānaṃ tharo
+	  <supplied reason="lost">s</supplied><unclear>i</unclear>dha therāna bhayata <persName key="pers:Kan-Buddhatrāta">budhatātāna<supplied reason="lost">ṃ</supplied></persName> a<unclear>te</unclear><supplied reason="lost">vāsisa bha</supplied>yata <persName key="pers:Kan-Siṃha">sihasa</persName> deyadhama pa<unclear>yapaṭo</unclear>
+
 	</p>
       </div>
       <div type="translation" xml:lang="en">

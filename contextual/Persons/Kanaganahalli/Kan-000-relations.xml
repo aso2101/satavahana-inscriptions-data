@@ -24,4 +24,6 @@
   <relation name="sibling" mutual="#Kan-Buddhikaya #Kan-Golā #Kan-Bodhi"/>
   <!-- from KanB5-6 !-->
   <relation name="parent" active="#Kan-Bhīṣmaṇaka" passive="#Kan-Vīranikā"/>
+  <!-- from KanB6-1 !-->
+  <relation name="teacher" active="#Kan-Buddhatrāta" passive="#Kan-Siṃha"/>
 </listRelation>
