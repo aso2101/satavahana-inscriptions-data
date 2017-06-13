@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ku4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +31,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:AS"/>
 	  <citedRange>Kuḍā No. 1</citedRange>
@@ -45,10 +45,10 @@
 	  <citedRange>1040</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ therā<unclear>ṇaṃ bhadaṃta</unclear><persName key="pers:Ku-Śivadatta">sivada<lb n="2" break="no"/>taṇa</persName>
@@ -61,7 +61,7 @@
 	  <gap reason="lost" unit="character" quantity="9"/>yiya
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>Success! The mendicant Goa..., a disciple of 
 	   the revered elder 
 	   <persName key="pers:Ku-Śivadatta">Śivadatta</persName>,

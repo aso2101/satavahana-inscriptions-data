@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Na1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Na1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,7 +48,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:BuhlerNa"/>
 	  <citedRange>nos. 1–2</citedRange>
@@ -73,11 +73,11 @@
 	<bibl><ptr target="bibl:Mirashi1977"/></bibl>
 	<bibl><ptr target="bibl:Gokhale20042006"/></bibl>
       </div>
-     <div type="notes" xml:lang="en">
+     <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:BuhlerNa">Bühler 1883</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<head type="toc" xml:lang="en">Edition</head>
+      <div type="edition" xml:lang="pra-Latn">
+	<head type="toc" xml:lang="eng">Edition</head>
 <!--
 =========================
 Archaeological Survey of Western India, Volume 5:
@@ -92,7 +92,7 @@ Inscriptions by Dr. Georg Bühler, pp. 59-74 (Nānāghāṭ), 74-87.
 !-->
 
 <div type="textpart" subtype="section" n="A">
-<head xml:lang="en">The Left Wall</head>
+<head xml:lang="eng">The Left Wall</head>
 
 <lb n="1"/> 
 <supplied reason="lost" cert="low">sidhaṃ</supplied>
@@ -143,7 +143,7 @@ riko yaṃño dakhināyo dinā gāvo 11,000 asā 1,000 pasa<supplied reason="los
 </div>
 
 <div type="textpart" subtype="section" n="B">
-<head xml:lang="en">The Right Wall</head>
+<head xml:lang="eng">The Right Wall</head>
 
 <lb n="1"/>
 dhaṃñagiritaṃsapayutaṃ sapaṭo 1 aso 1 asaratho 1 gāvīnaṃ 100 asamedho bitiyo <supplied reason="lost">yi</supplied>ṭho dakhināyo <supplied reason="lost">di</supplied>nā aso rupāla<supplied reason="lost">ṃkā</supplied>ro 1 suvaṃna 

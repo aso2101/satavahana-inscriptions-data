@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K20">
 
   <teiHeader>
     <fileDesc>
@@ -34,7 +34,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:LL"/>
 	  <citedRange>1106</citedRange>
@@ -56,10 +56,10 @@
 	  <citedRange>Karl.33</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    si<app>
@@ -86,7 +86,7 @@
 	    vathavasya ima deyadhama
 	    ma<app><lem source="#K">ḍa</lem><rdg source="#CTI #AS">ṭa</rdg></app>po
 	  <lb n="3"/>
-	    nava<app><lem source="#K">gabha</lem><note xml:lang="en"><p>The <foreign xml:lang="pra-Latn">bh</foreign> has a 
+	    nava<app><lem source="#K">gabha</lem><note xml:lang="eng"><p>The <foreign xml:lang="pra-Latn">bh</foreign> has a 
 	          vertical stroke at the top, which is so pronounced that
 		  I am doubtful we we ought not to read 
 		  <foreign xml:lang="pra-Latn">-garbha</foreign>
@@ -118,7 +118,7 @@
 	      <persName key="pers:Buddharakṣita">budharakhitena</persName>
 	      mātara 
 	      <app><lem source="#K">casya</lem><rdg source="#AS">khiā</rdg></app>
-	      upāsi<app><lem source="#K">kā</lem><note xml:lang="en"><p>The <foreign xml:lang="pra-Latn">kā</foreign> is very
+	      upāsi<app><lem source="#K">kā</lem><note xml:lang="eng"><p>The <foreign xml:lang="pra-Latn">kā</foreign> is very
 	            indistinct. (Senart)</p>
 		  </note></app>
 	      <persName key="pers:Buddharakṣita">budharakhitasa</persName>
@@ -128,7 +128,7 @@
 	      a<unclear>no</unclear>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Success! On the second—2nd—day of the third—3rd—fornight of
 	  winter in the twenty-fourth—24th—year of king 

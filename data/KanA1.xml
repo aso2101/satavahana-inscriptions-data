@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanA1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>I.1</citedRange>
@@ -53,10 +53,10 @@
 	  <citedRange>A95</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <persName key="pers:Aśoka">rāyā asoko</persName>

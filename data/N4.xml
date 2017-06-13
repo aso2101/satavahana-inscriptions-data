@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N4">
 
   <teiHeader>
     <fileDesc>
@@ -34,7 +34,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:LL"/>
 	  <citedRange>1125</citedRange>
@@ -56,10 +56,10 @@
 	  <citedRange>Nasi.2</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ senāye 
@@ -124,7 +124,7 @@
 	  <lb n="6"/>
 	  datā paṭikā <date when-custom="18" datingPoint="pers:GpŚrīSātakarṇi" datingMethod="cal:regnal">savachare <app><lem>18</lem>
 	      <rdg source="#AS">14</rdg>
-	      <note xml:lang="en"><p>Corrected to 18
+	      <note xml:lang="eng"><p>Corrected to 18
 	        by Bühler in his <hi rend="italics">Die
 	        Indische Inschriften und die Kunstpoesie</hi>.</p></note>
 	  </app></date>
@@ -136,7 +136,7 @@
 	  kaṭā
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Success! From the camp of victory of the Vejayanti army,
 	  <persName key="pers:GpŚrīSātakarṇi">Gautamīputra

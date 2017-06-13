@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB1-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB1-4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.1.4</citedRange>
@@ -53,10 +53,10 @@
 	  <citedRange>no. 72</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it is found on one of the āyāga pillars, which were only added in Phase III of the stūpa’s construction, it probably belongs to the second century CE. See also the accompanying inscription <ref target="in:KanB1-3">KanB1-3</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <supplied reason="lost">s</supplied><unclear>i</unclear>dha | <placeName key="pl:Koruṅkala">korugālakāna</placeName>
@@ -64,7 +64,7 @@
 	  atevās<unclear>i</unclear>n<unclear>i</unclear>ya bhikhuniya <persName key="pers:Kan-Dharmarakṣitā">dhamarakhitāya</persName> <unclear>ay</unclear><supplied reason="lost">āgapaṭā</supplied><gap reason="lost" quantity="unknown" unit="character"/>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>[Success!] Slabs (decorating) the āyāga(-platform) were [erected] by the pupil of the venerable <persName key="pers:Kan-Śāntika">Sa(ṃ)taka</persName> (Śānaika?) of the teachers [from <placeName key="pl:Koruṅkala">Koru(ṃ)gāla</placeName>], the nun <persName key="pers:Kan-Dharmarakṣitā">Dhamarakhitā</persName> (Dharmarakṣitā) [...]</p>
       </div>
     </body>

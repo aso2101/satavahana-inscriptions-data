@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N7">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N7">
 
   <teiHeader>
     <fileDesc>
@@ -33,8 +33,8 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<div type="introduction" xml:lang="en">
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="commentary" xml:lang="eng">
 	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
 	</div>
 	<p>
@@ -47,7 +47,7 @@
 	  cātudisasa bhikhusaghasa dataṃ
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  This cave, a pious gift of
 	  <persName key="pers:Tāpasinī">Tāpasinī</persName>, a female

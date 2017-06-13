@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaD4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaD4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,7 +38,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
 	  <citedRange>231</citedRange>
@@ -56,10 +56,10 @@
 	  <citedRange>D4</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  gahapatisa <persName key="pers:Sa-Sulasa"><app><lem source="#ARIE1966 #Seshadri1972 #NagarajaRao1985">su</lem><rdg source="#Sarma1993">sū</rdg></app>lasasa</persName>

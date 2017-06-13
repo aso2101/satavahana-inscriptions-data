@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -35,7 +35,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:LL"/>
 	  <citedRange>1124</citedRange>
@@ -57,10 +57,10 @@
 	  <citedRange>Nasi.5</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="11"/>
 	  si<app><lem>ddha</lem><rdg source="#AS">ddhaṃ</rdg></app>
@@ -83,7 +83,7 @@
 	  <app><lem>benākaṭa</lem>
 	      <rdg source="#G">dhanaṃkaṭa</rdg>
 	      <rdg source="#N">dhanakaṭa</rdg>
-	      <note xml:lang="en" resp="#AO"><p>
+	      <note xml:lang="eng" resp="#AO"><p>
 		Senart adopted the reading
 		<foreign xml:lang="pra-Latn">dhanakaṭa</foreign>
 		in his edition, but in his notes proposed the
@@ -97,10 +97,10 @@
 	  </app>na <app><lem>na dhavasetusa</lem>
 	     <rdg source="#G">na etasatasa</rdg>
 	     <rdg source="#AS">dhavāsetisa</rdg>
-	     <note xml:lang="en"><p>I have no doubt that the 
+	     <note xml:lang="eng"><p>I have no doubt that the 
 	       text really have <foreign xml:lang="pra-Latn">dhama-</foreign>.</p></note>
 	  </app> leṇasa <app><lem>paṭisatharaṇe</lem>
-	     <note xml:lang="en"><p>AS notes no lacuna between
+	     <note xml:lang="eng"><p>AS notes no lacuna between
 	       <foreign xml:lang="pra-Latn">-ṇe</foreign> and 
 	       <foreign xml:lang="pra-Latn">a-</foreign>, and G.
 	       only points out an undetermined one. I admit not only
@@ -227,7 +227,7 @@
 	  jinavarasa budhasa
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Success! The lord of Navanara, 
 	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB2-8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB2-8">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.2.8</citedRange>
@@ -53,10 +53,10 @@
 	  <citedRange>no. 205</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it is on a cornice element, and because the upper pradakṣiṇapatha was only added in Phase III of the stūpa’s construction around 120 CE according to an inscription (<ref target="in:KanA8">KanA8</ref>), this inscription probably dates to around that time.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  koka<gap reason="lost"
@@ -65,7 +65,7 @@
 	  p<unclear>u</unclear><supplied reason="lost">phagahani dāna</supplied>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>The gift of a puphagahani by...</p>
       </div>
     </body>

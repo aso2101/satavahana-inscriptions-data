@@ -41,7 +41,7 @@
       <div type="notes" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. He writes: “The sign between ka and ya in line 1 is very indistinct. Lüders takes it as nh. [I would take it as a da followe dby a ta written below the lines.—Ed.]” On <emph>abātamālā</emph> see Hultzsch in ZDMG XL, 345-346.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/>ka sabhariyāya <persName key="pers:Am-Cakradattā">caka<unclear>data</unclear>ya</persName> sapitukāya

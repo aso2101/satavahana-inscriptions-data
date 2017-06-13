@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaD5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaD5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +36,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:ARIE1968">ARIE 1968–1969</ptr>
 	  <citedRange>91</citedRange>
@@ -50,10 +50,10 @@
 	  <citedRange>D5</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>. Both this source, and <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>, mention that an almost-identical inscription occurs on another fragment, but they do not provide images or details. Hence it is impossible to know which of the two inscriptions is identical to the one reported in <ref target="bibl:ARIE1968">ARIE 1968–1969</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  ghari<app><lem source="#NagarajaRao1985">ṇi</lem><rdg source="#ARIE1968">ni</rdg><rdg source="#Sarma1993">ṇī</rdg></app>ya 

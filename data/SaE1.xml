@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaE1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaE1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +36,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:NagarajaRao1985"/>
 	  <citedRange>5</citedRange>
@@ -46,13 +46,13 @@
 	  <citedRange>E1</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p><ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref> reproduce the text and notes of <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>, with some typographic errors, but then add a slightly different translation. This edition and translation is based on the plate provided by <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
 	<p>This is one of the few inscriptions from Sannati to use the invocatory phrase <foreign xml:lang="pra-Latn">sidham</foreign>.</p>
 	<p>For <foreign xml:lang="pra-Latn">putana</foreign> read <foreign xml:lang="pra-Latn">putena</foreign>.</p>
 	<p>I suggest that we read <foreign xml:lang="pra-Latn">dovachadako</foreign>, in the meaning of <foreign xml:lang="san-Latn">dvi-upacchadaka</foreign>, a “double covering” or “double awning.”</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidham <persName key="pers:Sa-Serāma">serāmasa</persName> pu<app><lem source="#NagarajaRao1985">ta</lem><rdg source="#Sarma1993">tā</rdg></app><app><lem resp="#AO">na</lem><rdg source="#Sarma1993">naṃ</rdg><rdg source="#NagarajaRao1985">ṇaṃ</rdg></app>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K8">
 
   <teiHeader>
     <fileDesc>
@@ -31,16 +31,16 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:K"/>
 	  <citedRange>no. 8</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. The inscription is closely connected with <ref target="in:K9">K9</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <placeName key="pl:Śūrpāraka">sopārakā</placeName>
@@ -68,7 +68,7 @@
 	    saha <app><lem source="#K"><gap reason="lost" quantity="3" unit="character"/>t<unclear>i</unclear>hi</lem>
 	               <rdg source="#CTI"><supplied reason="lost">matapi</supplied>tuya</rdg>
 		       <rdg source="#CTI"><gap reason="lost" quantity="3" unit="character"/>tiga</rdg>
-		       <note xml:lang="en"><p>Senart suggests the reading
+		       <note xml:lang="eng"><p>Senart suggests the reading
 		         <foreign xml:lang="pra-Latn"><supplied reason="lost">matapi</supplied>tihi</foreign>.</p></note>
 		 </app> <supplied reason="lost">tha</supplied>bho
 	  dānamu<app><lem source="#K">kha</lem>
@@ -77,7 +77,7 @@
 		</app>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  (This) pillar (is) the gift of the preacher 
 	  <persName key="pers:Svātimitra">Svātimitra</persName>,

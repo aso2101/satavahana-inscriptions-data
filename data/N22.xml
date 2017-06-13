@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N22">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N22">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +36,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:LL"/>
 	  <citedRange>no. 1144</citedRange>
@@ -58,10 +58,10 @@
 	  <citedRange>Nasi.23</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sādavāhana<app><lem source="#N">kule</lem>
@@ -74,7 +74,7 @@
 	    </app>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>Under king <persName key="pers:Kṛṣṇa">Kṛṣṇa</persName> of the Sātavāhana family this cave has been caused to be made by the officer in charge of the Śramaṇas at <placeName key="pl:Nasik">Nasik</placeName>.</p>
       </div>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,7 +34,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:LL"/>
 	  <citedRange>1123</citedRange>
@@ -56,10 +56,10 @@
 	  <citedRange>Nasi.4</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  si<app><lem>ddhaṃ ra</lem><rdg source="#G">ddha ra</rdg></app>ño
@@ -78,13 +78,13 @@
 	  <placeName key="pl:Vindhya">vijha</placeName>-chavata-<placeName key="pl:Pārijāta"><app><lem>pāricā</lem><rdg source="#AS">parivā</rdg></app>ta</placeName>-<placeName key="pl:Sahya">sahya</placeName>-<placeName key="pl:Kṛṣṇagiri">kaṇhagiri</placeName>-maca-siriṭana-<placeName key="pl:Malaya">malaya</placeName>-<placeName key="pl:Mahendra">mahida</placeName><lb n="3" break="no"/>seṭagiri-<placeName key="pl:Cakora">cakora</placeName>-pavatapatisa
 	  savarāja<app>
 	     <lem>lo</lem>
-	     <note xml:lang="en">
+	     <note xml:lang="eng">
 	       <p>The character <em>lo</em> is all but clear.</p>
 	     </note>
 	  </app>ka<app><lem>ma</lem><rdg source="#AS">maṃ</rdg></app>ḍalapatigahītasāsanasa
 	  divasakara<app>
 	     <lem>ka</lem>
-	     <note xml:lang="en">
+	     <note xml:lang="eng">
 	       <p>Very indistinct.</p>
 	     </note>
 	  </app>ravibodhitakamalavimalasadisavadanasa
@@ -99,7 +99,7 @@
 	  porajananivisesasamasukhadukhasa
 	  khatiyadapamāna<app>
 	     <lem>madanasa</lem>
-	     <note xml:lang="en">
+	     <note xml:lang="eng">
 	       <p>The top of the <em>na</em> of <em>dana</em> seems to
 	       bear a horizontal stroke, and I am inclined to think that 
 	       <foreign xml:lang="pra-Latn">madaṇasa</foreign> was intended.</p>
@@ -132,7 +132,7 @@
 	  gotamiya <persName key="pers:Balaśrī">balasirīya</persName>
 	  sacavacanadānakha<app>
 	     <lem>mā</lem>
-	     <note xml:lang="en">
+	     <note xml:lang="eng">
 	       <p><em>ā</em> seems at least doubtful.</p>
 	     </note>
           </app><app><lem>hi</lem><rdg source="#G">hiṃ</rdg></app>sāniratāya
@@ -164,7 +164,7 @@
 	  savajātabhoganirathi.
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>Success! In the nineteenth—19th—year of king 
 	<persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Śrī Puḷumāvi</persName>, in the second—2nd—fortnight of summer, on the
 	thirteenth—13th—day, the great queen

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ba1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ba1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -44,10 +44,10 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<div type="introduction" xml:lang="en">
-	  <p>This edition is based on <ref target="bibl:NarasimhaMurthy1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>.</p>
-	</div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:NarasimhaMurthy1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ
@@ -59,7 +59,7 @@
 	  mahādeviya chaā patharo
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Success! This is the memorial stone of the queen of 
 	  the king

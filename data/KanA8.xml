@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanA8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanA8">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -39,7 +39,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>I.8</citedRange>
@@ -52,10 +52,10 @@
 	  <ptr target="bibl:Falk2009"/>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>The edition is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    sidha || na<unclear>mo</unclear>
@@ -74,7 +74,7 @@
 	    bhikhu<app><lem source="#MNOVH2014 #Falk2009">niye</lem><rdg source="#Poonacha">nīya</rdg></app> 
 	    <persName key="pers:Kan-Dharmaśrī">dhamasiriyāya</persName> 
 	    <app><lem source="#MNOVH2014">agarak<unclear>o</unclear></lem><rdg source="#Poonacha2013">agatuko</rdg><rdg source="#Falk2009">akhar<unclear>i</unclear>ka</rdg></app>
-	    pa<app><lem source="#MNOVH2014 #Falk2009">ṭa</lem><rdg source="#Poonacha2013">tha <note xml:lang="en">(a typo for ṭa)</note></rdg></app>sa<lb n="5" break="no"/>tharo 
+	    pa<app><lem source="#MNOVH2014 #Falk2009">ṭa</lem><rdg source="#Poonacha2013">tha <note xml:lang="eng">(a typo for ṭa)</note></rdg></app>sa<lb n="5" break="no"/>tharo 
 	    ca deyadhama 
 	    <app><lem source="#MNOVH2014">saha a<unclear>māpitū</unclear>hi</lem>
 	         <rdg source="#Falk2009">saha a<unclear>māpitu</unclear>hi</rdg>
@@ -94,7 +94,7 @@
 	    ca hitasu<app><lem source="#MNOVH2014 #Falk2009">gha</lem><rdg source="#Poonacha2013">ghā</rdg></app>tha
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Success! Homage to the Lord,
 	  the perfectly Enlightened One,

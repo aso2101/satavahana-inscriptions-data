@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB3-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB3-4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.3.4</citedRange>
@@ -53,16 +53,16 @@
 	  <citedRange>no. 47</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on slabs (paṭṭas).</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  ther<gap reason="lost" quantity="3" precision="low" unit="character"/><unclear>ja</unclear>tisa atevāsikasa aya ju<gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">sa</supplied>bhaginikasa paṭo dāna
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>The gift, a slab, of the pupil of the Elder ]jati, the Venerable Ju[ with his sister(s).</p>
       </div>
     </body>

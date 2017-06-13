@@ -45,7 +45,7 @@
       <div type="notes" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. He writes: “This inscription is engraved in peculiar characters. The vertical lines of the n's is a little bent, and the lower part of m in mita is compressed.”</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/><unclear>sa</unclear>ṇajanāna

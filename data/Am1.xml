@@ -49,7 +49,7 @@
       <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Mirashi1981">Mirashi 1981</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <supplied reason="lost">si</supplied>dhaṃ

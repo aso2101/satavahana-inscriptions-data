@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ne1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ne1">
 
   <teiHeader>
     <fileDesc>
@@ -54,22 +54,22 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:Sankalia1960"/>
 	  <citedRange>pp. 202–203</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>The edition is based on <ref target="bibl:Sankalia1960">Sankalia (1960: 202–203)</ref>. I have identified Kṛṣṇa with the Sātavāhana king, as this seal was found in the same layer as early Sātavāhana coins at Nevasa, but note that there is no identifying information.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <persName key="pers:Kṛṣṇa">kaṇhasa</persName>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Of <persName key="pers:Kṛṣṇa">Kṛṣṇa</persName>.
 	</p>

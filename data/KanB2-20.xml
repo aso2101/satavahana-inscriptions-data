@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB2-20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB2-20">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,23 +43,23 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.2.20</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it mentions a cornice element, and because the upper pradakṣiṇapatha was only added in Phase III of the stūpa’s construction around 120 CE according to an inscription (<ref target="in:KanA8">KanA8</ref>), this inscription probably dates to around that time.</p>
 	<p>See also <ref target="in:KanB2-21">KanB2-21</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  dhamakadhika<unclear>sa</unclear> <unclear>aya</unclear><supplied reason="lost">sa</supplied> <persName key="pers:Kan-Kṛṣṇa-"><unclear>kanha</unclear><gap reason="lost" quantity="unknown" unit="character"/></persName><gap reason="lost" quantity="unknown" unit="character"/>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>Of the preacher, the Venerable <persName key="pers:Kan-Kṛṣṇa-">Kanha[</persName> (Kṛṣṇa[) ...</p>
       </div>
     </body>

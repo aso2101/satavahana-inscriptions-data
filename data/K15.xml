@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K15">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K15">
 
   <teiHeader>
     <fileDesc>
@@ -32,23 +32,23 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:K"/>
 	  <citedRange>no. 15</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. Senart notes that it was “to all appearances” written by the same person as the following inscription (<ref target="in:K16">K16</ref>).</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <persName key="pers:Bhadrasama">bhadasamasa</persName>
-	  bhikhusa deyadhama mith<app><lem source="#K">ūna</lem><note xml:lang="en"><p>Senart: “Though the facsimiles in CTI have only a trace of the long ū, it seems to be very probable from the new estampages that the writer formed an ū, as in the following inscription which to all appearances is written in the same hand...”</p></note></app> <app><lem source="#K">ve</lem><note xml:lang="en"><p>Senart: “The last letter, which has been read n, looks rather like v with the vowel e, and in the crack between thū and ve there is froom for the final n of mithūna. It looks as if anṇ with ā could be distinguished. One might even believe that one sees a distinct nā subscribed to this damaged character, as if the letter above had been spoiled by some accident and subsequently restored below the line.”</p></note></app>
+	  bhikhusa deyadhama mith<app><lem source="#K">ūna</lem><note xml:lang="eng"><p>Senart: “Though the facsimiles in CTI have only a trace of the long ū, it seems to be very probable from the new estampages that the writer formed an ū, as in the following inscription which to all appearances is written in the same hand...”</p></note></app> <app><lem source="#K">ve</lem><note xml:lang="eng"><p>Senart: “The last letter, which has been read n, looks rather like v with the vowel e, and in the crack between thū and ve there is froom for the final n of mithūna. It looks as if anṇ with ā could be distinguished. One might even believe that one sees a distinct nā subscribed to this damaged character, as if the letter above had been spoiled by some accident and subsequently restored below the line.”</p></note></app>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Two pairs, the pious gift of the Bhikṣu <persName key="pers:Bhadrasama">Bhadrasama</persName>.
 	</p>

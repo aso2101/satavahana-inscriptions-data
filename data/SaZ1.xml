@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaZ1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaZ1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -42,12 +42,12 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:VaraprasadRao1995"/>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on
 	<ref target="bibl:VaraprasadaRao1995">Varaprasada Rao 1995</ref>.
 	Andrew Ollett, Oskar von Hinüber, and Arlo Griffiths 
@@ -57,7 +57,7 @@
 	inscriptions in Sanskrit, and the earliest inscriptions in
 	verse.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="san-Latn">
+      <div type="edition" xml:lang="san-Latn">
 	<lg met="vasantatilaka">
 	  <l><lb n="1"/>yas sva<supplied reason="omitted">r</supplied>ggatas samavasṛjya narendralakṣmīṃ<caesura/> 
 	  puttrottame suta-sahasra-samāna-sāre</l>

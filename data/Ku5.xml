@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ku5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +31,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:Jacobi1878"/>
 	  <citedRange>No. 2</citedRange>
@@ -49,10 +49,10 @@
 	  <citedRange>1041</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>; the translation has been slightly adapted. Note that Georg Bühler considered Pātimita in the text to be a mistake for Sātimita (Svātimitra).</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  siddhaṃ therāṇaṃ bhadata <persName key="pers:BhSvātimitra">pātimitana</persName> 
@@ -64,13 +64,13 @@
 	  <lb n="5"/>
 	    leṇaṃ poḍhī ca sahā atevāsiniya 
 	    <persName key="pers:Ku-Bodhī">bodhiya</persName><app>
-	    <note xml:lang="en"><p>Two letters, <foreign xml:lang="pra-Latn">ya-ma</foreign>, added beyond the end of this line, are only lightly cut and look recent; if inserted where the mark indicates they make Mayabodhī; if we read <foreign xml:lang="pra-Latn">mātuya bodhiya</foreign> it might be translated by “her female discipline’s mother Bodhi and of her female discipline Asālhamitā.”</p></note></app>
+	    <note xml:lang="eng"><p>Two letters, <foreign xml:lang="pra-Latn">ya-ma</foreign>, added beyond the end of this line, are only lightly cut and look recent; if inserted where the mark indicates they make Mayabodhī; if we read <foreign xml:lang="pra-Latn">mātuya bodhiya</foreign> it might be translated by “her female discipline’s mother Bodhi and of her female discipline Asālhamitā.”</p></note></app>
 	  <lb n="6"/>
 	    saha ca ativāsiniya 
 	    <persName key="pers:Ku-Aṣāḍhamitrā">asālhamitāya</persName>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Success! A cave and a cistern, the charitable gift of the
 	  female ascetic 

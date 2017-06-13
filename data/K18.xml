@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="K18">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K18">
 
   <teiHeader>
     <fileDesc>
@@ -32,28 +32,28 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:K"/>
 	  <citedRange>no. 18</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <persName key="pers:Koṭī">ko<app><lem source="#K">ṭi</lem><rdg source="#AS #CTI">ḍi</rdg></app>ya</persName> bhikhuṇiya 
 	  <persName key="pers:Ghuṇika">ghuṇika</persName>-mā<app><lem source="#K">tu</lem><rdg source="#AS">ta</rdg></app>
 	  veyikā <app><lem source="#K">dānaṃ</lem><rdg source="#AS">daṇa</rdg><rdg source="#CTI">dāṇa</rdg></app>
-	  <persName key="pers:Nandika"><app><lem source="#K"><unclear>naṃ</unclear>dikenā</lem><note xml:lang="en"><p>Senart: “The first letter is doubtful, the horizontal
+	  <persName key="pers:Nandika"><app><lem source="#K"><unclear>naṃ</unclear>dikenā</lem><note xml:lang="eng"><p>Senart: “The first letter is doubtful, the horizontal
 	       basis of the n being singularly slanting. But the final
 	       ā is sure.”</p></note></app></persName>
 	  kataṃ
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  (This) rail, the gift of the Bhikṣuṇī 
 	  <persName key="pers:Koṭī">Koṭī</persName>, the mother

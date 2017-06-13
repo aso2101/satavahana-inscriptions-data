@@ -40,7 +40,7 @@
       <div type="notes" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/>bhadiya deyadama unisa pati<unclear>ṭhavita</unclear>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Sai2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Sai2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:DasGupta1949"/>
 	</bibl>
@@ -41,10 +41,10 @@
 	  <citedRange>Śelārvādi 1</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Kosambi1955">Kosambi 1955</ref>; Burgess and Indraji did not read the inscription.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ
@@ -52,7 +52,7 @@
 	  therānaṃ bha<app><lem source="#Kosambi1955">yaṃ</lem><rdg source="#DasGupta1949"/></app>ta-<persName key="pers:BhSiṃha">sihāṇa</persName>
 	  ate-āsiṇiya
 	  <lb n="3"/>
-	  pāvaïti<app><lem source="#DasGupta1949">rā<note xml:lang="en">correction by the editor of EI.</note></lem><rdg source="#DasGupta1949 #Kosambi1955">kā</rdg></app>ya
+	  pāvaïti<app><lem source="#DasGupta1949">rā<note xml:lang="eng">correction by the editor of EI.</note></lem><rdg source="#DasGupta1949 #Kosambi1955">kā</rdg></app>ya
 	  <persName key="pers:Ghaürā"><app><lem source="#Kosambi1955">ghaürāya</lem><rdg source="#DasGupta1949">ghapa<unclear>rā</unclear>ya</rdg></app></persName>
 	  bālikāā
 	  <persName key="pers:Saṃghā">saghāya</persName>
@@ -62,7 +62,7 @@
 	  ācari<app><lem source="#Kosambi1955">ve</lem><rdg source="#DasGupta1949"><unclear>ye</unclear></rdg></app>hi bhatavireyehi sa<lb n="6" break="no"/>māpito
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  Siddham. This Caitya-house is the pious gift
 	  for the merit of their parents and presented for

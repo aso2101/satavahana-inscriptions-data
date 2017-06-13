@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaC10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaC10">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -50,10 +50,10 @@
 	  <citedRange>C10</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on the plate published in <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, an inspection of which confirms most of the readings of <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <app><lem source="#NagarajaRao1985">putatikasa</lem><rdg source="#Sarma1993">dujitakasa</rdg></app>

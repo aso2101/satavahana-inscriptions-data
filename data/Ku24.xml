@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ku24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku24">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +31,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:AS"/>
 	  <citedRange>Kuḍā No. 21</citedRange>
@@ -45,10 +45,10 @@
 	  <citedRange>1059</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    sa<gap reason="lost" unit="character" quantity="3"/>sā<gap reason="lost" unit="character" quantity="11"/>ṇhu<gap reason="lost" unit="character" quantity="6"/>
@@ -57,7 +57,7 @@
 	    <persName key="pers:Ku-Bodhī-2">bodhiya</persName>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  ... and all, of the female disciple
 	  <persName key="pers:Ku-Bodhī-2">Bodhī</persName>

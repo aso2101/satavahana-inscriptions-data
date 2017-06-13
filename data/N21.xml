@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N21">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,14 +36,14 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<div type="introduction" xml:lang="en">
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="commentary" xml:lang="eng">
 	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
 	</div>
 	<p>
 	  <lb n="1"/>
 	  <app><lem source="#N"><gap reason="lost" quantity="5" unit="character"/></lem>
-	       <rdg><note xml:lang="en"><p>Senart discerns 
+	       <rdg><note xml:lang="eng"><p>Senart discerns 
 	       traces of <foreign xml:lang="pra-Latn">sidhaṃ
 	       kuṭuṃ</foreign> before 
 	       <foreign xml:lang="pra-Latn">bena</foreign>.</p></note></rdg>
@@ -61,7 +61,7 @@
 	    </app>
 	</p> 
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>. . . . . and by <persName key="pers:Nadāśrī">Nadāśrī</persName> the rail pattern and the Yakṣa have been caused to be made.</p>
       </div>
     </body>

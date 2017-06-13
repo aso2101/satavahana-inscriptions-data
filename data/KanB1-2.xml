@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB1-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB1-2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.1.2</citedRange>
@@ -53,10 +53,10 @@
 	  <citedRange>no. 74</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it is found on one of the āyāga pillars, which were only added in Phase III of the stūpa’s construction, it probably belongs to the second century CE. The text of the inscription is probably identical to that of the accompanying pillar, on <ref target="in:KanB1-1">KanB1-1</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="9"/>
 	  <unclear>ā</unclear><supplied reason="lost">yuvaḍhanika</supplied>

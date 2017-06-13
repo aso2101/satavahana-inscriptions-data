@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaD8c">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaD8c">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -51,7 +51,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:NagarajaRao1985"/>
 	  <citedRange>14</citedRange>
@@ -61,11 +61,11 @@
 	  <citedRange>D8b</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with small corrections based on their photograph.</p>
 	<p>These three inscriptions (D8a, D8b, and D8c) are found on sculpted memorial-stones (<foreign xml:lang="san-Latn">chāyā-pratimā</foreign>s).</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  vaṇi<app><lem source="#NagarajaRao1985">a</lem><rdg source="#Sarma1993">ka</rdg></app>sa 

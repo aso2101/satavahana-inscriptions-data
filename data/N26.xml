@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N26">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N26">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +34,8 @@
   </facsimile>
   <text>
     <body>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<div type="introduction" xml:lang="en">
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="commentary" xml:lang="eng">
 	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
 	</div>
 	<p>
@@ -60,7 +60,7 @@
 	  <gap reason="lost" quantity="1" unit="character"/>taro udisa
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>Success! (The gift) of the Śaka Dāmacika Vudhika, a writer, son of Viṣṇudatta, an inhabitant of Daśapura, the cave and the two—2—cisterns. Out of them the one which has a small opening is on behalf of my father and mother.</p>
       </div>
     </body>

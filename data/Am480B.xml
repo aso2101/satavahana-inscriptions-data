@@ -40,7 +40,7 @@
       <div type="notes" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. Note that Chandra's No. 48 is also No. 480 of 1913. The editor (F.W. Thomas) notes (fancifully I think) that the inscription “curiously suggests” <foreign xml:lang="pra-Latn">chaharatikasa nahapānasa</foreign>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="5" unit="character"/>ratikasa nekhavanasa<gap reason="lost" quantity="unknown" unit="character"/>

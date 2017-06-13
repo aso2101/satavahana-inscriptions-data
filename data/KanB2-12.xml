@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB2-12">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB2-12">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.2.12</citedRange>
@@ -53,18 +53,18 @@
 	  <citedRange>no. 63</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it is on a cornice element, and because the upper pradakṣiṇapatha was only added in Phase III of the stūpa’s construction around 120 CE according to an inscription (<ref target="in:KanA8">KanA8</ref>), this inscription probably dates to around that time.</p>
 	<p>This inscription refers to Dharmaśrī, who may be the same person as the donor mentioned in <ref target="in:KanA8">KanA8</ref>, which is likely to be contemporary for architectural reasons (see above).</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <g type="crux"/> <persName key="pers:Kan-Dharmaśrī">dhamasiriya</persName>
 	  paṭadānam <g type="crux"/>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>The gift of a slab (and a puphagahani ?) by <persName key="pers:Kan-Harapuṣya">Harapusa</persName> (Harapuṣya) from <placeName key="pl:Dhānyakaṭaka">Dhaññakaṭa</placeName>.</p>
       </div>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ka5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ka5">
 
   <teiHeader>
     <fileDesc>
@@ -40,10 +40,10 @@
   </teiHeader>
   <text>
     <body>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>The edition is based on <ref target="bibl:Ka">Gokhale 1991</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  raño <persName key="pers:GpŚrīyajñaSātakarṇi">gotam<supplied reason="lost">iputasa sāmi siri yaṇasa</supplied>
@@ -78,7 +78,7 @@
 	  <lb n="12"/>
 	  pūjāya kuṭuṃbini<supplied reason="lost">na bāla</supplied><app>
 	    <lem>kānaṃ bāli</lem>
-	    <note xml:lang="en"><p>Gokhale notes that “at present these letters are not in existence.”</p></note>
+	    <note xml:lang="eng"><p>Gokhale notes that “at present these letters are not in existence.”</p></note>
 	  </app><supplied reason="lost">kānaṃ</supplied>
 	  <lb n="13"/>
 	  savatasa bhāgineyāna nik<supplied reason="lost">ā</supplied>yasa nāti
@@ -105,7 +105,7 @@
 	  khadara<lb n="23" break="no"/>kina ca miṭhikenā
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  (I have not reproduced Gokhale’s translation,
 	  because the inscription is fragmentary and I am

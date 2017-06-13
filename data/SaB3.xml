@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaB3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaB3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -41,7 +41,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:ARIE1966"/>
 	  <citedRange>no. 210</citedRange>
@@ -51,11 +51,11 @@
 	  <citedRange>B3</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with my own (AO’s) corrections based on their photograph.</p>
 	<p>Varaprasada Rao understood the donor to be a merchant named Āpakuṭi, but generally the personal names of merchants follow the word <foreign xml:lang="pra-Latn">vāṇiya</foreign>, and the word <foreign xml:lang="pra-Latn">āpakuṭi</foreign> suggests, to me, a drinking station rather than a personal name. But much remains unclear.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>mahāse<app><lem>ṇa</lem><rdg source="#ARIE1966  #Sarma1993">nā</rdg></app><app><lem>ya</lem><rdg source="#ARIE1966 #Sarma1993">ye</rdg></app>sa<placeName key="pl:Balivadāra">ba<app><lem source="#Sarma1993">li</lem><rdg source="#ARIE1966">lī</rdg></app>va<app><lem source="#Sarma1993">dā</lem><rdg source="#ARIE1966">ü</rdg></app>ra</placeName>vāsi<app><lem>ṇā</lem><rdg source="#ARIE1966 #Sarma1993">no</rdg></app> 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB4-B-18">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB4-B-18">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.4.B.18</citedRange>
@@ -53,17 +53,17 @@
 	  <citedRange>plate CXXXI.8 (p. 452, no. 18) and CXXXII.2 (p. 452, no. 23)</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on coping stones of the railing (uṣṇīṣas).</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <persName key="pers:Kan-Bhūtanikā">bhūtanikāya</persName>
 	  <persName key="pers:Kan-Bhuyimā">bhu<unclear>yi</unclear>ma</persName>bhag<unclear>i</unclear>niya deyadhama
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>The pious gift of <persName key="pers:Kan-Bhūtanikā">Bhūtanikā</persName>, the sister of <persName key="pers:Kan-Bhuyimā">Bhuyimā</persName>.</p>
       </div>
     </body>

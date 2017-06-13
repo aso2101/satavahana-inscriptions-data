@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Ku1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +31,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:Jacobi1878"/>
 	  <citedRange>No. 1</citedRange>
@@ -49,10 +49,10 @@
 	  <citedRange>1037</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  mahābhojīya 
@@ -69,7 +69,7 @@
 	  deyadhaṃmaṃ <supplied reason="omitted">leṇaṃ</supplied>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  This cave is the meritorious gift of 
 	  <persName key="pers:Ku-Śivabhūti">Śivabhūti</persName>, the son of

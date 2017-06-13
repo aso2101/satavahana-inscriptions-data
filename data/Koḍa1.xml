@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Koḍa1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Koḍa1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:KrishnaSastri19251926"/>
 	</bibl>
@@ -52,10 +52,10 @@
 	  <ptr target="bibl:Konow1908"/>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>Based on <ref target="bibl:KrishnaSastri19251926">Krishna Sastri 1925–1926</ref>, with the reservations of Sten Konow (supplied by the editor of EI) taken into account.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ rañ<unclear>o</unclear> <persName key="pers:VpŚrīcaṇḍaSātakarṇi">vāsiṭhī<lb n="2" break="no"/>putasa sāmisiri<lb n="3" break="no"/>caṃḍasāt<unclear>isa</unclear></persName> <date when-custom="18" datingPoint="pers:VpŚrīcaṇḍaSātakarṇi" datingMethod="cal:regnal"><app><lem source="bibl:Konow1908"><unclear>sa</unclear></lem><rdg source="bibl:KrishnaSastri19251926"><unclear>raji</unclear></rdg></app>vachare 2

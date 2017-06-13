@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="Kol3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Kol3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +32,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:AS"/>
 	  <citedRange>Mahāḍ, Kol, and Karāḍh, No. 5</citedRange>
@@ -42,8 +42,8 @@
 	  <citedRange>1077</citedRange>
 	</bibl>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
-	<div type="introduction" xml:lang="en">
+      <div type="edition" xml:lang="pra-Latn">
+	<div type="commentary" xml:lang="eng">
 	  <p>This edition is based on <ref target="bibl:AS">Bühler 1883</ref>.</p>
 	</div>
 	<p>
@@ -52,7 +52,7 @@
 	  <persName key="pers:Kol-Śivadatta">sivadatasa</persName> leṇa deyadhama
         </p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>
 	  (This) cave (is) the religious gift of
 	  <persName key="pers:Kol-Śivadatta">Śivadatta</persName>,

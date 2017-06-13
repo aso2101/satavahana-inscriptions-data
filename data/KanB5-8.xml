@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="KanB5-8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB5-8">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +43,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:MNOVH2014"/>
 	  <citedRange>II.5.8</citedRange>
@@ -53,11 +53,11 @@
 	  <citedRange>plate CXLII.2 (p. 468, no. 148)</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
 	<p>They write: “The inscribed pillar was found in ‘Structure (STR) V’ shown on the photo plate XLVI, A and on the plan fig. 41, p. 119 (cf. also fig. 11, p. 44). This structure is described as ‘pillared platform’ (because of this one pillar?) (p. 120). There were, besides this pillar, a votive stūpa and fragments of a Buddhapāda on this platform. It is, however, not possible to identify the Buddhapāda with any of those mentioned in the report. Neither the Buddhapāda nor the votice stūpa can be discerned on plate XLVI, A, while the slanting shaft of the pillar is perhaps sseen in situ at the right side of the platform. The function of this pillar, which may have served as the shaft of an umbrella, cannot be inferred from the report.”</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>
@@ -67,7 +67,7 @@
 	  savalokahitas<supplied reason="lost">ughāya</supplied>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>... by <persName key="pers:Kan-Mahāsenadatta">Mahāsenadatta</persName> from -sata, <persName key="pers:Kan-Kumāradatta">Kumāradatta</persName> and <persName key="pers:Kan-Bodhikā">Bodhikā</persName>, <persName key="pers:Kan-Vīranikā">Vīranikā</persName> ... fro the wellbeing and happiness of the whole world..</p>
       </div>
     </body>

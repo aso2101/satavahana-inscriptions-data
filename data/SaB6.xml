@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="SaB6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaB6">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -39,7 +39,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:NagarajaRao1985"/>
 	  <citedRange>no. 15</citedRange>
@@ -49,11 +49,11 @@
 	  <citedRange>B6</citedRange>
 	</bibl>
       </div>
-      <div type="commentary" xml:lang="en">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, slightly revised by me (AO).</p>
 	<p>Varaprasada Rao disagreed strongly with Nagaraja Rao’s interpretation of the first name as <foreign xml:lang="pra-Latn">Yavaṇikā</foreign> and tentative identification of the figure with a Roman woman.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  <unclear>a</unclear><app><lem source="#NagarajaRao1985">ma</lem><rdg source="#Sarma1993">mā</rdg></app>ci <persName key="pers:Sa-Yakṣanikā">ya<app><lem source="#Sarma1993">kha</lem><rdg source="#NagarajaRao1985">va</rdg></app><app><lem source="#Sarma1993">ni</lem><rdg source="#NagarajaRao1985">ṇi</rdg></app>kā</persName>

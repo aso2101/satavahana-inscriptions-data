@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="en" xml:id="N25">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N25">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +36,7 @@
   </facsimile>
   <text>
     <body>
-      <div type="bibliography" xml:lang="en">
+      <div type="bibliography" xml:lang="eng">
 	<bibl>
 	  <ptr target="bibl:LL"/>
 	  <citedRange>1147</citedRange>
@@ -54,10 +54,10 @@
 	  <citedRange>Nasi.26</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="en">
+      <div type="notes" xml:lang="eng">
 	<p>This edition is based on <bibl key="bibl:N">Senart 1905-1906</bibl>.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	  sidhaṃ raño <persName key="pers:VpŚrīPuḷumāvi">vāsiṭhiputasa 
@@ -74,7 +74,7 @@
 	             <note><p>Senart notes <foreign xml:lang="pra-Latn">bhagine</foreign>, faintly.</p></note></app>
 	</p>
       </div>
-      <div type="translation" xml:lang="en">
+      <div type="translation" xml:lang="eng">
 	<p>Success! On the 6th (or 8th) day of the 4th fortnight of winter, in the year 2 of the king, the lord <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Śrī Puḷumāvi</persName>, on the above, the husbandman <persName key="pers:Dhaṇama">Dhaṇama</persName> has caused this to be made, together with his father and mother, with . . . . . .</p>
       </div>
     </body>

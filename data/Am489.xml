@@ -42,7 +42,7 @@
       <div type="notes" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. I give, however, the more complete (and supplemented) reading of the editor, F. W. Thomas.</p>
       </div>
-      <div type="edition" rend="break-none" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<p>
 	  <lb n="1"/>
 	    sidhaṃ <placeName key="pl:Sigiri"><choice><sic>pi</sic><corr>si</corr></choice>giri</placeName>-nev<unclear>ā</unclear>sakasa
