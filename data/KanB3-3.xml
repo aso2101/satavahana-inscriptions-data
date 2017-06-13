@@ -57,10 +57,10 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on slabs (paṭṭas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Sapuḍi">sāpuḍiyā</placeName> <persName key="pers:Kan-Śrīkasambodhī">sirikasabodhiyā</persName> saputigāya paṭo dāna<unclear>ṃ</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift, a slab, of <persName key="pers:Kan-Śrīkasambodhī">Sirikasa(ṃ)bodhi</persName> (Śrīkasaṃbodhi) from <placeName key="pl:Sapuḍi">Sapuḍi</placeName> (?) with her son(s).</p>

@@ -57,10 +57,10 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  rāyā <persName key="pers:ŚrīSātakarṇi">sātakaṇ<supplied reason="lost">i</supplied></persName> <supplied reason="lost">mahāce</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>yasa r<unclear>u</unclear>pāmayāni payumāni oṇ<unclear>o</unclear>yeti
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>King <persName key="pers:ŚrīSātakarṇi">Sātakarṇi</persName> donates silver lotus flowers to the Great Caitya.</p>

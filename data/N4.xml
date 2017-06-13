@@ -60,7 +60,7 @@
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ senāye 
 	  ve<app><lem>jayaṃ</lem><rdg source="#AS">jaya</rdg></app>tiye
@@ -134,7 +134,7 @@
 	  </app> 2 divase 1 
 	  <persName key="pers:Tāpasa">tāpa<app><lem>se</lem><rdg source="#G">sa</rdg></app>na</persName> 
 	  kaṭā
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

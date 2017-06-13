@@ -41,10 +41,10 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <unclear>sidha</unclear><gap reason="lost" quantity="1" unit="character"/>i<gap reason="lost" quantity="1" unit="character"/><unclear>ha</unclear><gap reason="lost" quantity="2" unit="character"/>sabāl<unclear>ika</unclear>ye nekubudha
-	</p>
+	</ab>
       </div>
     </body>
   </text>

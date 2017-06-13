@@ -49,13 +49,13 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sa<gap reason="lost" unit="character" quantity="3"/>sā<gap reason="lost" unit="character" quantity="11"/>ṇhu<gap reason="lost" unit="character" quantity="6"/>
 	  <lb n="2"/>
 	    savaṃ ca āṃtivāsinīya
 	    <persName key="pers:Ku-Bodhī-2">bodhiya</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

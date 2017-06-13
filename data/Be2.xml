@@ -40,7 +40,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  mahābhoyabālikāya 
 	  <choice><sic>ma</sic><corr resp="#CTI">mahā</corr></choice>devi<lb n="2" break="no"/>ya mahāraṭhiniya
@@ -48,7 +48,7 @@
 	  <lb n="3"/>
 	  <supplied reason="lost">de</supplied>yadhama
 	  <persName key="pers:Āpadevaṇaka">āpadevaṇakasa</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

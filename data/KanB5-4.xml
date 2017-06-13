@@ -57,14 +57,14 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidha || namo bhagavato budhasa  bhikhusa <persName key="pers:Kan-Buddhikaya">budhikayasa</persName> chata deyadhama
 	  <lb n="2"/>
 	  sahā mātāpitūhi
 	  <lb n="3"/>
 	  saha ca bhaginīhi <persName key="pers:Kan-Golā">golā</persName> ca <persName key="pers:Kan-Bodhi">bodhia</persName> ca sava<add place="below">lo</add>kahitāya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Success! Homage to Lord Buddha. The pious gift, an umbrella, of the monk <persName key="pers:Kan-Buddhikaya">Buddhikaya</persName> together with his parents and with his sisters <persName key="pers:Kan-Golā">Golā</persName> and <persName key="pers:Kan-Bodhi">Bodhi</persName> for the wellbeing of the whole world.</p>

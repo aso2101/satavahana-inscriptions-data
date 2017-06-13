@@ -45,7 +45,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    gaṇācariyānaṃ therānaṃ bha<lb n="2" break="no"/>yaṃta<persName key="pers:BhSulasa">sulasānaṃ</persName>
 	    tevijā<lb n="3" break="no"/>naṃ aṃtevāsinaṃ therāna
@@ -63,7 +63,7 @@
 	    <gap reason="lost" unit="line" quantity="1"/>
 	  <lb n="10"/>
 	    deyadhama
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

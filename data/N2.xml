@@ -60,7 +60,7 @@
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  si<app><lem>ddhaṃ ra</lem><rdg source="#G">ddha ra</rdg></app>ño
 	  vāsi<app><lem>ṭhī</lem><rdg source="#G #AS">ṭhi</rdg></app>putasa
@@ -162,7 +162,7 @@
 	  aparadakhiṇapase 
 	  <placeName key="pl:Pisājīpadaka"><app><lem>pisājī</lem><rdg source="#AS">pisāci</rdg></app>padakaṃ</placeName>
 	  savajātabhoganirathi.
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Success! In the nineteenth—19th—year of king 

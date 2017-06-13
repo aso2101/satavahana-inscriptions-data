@@ -57,10 +57,10 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <supplied reason="lost">mani</supplied><unclear>kā</unclear>rasa <persName key="pers:Kan-Mahāmariti">mahāmaritino</persName> ca <persName key="pers:Kan-Toḍakāḍā">toḍakāḍā</persName> ca dāna cediya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift, (the image of) a Caitya, of the jeweller <persName key="pers:Kan-Mahāmariti">Mahāmariti(n)</persName> and <persName key="pers:Kan-Toḍakāḍā">Toḍakāḍā</persName>.</p>

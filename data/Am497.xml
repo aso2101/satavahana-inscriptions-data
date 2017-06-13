@@ -42,12 +42,12 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/>bhar<unclear>a</unclear><gap reason="lost" quantity="unknown" unit="character"/>
 	  <lb n="2"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/>kumāri <persName key="pers:Am-Caṃpura">siricaṃpura</persName><gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The glorious princess <persName key="pers:Am-Caṃpura">Caṃpura</persName>...</p>

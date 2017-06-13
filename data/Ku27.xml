@@ -55,14 +55,14 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    koṭa <gap reason="lost" unit="character" quantity="9"/>
 	    <persName key="pers:Ku-Svāmi">svāmi</persName>putasa
 	    gṛha<supplied reason="lost">pa</supplied>tiṇo
 	    sathavāhasa <persName key="pers:Nāga1">nāgasa</persName>
 	    leṇaṃ deyadhaṃma
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

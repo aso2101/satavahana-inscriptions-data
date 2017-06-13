@@ -44,7 +44,7 @@
 	<p>The edition is based on <ref target="bibl:Ka">Gokhale 1991</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="5" unit="character"/>khabhālakaresu adha<gap reason="lost" quantity="1" unit="character"/>
 	  <lb n="2"/>
@@ -74,7 +74,7 @@
 	  kā<lb n="11"/>rāpito pu<supplied reason="lost">ña</supplied>ṭha
 	  deyadhamāni ca anāni pi 
 	  <supplied reason="lost">kāri</supplied>tāni
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

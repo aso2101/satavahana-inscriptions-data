@@ -41,12 +41,12 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  therānaṃ bhayaṃta 
 	  <persName key="pers:BhDharmagiri">dhamagirināṃ</persName>
 	  thupa
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

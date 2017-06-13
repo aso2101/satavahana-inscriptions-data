@@ -48,7 +48,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. Their translation is modified based on the remarks of Senart in <ref target="bibl:N">Epigraphia Indica 8</ref> p. 75.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ kumārasa 
 	  <persName key="pers:Ma-Viṣṇupālita">kāṇabhoasa
@@ -61,7 +61,7 @@
 	  <lb n="4"/>
 	  <app><lem source="#CTI">āli</lem><rdg source="#AS">alu</rdg></app>gaṇake patho ca dato etasa ca
 	  kumārasa deya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

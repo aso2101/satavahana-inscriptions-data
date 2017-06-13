@@ -44,7 +44,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. Note (AO): <emph>jāvabhati</emph> perhaps refers to barley cultivation (see inscription number 15).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <placeName key="pl:Mahāveja">mahāveje</placeName> gāme jāvabhati
 	  <lb n="2"/>
@@ -61,7 +61,7 @@
 	  <lb n="7"/>
 	    <gap reason="lost" unit="character" quantity="3" precision="low"/>ka<gap reason="lost" unit="character" quantity="2" precision="low"/>selaüde<lb n="8" break="no"/>seṇa
 	    nivataṇāni be
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

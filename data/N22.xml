@@ -62,7 +62,7 @@
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sādavāhana<app><lem source="#N">kule</lem>
 	     <rdg source="#AS">kula</rdg>
@@ -72,7 +72,7 @@
 	  samaṇena mahāmāteṇa leṇa <app><lem source="#N">kārita</lem>
 	     <rdg source="#G">kāritaṃ</rdg>
 	    </app>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Under king <persName key="pers:Kṛṣṇa">Kṛṣṇa</persName> of the Sātavāhana family this cave has been caused to be made by the officer in charge of the Śramaṇas at <placeName key="pl:Nasik">Nasik</placeName>.</p>

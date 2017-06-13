@@ -57,13 +57,13 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Mahāgrāma">mahāgāmilasa</placeName>
 	  <persName key="pers:Kan-Nāgaṇaka">nāgaṇakasa</persName>
 	  <lb n="2"/>
 	  koḍubiniya <persName key="pers:Kan-Rāmaṇikā">rāma<unclear>ṇ</unclear>ikāya</persName> dānaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift of <persName key="pers:Kan-Rāmaṇikā">Rāmaṇikā</persName>, wife (of a rich man) <persName key="pers:Kan-Nāgaṇaka">Nāgaṇaka</persName> from <placeName key="pl:Mahāgrāma">Mahāgrāma</placeName>.</p>

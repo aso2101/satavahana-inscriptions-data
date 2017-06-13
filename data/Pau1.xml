@@ -49,12 +49,12 @@
 	<p>This edition is based on <ref target="bibl:Kolte1969">Kolte 1969</ref>. The inscription is on the same pillar as inscription <ref target="in:Pau4">Pau2</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  u<app><lem source="#Kolte1969">pā</lem><rdg source="#Deo1972">pa</rdg></app>sikāya
 	  <persName key="pers:Pau-Viśvamitrā">visamitāya</persName> 
 	  dāna<app><lem source="#Deo1972">ṃ</lem><rdg source="#Kolte1969"/></app>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>The gift of the lay-worshipper <persName key="pers:Pau-Viśvamitrā">Viśvamitrā</persName>.</p>

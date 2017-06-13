@@ -57,14 +57,14 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <supplied reason="lost">na</supplied>vakam<supplied reason="lost">i</supplied>kasa <persName key="pers:Kan-Vimalayaśas">vimalaya<supplied reason="lost">sasa</supplied></persName>
 	  <lb n="2"/>
 	  ga<unclear>tha</unclear>sisi<unclear>d</unclear>imavinasa
 	  <lb n="3"/>
 	  <unclear>d</unclear>e<unclear>yadhama</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The pious gift of the Navakammika <persName key="pers:Kan-Vimalayaśas">Vimalayasa</persName> (Vimalayaśas)...</p>

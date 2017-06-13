@@ -54,11 +54,11 @@
 	<p>This edition is based on <ref target="bibl:Ramesh1967">Ramesh 1967</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Bel-Kalaka">kalakasa</persName>
 	  chayapa<unclear>paṭimā</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>A memorial image of <persName key="pers:Bel-Kalaka">Kalaka</persName>.</p>

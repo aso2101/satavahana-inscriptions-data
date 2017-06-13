@@ -60,7 +60,7 @@
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  rāyāmaca-<persName key="pers:Arahalaya">arahalayasa</persName>
 	  <placeName key="pl:Calisīlaṇa">ca<app><lem source="#N">lisī</lem>
@@ -79,7 +79,7 @@
 	  <lb n="4"/>
 	  <placeName key="pl:Tiraṇhu">tiraṇhumi</placeName> 
 	  niṭhapāpita
-	</p> 
+	</ab> 
       </div>
       <div type="translation" xml:lang="eng">
 	<p>By <persName key="pers:Bhaṭṭapālikā">Bhaṭṭapālikā</persName>, [grand-daughter] of <persName key="pers:Hakusiri">Mahāhakusiri</persName> and daughter of the royal officer <persName key="pers:Arahalaya">Arahalaya</persName> from <placeName key="pl:Calisīlaṇa">Calisīlaṇa</placeName>, wife of the royal officer <persName key="pers:Agiyataṇaka">Agiyataṇaka</persName>, of the treasure office, mother of <persName key="pers:Kapaṇaṇaka">Kapaṇaṇaka</persName>, this <foreign xml:lang="san-Latn">caityagṛha</foreign> has been caused to be perfected on this mount <placeName key="pl:Tiraṇhu">Tiraṇhu</placeName>.</p>

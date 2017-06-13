@@ -45,7 +45,7 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, which is largely identical to that of <ref target="bibl:ARIE1966">ARIE 1966–1967</ref>. I can make no sense of this inscription, and I suspect the reading can be improved.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  bhoju <app><lem source="#Sarma1993">ja</lem><rdg source="#ARIE1966">jā</rdg></app>na agiṭhoma
 	  <lb n="2"/>
@@ -55,7 +55,7 @@
 	  aṭha<unclear>sa</unclear>na<unclear>me</unclear>
 	  <lb n="4"/>
 	  pālitasa
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>

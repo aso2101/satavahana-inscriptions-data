@@ -42,11 +42,11 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. Senart notes that it was “to all appearances” written by the same person as the following inscription (<ref target="in:K16">K16</ref>).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Bhadrasama">bhadasamasa</persName>
 	  bhikhusa deyadhama mith<app><lem source="#K">ūna</lem><note xml:lang="eng"><p>Senart: “Though the facsimiles in CTI have only a trace of the long ū, it seems to be very probable from the new estampages that the writer formed an ū, as in the following inscription which to all appearances is written in the same hand...”</p></note></app> <app><lem source="#K">ve</lem><note xml:lang="eng"><p>Senart: “The last letter, which has been read n, looks rather like v with the vowel e, and in the crack between thū and ve there is froom for the final n of mithūna. It looks as if anṇ with ā could be distinguished. One might even believe that one sees a distinct nā subscribed to this damaged character, as if the letter above had been spoiled by some accident and subsequently restored below the line.”</p></note></app>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

@@ -45,7 +45,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Kosambi1955">Kosambi 1955</ref>; Burgess and Indraji did not read the inscription.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ
 	  <lb n="2"/>
@@ -60,7 +60,7 @@
 	  deyadha<unclear>ṃ</unclear>ma mātā-pita <app><lem source="#DasGupta1949">u</lem><rdg source="#Kosambi1955">ū</rdg></app>disa saha <unclear>ca</unclear>
 	  sa<lb n="5" break="no"/>vehi bhi<app><lem source="#Kosambi1955">khu</lem><rdg source="#DasGupta1949">khā</rdg></app>-kulehi sa<app><lem source="#Kosambi1955">ha</lem><rdg source="#DasGupta1949">hā</rdg></app> ca
 	  ācari<app><lem source="#Kosambi1955">ve</lem><rdg source="#DasGupta1949"><unclear>ye</unclear></rdg></app>hi bhatavireyehi sa<lb n="6" break="no"/>māpito
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

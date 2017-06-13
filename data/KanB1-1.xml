@@ -57,7 +57,7 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it is found on one of the āyāga pillars, which were only added in Phase III of the stūpa’s construction, it probably belongs to the second century CE.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Dhānyakaṭaka">dhañakaḍakasa</placeName>
 	  <lb n="2"/>
@@ -80,7 +80,7 @@
 	  āyāgathabhā
 	  <lb n="11"/>
 	  catāri deyadhama
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Four columns (decorating) the āyāga(-platform) are the pious gift of the banker <persName key="pers:Kan-Asila">Asila</persName> of the Ṇaḷabāhuka (family) from <placeName key="pl:Dhānyakaṭaka">Dhaññakaṭa</placeName>, the son of <persName key="pers:Kan-Utika">Utika</persName>, together with his mother, with his wife(s), with his son(s) (for the purpose) to prolong (their) life span.

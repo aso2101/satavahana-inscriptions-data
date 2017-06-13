@@ -54,12 +54,12 @@
 	<p>Varaprasada Rao disagreed strongly with Nagaraja Rao’s interpretation of the first name as <foreign xml:lang="pra-Latn">Yavaṇikā</foreign> and tentative identification of the figure with a Roman woman.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <unclear>a</unclear><app><lem source="#NagarajaRao1985">ma</lem><rdg source="#Sarma1993">mā</rdg></app>ci <persName key="pers:Sa-Yakṣanikā">ya<app><lem source="#Sarma1993">kha</lem><rdg source="#NagarajaRao1985">va</rdg></app><app><lem source="#Sarma1993">ni</lem><rdg source="#NagarajaRao1985">ṇi</rdg></app>kā</persName>
 	  a<app><lem source="#NagarajaRao1985">ma</lem><rdg source="#Sarma1993">mā</rdg></app>ci
 	  <persName key="pers:Sa-Saṅghanikā">sa<unclear>ṃ</unclear>gha<app><lem source="#Sarma1993">ni</lem><rdg source="#NagarajaRao1985">ṇi</rdg></app>kā</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>The Amātyī <persName key="pers:Sa-Yakṣanikā">Yakṣanikā</persName>.</p>

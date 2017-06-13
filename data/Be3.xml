@@ -41,14 +41,14 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Nāsikya">nāsikāna</placeName>
 	  <persName key="pers:Ānanda2">anadasa</persName>
 	  seṭhisa putasa
 	  <persName key="pers:Puṣyaṇaka">pusaṇakasa</persName> 
 	  dāna
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

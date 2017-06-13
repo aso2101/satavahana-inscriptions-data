@@ -42,7 +42,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sidhaṃ namo bhagavato <persName key="pers:Am-Śrīnegica">siri-negicasa</persName> pusa
 	    <persName key="pers:Am-Kalika"><unclear>ka</unclear>likasa</persName>
@@ -54,7 +54,7 @@
 	  <lb n="3"/>
 	    <gap reason="lost" quantity="5" unit="character"/><persName key="pers:Am-Bala">balasa</persName> deyadhammaṃ pa<unclear>ti</unclear>ṭhapita
 	    udha-paṭa
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Success! Adoration to the Blessed One! (This) upright slab placed

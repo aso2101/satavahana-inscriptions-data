@@ -45,10 +45,10 @@
 	<p>This edition is based on <ref target="bibl:Deo1972">Deo and Joshi 1972</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Pau-Puṣyagupta">pusagutasa</persName> <persName key="pers:Pau-Vātsī">vachiyā</persName> ca pasādo
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>The gift of <persName key="pers:Pau-Puṣyagupta">Puṣyagupta</persName> and<persName key="pers:Pau-Vātsī">Vātsī</persName>.</p>

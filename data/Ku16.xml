@@ -48,13 +48,13 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    mālākārasa <persName key="pers:Ku-Vadhuka">vadhukasa</persName>
 	    putasa <choice><sic>ma</sic><corr>mā</corr></choice>lākārasa
 	    <persName key="pers:Ku-Sivapirita">sivapiritasa</persName>
 	    deyadhaṃmaṃ leṇaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

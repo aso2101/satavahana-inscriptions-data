@@ -53,10 +53,10 @@
 	<p>These three inscriptions (D8a, D8b, and D8c) are found on sculpted memorial-stones (<foreign xml:lang="san-Latn">chāyā-pratimā</foreign>s).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  go<app><lem resp="#AO">a</lem><rdg source="#Sarma1993">mu</rdg></app>ḍasa<gap reason="lost" quantity="2" unit="character"/>ja
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>(No translation offered.)</p>

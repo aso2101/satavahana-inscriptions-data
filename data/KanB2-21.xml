@@ -54,10 +54,10 @@
 	<p>See also <ref target="in:KanB2-20">KanB2-20</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <supplied reason="lost">dhama</supplied>kadhikasa <unclear>aya</unclear><supplied reason="lost">sa</supplied> <persName key="pers:Kan-Kṛṣṇa-"><unclear>kanha</unclear><gap reason="lost" quantity="unknown" unit="character"/></persName><gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Of the preacher, the Venerable <persName key="pers:Kan-Kṛṣṇa-">Kanha[</persName> (Kṛṣṇa[) ...</p>

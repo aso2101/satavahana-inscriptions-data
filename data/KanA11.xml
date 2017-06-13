@@ -53,7 +53,7 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:GpŚrīyajñaSātakarṇi"><supplied reason="lost">ya</supplied>ñasātakaṇisa</persName>
 	  saṃvachare <unclear>10</unclear>
@@ -69,7 +69,7 @@
 	  mahāceti<gap reason="lost"
 	               quantity="unknown"
 		       unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>In the year (10) of King <persName key="pers:GpŚrīyajñaSātakarṇi">Yajña Sātakarṇi</persName>,

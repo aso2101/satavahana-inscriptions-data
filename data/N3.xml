@@ -61,7 +61,7 @@
 	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="11"/>
 	  si<app><lem>ddha</lem><rdg source="#AS">ddhaṃ</rdg></app>
 	  navanarasvāmī
@@ -225,7 +225,7 @@
 	  <app><lem>bhaga</lem>
 	       <rdg source="#G">bhaga<supplied reason="omitted">va</supplied></rdg></app>tasapatipa<app><lem>ta</lem><rdg source="#G">ti</rdg></app>pasa
 	  jinavarasa budhasa
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

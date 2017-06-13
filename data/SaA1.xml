@@ -48,7 +48,7 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>; the translation is by Andrew Ollett.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" extent="unknown" unit="character"/>
 	  <persName key="pers:GpŚrīSātakarṇi">
@@ -71,7 +71,7 @@
 	  ekakusasa
 	  ekadhanudha<supplied reason="lost">rasa</supplied>
 	  <gap reason="lost" extent="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>

@@ -42,7 +42,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sidhaṃ <placeName key="pl:Turughura">turughura</placeName>-vathavasa
 	    <persName key="pers:Am-Candramukha">cadamukha</persName>-gahapatisa
@@ -52,7 +52,7 @@
 	    bhaga<unclear>vato</unclear> mahācetiyasa <app><lem resp="#AO">pura</lem><rdg source="#Chandra1919">para</rdg></app>dāre <unclear>dakhi</unclear>ne 
 	    pase <unclear>u</unclear>dhapaṭa <unclear>de</unclear>ya-dhama
 	  <lb n="3"/>patiṭhapita
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Success! (This) upright slab placed on the south side of the eastern 

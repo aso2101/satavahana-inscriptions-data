@@ -50,7 +50,7 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="5" unit="character"/><supplied reason="lost">savachare</supplied>
 	  5 hematāṇaṃ pa<supplied reason="lost">kh</supplied>e
@@ -79,7 +79,7 @@
 	       <rdg source="#CTI #AS">mhi usubhāe</rdg>
 	  </app>
 	  <gap reason="lost" quantity="6" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

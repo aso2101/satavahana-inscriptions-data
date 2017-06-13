@@ -44,7 +44,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    koṇācikaseṇiya
 	  <lb n="2"/>
@@ -56,7 +56,7 @@
 	    bisa || <placeName key="pl:Kaṭaputaka">kaṭaputake</placeName>
 	  <lb n="6"/>
 	    vaḍamule nivata<lb n="7" break="no"/>ṇāni <unclear>na</unclear>va
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

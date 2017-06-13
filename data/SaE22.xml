@@ -57,9 +57,9 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/><gap reason="lost" quantity="unknown" unit="character"/><app><lem source="#ARIE1966">kā</lem><rdg source="#Sarma1993">ka</rdg></app>ya
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>(No translation was offered.)</p>

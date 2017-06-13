@@ -43,14 +43,14 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. Two names can be made out, Satamala (?) and Vīryabhūti (Virabhuti).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sidhaṃ upāsakasa negama<gap reason="lost" quantity="unknown" unit="character"/>
 	  <lb n="2"/>
 	    satamalaputasa<gap reason="lost" quantity="unknown" unit="character"/>
 	  <lb n="3"/>
 	    <gap reason="lost" quantity="2" unit="character" precision="low"/>puta virabhuti<gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
     </body>
   </text>

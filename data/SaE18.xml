@@ -58,11 +58,11 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Sa-Śivatanaka">sivata<app><lem source="#ARIE1966">ṇa</lem><rdg source="#Sarma1993">na</rdg></app>kasa</persName> <app><lem source="#ARIE1966"><gap reason="lost" quantity="unknown" unit="character"/></lem><rdg source="#Sarma1993">gaṇakasa</rdg></app>
 
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of (the accountant) <persName key="pers:Sa-Śivatanaka">Śivatanaka</persName>.</p>

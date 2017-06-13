@@ -66,12 +66,12 @@
 	<p>Varaprasada Rao interpreted <foreign xml:lang="pra-Latn">bamhiya</foreign> as a place name. I think it is more likely to be a personal name.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" unit="character" quantity="unknown"/><persName key="pers:Sa-Samalokikā">samalokikāya</persName>
 	  <lb n="2"/>
 	  <gap reason="lost" unit="character" quantity="unknown"/><persName key="pers:Sa-Brāhmī">bamhiya</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of <persName key="pers:Sa-Samalokikā">Samalokikā</persName> ...

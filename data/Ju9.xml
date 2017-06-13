@@ -44,7 +44,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    gāme <placeName key="pl:Puvānada">puvānadeṣu</placeName> nivatanāni
 	  <lb n="2"/>
@@ -52,7 +52,7 @@
 	  <lb n="3"/>
 	    deyadhaṃmaṃ apa<unclear>rā</unclear>jitesu ga<lb n="4" break="no"/>ne
 	    <persName key="pers:Payogoka">payogoka</persName>hathe <supplied reason="lost">dāna</supplied>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

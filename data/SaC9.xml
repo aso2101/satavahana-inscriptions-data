@@ -58,10 +58,10 @@
 	<p>This is based on a reading of the plate published in <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Sa-Selaṇakā"><app><lem resp="#AO">selaṇakāya</lem><rdg source="#Sarma1993">selanikaya</rdg><rdg source="#ARIE1966">saloṇakasa</rdg><rdg source="#NagarajaRao1985">seloṇakāya</rdg></app></persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of <persName key="pers:Sa-Selaṇakā">Selaṇakā</persName>.</p>

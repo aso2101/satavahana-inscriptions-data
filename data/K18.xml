@@ -42,7 +42,7 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Koṭī">ko<app><lem source="#K">ṭi</lem><rdg source="#AS #CTI">ḍi</rdg></app>ya</persName> bhikhuṇiya 
 	  <persName key="pers:Ghuṇika">ghuṇika</persName>-mā<app><lem source="#K">tu</lem><rdg source="#AS">ta</rdg></app>
@@ -51,7 +51,7 @@
 	       basis of the n being singularly slanting. But the final
 	       ā is sure.”</p></note></app></persName>
 	  kataṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

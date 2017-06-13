@@ -57,12 +57,12 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  uḍā<unclear>rāna</unclear> <unclear>ā</unclear>yuvadhanika <persName key="pers:Kan-Cullikā">c<unclear>u</unclear>l<supplied reason="lost">i</supplied>yāya</persName>
 	  <lb n="2"/>
 	  deyadhama pāyako sasuciko <unclear>no</unclear>maṃ <gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The pious gift of <persName key="pers:Kan-Cullikā">Culiyā</persName> (Cūlikā/Cullikā), an upright together with crossbars, to prolong the life of high persons.</p>

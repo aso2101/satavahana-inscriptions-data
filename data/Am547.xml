@@ -42,7 +42,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. Rao Sahbi H. Krishna Sastri suggests understanding the sign ḍ here as p, and thus <foreign xml:lang="pra-Latn">navakamika-padhāna</foreign> will mean 'chief of the overseers.'</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="4" unit="character"/><unclear>sa</unclear> <persName key="pers:Am-Candra">cadasa</persName>
 	    ca mātūya<gap reason="lost" quantity="5" unit="character"/>
@@ -50,7 +50,7 @@
 	    <gap reason="lost" quantity="4" unit="character"/>naṃ navakamikā <persName key="pers:Am-Ḍadhānaḍāri">ḍadhānaḍāri</persName><gap reason="lost" quantity="3" unit="character"/>
 	  <lb n="3"/>
 	    <gap reason="lost" quantity="4" unit="character"/>ṇo dhamakadhiko aya<persName key="pers:Am-Ḍāraḍa">ḍāraḍo</persName> ca
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p> ... of <persName key="pers:Am-Candra">Candra</persName> and of his mother... 

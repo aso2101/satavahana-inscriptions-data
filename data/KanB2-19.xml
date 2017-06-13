@@ -58,11 +58,11 @@
 	<p>See the accompanying inscription <ref target="in:KanB2-18">KanB2-18</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>dhamakadhikasa
 	  <persName key="pers:Kan-Nāgaśrī">n<unclear>ā</unclear>gas<unclear>i</unclear>r<unclear>i</unclear>sa</persName> <unclear>d</unclear><supplied reason="lost">eja</supplied><unclear>dha</unclear>ma | saha <unclear>bh</unclear><supplied reason="lost">ā</supplied><unclear>t</unclear>unā <persName key="pers:Kan-Nāgabuddhi">nāgabudhinā</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The pious gift of the preacher <persName key="pers:Kan-Nāgaśrī">Nāgasiri</persName> (Nāgaśrī) with his brother <persName key="pers:Kan-Nāgabuddhi">Nāgabuddhi</persName>.</p>

@@ -57,10 +57,10 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on coping stones of the railing (uṣṇīṣas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Kan-Rakhitanikā"><gap reason="lost" quantity="unknown" unit="character"/><unclear>r</unclear>akhitanikāya</persName> duhutuya <persName key="pers:Kan-Sāmanikā">s<unclear>ā</unclear>manikāya</persName> deyadhamaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The pious gift of <persName key="pers:Kan-Sāmanikā">Sāmanikā</persName> (Śyāmanikā?), the daughter of <persName key="pers:Kan-Rakhitanikā">-rakkhitanikā</persName> (-rakṣitanikā).</p>

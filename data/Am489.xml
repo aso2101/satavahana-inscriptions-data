@@ -43,7 +43,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. I give, however, the more complete (and supplemented) reading of the editor, F. W. Thomas.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sidhaṃ <placeName key="pl:Sigiri"><choice><sic>pi</sic><corr>si</corr></choice>giri</placeName>-nev<unclear>ā</unclear>sakasa
 	    ma<unclear>hā-na</unclear>va<unclear>kamaka</unclear>sa
@@ -59,7 +59,7 @@
 	  <lb n="4"/>
 	    rā<unclear>y</unclear>iya ca <unclear>khu</unclear>pasi<unclear>ya</unclear><gap reason="lost" unit="character" quantity="5"/>bāliya ca sa<unclear>na</unclear>tiri-mita<gap reason="lost" unit="character" quantity="5"/>badhaya ūmarikā
 	    udhapamana paṭiṭhapita aya<persName key="pers:Am-Pusa">pusa</persName>
-	</p>
+	</ab>
       </div>
     </body>
   </text>

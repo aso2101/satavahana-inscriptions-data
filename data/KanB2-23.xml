@@ -54,10 +54,10 @@
 	<p>Written by the same scribe as <ref target="in:KanB2-31">KanB2-31</ref> and <ref target="in:KanB2-32">KanB2-32</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <unclear>matā</unclear>sakasa <unclear>upā</unclear>sakasa<gap reason="lost" quantity="1" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>... of the lay practicioner...</p>

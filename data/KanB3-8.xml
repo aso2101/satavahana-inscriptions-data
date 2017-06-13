@@ -53,10 +53,10 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on slabs (paṭṭas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>mat<unclear>u</unclear>yā isa<gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">ā</supplied>ya dānaṃ paṭo
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift, a slab, of Isa.ā, the mother of...</p>

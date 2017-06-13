@@ -57,10 +57,10 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it mentions a cornice element, and because the upper pradakṣiṇapatha was only added in Phase III of the stūpa’s construction around 120 CE according to an inscription (<ref target="in:KanA8">KanA8</ref>), this inscription probably dates to around that time.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Dhānyakaṭaka"><supplied reason="lost">dha</supplied>ñakaḍik<supplied reason="lost">ā</supplied>ya</placeName> aya <persName key="pers:Kan-Dāsī">dāsiyā</persName> sapu<unclear>pha</unclear>gahanika dāna
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift [of a vedikā slab] together with a puphagahani by the venerable <persName key="pers:Kan-Dāsi">Dāsī</persName> from <placeName key="pl:Dhānyakaṭaka">Dhaññakaṭa</placeName>.</p>

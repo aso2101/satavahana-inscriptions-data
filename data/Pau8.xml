@@ -55,11 +55,11 @@
 	<p>This edition is based on <ref target="bibl:Kolte1969">Kolte 1969</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Pau-Nāga">nāgasa</persName> 
 	  paca<app><lem source="#Kolte1969">ne</lem><rdg source="#Deo1972">ni</rdg></app>kāyikasa
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>(The gift) of <persName key="pers:Pau-Nāga">Nāga</persName>

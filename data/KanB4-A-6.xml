@@ -57,12 +57,12 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  therasa aya <persName key="pers:Kan-Ṛṣirakṣita"><supplied reason="lost">i</supplied>sirakhitasa</persName> a<unclear>tevā</unclear>siniya
 	  <lb n="2"/>
 	  bhikhuniya <persName key="pers:Kan-Nāgukā">nāguyāya</persName> deyadhama
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The pious gift of the nun <persName key="pers:Kan-Nāgukā">Nāguyā</persName> (Nāgukā), the pupil of the venerable Elder <persName key="pers:Kan-Ṛṣirakṣita">Isirakkhita</persName> (Ṛṣirakṣita).</p>

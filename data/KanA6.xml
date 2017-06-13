@@ -57,10 +57,10 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  rāyā <persName key="pers:SundaraSātakarṇi">sudara sātakani</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>King <persName key="pers:SundaraSātakarṇi">Sundara Sātakarṇi</persName>.</p>

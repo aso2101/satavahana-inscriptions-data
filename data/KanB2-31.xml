@@ -54,11 +54,11 @@
 	<p>Written by the same scribe as <ref target="in:KanB2-23">KanB2-23</ref> and <ref target="in:KanB2-32">KanB2-32</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>l</unclear>asa
 	  saputakasa <unclear>dā</unclear>na<gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift of ]la together with his son(s).</p>

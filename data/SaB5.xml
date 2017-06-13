@@ -64,7 +64,7 @@
 	<p><foreign xml:lang="pra-Latn">ūmārasa</foreign> is probably an engraver’s mistake for <foreign xml:lang="pra-Latn">kumārasa</foreign>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  muḍāna mahāgāmi-<app><lem source="#ARIE1966">ū</lem><rdg source="#Sarma1993">ku</rdg><rdg source="#NagarajaRao1985">u</rdg></app><lb n="2" break="no"/>
 	  mārasa
@@ -75,7 +75,7 @@
 	  <placeName key="pl:Ahimarikā">a<app><lem>ha</lem><rdg source="#ARIE1966 #Sarma1993">hi</rdg></app>marikāya</placeName>
 	  <lb n="5"/>
 	  <persName key="pers:Sa-Puruṣadattā">purisadatāya</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>

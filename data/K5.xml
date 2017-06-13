@@ -43,14 +43,14 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  gahatasa <persName key="pers:Mahādevaṇaka">mahādeva<lb n="2" break="no"/>ṇakasa</persName> mātu 
 	  <persName key="pers:Bhāyilā">bhāyilāyā</persName><app><note xml:lang="eng"><p>(Senart:) I cannot say
 	       that the <foreign xml:lang="pra-Latn">ā</foreign>
 	       of the last syllable appears to me certain.</p></note></app>
 	  dānaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

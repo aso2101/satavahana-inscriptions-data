@@ -66,14 +66,14 @@
 	<p>The object looks like a memorial-stone to me, but Nagaraja Rao thought that it recorded a donation by Rāmaśrī.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  rā<app><lem source="#NagarajaRao1985">ja</lem><rdg source="#ARIE1966 #Seshadri1972 #Sarma1993">jā</rdg></app>macasa
 	  <persName key="pers:Sa-Gaganaka">gaga<app><lem source="#Sarma1993 #NagarajaRao1985 #ARIE1966">na</lem><rdg source="#Seshadri1972">ba</rdg></app>kasa</persName>
 	  bhāriyā<app><lem source="#Seshadri1972 #Sarma1993">ya</lem><rdg source="ARIE1966 #NagarajaRao1985">ye</rdg></app> 
 	  rā<app><lem source="#ARIE1966">ja</lem><rdg source="#Sarma1993 #Seshadri1972 #NagarajaRao1985">jā</rdg></app><app><lem source="#ARIE1966 #NagarajaRao1985 #Seshadri1972">ma</lem><rdg source="#Sarma1993">mā</rdg></app><app><lem>cā</lem><rdg source="#ARIE1966 #Seshadri1972">ca</rdg><rdg source="#NagarajaRao1985 #Sarma1993">ci</rdg></app>ya 
 	  <persName key="pers:Sa-Rāmaśrī">rāmasi<app><lem source="#ARIE1966 #Seshadri1972 #NagarajaRao1985">ri</lem><rdg source="#Sarma1993">rī</rdg></app>ya</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of the Rājāmātyī <persName key="pers:Sa-Rāmaśrī">Rāmaśrī</persName>, wife of the Rājāmātya <persName key="pers:Sa-Gaganaka">Gaganaka</persName>.</p>

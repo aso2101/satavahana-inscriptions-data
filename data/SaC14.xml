@@ -62,11 +62,11 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <app><lem source="#Sarma1993">vāṇī</lem><rdg source="#NagarajaRao1985">vaṇi</rdg><rdg source="#ARIE1966">vāni</rdg></app>yasa
 	  <persName key="pers:Sa-Senaṇha">senaṇha<app><lem source="#ARIE1966 #Sarma1993">sa</lem><rdg source="#NagarajaRao1985"><note>om.</note></rdg></app></persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of the merchant <persName key="pers:Sa-Senaṇha">Senaṇha</persName>.</p>

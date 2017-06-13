@@ -56,7 +56,7 @@
 	<p>The edition is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sidha || na<unclear>mo</unclear>
 	    bhagavato samasabudhasa <app><lem source="#MNOVH2014">adh<unclear>ā</unclear>laka</lem><rdg source="#Poonacha2013">adholoka</rdg><rdg source="#Falk2009">śudhalaka</rdg></app>-mahā<lb n="2" break="no"/>
@@ -92,7 +92,7 @@
 	    <persName key="pers:Kan-BhSiṃha"><unclear>s</unclear>i<app><lem source="#MNOVH2014 #Falk2009">he</lem><rdg source="#Poonacha2013">pe</rdg></app>hi</persName> 
 	    savasa<app><lem source="#MVOVH2014 #Poonacha2013">tā</lem><rdg source="#Falk2009"><unclear>ta</unclear></rdg></app>na
 	    ca hitasu<app><lem source="#MNOVH2014 #Falk2009">gha</lem><rdg source="#Poonacha2013">ghā</rdg></app>tha
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

@@ -40,11 +40,11 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  therānāṃ bhayaṃta 
 	  <persName key="pers:BhAṃpikiṇaka">aṃpikiṇakānaṃ</persName> thūpo
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

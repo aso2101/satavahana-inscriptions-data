@@ -66,13 +66,13 @@
 	<p>These three inscriptions (D8a, D8b, and D8c) are found on sculpted memorial-stones (<foreign xml:lang="san-Latn">chāyā-pratimā</foreign>s).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  vaṇi<app><lem source="#NagarajaRao1985">a</lem><rdg source="#Sarma1993">ka</rdg></app>sa 
 	  <persName key="pers:Sa-Vīra">vīrasa</persName> 
 	  <app><lem source="#NagarajaRao1985">va</lem><rdg source="#Sarma1993">vā</rdg></app>ṇii<app><lem source="#NagarajaRao1985">ṇi</lem><rdg source="#Sarma1993">nī</rdg></app><app><lem resp="#AO">yā</lem><rdg source="#NagarajaRao1985 #Sarma1993">ya</rdg></app>
 	  <persName key="pers:Sa-Nāaṇī"><app><lem resp="#AO">nā</lem><rdg source="#NagarajaRao1985">ṇaṃ</rdg><rdg source="#Sarma1993">na</rdg></app>a<app><lem source="#NagarajaRao1985">ṇi</lem><rdg source="#Sarma1993">ni</rdg></app></persName>ya
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of the merchant <persName key="pers:Sa-Vīra">Vīra</persName>

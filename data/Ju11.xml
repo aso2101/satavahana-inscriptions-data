@@ -43,7 +43,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. No translation is offered because the language is unknown.</p>
       </div>
       <div type="edition" xml:lang="und">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    apurāṇa
 	  <lb n="2"/>
@@ -58,7 +58,7 @@
 	    nikaca
 	  <lb n="7"/>
 	    vīca
-	</p>
+	</ab>
       </div>
     </body>
   </text>

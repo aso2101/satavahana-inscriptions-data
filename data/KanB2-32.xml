@@ -54,10 +54,10 @@
 	<p>Written by the same scribe as <ref target="in:KanB2-23">KanB2-23</ref> and <ref target="in:KanB2-31">KanB2-3</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>sabhār<unclear>i</unclear>yasa <unclear>dāna</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift of ... together with his wife.</p>

@@ -58,11 +58,11 @@
 	<p>The reconstruction follows the parallel inscription <ref target="in:KanB2-5">KanB2-5</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Dhānyakaṭaka">dhañakaḍ<unclear>i</unclear>kāya</placeName>
 	  gharaniyā <persName key="pers:Kan-Nāgā">nā<supplied reason="lost">gāy<unclear>ā</unclear></supplied></persName> <supplied reaon="lost">puphagahani dāna</supplied>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift of a puphagahani by the wife of a well-to-do man, <persName key="pers:Kan-Nāgā">Nāgā</persName> from <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>.</p>

@@ -50,7 +50,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="san-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    deyadharmoyaṃ 
 	    śākyopā<lb n="2" break="no"/>sika<persName key="pers:Vyāghrakā">vyāghrakāyā</persName>
@@ -58,7 +58,7 @@
 	  <lb n="3"/>
 	    puṇya tadbhavatu mātāpitṛpū<lb n="4" break="no"/>rvvaṅgamaṃ
 	    kṛtvā sarvvasatvānāṃ anuttarijñā<lb n="5" break="no"/>nāvāpaya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

@@ -42,7 +42,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    yavaṇasa
 	  <lb n="2"/>
@@ -51,7 +51,7 @@
 	    bhojaṇamaṭapo
 	  <lb n="4"/>
 	    deyadhama saghe
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

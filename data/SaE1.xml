@@ -53,13 +53,13 @@
 	<p>I suggest that we read <foreign xml:lang="pra-Latn">dovachadako</foreign>, in the meaning of <foreign xml:lang="san-Latn">dvi-upacchadaka</foreign>, a “double covering” or “double awning.”</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidham <persName key="pers:Sa-Serāma">serāmasa</persName> pu<app><lem source="#NagarajaRao1985">ta</lem><rdg source="#Sarma1993">tā</rdg></app><app><lem resp="#AO">na</lem><rdg source="#Sarma1993">naṃ</rdg><rdg source="#NagarajaRao1985">ṇaṃ</rdg></app>
 	  <lb n="2"/>
 	  <persName key="pers:Sa-Muka">mukena</persName>
 	  kārito dovachada<app><lem source="#NagarajaRao1985">ko</lem><rdg source="#Sarma1993">ke</rdg></app>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Success. This double awning was caused to be made

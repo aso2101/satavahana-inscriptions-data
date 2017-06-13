@@ -57,7 +57,7 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <unclear>na</unclear>mo bhaga<supplied reason="lost">va</supplied>to budha<unclear>sa</unclear>
 	  <lb n="2"/>
@@ -66,7 +66,7 @@
 	  <gap reason="lost" quantity="unknown" unit="character"/>kārapitaṃ sa<unclear>ṃ</unclear>gha<gap reason="lost" quantity="unknown" unit="character"/>
 	  <lb n="4"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/><unclear>kena</unclear> <placeName key="pl:Mahiṣa">m<unclear>ā</unclear>hisa<unclear>kasa</unclear></placeName><gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Homage to Lord Buddha. ... was ordered to be made Saṃgha- ... from the <placeName key="pl:Mahiṣa">Mahisa</placeName> country.</p>

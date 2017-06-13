@@ -48,14 +48,14 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sathavāhasa
 	    <persName key="pers:Ku-Vehamita">vehamitasa</persName>
 	    bitiyikaya
 	    <persName key="pers:Ku-Śivadattā-2">sivadatāya</persName>
 	    <persName key="pers:Ku-Puṣyaṇaka">pu<lb n="2" break="no"/>saṇaka</persName>mātuya deyadhamaṃ leṇaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

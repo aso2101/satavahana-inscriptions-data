@@ -52,7 +52,7 @@
 	<p>Based on <ref target="bibl:Sharma19751976">Sharma 1975–1976</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <supplied reason="lost">sidhaṃ sātavā</supplied>hanaraño <persName key="pers:VpŚrīPuḷumāvi">vāsaṭhīputasa siripuḷumāvisa</persName>
 	  <lb n="2"/>
@@ -61,7 +61,7 @@
 	  <gap reason="lost" quantity="5" unit="character" precision="low"/><unclear>sa</unclear>lavaḍhakisa
 	  <lb n="4"/>
 	  <gap reason="lost" quantity="5" unit="character" precision="low"/>teti |
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>[This pillar] was made by the carpenter... for the Great God Caṇḍaśiva who dwells in the temple... [in the rule of] <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra Śrī Puḷumāvi</persName>.</p>

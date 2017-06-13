@@ -75,14 +75,14 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Ahimarika">ahimarikāya</placeName>
 	  <persName key="pers:Sa-Nāganikā">nāganikāya</persName>
 	  <lb n="2"/>
 	  <persName key="pers:Sa-Arikā">arikā</persName>bhātu<app><lem source="#ARIE1966">no</lem><rdg source="#Seshadri1972">na</rdg><rdg source="#Sarma1993">mo</rdg></app>
 	  <persName key="pers:Sa-Girijataṇaka">giri<app><lem source="#Sarma1993 #Seshadri1972">ja</lem><rdg source="#ARIE1966 #NAgarajaRao1985">da</rdg></app><app><lem source="#ARIE1966">taṇa</lem><rdg source="#Sarma1993">gaṇa</rdg><rdg source="#Seshadri1972 #NagarajaRao1985">tana</rdg></app>kasa</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>

@@ -44,7 +44,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. No translation is offered because the language is unknown.</p>
       </div>
       <div type="edition" xml:lang="und">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    āsa
 	  <lb n="2"/>
@@ -53,7 +53,7 @@
 	    khunesa
 	  <lb n="4"/>
 	    ṇa
-	</p>
+	</ab>
       </div>
     </body>
   </text>

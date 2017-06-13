@@ -57,10 +57,10 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/><unclear>sa</unclear>ṃba <persName key="pers:Sa-Samadāsa">samadāsasa</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>... of <persName key="pers:Sa-Samadāsa">Samadāsa</persName>.</p>

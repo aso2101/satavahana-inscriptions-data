@@ -57,11 +57,11 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Seḍivaya">seḍ<unclear>i</unclear>vayikāya</placeName>
 	  <persName key="pers:Kan=Ṛṣilanikā">is<supplied reason="lost">i</supplied><lb n="2" break="no"/>lanikāya</persName> dānaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The gift of <persName key="pers:Kan-Ṛṣilanikā">Isilanikā</persName> (Ṛṣilanikā) from <placeName key="pl:Seḍivaya">Seḍivaya</placeName>.</p>

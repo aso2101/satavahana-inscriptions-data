@@ -55,12 +55,12 @@
 	<p>This edition is based on <ref target="bibl:Kolte1969">Kolte 1969</ref>. The inscription is on the same pillar as inscription <ref target="inPau1">Pau1</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>ya 
 	  <persName key="pers:Pau-Viśvamitrā">visamitāya</persName> 
 	  dana sukhāya hotu sava<app><lem source="#Deo1972">sa</lem><rdg source="#Kolte1969">sā</rdg></app>tāna
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>May this gift of <persName key="pers:Pau-Viśvamitrā">Viśvamitrā</persName> 

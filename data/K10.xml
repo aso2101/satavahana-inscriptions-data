@@ -42,12 +42,12 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. Senart has misgivings about the reading, which he reproduces from AS and CTI.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName>
 	  <lb n="2"/>
 	    <persName key="pers:Dharma">dhaṃma</persName>yavanasa
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

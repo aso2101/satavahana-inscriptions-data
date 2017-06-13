@@ -53,7 +53,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. The phrase <foreign xml:lang="pra-Latn">selarūpakama</foreign> refers to the pairs of figures in the back corners of the cave.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    mahā<choice><sic>bhojiya</sic><corr>bhojīya</corr></choice> sāḍageriya
 	    <persName key="pers:Ku-Vijayā">vijayāya</persName>
@@ -81,7 +81,7 @@
 	    <persName key="pers:Ku-Śivapālitā">sivapālitāya</persName>
 	    <persName key="pers:Ku-Śivadattā">sivadatāya</persName>
 	    <persName key="pers:Ku-Sulasadattā">sulasadatāya</persName> sa thaṃbhā  
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

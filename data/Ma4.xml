@@ -40,7 +40,7 @@
 	<p>This edition is based on <ref target="bibl:Dandekar2006">Dandekar and Joshi 2006–2007</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ 
 	  <persName key="pers:Ma-Viṣṇupālita">kāṇa<unclear>bhoasa
@@ -49,7 +49,7 @@
 	  <unclear>a</unclear>macasa 
 	  <persName key="pers:Ma-Pālitaṇaka">pālitaṇakasa</persName>
 	  deyadhama leṇa koḍhi <unclear>ca</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

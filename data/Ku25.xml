@@ -53,7 +53,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    sidhaṃ therāṇa bhayata
 	  <lb n="2"/>
@@ -71,7 +71,7 @@
 	  <lb n="6"/>
 	    ātivāsiṇiya
 	    <persName key="pers:Ku-Bodhī-2">bodhiya</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

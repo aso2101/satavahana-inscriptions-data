@@ -53,7 +53,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  mahābhojīya 
 	  <persName key="pers:Ku-Vijayā">saḍageriya vijayāya</persName>
@@ -67,7 +67,7 @@
 	  saha bhayāya 
 	  <persName key="pers:Ku-Nandā">ṇaṃdāya</persName>
 	  deyadhaṃmaṃ <supplied reason="omitted">leṇaṃ</supplied>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

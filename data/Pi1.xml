@@ -40,14 +40,14 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. They remark that “this inscription shows pure Aśoka or Maurya characters.”</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Pratiṣṭhāna">patiṭhāṇā</placeName>
 	  <persName key="pers:Mitradeva">mitadevasa</persName>
 	  <lb n="2"/>
 	  gādhikasa kulasa
 	  <unclear>ṭhab</unclear>o dāna<unclear>ṃ</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

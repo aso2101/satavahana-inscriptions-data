@@ -40,14 +40,14 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Naḍasava">naḍasavasa</persName>
 	  nāyasa
 	  <lb n="2"/>
 	  <placeName key="pl:Bhogavatī">bhogavatasa</placeName>
 	  gābho dānaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

@@ -43,7 +43,7 @@
 	however, the reading of the editor, F. W. Thomas.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <supplied reason="lost">namo bha</supplied>gavata samasa<unclear>ṃ</unclear>budhasa <unclear>bu</unclear>
 	  <lb n="2"/>
@@ -55,7 +55,7 @@
 	    tayana <choice><sic>a</sic><corr>sa</corr></choice>pa<unclear>ka</unclear>ray<unclear>aṃ</unclear>
 	  <lb n="5"/>
 	    <gap reason="lost" quantity="1" unit="character"/>ya vāniyasa budhi
-	</p>
+	</ab>
       </div>
     </body>
   </text>

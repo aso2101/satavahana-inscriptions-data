@@ -50,10 +50,10 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Sa-Muḍāni">muḍāni<app><lem source="#Sarma1993">sa</lem><rdg source="#NagarajaRao1985"/></app></persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of <persName key="pers:Sa-Muḍāni">Muḍāni</persName>.</p>

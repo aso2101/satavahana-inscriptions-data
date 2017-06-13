@@ -48,7 +48,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    saṭhavāhasa
 	    <persName key="pers:Acaladāsa">aca<supplied reason="lost">la</supplied><lb n="2" break="no"/>dāsasa</persName>
@@ -57,7 +57,7 @@
 	    <supplied reason="lost">le</supplied>ṇaṃ deyadhaṃma saha
 	  <lb n="4"/>
 	    tasa<gap reason="lost" unit="character" quantity="3"/>pātho deya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

@@ -57,14 +57,14 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. Because it is found on one of the āyāga pillars, which were only added in Phase III of the stūpa’s construction, it probably belongs to the second century CE. The text of the inscription is probably identical to that of the accompanying pillar, on <ref target="in:KanB1-1">KanB1-1</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="9"/>
 	  <unclear>ā</unclear><supplied reason="lost">yuvaḍhanika</supplied>
 	  <lb n="10"/>
 	  ā<unclear>y</unclear><supplied reason="lost">āgathabhā</supplied>
 	  <lb n="11"/>
 	  catāri deyadhama
-	</p>
+	</ab>
       </div>
     </body>
   </text>

@@ -43,7 +43,7 @@
 	<p>This edition is based on <ref target="bibl:AS">Bühler 1883</ref>. The Saṅgharakṣita mentioned here may be the same as the Saṅgharakṣita mentioned at Kol.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ gahapatisa seṭhisa 
 	  <persName key="pers:Kol-Saṅgharakṣita">saṃgharakhita</persName>
@@ -55,7 +55,7 @@
 	  <lb n="4"/>ti chetehi kare tato chetiasa gadha<gap reason="lost" units="character" quantity="11"/>
 	  <lb n="5"/>aṭha 8 bhatakaṃmāṇikā aṭha 8 koḍhipura<gap reason="lost" units="character" quantity="7"/>
 	  <lb n="6"/>kāraṇakāraṇe ca leṇasa savenā ka<gap reason="lost" units="character" quantity="10"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

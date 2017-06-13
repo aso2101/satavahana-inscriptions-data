@@ -41,11 +41,11 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <persName key="pers:Am-Gotamī">gotamina</persName>
 	    mā<gap reason="lost" unit="character" quantity="4" precision="low"/><unclear>dānaṃ</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Gift of ... of <persName key="pers:Am-Gotamī">Gotamī</persName>.</p>

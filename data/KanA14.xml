@@ -45,7 +45,7 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <supplied reason="lost">namo bhaga</supplied>vato
 	    budhasa raño
@@ -67,7 +67,7 @@
 	    samāt<unclear>u</unclear>kasa <app><lem source="#MNOVH2014">sa<supplied reason="lost">bhā</supplied><unclear>tu</unclear>kasa</lem><rdg source="#Poonacha2013">sapitukasa</rdg></app> saputakasa <app><lem source="#MNOVH2014">deja</lem><rdg source="#Poonacha2013">deya</rdg></app>dhama <unclear>ce</unclear>ti<unclear>ya</unclear><app><lem source="#MNOVH2014">paṭo</lem><rdg source="#Poonacha2013">paṭa</rdg></app>
 	    sava<unclear>l</unclear><app><lem source="#Poonacha2013"><supplied reason="lost">okahitasukhāya</supplied></lem><rdg
 	      source="#MNOVH2014">oka<gap reason="lost" quantity="unknown" unit="character"/></rdg></app>
-	</p>
+	</ab>
       </div>
     </body>
   </text>

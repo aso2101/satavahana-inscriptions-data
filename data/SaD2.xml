@@ -55,12 +55,12 @@
 	<p><ref target="bibl:NagarajaRao1985">Nagaraja Rao</ref> followed the reading of <ref target="bibl:ARIE1968">ARIE</ref> and understood this inscription to refer to a woman from Simhala (Sihaḷī). However, as J. Varaprasada Rao noted, this is a proper name.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <unclear>gha</unclear>ri<app><lem source="#Sarma1993 #NagarajaRao1985">ṇī</lem><rdg source="#ARIE1968">ṇi</rdg></app>ya <persName key="pers:Sa-Sihaḍī">siha<app><lem source="#Sarma1993">ḍī</lem><rdg source="#ARIE1968 #NagarajaRao1985">ḷī</rdg></app>ya</persName>
 	  <lb n="2"/>
 	  <app><lem source="#Sarma1993"><unclear>he</unclear></lem><rdg source="#NagarajaRao1985">ma</rdg></app>ma<persName key="pers:Sa-Nandā"><app><lem source="#ARIE1968">na</lem><rdg source="#NagarajaRao1985">ne</rdg></app><app><lem source="#Sarma1993">dā</lem><rdg source="#ARIE1968 #NagarajaRao1985">de</rdg></app>ya</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of the gṛhiṇī <persName key="pers:Sa-Sihaḍī">Sihaḍī</persName>

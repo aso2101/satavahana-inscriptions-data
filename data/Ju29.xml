@@ -42,7 +42,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <persName key="pers:Kapila">kapila</persName>upāsakasa natuno
 	    <persName key="pers:Tāpasa">tāpasa</persName>upāsakasa
@@ -50,7 +50,7 @@
 	    putasa 
 	    <persName key="pers:Ānanda3">ānadasa</persName> deyadhaṃmaṃ
 	    cetiyagharo niyuto
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

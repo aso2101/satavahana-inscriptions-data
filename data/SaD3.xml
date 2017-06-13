@@ -50,10 +50,10 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <unclear>ghari</unclear><app><lem source="#Sarma1993">ṇī</lem><rdg source="#NagarajaRao1985">ṇi</rdg></app>ya ahimarikā<unclear>ya</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of the gṛhiṇī ... from

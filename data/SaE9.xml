@@ -60,10 +60,10 @@
 	<p>I have not read <foreign xml:lang="pra-Latn">araka</foreign> as a name, as Varaprasada Rao did. Possibly it refers to an architectural element (such as an <hi rend="italic">ayaka</hi>/<hi rend="italic">āryaka</hi> pillar).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  arakachata<app><lem resp="#AO">ko</lem><rdg source="#Sarma1993">ke</rdg></app>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>The awning of the āryaka (pillars?).</p>

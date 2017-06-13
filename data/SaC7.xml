@@ -61,12 +61,12 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" unit="character" quantity="unknown"/><persName key="pers:Sa-Daṭilā">daṭilāya</persName>
 	  <lb n="2"/>
 	  <gap reason="lost" unit="character" quantity="unknown"/>sa
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of <persName key="pers:Sa-Daṭilā">Daṭilā</persName>.</p>

@@ -48,7 +48,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ <placeName key="pl:Dhenukākaṭa">dheṇukākaḍe</placeName>
 	  vāthavasa
@@ -59,7 +59,7 @@
 	  <persName key="pers:Siṃhaguptaṇikā">siaguta<lb n="4" break="no"/>ṇikāya</persName>
 	  deyadhaṃma leṇaṃ saha pute<lb n="5" break="no"/>ṇa
 	  <persName key="pers:Nanda">ṇaṃ<unclear>da</unclear></persName>gahapatiṇā saho
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

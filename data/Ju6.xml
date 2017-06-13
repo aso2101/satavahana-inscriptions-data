@@ -41,7 +41,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    apaguriyāna <persName key="pers:Savagiriya">savagiriyasa</persName> putasa 
 	    patibadhakasa <persName key="pers:Giribhūti"><unclear>gi</unclear>ribhūtisa</persName>
@@ -49,7 +49,7 @@
 	    <persName key="pers:Śivapālanikā">sivapālanikāya</persName>
 	  <lb n="2"/> 
 	    deyadhama poḍhi lena ca etasa akhayanivi<gap reason="lost" quantity="12" unit="character" precision="low"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

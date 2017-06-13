@@ -53,7 +53,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>; the translation has been slightly adapted. Note that Georg Bühler considered Pātimita in the text to be a mistake for Sātimita (Svātimitra).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  siddhaṃ therāṇaṃ bhadata <persName key="pers:BhSvātimitra">pātimitana</persName> 
 	    bhadaṃta<lb n="2" break="no"/><persName key="pers:BhAgnimitra">āgimita<unclear>na</unclear></persName>
@@ -68,7 +68,7 @@
 	  <lb n="6"/>
 	    saha ca ativāsiniya 
 	    <persName key="pers:Ku-Aṣāḍhamitrā">asālhamitāya</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

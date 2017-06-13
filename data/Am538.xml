@@ -42,7 +42,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/>sa 
 	    tulakicasa
@@ -50,7 +50,7 @@
 	    putasa <persName key="pers:Am-Budhi">budhino</persName>
 	    bhāriyāya <persName key="pers:Am-Tukā">tukāya</persName>
 	    saputikāya sabhaginikāya paṭo deyadhaṃma
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>(This) slab is the pious gift of

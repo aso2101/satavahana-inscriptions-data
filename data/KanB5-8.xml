@@ -58,14 +58,14 @@
 	<p>They write: “The inscribed pillar was found in ‘Structure (STR) V’ shown on the photo plate XLVI, A and on the plan fig. 41, p. 119 (cf. also fig. 11, p. 44). This structure is described as ‘pillared platform’ (because of this one pillar?) (p. 120). There were, besides this pillar, a votive stūpa and fragments of a Buddhapāda on this platform. It is, however, not possible to identify the Buddhapāda with any of those mentioned in the report. Neither the Buddhapāda nor the votice stūpa can be discerned on plate XLVI, A, while the slanting shaft of the pillar is perhaps sseen in situ at the right side of the platform. The function of this pillar, which may have served as the shaft of an umbrella, cannot be inferred from the report.”</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>
 	  <lb n="2"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>satikena <persName key="pers:Kan-Mahāsenadatta">mahāsenadatena</persName> <persName key="pers:Kan-Kumāradatta">k<supplied reason="lost">u</supplied>māradatena</persName> <persName key="pers:Kan-Bodhikā"><unclear>bodhi</unclear>kāya</persName> <persName key="pers:Kan-Vīranikā">v<supplied reason="lost">i</supplied>ranik<supplied reason="lost">āya</supplied></persName>
 	  <lb n="3"/>
 	  savalokahitas<supplied reason="lost">ughāya</supplied>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>... by <persName key="pers:Kan-Mahāsenadatta">Mahāsenadatta</persName> from -sata, <persName key="pers:Kan-Kumāradatta">Kumāradatta</persName> and <persName key="pers:Kan-Bodhikā">Bodhikā</persName>, <persName key="pers:Kan-Vīranikā">Vīranikā</persName> ... fro the wellbeing and happiness of the whole world..</p>

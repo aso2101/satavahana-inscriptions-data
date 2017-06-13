@@ -43,12 +43,12 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="6" unit="character" precision="low"/>tha <persName key="pers:Bhūtenaka">bhūtenakasa</persName>
 	  <lb n="2"/>
 	    <gap reason="lost" quantity="6" unit="character" precision="low"/>poḍhi cā deyadhama
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

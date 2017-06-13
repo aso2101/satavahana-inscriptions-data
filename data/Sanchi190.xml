@@ -56,7 +56,7 @@
 	<p>This edition is based on <ref target="bibl:BT">Cunningham 1854</ref>, pp. 264–265.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  rajño 
 	  <persName key="pers:ŚrīSātakarṇi">
@@ -67,7 +67,7 @@
 	  <lb n="3"/>
 	  <persName key="pers:Ānanda">anandasa</persName>
 	  dānaṃ
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

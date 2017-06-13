@@ -52,10 +52,10 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, where it seems to have been copied directly from <ref target="bibl:ARIE1966">ARIE 1966–1967</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  akaṭhinibiyā karaya bhoḍasa deyadhama sava<gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>The pious gift of <persName key="pers:Sa-Bhoḍa">Bhoḍa</persName> (from?) Akaṭhinibiyā, (for the welfare of) all...</p>

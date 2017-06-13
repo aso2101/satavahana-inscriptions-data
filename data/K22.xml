@@ -46,7 +46,7 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  si<app>
 	      <lem source="#K">dhaṃ</lem>
@@ -61,7 +61,7 @@
 	           <lem source="#K">ma</lem>
 		   <rdg source="#CTI #AS">maṃ</rdg>
 		 </app>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

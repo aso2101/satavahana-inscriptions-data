@@ -45,14 +45,14 @@
 	     and Bühler (BuhlerKa) !-->
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Kalyāṇa">kaliaṇa</placeName>sa 
 	  negamasa cita
 	  <lb n="2"/>kiyasa 
 	  <persName key="pers:Punarvasu">punavasuya</persName> tasa
 	  poḍhi deyadhamaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

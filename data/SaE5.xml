@@ -52,10 +52,10 @@
 	<p>Possibly a reference to <placeName key="pl:Nasik">Nasik</placeName>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  mahānāsikeva<gap reason="lost" quantity="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>(No translation offered.)</p>

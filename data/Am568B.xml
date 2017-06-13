@@ -42,10 +42,10 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. Note that Chandra's No. 12 is also given as No. 568 of 1907. Chandra notes that this inscription appears to have been traced or engraved by the same hand that traced or engraved No. 4.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/><unclear>ni</unclear>gamasa
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Of the city of...</p>

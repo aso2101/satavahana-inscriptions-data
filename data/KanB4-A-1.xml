@@ -57,13 +57,13 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Bhogavardhana"><supplied reason="lost">bh</supplied><unclear>o</unclear>gavadhanikasa</placeName> bodhigahapatino
 	  <lb n="2"/>
 	  <supplied reason="lost">va</supplied>ṇ<supplied reason="lost">ika</supplied>sa <persName key="pers:Kan-Ṛṣimitra">isimitasa</persName> pāyako 
 	  sa<lb break="no" n="3"/><supplied reason="lost">s</supplied><unclear>u</unclear>ciko saālabano deyadhama
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The pious gift, an upright together with (upper) crossbars (and) a lower crossbar, of the banker and merchant <persName key="pers:Kan-Ṛṣimitra">Isimitta</persName> (Ṛṣimitra) from <placeName key="pl:Bhogavardhana">Bhogavaddhana</placeName> (Bhogavardhana).</p>

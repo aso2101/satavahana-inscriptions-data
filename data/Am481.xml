@@ -41,10 +41,10 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="unknown" unit="character"/>bhadiya deyadama unisa pati<unclear>ṭhavita</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>(This) pious gift of  ... bhadī, the coping stone, is placed ...</p>

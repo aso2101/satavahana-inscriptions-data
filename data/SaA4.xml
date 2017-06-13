@@ -49,12 +49,12 @@
       </div>
       <div type="edition" xml:lang="pra-Latn">
 
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <app><lem source="#ARIE1968">ṇ<unclear>hā</unclear></lem><rdg source="#Sarma1993">nhā</rdg></app>sa 
 	  bhāradāyasa <app><lem source="#Sarma1993">kuṭu</lem><rdg source="#ARIE1968">kūtu</rdg></app>bi<app><lem source="#Sarma1993">na mahā</lem><rdg source="#ARIE1968">nam aha</rdg></app>tarakasa 
 	  mahāsāthavāhanasa <persName key="pers:Sa-Agniśarman"><app><lem resp="#AO">agnisa</lem><rdg source="#Sarma1993">agnisa</rdg><rdg source="#ARIE1968">agiṣa</rdg></app>ma<supplied reason="lost">sa</supplied></persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>

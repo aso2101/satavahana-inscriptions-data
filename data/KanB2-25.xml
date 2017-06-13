@@ -58,10 +58,10 @@
 	<p>See inscription <ref target="in:KanB2-24">KanB2-24</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  khajan<unclear>ā</unclear>karasa <placeName key="pl:Mahiṣa">māhisekasa</placeName> <persName key="pers:Kan-Kupana">kupanasa</persName> dāna
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>The donation of <persName key="pers:Kan-Kupana">Kupana</persName>, a citizen of Khaja in the <placeName key="pl:Mahiṣa">Mahiṣa</placeName> country.</p>

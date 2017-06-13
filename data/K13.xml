@@ -42,7 +42,7 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ raño khaharātasa khatapasa
 	  <persName key="pers:Nahapāna">nahapānasa</persName>
@@ -93,7 +93,7 @@
 	  </app>jiko</placeName> dato <app><lem source="#K">sa<gap reason="lost" quantity="1" gunit="character"/>na<gap reason="lost" quantity="3" unit="character"/>vāsitānaṃ</lem>
 	     <rdg source="#AS #CTI">savāna vāsavāsitānaṃ</rdg>
 	  </app>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

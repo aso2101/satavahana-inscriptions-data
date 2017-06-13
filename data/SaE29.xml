@@ -58,10 +58,10 @@
 	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with the correction that <foreign xml:lang="pra-Latn">aṃtevāsin</foreign> means “student” and not “resident” in these inscriptions.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/><gap reason="lost" quantity="unknown" unit="character"/>valiyatayānaṃ aṃtevāsi<app><lem source="#ARIE1968">ni</lem><rdg source="#Sarma1993">nī</rdg></app>ya
 	  <lb n="2"/><gap reason="lost" quantity="unknown" unit="character"/><app><lem source="#ARIE1968">ṭi</lem><rdg source="#Sarma1993">ti</rdg></app>kāya piyako deya<gap reason="lost" quantity="2" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>A (pious) gift by ... student of -valiyataya.</p>

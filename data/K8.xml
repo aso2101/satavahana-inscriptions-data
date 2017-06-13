@@ -41,7 +41,7 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. The inscription is closely connected with <ref target="in:K9">K9</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <placeName key="pl:Śūrpāraka">sopārakā</placeName>
 	    bhaya<app><lem source="#K">tānaṃ</lem>
@@ -75,7 +75,7 @@
 	             <rdg source="#CTI">la</rdg>
 		     <rdg source="#AS"><gap reason="lost" unit="character" quantity="1"/></rdg>
 		</app>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

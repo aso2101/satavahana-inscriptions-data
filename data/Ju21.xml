@@ -44,14 +44,14 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. The inscription was left unfinished.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <persName key="pers:Sayiti">sayiti</persName>gahapatiputasa
 	    gahapatisa 
 	    <persName key="pers:Śivadāsa">sivadāsasa</persName>
 	  <lb n="2"/>
 	    bitiyikāya ca sahā parivā
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

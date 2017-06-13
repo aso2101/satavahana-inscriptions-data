@@ -52,12 +52,12 @@
 	<p>This edition is based on <ref target="bibl:Kolte1969">Kolte 1969</ref>. Kolte has expressed uncertainty regarding the reading and interpretation of the last word. In <ref target="bibl:Deo1972">Deo and Joshi 1972</ref>, the editors suggest that the last word may have been added later.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  pavajitasa 
 	  <persName key="pers:Pau-Uttaraka">utarakasa</persName> 
 	  <app><lem source="#Kolte1969">mā</lem><rdg source="#Deo1972">mo</rdg></app>direhi
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>(The gift) of the ascetic <persName key="pers:Pau-Uttaraka">Uttaraka</persName>

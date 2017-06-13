@@ -41,14 +41,14 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="5" unit="character" precision="low"/><unclear>ni</unclear>hi
 	    <persName key="pers:Am-Gamalaka">gamalakasa</persName>
 	    gahapa<unclear>ti</unclear>sa
 	  <lb n="2"/>
 	    <gap reason="lost" quantity="5" unit="character" precision="low"/>patasa<gap reason="lost" quantity="2" unit="character"/><persName key="pers:Am-Revata">revatasa</persName><gap reason="lost" quantity="2" unit="character"/>balakā<unclear>ya</unclear>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Of the daughter... of 

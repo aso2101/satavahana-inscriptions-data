@@ -60,10 +60,10 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  gahapatisa <persName key="pers:Sa-Sulasa"><app><lem source="#ARIE1966 #Seshadri1972 #NagarajaRao1985">su</lem><rdg source="#Sarma1993">sū</rdg></app>lasasa</persName>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of the gṛhapati <persName key="pers:Sa-Sulasa">Sulasa</persName>.

@@ -42,7 +42,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <persName key="pers:Am-Nutu">nutu</persName>uparakasa
 	  <lb n="2"/>
@@ -51,7 +51,7 @@
 	    tiṇi suciyo
 	  <lb n="4"/>
 	    dānaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Three rail bars are the gift of the uparaka 

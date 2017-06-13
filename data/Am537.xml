@@ -42,13 +42,13 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" unit="character" quantity="unknown"/>tasa 
 	    <persName key="pers:Am-Likhita">likhitasa</persName> 
 	    thaṃbho bhi<app><lem source="#Chandra1919">da nāpa<unclear>ṭali</unclear>talē</lem><note xml:lang="eng"><p>The editor (F.W. Thomas) suggests the
 	      reading <foreign xml:lang="san-Latn">bhikhuṇo pāṭaliputāto</foreign>.</p></note></app><gap reason="lost" quantity="unknown" unit="character"/>	      
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>(Following Thomas' suggestion) The (gift of) a pillar by 

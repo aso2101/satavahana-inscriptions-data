@@ -43,7 +43,7 @@
 	<p>This edition and translation is based on <ref target="bibl:Sarma1980">Sarma 1980</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    gahapatikānaṃ 
 	    <persName key="pers:KoḍakhaMūla">koḍakhasa mūlasa</persName>
@@ -55,7 +55,7 @@
 	    <g type="triratna"/> <persName key="pers:Buddhī">budhi</persName> 
 	    gahapati putasa 
 	    <persName key="pers:Candra">caṃda</persName><gap reason="lost" unit="character" quantity="unknown"/>
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

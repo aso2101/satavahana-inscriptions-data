@@ -42,7 +42,7 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Dhenukākaṭa">dheṇu<app><lem source="#K">k<unclear>ā</unclear></lem>
 	     <rdg source="#CTI #AS">kā</rdg>
@@ -69,7 +69,7 @@
 	     <lem source="#K">durem<gap reason="lost" quantity="2" unit="character"/>dhu<gap reason="lost" quantity="2" unit="character"/></lem>
 	     <rdg source="#AS #CTI">duremudhuka</rdg>
 	   </app>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

@@ -42,11 +42,11 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    kaṃma<app><lem><gap reason="lost" quantity="2" unit="character"/></lem><rdg source="#ed"><supplied reason="lost">bhayā</supplied></rdg></app>yā
 	    <persName key="pers:Am-Apakū">apakuyā</persName> <unclear>tha</unclear>bho
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>(This) pillar (is the gift) of <persName key="pers:Am-Apakū">Apakū</persName> ... kaṃma.</p>

@@ -42,11 +42,11 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  ˘ uvāsikāya <persName key="pers:Am-Uttarā">utarāya</persName> 
 	    uvā<unclear>sa</unclear> <gap reason="lost" unit="character" quantity="unknown"/>
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Of the female lay-worshipper <persName key="pers:Am-Uttarā">Uttarā</persName>

@@ -36,7 +36,7 @@
 	<p>The edition is based on <ref target="bibl:SeshadriShastri19371938">Seshadri Sastri 1937–1938</ref>. He surmised that it belonged to the reign of Vāsiṣṭhīputra Śrī Puḷumāvi (this would be necessary if the reading is indeed panatrise).</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" quantity="14" unit="character"/><supplied reason="lost">saṃva</supplied>chare
 	  <lb n="2"/>
@@ -65,7 +65,7 @@
 	  <lb n="8"/>
 	    parigaha dhamacaka-dhayo paḍiṭḥapito
 	    sava-loka<lb n="9" break="no"/>satya-hita-sukhāya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

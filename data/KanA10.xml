@@ -57,7 +57,7 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <app><lem source="#MNOVH2014"><supplied reason="lost">sidhaṃ</supplied></lem><rdg source="#Poonacha2013"></rdg></app> <app><lem source="#MNOVH2014">r<supplied reason="lost">a</supplied>ñ<supplied reason="lost">o</supplied></lem><rdg source="#Poonacha2013">rajño</rdg></app>
 	  <persName key="pers:VpŚrīSātakarṇi">
@@ -77,7 +77,7 @@
 	  <lb n="2"/>
 	  savabudhapu<unclear>cā</unclear>ya mātā<app><lem source="#MNOVH2014">pituna</lem><rdg source="#Poonacha2013">pitūna</rdg></app>
 	  <app><lem source="#MNOVH2014">puyāya</lem><rdg source="#Poonacha2013">punyāya</rdg></app> savalokah<supplied reason="lost">ita</supplied><unclear>s</unclear>ughāya
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Success! In the year 6 of King <persName key="pers:VpŚrīSātakarṇi">Vāsiṣṭhīputra Śrī Sātakarṇi</persName>,

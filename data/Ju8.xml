@@ -42,13 +42,13 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <gap reason="lost" unit="character" quantity="6" precision="low"/><unclear>ga</unclear>hapatipu<unclear>tānaṃ</unclear>
 	    bhātūṇaṃ dāṇa ka
 	  <lb n="2"/>
 	    <gap reason="lost" unit="character" quantity="6" precision="low"/>saca pa<unclear>ca</unclear>gabhaṃ deyadhaṃmaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

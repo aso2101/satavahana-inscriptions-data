@@ -75,7 +75,7 @@
 	<p>I do not give “diacritical” variants from <ref target="bibl:Seshadri1972">Seshadri 1972</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <app><lem source="#Sarma1993">siri</lem><rdg source="#ARIE1966 #Seshadri1972 #NagarajaRao1985"><gap reason="lost" quantity="unknown" unit="character"/></rdg></app>
 	   <gap reason="lost" quantity="3" unit="character"/><app><lem source="#Seshadri1972 #Sarma1993">mi</lem><rdg source="#ARIE1966 #NagarajaRao1985"><unclear>mī</unclear></rdg></app>putasa 
@@ -91,7 +91,7 @@
 	  <app><lem source="#Sarma1993">a</lem><rdg source="#ARIE1966 #NagarajaRao1985">ā</rdg></app>ya<app><lem source="#NagarajaRao1985">dasi</lem><rdg source="#ARIE1966">dāsi</rdg><rdg source="#Sarma1993">dāsī</rdg></app><app><lem source="#ARIE1966 #NagarajaRao1985">ya</lem><rdg source="#Sarma1993">yaṃ</rdg></app>
 	  <app><lem source="#ARIE1966 #NagarajaRao1985">na</lem><rdg source="#Sarma1993">nā</rdg></app>ḍiya-<app><lem resp="#AO">vaḍu</lem><rdg source="#ARIE1966 #NagarajaRao1985">vāḷu</rdg><rdg source="#Sarma1993">vālu</rdg><rdg source="#Seshadri1972">vādu</rdg></app>kiyāya
 	  mu<app><lem source="#ARIE1966 #NagarajaRao1985">gū</lem><rdg source="#Sarma1993">khu</rdg><rdg source="#Seshadri1972">gi</rdg></app>di<app><lem source="#ARIE1966 #NagarajaRao1985">kāya</lem><rdg source="#Sarma193">ko yaṃ</rdg></app>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>

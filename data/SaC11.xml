@@ -55,11 +55,11 @@
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost" quantity="unknown" unit="character"/>ṇha
 	  ghā<app><lem source="#Sarma1993">lā</lem><rdg source="#NagarajaRao1985">li</rdg></app><app><lem source="#Sarma1993">vāsakha</lem><rdg source="#NagarajaRao1985">viśākha</rdg></app>ra<app><lem resp="#AO"><unclear>meja</unclear></lem><rdg source="#Sarma1993 #NagarajaRao1985"><gap reason="lost" quantity="unknown" unit="character"/></rdg></app>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>(No translation offered.)</p>

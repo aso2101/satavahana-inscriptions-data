@@ -59,10 +59,10 @@
 	<p>It is not clear to me whether Yakhagharinī is a personal name or a title.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  ya<app><lem source="#Sarma1993">kha</lem><rdg source="#Seshadri1972">khā</rdg><rdg source="#ARIE1966">kā</rdg></app>ghari<app><lem source="#ARIE1966 #Seshadri1972">ni</lem><rdg source="#Sarma1993">ṇī</rdg></app><app><lem source="#Sarma1993 #Seshadri1972">ya</lem><rdg source="#ARIE1966">yā</rdg></app>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>Of Yakṣagṛhiṇī.</p>

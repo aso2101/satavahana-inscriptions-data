@@ -42,7 +42,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <persName key="pers:Vīraseṇaka">vīraseṇakasa</persName>
 	    gahapatipamughasa
@@ -50,7 +50,7 @@
 	    dhamanigamasa deyadhamaṃ cetiyagharo
 	  <lb n="3"/>
 	    niyuto savalokahitasukhāya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

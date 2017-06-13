@@ -40,12 +40,12 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. They remark that the script of the vihāra inscriptions “differs very little from those in the Chaitya and may belong to about 100 B.C., or earlier a little.”</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  rājavejasa vachī<unclear>putasa</unclear>
 	  <persName key="pers:Mṛgila"><unclear>ma</unclear>gilasa</persName>
 	  putasa <persName key="pers:Dattaka">datakasa</persName> dāna
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

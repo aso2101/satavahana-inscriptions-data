@@ -43,14 +43,14 @@
 	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	   <persName key="pers:Āṣāḍhamitrā">asāḍhamitāye</persName>
 	   bhikhuṇi <app>
 	              <lem source="#K"><gap reason="lost" quantity="1" unit="character"/></lem>
 		      <rdg source="#AS #CTI"><supplied reason="lost">ye</supplied></rdg>
 		    </app> dānaṃ
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

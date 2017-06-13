@@ -57,7 +57,7 @@
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. They edit four fragments separately that <ref target="bibl:Poonacha2013">Poonacha 2013</ref> reads as a single inscription: they are this inscription, <ref target="in:KanD9">KanD9</ref>, <ref target="in:KanD2">KanD2</ref>, and <ref target="in:KanB4">KanB4</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  raño <persName key="pers:VpŚrīChimuka">siri chimu<unclear>ka</unclear>sātavāhanasa</persName>
 	  savachare <date when-custom="16"
@@ -66,7 +66,7 @@
 			  reason="lost"
 			  quantity="unknown"
 			  unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation">
 	<p>In the year sixteen 16 of King <persName key="pers:VpŚrīChimuka">Śrī Chimuka Sātavāhana</persName>, Mātiseka....</p>

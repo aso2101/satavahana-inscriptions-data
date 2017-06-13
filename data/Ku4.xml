@@ -49,7 +49,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  sidhaṃ therā<unclear>ṇaṃ bhadaṃta</unclear><persName key="pers:Ku-Śivadatta">sivada<lb n="2" break="no"/>taṇa</persName>
 	  aṃ<unclear>tevāsino</unclear> 
@@ -59,7 +59,7 @@
 	  <lb n="4"/>
 	  <gap reason="lost" unit="character" quantity="7"/>sātimita<lb n="5" break="no"/>ya
 	  <gap reason="lost" unit="character" quantity="9"/>yiya
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>Success! The mendicant Goa..., a disciple of 

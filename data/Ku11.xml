@@ -49,7 +49,7 @@
 	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
       </div>
       <div type="edition" xml:lang="san-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    deyadharmmoyaṃ
 	    śākya<choice><sic>bhikṣuḥ</sic><corr>bhikṣoḥ</corr></choice>
@@ -67,7 +67,7 @@
 	  <lb n="7"/>
 	    paṃcamahāpa<lb n="8" break="no"/>takayukto
 	    bhave<supplied reason="omitted">t</supplied> ||
-	</p>
+	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>

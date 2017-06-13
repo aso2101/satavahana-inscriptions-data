@@ -42,10 +42,10 @@
 	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<p>
+	<ab>
 	  <lb n="1"/>
 	    <persName key="pers:Am-Gopriyā">gopiyāsa</persName> manu de<gap reason="lost" unit="character" quantity="unknown"/>
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<p>(The pious gift) of <persName key="pers:Am-Gopriyā">Gopiyā</persName>...</p>
