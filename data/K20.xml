@@ -129,14 +129,14 @@
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">
-	<p>
+	<ab>
 	  Success! On the second—2nd—day of the third—3rd—fornight of
 	  winter in the twenty-fourth—24th—year of king 
 	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
 	    Śrī Puḷumāvi</persName>, this pious gift of the
 	  lay-worshipper 
 	  <persName key="pers:Harapharaṇa">Harapharaṇa</persName>,
-	  son of <persname key="pers:Setapharaṇa">Setapharaṇa</persname>,
+	  son of <persName key="pers:Setapharaṇa">Setapharaṇa</persName>,
 	  a Sovasaka, living in 
 	  <placeName key="pl:Abulāmā">Abulāmā</placeName>,
 	  a nine-celled hall, has been
@@ -149,7 +149,7 @@
 	  ... a pious gift of 
 	  <persName key="pers:Buddharakṣita">Buddharakṣita’s</persName>
 	  mother.
-	</p>
+	</ab>
       </div>
     </body>
   </text>

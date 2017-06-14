@@ -69,7 +69,7 @@
         </ab>
       </div>
       <div type="translation" xml:lang="eng">
-	<p>
+	<ab>
 	  In the ... year of the king
 	  <persName key="pers:GpŚrīyajñaSātakarṇi">
 	    Gautamīputra Śrīyajña Sātakarṇi</persName>,
@@ -80,7 +80,7 @@
 	  caused ... to be made ... the great caitya ...
 	  the caitya at 
 	  <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName> ... 
-	</p>
+	</ab>
       </div>
     </body>
   </text>
