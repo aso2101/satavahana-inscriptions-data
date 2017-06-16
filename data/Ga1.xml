@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ga1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Gaṅgaperūru 1 (of Sudasagona?)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ga1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A broken octogonal stone <objectType>memorial pillar</objectType>; <dimensions unit="cm"><height>21.5</height><width>33.5</width></dimensions>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	    <handDesc>
+	      <p>Each letter measures about <dimensions unit="cm"><height>2.2</height><width>2.6</width></dimensions>.</p>
+	    </handDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Gaṅgaperūru">Gaṅgaperūru</placeName>.
+	      </origPlace>
+	      <origDate notBefore-custom="0100" notAfter-custom="0150" precision="medium" datingMethod="cal:gregorian">early 2nd c. CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered" when="1939">
+	      <p>Found in the ‘ancient habitation site in the village of Gangaperuru in the Siddhavattam Taluk of the Cuddappah District in 1939.’</p>
+	    </provenance>
+	    <provenance type="transferred" notBefore="1939">
+	      <p>Transferred to the local Śiva temple after 1939.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/Ga1-srinivasan1965-1966.jpg">
+      <desc>Photograph from <ref target="bibl:Srinivasan1965-1966">Srinivasan 1965–1966</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Srinivasan1965-1966"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Srinivasan1965-1966">Srinivasan 1965–1966</ref>, the translation is mine (AO).</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <gap reason="lost" unit="aksarapart" quantity="1"/>ura-ācariyanaṃ putasa
+	  <lb n="2"/>
+	  sudasa gonasa sivadāsa-go-gahane
+	  <lb n="3"/>
+	  sagāme saga-ga<supplied reason="lost">ta</supplied>sa chāya-kha<supplied reason="lost">bho</supplied>
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>The memorial pillar to Sudasagona (?), son of --ācārya,
+	    who died in battle during the cow-raid of Śivadāsa.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>
