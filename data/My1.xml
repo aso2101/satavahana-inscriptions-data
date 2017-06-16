@@ -22,8 +22,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Myākadoni">Myākadoni</placeName>.
-	      </origPlace>
+		<placeName type="modern" key="pl:Myākadoni">Myākadoni</placeName></origPlace>
 	      <origDate when-custom="0090" precision="low" datingMethod="cal:gregorian">ca. 90 CE</origDate>
 	    </origin>
 	  </history>

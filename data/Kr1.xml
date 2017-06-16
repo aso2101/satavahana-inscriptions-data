@@ -16,8 +16,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="ancient" key="pl:Karahākaṭaka">Karāḍh</placeName>.
-	      </origPlace>
+		<placeName type="ancient" key="pl:Karahākaṭaka">Karāḍh</placeName></origPlace>
 	      <origDate datingMethod="cal:gregorian"><!-- I don't have a date for these. !-->
 	      </origDate>
 	    </origin>

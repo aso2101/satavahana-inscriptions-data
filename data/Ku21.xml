@@ -18,8 +18,7 @@
 	      <origPlace>
 		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
 		on the back of a tank near 
-		<placeName type="modern" key="pl:Kuḍā-14">Cave No. 14</placeName>.
-	      </origPlace>
+		<placeName type="modern" key="pl:Kuḍā-14">Cave No. 14</placeName></origPlace>
 	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>

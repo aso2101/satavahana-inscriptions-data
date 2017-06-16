@@ -23,8 +23,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		Reported to have been found at <placeName key="pl:Sannati">Sannati</placeName>.
-	      </origPlace>
+		Reported to have been found at <placeName key="pl:Sannati">Sannati</placeName></origPlace>
 	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="paleography" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	    <provenance type="transferred" notAfter="1966">Transferred to the State Museum at <placeName key="pl:Gulbarga">Gulbarga</placeName>, where it is painted with the number “29.” This is its current location as of 2014.</provenance>

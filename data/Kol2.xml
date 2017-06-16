@@ -16,8 +16,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Kol">Kol</placeName>.
-	      </origPlace>
+		<placeName type="modern" key="pl:Kol">Kol</placeName></origPlace>
 	      <origDate datingMethod="cal:gregorian"><!-- I don't have a date for these. !-->
 	      </origDate>
 	    </origin>

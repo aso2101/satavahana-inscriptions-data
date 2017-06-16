@@ -27,8 +27,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Gaṅgaperūru">Gaṅgaperūru</placeName>.
-	      </origPlace>
+		<placeName key="pl:Gaṅgaperūru">Gaṅgaperūru</placeName></origPlace>
 	      <origDate notBefore-custom="0100" notAfter-custom="0150" precision="medium" datingMethod="cal:gregorian">early 2nd c. CE</origDate>
 	    </origin>
 	    <provenance type="found" subtype="discovered" when="1939">

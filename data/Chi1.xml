@@ -17,8 +17,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:China">China</placeName>.
-	      </origPlace>
+		<placeName type="modern" key="pl:China">China</placeName></origPlace>
 	      <origDate when-custom="0198" precision="low" datingMethod="cal:gregorian">ca. 198 CE</origDate>
 	    </origin>
 	  </history>

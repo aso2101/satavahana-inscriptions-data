@@ -37,8 +37,7 @@
 	  <history>
 	    <origin>
 	      <!-- <origPlace>
-		<placeName type="modern" key="pl:Penukoṇḍa">Penukoṇḍa</placeName>.
-	      </origPlace> !-->
+		<placeName type="modern" key="pl:Penukoṇḍa">Penukoṇḍa</placeName></origPlace> !-->
 	      <origDate notBefore-custom="0325" notAfter-custom="0375" precision="medium" datingMethod="cal:gregorian">middle of the 4th c.</origDate>
 	    </origin>
 	    <provenance type="found">

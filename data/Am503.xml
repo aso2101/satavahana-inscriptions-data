@@ -16,8 +16,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>.
-	      </origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName></origPlace>
 	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">ca. 2nd century CE</origDate>
 	    </origin>
 	  </history>

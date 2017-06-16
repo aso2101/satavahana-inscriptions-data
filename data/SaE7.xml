@@ -27,8 +27,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Sannati">Sannati</placeName>.
-	      </origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName></origPlace>
 	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian">1st c. BCE</origDate>
 	    </origin>
 	    <provenance type="found" subtype="discovered" notAfter="1993">

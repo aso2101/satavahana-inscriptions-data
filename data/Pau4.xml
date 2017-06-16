@@ -23,8 +23,7 @@
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Pauni">Pauni</placeName>,
-		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName>.
-	      </origPlace>
+		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName></origPlace>
 	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1st c. BCE</origDate>
 	    </origin>
 	  </history>

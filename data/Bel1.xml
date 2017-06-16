@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Belvadigi 1</title>
+	<title>Beḷvāḍigi 1</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -16,12 +16,11 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>An inscribed slab.</p>
-		  <dimension unit="cm">
+		  <p>An inscribed slab; <dimensions unit="cm">
 		    <height>94</height>
 		    <width>33</width>
 		    <depth>12</depth>
-		  </dimension>
+		  </dimensions>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
@@ -29,8 +28,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Beḷvāḍigi">Beḷvāḍigi</placeName>.
-	      </origPlace>
+		<placeName key="pl:Beḷvāḍigi">Beḷvāḍigi</placeName></origPlace>
 	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	    <provenance type="found" subtype="discovered" notAfter="1965">
@@ -42,7 +40,19 @@
 	</msDesc>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="images/Bel1-Ramesh1967.jpg">
+      <desc>Plate from <ref target="bibl:Ramesh1967">Ramesh 1967</ref>.</desc>
+    </graphic>
+  </facsimile>
   <text>
     <body>
       <div type="bibliography">
@@ -51,13 +61,13 @@
 	</bibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:Ramesh1967">Ramesh 1967</ref>.</p>
+	<p>This edition is based on <ref target="bibl:Ramesh1967">Ramesh 1967</ref>, with small changes by AO based on the accompanying plate.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Bel-Kalaka">kalakasa</persName>
-	  chayapa<unclear>paṭimā</unclear>
+	  cha<app><lem>yā</lem><rdg source="bibl:Ramesh1967">ya</rdg></app>pa<unclear>ṭimā</unclear>
 	</ab>
       </div>
       <div type="translation">

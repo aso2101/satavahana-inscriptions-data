@@ -20,8 +20,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
-	      </origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName></origPlace>
 	      <origDate notBefore-custom="0220" notAfter-custom="0230" precision="medium" datingMethod="cal:gregorian">ca. 220–230 CE</origDate>
 	    </origin>
 	  </history>

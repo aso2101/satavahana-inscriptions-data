@@ -480,50 +480,6 @@
     <residence><placeName key="pl:Nāsikya">Nāsikya</placeName></residence>
   </person>
 
-<!-- Kuḍā people !-->
-  <xi:include href="/db/apps/SAI-data/contextual/People/Kuḍā/Ku-Ahila.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Ayitilu.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Bhayilā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Dharmā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Goyammā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Hāla.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Kumāra.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Mahika.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Nāga.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Nandā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Puṣyā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Rāmadatta.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-pālitā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Ṛṣirakṣita.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Ṛṣirakṣita-2.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sarpā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sarpā-2.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sarpila.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivabhūti.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivadatta.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivadattā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivaghoṣa.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivama.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivama-2.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivapālita.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Śivapālitā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sivapirita.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Skandapālita.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Somadeva.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sudarśana.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sulasadatta.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sulasadattā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Sulasadatta-2.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Uttaradattā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Vadhuka.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Vasula.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Velīdatta.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Velīdattā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Vijayā.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Vijayā-2.xml"/>
-  <xi:include href="/db/apps/SAI-data/contextual/Persons/Kuḍā/Ku-Vijayanikā.xml"/>
-
-<!-- Sātavāhana Kings, Queens, etc. !-->
 
   <!-- Other Rulers !-->
   <person xml:id="Ayama" sex="M">

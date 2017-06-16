@@ -17,8 +17,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Candankhedā">Candankhedā</placeName>.
-	      </origPlace>
+		<placeName type="modern" key="pl:Candankhedā">Candankhedā</placeName></origPlace>
 	      <origDate notBefore-custom="-0100" notAfter-custom="-0075" precision="medium" datingMethod="cal:gregorian">early 1st c. BCE</origDate>
 	    </origin>
 	  </history>

@@ -13,17 +13,19 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>
-		<p>Inscribed on a basalt slab in front of the
-	      Madhukeśvara temple in Banavāsi.</p>
-	        <dimensions unit="feet">
-		  <width>4.8</width>
-		  <length>1.1</length>
-		  <depth>0.5</depth>
-		</dimensions>
-	      </support>
-	    </supportDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>Inscribed on a basalt slab in front of the
+		  Madhukeśvara temple in Banavāsi.</p>
+	          <dimensions unit="feet">
+		    <height>1.1</height>
+		    <width>4.8</width>
+		    <depth>0.5</depth>
+		  </dimensions>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
@@ -36,32 +38,39 @@
 	  </history>
 	</msDesc>
       </sourceDesc>
-      <profileDesc>
-      </profileDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <facsimile>
+    <graphic url="images/Ba1-narasimha_murthy_and_bhat_plate.jpg">
+      <desc>Photograph from <ref target="bibl:NarasimhaMurty1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>.</desc>
+    </graphic>
   </facsimile>
   <text>
     <body>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:NarasimhaMurthy1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>.</p>
+	<p>This edition is based on <ref target="bibl:NarasimhaMurthy1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>. I (AO) have lightly reedited it on the basis of the supplied plate.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  sidhaṃ
-	  <supplied reason="omitted">||</supplied>
+	  <app><lem>sidha</lem><rdg source="bibl:NarasimhaMurthy1975">sidhaṃ</rdg></app>
 	  raño 
 	  <persName key="pers:VpŚivaśrīPuḷumāvi">
 	    vāsiṭhīputasa sivasiri<lb n="2" break="no"/>puḷumāvisa
 	  </persName>
-	  mahādeviya chaā patharo
+	  mahādeviya <app><lem>chaa</lem><rdg source="bibl:NarasimhaMurthy1975">chaā</rdg></app>patharo
         </ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  Success! This is the memorial stone of the queen of 
+	  Success! This is the memorial stone of the Queen of 
 	  the king
 	  <persName key="pers:VpŚivaśrīPuḷumāvi">Vāsiṣṭhīputra
 	    Śivaśrī Puḷumāvi</persName>.

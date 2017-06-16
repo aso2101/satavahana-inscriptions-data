@@ -20,8 +20,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>.
-	      </origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName></origPlace>
 	      <origDate when-custom="120" cert="low" datingMethod="cal:gregorian">ca. 120 CE</origDate>
 	    </origin>
 	  </history>

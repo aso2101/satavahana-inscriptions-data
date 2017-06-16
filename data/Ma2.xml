@@ -16,8 +16,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Mahāḍ">Mahāḍ</placeName>.
-	      </origPlace>
+		<placeName type="modern" key="pl:Mahāḍ">Mahāḍ</placeName></origPlace>
 	      <origDate notBefore-custom="0150" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">late 2nd c. CE</origDate>
 	    </origin>
 	  </history>
