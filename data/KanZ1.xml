@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanZ1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli Z1 (of Saḍakiya)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanZ1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>A fragmentary limestone slab.</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+	        <placeName key="pl:Kanaganahalli">Kanaganahalli</placeName>
+	      </origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="0250" precision="medium" datingMethod="cal:gregorian">100 BCE to 250 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanZ1.jpg">
+      <desc>Photograph taken by Andrew Ollett in February 2017.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="eng">
+	<p>This is AO’s edition on the basis of autopsy and photographs; I do not believe this inscription is included in <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <placeName key="pl:Bhojakaṭa">bhojakaṭakasa</placeName> <persName key="pers:Kan-Saḍakiya">saḍakiyasa</persName> sa<gap reason="lost" quantity="unknown" unit="character"/>
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>Of <persName key="pers:Kan-Saḍakiya">Saḍakiya</persName> from <placeName key="pl:Bhojakaṭa">Bhojakaṭa</placeName>...</ab>
+      </div>
+    </body>
+  </text>
+</TEI>
