@@ -13,9 +13,11 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>A broken <material>limestone</material> slab with a relief sculpture on top.</support>
-	    </supportDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>A broken <material>limestone</material> slab with a relief sculpture on top.</support>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

@@ -13,11 +13,13 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>
-		<p>A limestone pillar, octogonal above and rectangular at the base.</p>
-	      </support>
-	    </supportDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A limestone <objectType>pillar</objectType>, octogonal above and rectangular at the base.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

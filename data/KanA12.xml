@@ -13,9 +13,11 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+	    <objectDesc>
+	      <supportDesc>
 	      <support>“On two sides of an octogonal pillar once supporting an umbrella” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

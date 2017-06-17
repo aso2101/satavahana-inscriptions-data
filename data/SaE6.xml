@@ -13,9 +13,11 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+            <objectDesc>
+	      <supportDesc>
 	      <support>A fragment.</support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

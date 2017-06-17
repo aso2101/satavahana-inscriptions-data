@@ -16,12 +16,12 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>A limestone slab with a hemispherical top.</p>
-		  <dimension unit="cm">
+		  <p>A limestone slab with a hemispherical top;
+		  <dimensions unit="cm">
 		    <height>94</height>
 		    <width>33</width>
 		    <depth>12</depth>
-		  </dimension>
+		  </dimensions>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>

@@ -16,12 +16,12 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>Fragment of a broken slab.</p>
-		  <dimension unit="cm">
+		  <p>Fragment of a broken slab; 
+		  <dimensions unit="cm">
 		    <height>31</height>
 		    <width>2</width>
 		    <depth>11</depth>
-		  </dimension>
+		  </dimensions>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>

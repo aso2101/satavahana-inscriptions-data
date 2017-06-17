@@ -13,9 +13,11 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>A fragmentary slab.</support>
+            <objectDesc>
+	      <supportDesc>
+		<support>A fragmentary slab.</support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

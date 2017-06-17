@@ -13,12 +13,14 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+	    <objectDesc>
+	      <supportDesc>
 	      <support>A memorial stone with three caitya arches on top, along with a scene of three persons in the lower panel with two attendants in the background (the one on the left carrying a chalice, and the one on the right carrying a fan).</support>
 	    </supportDesc>
 	    <layoutDesc>
 	      <layout>The inscriptions are on the top left, top right, and bottom center of the main (lower) panel.</layout>
 	    </layoutDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
@@ -66,7 +68,7 @@
 	  <ab><lb n="1"/><app><lem resp="#AO">bho</lem><rdg source="#Sarma1993">ce</rdg></app>jakasa <persName key="pers:Sa-Mugarakoṇha">mu<app><lem source="#ARIE1966">ga</lem><rdg source="#Sarma1993">gu</rdg></app>rakoṇhasa</persName></ab>
 	</div>
 	<div type="textpart" n="b">
-	  <ab><lb n="1"/>bhoji<app><lem source="#ARIE1966">ki</lem><rdg source="#Sarma1993"/></app>niya <persName key="pers:Sa-Kāmā"><app><lem source="#Sarma1993">kā</lem><rdg souce="#ARIE1966">kaṃ</rdg></app>māya</persName></ab>
+	  <ab><lb n="1"/>bhoji<app><lem source="#ARIE1966">ki</lem><rdg source="#Sarma1993"/></app>niya <persName key="pers:Sa-Kāmā"><app><lem source="#Sarma1993">kā</lem><rdg source="#ARIE1966">kaṃ</rdg></app>māya</persName></ab>
 	</div>
 	<div type="textpart" n="c">
 	  <ab><lb n="1"/><app><lem source="#Sarma1993">lekhaka</lem><rdg source="#Sarma1993">lekha<unclear>ka</unclear></rdg><rdg source="#ARIE1966">lodha<unclear>ka</unclear></rdg></app>putasa <persName key="pers:Sa-Kaṇhakoṭava"><app><lem resp="#AO">ka</lem><rdg source="#Sarma1993 #ARIE1966">na</rdg></app>ṇhakoṭavasa</persName></ab>

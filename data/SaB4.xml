@@ -13,9 +13,11 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+	    <objectDesc>
+	      <supportDesc>
 	      <support>A roughly dressed <material>limestone</material> <objectType>slab</objectType>.</support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

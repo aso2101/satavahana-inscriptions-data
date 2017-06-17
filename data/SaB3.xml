@@ -13,13 +13,15 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>A <material>limestone</material> <objectType>slab</objectType>, measuring <dimensions unit="centimeter">
+	    <objectDesc>
+	      <supportDesc>
+		<support>A <material>limestone</material> <objectType>slab</objectType>, measuring <dimensions unit="centimeter">
 	        <width>51</width>
 		<depth>19</depth>
 		<height>30</height></dimensions>
 		cm.</support>
-	    </supportDesc>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

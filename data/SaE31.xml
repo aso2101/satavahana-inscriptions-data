@@ -13,11 +13,13 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+            <objectDesc>
+	      <supportDesc>
 	      <support>
 		<p>A broken sculptured panel.</p>
 	      </support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

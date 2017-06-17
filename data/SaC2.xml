@@ -16,12 +16,12 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>A broken slab with a pillared mansion.</p>
-		  <dimension unit="cm">
+		  <p>A broken slab with a pillared mansion; 
+		  <dimensions unit="cm">
 		    <height>58</height>
 		    <width>47</width>
 		    <depth>15</depth>
-		  </dimension>
+		  </dimensions>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>

@@ -28,15 +28,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>; the translation is by Andrew Ollett.</p>
+      </div>
       <div type="edition" xml:lang="pra-Latn">
-	<div type="commentary" xml:lang="eng">
-	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>; the translation is by Andrew Ollett.</p>
-	</div>
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  siddhaṃ raño
 	  <persName key="pers:VpŚrīSātakarṇi">
@@ -48,16 +46,16 @@
 	  antevāsinīya bhikuṇīyā
 	  <lb n="3"/>
 	  yakhiyāya<gap reason="lost" extent="unknown" unit="character"/>
-	</p>
+	</ab>
       </div>
       <div type="translation">
-	<p>
+	<ab>
 	Success! (During the rule of) 
 	<persName key="pers:VpŚrīSātakarṇi">Vāsiṣṭhīputra
 	Śrī Sāta(karṇi)</persName>, a nun internee named 
 	<persName key="pers:Nāgabuddhī">Nāgabuddhī</persName>
 	caused ... a yakṣa ...
-	</p>
+	</ab>
       </div>
     </body>
   </text>

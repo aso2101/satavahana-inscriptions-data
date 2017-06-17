@@ -18,12 +18,12 @@
 		<support>
 		  <p>Fragment of a sculptured slab. Two panels
 		     partly preserved; the top depicts a caitya window,
-		     and the bottom, two human busts.</p>
-		  <dimension unit="cm">
+		     and the bottom, two human busts. Dimensions:
+		  <dimensions unit="cm">
 		    <height>44</height>
 		    <width>48</width>
 		    <depth>11</depth>
-		  </dimension>
+		  </dimensions>.</p>
 		</support>
 	      </supportDesc>
 	      <layoutDesc>

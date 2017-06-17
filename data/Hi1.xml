@@ -13,9 +13,11 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+	    <objectDesc>
+	      <supportDesc>
 	      <support>A sculpted <material>limestone</material> memorial slab.</support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

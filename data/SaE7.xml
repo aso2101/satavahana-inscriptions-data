@@ -13,7 +13,8 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+            <objectDesc>
+	      <supportDesc>
 	      <support>
 		<p>A rectangular slab.</p>
 	        <dimensions unit="cm">
@@ -23,6 +24,7 @@
 		</dimensions>
 	      </support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

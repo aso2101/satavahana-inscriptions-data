@@ -13,11 +13,13 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>Limestone slab, 1.55m x 0.83m x 0.32m. The
-	      inscription is at the lower broad border of a sculptured
-	      stele, in two lines.</support>
-	    </supportDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>Limestone slab, 1.55m x 0.83m x 0.32m. The
+		inscription is at the lower broad border of a sculptured
+		stele, in two lines.</support>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
@@ -34,8 +36,6 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
@@ -44,7 +44,7 @@
 	  <citedRange>A.1</citedRange>
 	</bibl>
       </div>
-      <div type="notes" xml:lang="eng">
+      <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>; the translation is by Andrew Ollett.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">

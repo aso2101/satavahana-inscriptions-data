@@ -13,11 +13,13 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+	    <objectDesc>
+	      <supportDesc>
 	      <support>
 		<p>The wall of a well.</p>
 	      </support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

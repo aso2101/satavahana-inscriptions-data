@@ -13,7 +13,8 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
+            <objectDesc>
+	      <supportDesc>
 	      <support>
 		<p>Fragment of a limestone slab. The sides are incised
 		   with the design of pillars.</p>
@@ -24,6 +25,7 @@
 		</dimensions>
 	      </support>
 	    </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

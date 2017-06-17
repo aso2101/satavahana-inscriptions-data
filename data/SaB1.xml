@@ -13,17 +13,19 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>A <material>limestone</material> <objectType>slab</objectType>, 
+	    <objectDesc>
+	      <supportDesc>
+		<support>A <material>limestone</material> <objectType>slab</objectType>, 
 	      <dimensions unit="centimeter">
 	        <depth>7</depth>
 		<width>20</width>
 		<height>58</height>
-	      </dimensions> cm. The upper panel has a seated couple flanked by two female attendants, and the lower panel, an unridden horse with an attendant and someone carrying a royal umbrella.</support>
-	    </supportDesc>
-	    <layoutDesc>
-	      <layout>Inscribed on flat surface just above the lower register.</layout>
-	    </layoutDesc>
+		</dimensions> cm. The upper panel has a seated couple flanked by two female attendants, and the lower panel, an unridden horse with an attendant and someone carrying a royal umbrella.</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>Inscribed on flat surface just above the lower register.</layout>
+	      </layoutDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

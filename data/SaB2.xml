@@ -13,12 +13,14 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>A <material>limestone</material> <objectType>slab</objectType>, containing a relief of a woman seated on a stool, surrounded by two standing female attendants. The attendant on the left holds a chalice, and the one on the right holds a fan.</support>
-	    </supportDesc>
-	    <layoutDesc>
-	      <layout>Inscribed on flat surface just above the relief.</layout>
-	    </layoutDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>A <material>limestone</material> <objectType>slab</objectType>, containing a relief of a woman seated on a stool, surrounded by two standing female attendants. The attendant on the left holds a chalice, and the one on the right holds a fan.</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>Inscribed on flat surface just above the relief.</layout>
+	      </layoutDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>

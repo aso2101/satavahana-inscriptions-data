@@ -13,10 +13,12 @@
 	<msDesc>
 	  <msIdentifier/>
 	  <physDesc>
-	    <supportDesc>
-	      <support>An inscribed limestone slab 
+	    <objectDesc>
+	      <supportDesc>
+		<support>An inscribed limestone slab 
 	      measuring 46x35x17 cm.</support>
-	    </supportDesc>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
@@ -32,43 +34,39 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
       <div type="edition" xml:lang="pra-Latn">
-	<div type="commentary" xml:lang="eng">
-	  <p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<div type="textpart" subtype="face" n="1">
+	  <ab>
+	    <lb n="1"/>
+	    <persName key="pers:VpŚivaśrīPuḷumāvi">
+	      <supplied reason="lost">vāsiṭhī</supplied>puto 
+	    śivasiri puḍu<unclear>ma</unclear></persName>
+	    <lb n="2"/>
+	    <gap reason="lost" extent="unknown" unit="character"/>
+	    <unclear>na</unclear>su kinādikesu kadamūla<gap reason="lost" extent="unknown" unit="character"/>
+	    <lb n="3"/>
+	    <gap reason="lost" extent="unknown" unit="character"/>
+	    yayatelasa
+	    h	      <lb n="4"/>
+	    <gap reason="lost" extent="unknown" unit="character"/>
+	    tapānakaretenam navasi
+	  </ab>
 	</div>
-	<p>
-	  <div type="textpart" subtype="face" n="1">
-	    <ab>
-	      <lb n="1"/>
-	      <persName key="pers:VpŚivaśrīPuḷumāvi">
-		<supplied reason="lost">vāsiṭhī</supplied>puto 
-	        śivasiri puḍu<unclear>ma</unclear></persName>
-	      <lb n="2"/>
-	      <gap reason="lost" extent="unknown" unit="character"/>
-	      <unclear>na</unclear>su kinādikesu kadamūla<gap reason="lost" extent="unknown" unit="character"/>
-	      <lb n="3"/>
-	      <gap reason="lost" extent="unknown" unit="character"/>
-	      yayatelasa
-h	      <lb n="4"/>
-	      <gap reason="lost" extent="unknown" unit="character"/>
-	      tapānakaretenam navasi
-	    </ab>
-	  </div>
-	  <div type="textpart" subtype="face" n="2">
-	    <ab>
-	      <lb n="5"/>
-	      <gap reason="lost" extent="unknown" unit="character"/>
-	      atāpasanevānavasitavadāranā<unclear>la</unclear>
-	      <lb n="6"/>
-	      <gap reason="lost" extent="unknown" unit="character"/>
-	      tavosudhāvāsikenachakaratiparivuthe
-	    </ab>
-	  </div>
-	</p>
+	<div type="textpart" subtype="face" n="2">
+	  <ab>
+	    <lb n="5"/>
+	    <gap reason="lost" extent="unknown" unit="character"/>
+	    atāpasanevānavasitavadāranā<unclear>la</unclear>
+	    <lb n="6"/>
+	    <gap reason="lost" extent="unknown" unit="character"/>
+	    tavosudhāvāsikenachakaratiparivuthe
+	  </ab>
+	</div>
       </div>
       <div type="translation">
 	<p>

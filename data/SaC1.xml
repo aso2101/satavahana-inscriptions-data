@@ -20,12 +20,12 @@
 		     within a bordered panel with two attendants 
 		     behind. The left side figure holds up a vase and
 		     casket in both his hands, and on the right side 
-		     is a chauri bearer.</p>
-		  <dimension unit="cm">
+		     is a chauri bearer. Dimensions:
+		  <dimensions unit="cm">
 		    <height>50</height>
 		    <width>32</width>
 		    <depth>15</depth>
-		  </dimension>
+		  </dimensions>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
