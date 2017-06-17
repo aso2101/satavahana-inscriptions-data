@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="Sa-Somaghosanikā">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,11 +32,9 @@
   </teiHeader>
   <text>
     <body>
-      <person 
-	  xmlns="http://www.tei-c.org/ns/1.0"
-	  xml:id="Sa-Somaghosanikā">
+      <person>
 	<sex value="F"/>
-	<persName>Somaghosanikā</persName>
+	<persName xml:lang="pra-Latn">Somaghosanikā</persName>
       </person>
     </body>
   </text>
