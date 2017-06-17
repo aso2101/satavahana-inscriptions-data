@@ -59,7 +59,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>dhamakadhikasa
+	  <gap reason="lost" extent="unknown" unit="character"/>dhamakadhikasa
 	  <persName key="pers:Kan-Nāgaśrī">n<unclear>ā</unclear>gas<unclear>i</unclear>r<unclear>i</unclear>sa</persName> <unclear>d</unclear><supplied reason="lost">eja</supplied><unclear>dha</unclear>ma | saha <unclear>bh</unclear><supplied reason="lost">ā</supplied><unclear>t</unclear>unā <persName key="pers:Kan-Nāgabuddhi">nāgabudhinā</persName>
 	</ab>
       </div>

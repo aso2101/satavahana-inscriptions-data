@@ -58,7 +58,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  pavay<supplied reason="lost">i</supplied>tasa <gap reason="lost" quantity="unknown" unit="character"/>
+	  pavay<supplied reason="lost">i</supplied>tasa <gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

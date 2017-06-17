@@ -44,7 +44,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <persName key="pers:Am-Gopriyā">gopiyāsa</persName> manu de<gap reason="lost" unit="character" quantity="unknown"/>
+	    <persName key="pers:Am-Gopriyā">gopiyāsa</persName> manu de<gap reason="lost" unit="character" extent="unknown"/>
         </ab>
       </div>
       <div type="translation" xml:lang="eng">

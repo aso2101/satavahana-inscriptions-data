@@ -44,7 +44,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/><persName key="pers:Am-Harela"><unclear>ha</unclear>rela</persName>pu<unclear>tasa</unclear>
+	    <gap reason="lost" extent="unknown" unit="character"/><persName key="pers:Am-Harela"><unclear>ha</unclear>rela</persName>pu<unclear>tasa</unclear>
 	    <unclear>su</unclear>ci
         </ab>
       </div>

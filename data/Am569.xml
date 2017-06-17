@@ -42,7 +42,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/>gasa suci
+	    <gap reason="lost" extent="unknown" unit="character"/>gasa suci
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

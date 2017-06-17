@@ -67,9 +67,9 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" unit="character" quantity="unknown"/><persName key="pers:Sa-Samalokikā">samalokikāya</persName>
+	  <gap reason="lost" unit="character" extent="unknown"/><persName key="pers:Sa-Samalokikā">samalokikāya</persName>
 	  <lb n="2"/>
-	  <gap reason="lost" unit="character" quantity="unknown"/><persName key="pers:Sa-Brāhmī">bamhiya</persName>
+	  <gap reason="lost" unit="character" extent="unknown"/><persName key="pers:Sa-Brāhmī">bamhiya</persName>
 	</ab>
       </div>
       <div type="translation">

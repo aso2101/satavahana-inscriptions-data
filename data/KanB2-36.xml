@@ -58,7 +58,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  himalaya <persName key="pers:Kan-Aśvabhūti">asabh<unclear>ū</unclear>t<unclear>i</unclear>n<unclear>o</unclear></persName> m<unclear>ā</unclear>t<unclear>ū</unclear><unclear>y</unclear><gap reason="lost" quantity="unknown" unit="character"/>
+	  himalaya <persName key="pers:Kan-Aśvabhūti">asabh<unclear>ū</unclear>t<unclear>i</unclear>n<unclear>o</unclear></persName> m<unclear>ā</unclear>t<unclear>ū</unclear><unclear>y</unclear><gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

@@ -58,8 +58,8 @@
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
-	  <lb n="1"/><gap reason="lost" quantity="unknown" unit="character"/>valiyatayānaṃ aṃtevāsi<app><lem source="#ARIE1968">ni</lem><rdg source="#Sarma1993">nī</rdg></app>ya
-	  <lb n="2"/><gap reason="lost" quantity="unknown" unit="character"/><app><lem source="#ARIE1968">ṭi</lem><rdg source="#Sarma1993">ti</rdg></app>kāya piyako deya<gap reason="lost" quantity="2" unit="character"/>
+	  <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>valiyatayānaṃ aṃtevāsi<app><lem source="#ARIE1968">ni</lem><rdg source="#Sarma1993">nī</rdg></app>ya
+	  <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><app><lem source="#ARIE1968">ṭi</lem><rdg source="#Sarma1993">ti</rdg></app>kāya piyako deya<gap reason="lost" quantity="2" unit="character"/>
 	</ab>
       </div>
       <div type="translation">

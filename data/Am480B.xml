@@ -42,7 +42,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="5" unit="character"/>ratikasa nekhavanasa<gap reason="lost" quantity="unknown" unit="character"/>
+	    <gap reason="lost" quantity="5" unit="character"/>ratikasa nekhavanasa<gap reason="lost" extent="unknown" unit="character"/>
 	  <lb n="2"/>
 	    <gap reason="lost" quantity="4" unit="character"/>cide<gap reason="lost" quantity="4" unit="character"/>ka
 	</ab>

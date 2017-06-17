@@ -58,7 +58,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>dh<gap reason="lost" quantity="1" unit="character"/>sa upaṭhāyakasa aya <persName key="pers:Kan-Buddharakṣita">budharakhitasa</persName> sapuphagahanika dā<supplied reason="lost">na</supplied>
+	  <gap reason="lost" extent="unknown" unit="character"/>dh<gap reason="lost" quantity="1" unit="character"/>sa upaṭhāyakasa aya <persName key="pers:Kan-Buddharakṣita">budharakhitasa</persName> sapuphagahanika dā<supplied reason="lost">na</supplied>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

@@ -54,7 +54,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>sa dāna
+	  <gap reason="lost" extent="unknown" unit="character"/>sa dāna
 	  <g type="śrīvatsa"/>
 	</ab>
       </div>

@@ -44,11 +44,11 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/>ka sabhariyāya <persName key="pers:Am-Cakradattā">caka<unclear>data</unclear>ya</persName> sapitukāya
+	    <gap reason="lost" extent="unknown" unit="character"/>ka sabhariyāya <persName key="pers:Am-Cakradattā">caka<unclear>data</unclear>ya</persName> sapitukāya
 	  <lb n="2"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/>ha<unclear>ya</unclear> sanātimitabadhavehi deyadhama
+	    <gap reason="lost" extent="unknown" unit="character"/>ha<unclear>ya</unclear> sanātimitabadhavehi deyadhama
 	  <lb n="3"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/>patiṭhapita soṭhikapaṭo abātamālā ca
+	    <gap reason="lost" extent="unknown" unit="character"/>patiṭhapita soṭhikapaṭo abātamālā ca
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

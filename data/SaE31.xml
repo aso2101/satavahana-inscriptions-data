@@ -63,7 +63,7 @@
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
-	  <lb n="1"/>araka<gap reason="lost" quantity="unknown" unit="character"/>
+	  <lb n="1"/>araka<gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation">

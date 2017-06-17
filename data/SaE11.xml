@@ -65,7 +65,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" unit="character" quantity="unknown"/>māya
+	  <gap reason="lost" unit="character" extent="unknown"/>māya
 	</ab>
       </div>
       <div type="translation">

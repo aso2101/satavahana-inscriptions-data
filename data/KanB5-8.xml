@@ -59,9 +59,9 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>
 	  <lb n="2"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>satikena <persName key="pers:Kan-Mahāsenadatta">mahāsenadatena</persName> <persName key="pers:Kan-Kumāradatta">k<supplied reason="lost">u</supplied>māradatena</persName> <persName key="pers:Kan-Bodhikā"><unclear>bodhi</unclear>kāya</persName> <persName key="pers:Kan-Vīranikā">v<supplied reason="lost">i</supplied>ranik<supplied reason="lost">āya</supplied></persName>
+	  <gap reason="lost" extent="unknown" unit="character"/>satikena <persName key="pers:Kan-Mahāsenadatta">mahāsenadatena</persName> <persName key="pers:Kan-Kumāradatta">k<supplied reason="lost">u</supplied>māradatena</persName> <persName key="pers:Kan-Bodhikā"><unclear>bodhi</unclear>kāya</persName> <persName key="pers:Kan-Vīranikā">v<supplied reason="lost">i</supplied>ranik<supplied reason="lost">āya</supplied></persName>
 	  <lb n="3"/>
 	  savalokahitas<supplied reason="lost">ughāya</supplied>
 	</ab>

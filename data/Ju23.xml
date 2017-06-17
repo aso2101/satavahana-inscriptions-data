@@ -45,11 +45,11 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    sidhaṃ upāsakasa negama<gap reason="lost" quantity="unknown" unit="character"/>
+	    sidhaṃ upāsakasa negama<gap reason="lost" extent="unknown" unit="character"/>
 	  <lb n="2"/>
-	    satamalaputasa<gap reason="lost" quantity="unknown" unit="character"/>
+	    satamalaputasa<gap reason="lost" extent="unknown" unit="character"/>
 	  <lb n="3"/>
-	    <gap reason="lost" quantity="2" unit="character" precision="low"/>puta virabhuti<gap reason="lost" quantity="unknown" unit="character"/>
+	    <gap reason="lost" quantity="2" unit="character" precision="low"/>puta virabhuti<gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
     </body>

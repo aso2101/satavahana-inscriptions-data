@@ -44,7 +44,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/><persName key="pers:Am-Utika">utikasa</persName>
+	    <gap reason="lost" extent="unknown" unit="character"/><persName key="pers:Am-Utika">utikasa</persName>
 	    mātu <persName key="pers:Am-Kuṃbā">kuṃbāyā</persName> sūci
         </ab>
       </div>

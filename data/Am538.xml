@@ -44,7 +44,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/>sa 
+	    <gap reason="lost" extent="unknown" unit="character"/>sa 
 	    tulakicasa
 	    gahapatisa <persName key="pers:Am-Kubula">kubulasa</persName>
 	    putasa <persName key="pers:Am-Budhi">budhino</persName>

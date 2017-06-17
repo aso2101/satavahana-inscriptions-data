@@ -56,10 +56,10 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <persName key="pers:Tulabhūta"><app><lem source="#Sarma1993"><gap reason="lost" quantity="unknown" unit="character"/><unclear>tu</unclear></lem><rdg source="#NagarajaRao1985"><gap reason="lost" quantity="unknown" unit="character"/></rdg></app>la<app><lem source="#Sarma1993">bhūta</lem><rdg source="#NagarajaRao1985">bhātu</rdg></app>sa</persName>
+	  <persName key="pers:Tulabhūta"><app><lem source="#Sarma1993"><gap reason="lost" extent="unknown" unit="character"/><unclear>tu</unclear></lem><rdg source="#NagarajaRao1985"><gap reason="lost" extent="unknown" unit="character"/></rdg></app>la<app><lem source="#Sarma1993">bhūta</lem><rdg source="#NagarajaRao1985">bhātu</rdg></app>sa</persName>
 	  <app><lem source="#Sarma1993">putasa ya</lem><rdg source="#NagarajaRao1985">atisayāya</rdg></app>
 	  <app><lem source="#Sarma1993">chatha</lem><rdg source="#NagarajaRao1985">chāya</rdg></app>
-	  <app><lem source="#Sarma1993">kha<gap reason="lost" quantity="unknown" unit="character"/></lem><rdg source="#NagarajaRao1985"><unclear>padima</unclear></rdg></app>
+	  <app><lem source="#Sarma1993">kha<gap reason="lost" extent="unknown" unit="character"/></lem><rdg source="#NagarajaRao1985"><unclear>padima</unclear></rdg></app>
 	</ab>
       </div>
       <div type="translation">

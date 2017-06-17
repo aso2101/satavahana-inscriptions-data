@@ -54,7 +54,7 @@
 	  <lb n="2"/>
 	    <g type="triratna"/> <persName key="pers:Buddhī">budhi</persName> 
 	    gahapati putasa 
-	    <persName key="pers:Candra">caṃda</persName><gap reason="lost" unit="character" quantity="unknown"/>
+	    <persName key="pers:Candra">caṃda</persName><gap reason="lost" unit="character" extent="unknown"/>
         </ab>
       </div>
       <div type="translation" xml:lang="eng">

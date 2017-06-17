@@ -60,7 +60,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  s<unclear>i</unclear>dham || dhamakadhikasa <persName key="pers:Kan-Nāgaśrī">nāgas<unclear>i</unclear>sa</persName> de<unclear>ja</unclear>dhama sa<supplied reason="lost">ha</supplied><gap reason="lost" quantity="unknown" unit="character"/>
+	  s<unclear>i</unclear>dham || dhamakadhikasa <persName key="pers:Kan-Nāgaśrī">nāgas<unclear>i</unclear>sa</persName> de<unclear>ja</unclear>dhama sa<supplied reason="lost">ha</supplied><gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

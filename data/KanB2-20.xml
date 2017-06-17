@@ -55,7 +55,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  dhamakadhika<unclear>sa</unclear> <unclear>aya</unclear><supplied reason="lost">sa</supplied> <persName key="pers:Kan-Kṛṣṇa-"><unclear>kanha</unclear><gap reason="lost" quantity="unknown" unit="character"/></persName><gap reason="lost" quantity="unknown" unit="character"/>
+	  dhamakadhika<unclear>sa</unclear> <unclear>aya</unclear><supplied reason="lost">sa</supplied> <persName key="pers:Kan-Kṛṣṇa-"><unclear>kanha</unclear><gap reason="lost" extent="unknown" unit="character"/></persName><gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

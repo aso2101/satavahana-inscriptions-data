@@ -59,7 +59,7 @@
 	<ab>
 	  <lb n="1"/>
 	  <gap reason="lost"
-	       quantity="unknown"
+	       extent="unknown"
 	       unit="character"/><persName key="pers:Kan-Samā">samāya</persName>
 	  puphagahani dāna
 	</ab>

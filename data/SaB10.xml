@@ -51,7 +51,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>
 	  <unclear>yā</unclear>macasa 
 	  <persName key="pers:Sa-Siṃhadhara"><app><lem source="#Sarma1993">si</lem><rdg source="#ARIE1966">sī</rdg></app>hadharasa</persName>
 	</ab>

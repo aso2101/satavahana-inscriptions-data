@@ -56,7 +56,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>ya 
+	  <gap reason="lost" extent="unknown" unit="character"/>ya 
 	  <persName key="pers:Pau-Viśvamitrā">visamitāya</persName> 
 	  dana sukhāya hotu sava<app><lem source="#Deo1972">sa</lem><rdg source="#Kolte1969">sā</rdg></app>tāna
 	</ab>

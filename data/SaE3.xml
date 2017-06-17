@@ -60,7 +60,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" unit="character" quantity="unknown"/>akhapaṭali<app><lem source="#ARIE1968">ka<unclear>sa</unclear></lem><rdg source="#NagarajaRao1985">ka</rdg><rdg source="#Sarma1993">kā</rdg></app>
+	  <gap reason="lost" unit="character" extent="unknown"/>akhapaṭali<app><lem source="#ARIE1968">ka<unclear>sa</unclear></lem><rdg source="#NagarajaRao1985">ka</rdg><rdg source="#Sarma1993">kā</rdg></app>
 	</ab>
       </div>
       <div type="translation">

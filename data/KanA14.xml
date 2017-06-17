@@ -57,7 +57,7 @@
 	    quantity="3"/></lem><rdg source="#Poonacha2013">10</rdg></app></date>
 	    d<unclear>i</unclear>va <app><lem source="#MNOVH2014"><unclear>10</unclear> 5</lem><rdg source="#Poonacha2013">15</rdg></app>
 	    <app><lem source="#MNOVH2014"><unclear>sā</unclear>dakapavatakasa <unclear>dhava</unclear><gap reason="lost"
-	      quantity="unknown"
+	      extent="unknown"
 	      unit="character"/></lem><rdg source="#Poonacha2013">ka pavatakasa</rdg></app>
 	  <lb n="2"/>
 	    <unclear>de</unclear>va <app><lem source="#MNOVH2014">vāṇija</lem><rdg source="#Poonacha2013">vanija</rdg></app>putasa
@@ -65,7 +65,7 @@
 	    <persName key="pers:Kan-Kṛṣṇaśrī"><app><lem source="#MNOVH2014">kanḥa</lem><rdg source="#Poonacha2013">kanha</rdg></app>sirisa</persName>
 	    samāt<unclear>u</unclear>kasa <app><lem source="#MNOVH2014">sa<supplied reason="lost">bhā</supplied><unclear>tu</unclear>kasa</lem><rdg source="#Poonacha2013">sapitukasa</rdg></app> saputakasa <app><lem source="#MNOVH2014">deja</lem><rdg source="#Poonacha2013">deya</rdg></app>dhama <unclear>ce</unclear>ti<unclear>ya</unclear><app><lem source="#MNOVH2014">paṭo</lem><rdg source="#Poonacha2013">paṭa</rdg></app>
 	    sava<unclear>l</unclear><app><lem source="#Poonacha2013"><supplied reason="lost">okahitasukhāya</supplied></lem><rdg
-	      source="#MNOVH2014">oka<gap reason="lost" quantity="unknown" unit="character"/></rdg></app>
+	      source="#MNOVH2014">oka<gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 	</ab>
       </div>
     </body>

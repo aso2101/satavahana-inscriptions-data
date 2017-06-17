@@ -76,7 +76,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <app><lem source="#Sarma1993">siri</lem><rdg source="#ARIE1966 #Seshadri1972 #NagarajaRao1985"><gap reason="lost" quantity="unknown" unit="character"/></rdg></app>
+	  <app><lem source="#Sarma1993">siri</lem><rdg source="#ARIE1966 #Seshadri1972 #NagarajaRao1985"><gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 	   <gap reason="lost" quantity="3" unit="character"/><app><lem source="#Seshadri1972 #Sarma1993">mi</lem><rdg source="#ARIE1966 #NagarajaRao1985"><unclear>mī</unclear></rdg></app>putasa 
 	  hathilasa 
 	  <app><lem source="#ARIE1966">nā</lem><rdg source="#NagarajaRao1985 #Sarma1993">na</rdg></app>ṭikāya
@@ -85,7 +85,7 @@
 	  <app><lem source="#ARIE1966 #Sarma1993">pā</lem><rdg source="#NagarajaRao1985">pa</rdg></app>kārayatiyāya 
 	  govi<app><lem resp="#AO">da</lem><rdg source="#Sarma1993">nda</rdg><rdg source="#ARIE1966 #NagarajaRao1985">dā</rdg></app>siya
 	  <lb n="2"/>
-	  <app><lem resp="#AO"><unclear>nāṭ</unclear>i</lem><rdg source="#Sarma1993">naṭi</rdg><rdg source="#ARIE1966 #NagarajaRao1985"><gap reason="lost" quantity="unknown" unit="character"/>i</rdg></app>kāya 
+	  <app><lem resp="#AO"><unclear>nāṭ</unclear>i</lem><rdg source="#Sarma1993">naṭi</rdg><rdg source="#ARIE1966 #NagarajaRao1985"><gap reason="lost" extent="unknown" unit="character"/>i</rdg></app>kāya 
 	  naḍiya<app><lem source="#ARIE1966">gū</lem><rdg source="#NagarajaRao1985 #Sarma1993">gu</rdg></app>ḍaputī<app><lem source="#ARIE1966 #NagarajaRao1985">yā</lem><rdg source="#Sarma1993">ya</rdg></app>a
 	  <app><lem source="#Sarma1993">a</lem><rdg source="#ARIE1966 #NagarajaRao1985">ā</rdg></app>ya<app><lem source="#NagarajaRao1985">dasi</lem><rdg source="#ARIE1966">dāsi</rdg><rdg source="#Sarma1993">dāsī</rdg></app><app><lem source="#ARIE1966 #NagarajaRao1985">ya</lem><rdg source="#Sarma1993">yaṃ</rdg></app>
 	  <app><lem source="#ARIE1966 #NagarajaRao1985">na</lem><rdg source="#Sarma1993">nā</rdg></app>ḍiya-<app><lem resp="#AO">vaḍu</lem><rdg source="#ARIE1966 #NagarajaRao1985">vāḷu</rdg><rdg source="#Sarma1993">vālu</rdg><rdg source="#Seshadri1972">vādu</rdg></app>kiyāya

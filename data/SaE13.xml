@@ -58,7 +58,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>rakhitasa
+	  <gap reason="lost" extent="unknown" unit="character"/>rakhitasa
 	</ab>
       </div>
       <div type="translation">

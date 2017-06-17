@@ -44,9 +44,9 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/>bhar<unclear>a</unclear><gap reason="lost" quantity="unknown" unit="character"/>
+	    <gap reason="lost" extent="unknown" unit="character"/>bhar<unclear>a</unclear><gap reason="lost" extent="unknown" unit="character"/>
 	  <lb n="2"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/>kumāri <persName key="pers:Am-Caṃpura">siricaṃpura</persName><gap reason="lost" quantity="unknown" unit="character"/>
+	    <gap reason="lost" extent="unknown" unit="character"/>kumāri <persName key="pers:Am-Caṃpura">siricaṃpura</persName><gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

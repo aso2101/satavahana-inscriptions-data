@@ -56,8 +56,8 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>ṇha
-	  ghā<app><lem source="#Sarma1993">lā</lem><rdg source="#NagarajaRao1985">li</rdg></app><app><lem source="#Sarma1993">vāsakha</lem><rdg source="#NagarajaRao1985">viśākha</rdg></app>ra<app><lem resp="#AO"><unclear>meja</unclear></lem><rdg source="#Sarma1993 #NagarajaRao1985"><gap reason="lost" quantity="unknown" unit="character"/></rdg></app>
+	  <gap reason="lost" extent="unknown" unit="character"/>ṇha
+	  ghā<app><lem source="#Sarma1993">lā</lem><rdg source="#NagarajaRao1985">li</rdg></app><app><lem source="#Sarma1993">vāsakha</lem><rdg source="#NagarajaRao1985">viśākha</rdg></app>ra<app><lem resp="#AO"><unclear>meja</unclear></lem><rdg source="#Sarma1993 #NagarajaRao1985"><gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 	</ab>
       </div>
       <div type="translation">

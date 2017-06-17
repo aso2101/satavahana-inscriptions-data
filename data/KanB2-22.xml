@@ -54,7 +54,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <supplied reason="lost">upā</supplied>sikāya <persName key="pers:Kan-Cupana-">cu<unclear>pana</unclear><gap reason="lost" quantity="unknown" unit="character"/></persName><gap reason="lost" quantity="unknown" unit="character"/>
+	  <supplied reason="lost">upā</supplied>sikāya <persName key="pers:Kan-Cupana-">cu<unclear>pana</unclear><gap reason="lost" extent="unknown" unit="character"/></persName><gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

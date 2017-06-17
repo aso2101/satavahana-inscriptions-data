@@ -44,7 +44,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	    <gap reason="lost" quantity="unknown" unit="character"/><supplied reason="lost">gaha</supplied>patino
+	    <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">gaha</supplied>patino
 	    saputakasa dānaṃ divaḍho hatho
 	</ab>
       </div>

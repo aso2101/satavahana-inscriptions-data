@@ -59,8 +59,8 @@
 	<ab>
 	  <lb n="1"/>
 	  <placeName key="pl:Dhānyakaṭaka">dhañakaḍikāya</placeName>
-	  <persName key="pers:Kan-Uttaraya-">utaraya<gap reason="lost" quantity="unknown" unit="character"/></persName>
-	  <gap reason="lost" quantity="unknown" unit="character"/>
+	  <persName key="pers:Kan-Uttaraya-">utaraya<gap reason="lost" extent="unknown" unit="character"/></persName>
+	  <gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

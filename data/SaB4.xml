@@ -50,10 +50,10 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>
 	  <app><lem resp="#AO">ma</lem><rdg source="#Sarma1993">mā</rdg></app>caputasa anekakatuyājisa
 	  <lb n="2"/>
-	  <gap reason="lost" quantity="unknown" unit="character"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>
 	  <app><lem resp="#AO"><gap reason="lost" quantity="1" unit="character"/><unclear>na</unclear></lem><rdg source="#Sarma1993">dune</rdg></app>dāsasa
 	</ab>
       </div>

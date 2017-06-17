@@ -50,7 +50,7 @@
 	  <lb n="3"/>
 	    tāri ||
 	  <lb n="4"/>
-	    avarila<gap reason="lost" unit="character" quantity="unknown"/>
+	    avarila<gap reason="lost" unit="character" extent="unknown"/>
 	  <gap reason="lost" unit="line" quantity="1"/>
 	  <lb n="6"/>
 	    avarile 
@@ -60,7 +60,7 @@
 	    gāma<placeName key="pl:Kaḍaka">ka<lb n="9" break="no"/>ḍakesa</placeName> 
 	    nivataṇāni
 	  <lb n="10"/>
-	    bāra deya<gap reason="lost" quantity="unknown" unit="character"/>
+	    bāra deya<gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">

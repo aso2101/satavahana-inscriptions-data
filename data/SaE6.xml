@@ -56,7 +56,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <gap reason="lost" unit="character" quantity="unknown"/>ṭha<app><lem source="#ARIE1966">kā</lem><rdg source="#Sarma1993">ka</rdg></app><app><lem source="#ARIE1966">ra</lem><rdg source="#Sarmai1993">da</rdg></app>sa 
+	  <gap reason="lost" unit="character" extent="unknown"/>ṭha<app><lem source="#ARIE1966">kā</lem><rdg source="#Sarma1993">ka</rdg></app><app><lem source="#ARIE1966">ra</lem><rdg source="#Sarmai1993">da</rdg></app>sa 
 	  <persName key="pers:Sa-Nāgadeva">nāgadeva<app><lem source="#ARIE1966"><supplied reason="lost">sa</supplied></lem><rdg source="#Sarma1993"/></app></persName>
 	</ab>
       </div>

@@ -57,7 +57,7 @@
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
-	  <lb n="1"/><gap reason="lost" quantity="unknown" unit="character"/><persName key="pers:Sa-Lakṣminikā"><app><lem source="#ARIE1968">la</lem><rdg source="#Sarma1993">ba</rdg></app>chinikāya</persName><gap reason="lost" quantity="unknown" unit="character"/>
+	  <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName key="pers:Sa-Lakṣminikā"><app><lem source="#ARIE1968">la</lem><rdg source="#Sarma1993">ba</rdg></app>chinikāya</persName><gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation">

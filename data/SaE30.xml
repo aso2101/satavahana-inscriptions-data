@@ -58,7 +58,7 @@
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
-	  <lb n="1"/><gap reason="lost" quantity="unknown" unit="character"/>marikā kha<app><lem source="#ARIE1968">ḍa</lem><rdg source="#Sarma1993">da</rdg></app>ko<gap reason="lost" quantity="2" unit="character"/>
+	  <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>marikā kha<app><lem source="#ARIE1968">ḍa</lem><rdg source="#Sarma1993">da</rdg></app>ko<gap reason="lost" quantity="2" unit="character"/>
 	</ab>
       </div>
       <div type="translation">
