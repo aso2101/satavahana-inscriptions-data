@@ -63,7 +63,7 @@
 	  raño <persName key="pers:VpŚrīChimuka">siri chimu<unclear>ka</unclear>sātavāhanasa</persName>
 	  savachare <date when-custom="16"
 	                  datingPoint="pers:VpŚrīChimuka"
-			  datingmethod="cal:regnal">soḍe 10 6</date> mātiseka<gap
+			  datingMethod="cal:regnal">soḍe 10 6</date> mātiseka<gap
 			  reason="lost"
 			  extent="unknown"
 			  unit="character"/>
