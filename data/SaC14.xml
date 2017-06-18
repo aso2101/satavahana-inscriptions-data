@@ -50,15 +50,15 @@
     <body>
       <div type="bibliography">
 	<bibl>
-	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
-	  <citedRange>229</citedRange>
+	  <ptr target="bibl:ARIE1"/>:
+	  <citedRange>1966–1967, no. 229</citedRange>
 	</bibl>
 	<bibl>
-	  <ptr target="bibl:NagarajaRao1985"/>
+	  <ptr target="bibl:NagarajaRao1985"/>:
 	  <citedRange>14</citedRange>
 	</bibl>
 	<bibl>
-	  <ptr target="bibl:Sarma1993"/>
+	  <ptr target="bibl:Sarma1993"/>:
 	  <citedRange>C14</citedRange>
 	</bibl>
       </div>

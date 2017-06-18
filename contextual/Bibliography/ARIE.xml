@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Dhenukākaṭa</title>
+	<title xml:lang="eng">Annual Report on Indian Epigraphy</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -14,42 +14,32 @@
       </editionStmt>
       <publicationStmt>
 	<authority>South Asian Inscriptions</authority>
-	<idno type="URI"><!-- URI goes here !--></idno>
+	<idno type="URI">ARIE</idno>
 	<availability>
 	  <licence target="https://creativecommons.org/licenses/by/4.0/">
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 	  </licence>
 	</availability>
-	<date when="2017-05-01">April 1, 2017</date>
+	<date when="2017-06-18">June 18, 2017</date>
       </publicationStmt>
       <sourceDesc>
 	<p>Born digital.</p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+      <change when="2017-06-18" who="staff:Ollett">Created bibliographic entry</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Kosambi1955" type="article">
-	<analytic>
-	  <author>
-	    <name>
-	      <forename>D. D.</forename>
-	      <surname>Kosambi</surname>
-	    </name>
-	  </author>
-	  <title level="a">Dhenukākaṭa</title>
-	  <title type="short">Kosambi 1955</title>
-	</analytic>
+      <biblStruct type="book" xml:id="ARIE">
 	<monogr>
-	  <title level="j">Journal of the Bombay Branch of the Royal Asiatic Society</title>
+	  <title level="m">Annual Report on Indian Epigraphy</title>
+	  <title type="short">ARIE</title>
 	  <imprint>
-	    <date when="1955">1955</date>
+	    <pubPlace>Calcutta, New Delhi</pubPlace>
+	    <publisher>Archaeological Survey of India</publisher>
 	  </imprint>
-	  <biblScope unit="vol">30</biblScope>
-	  <biblScope unit="pp" from="50" to="71">50–71</biblScope>
 	</monogr>
       </biblStruct>
     </body>
