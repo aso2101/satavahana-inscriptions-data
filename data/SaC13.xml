@@ -11,7 +11,12 @@
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
-	  <msIdentifier/>
+	  <msIdentifier>
+	    <altIdentifier type="museum-inventory">
+	      <repository>State Archaeological Museum, Gulbarga</repository>
+	      <idno>81 (white)</idno>
+	    </altIdentifier>
+	  </msIdentifier>
 	  <msContents>
 	    <msItem>
 	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
@@ -32,8 +37,14 @@
 		<placeName key="pl:Sannati">Sannati</placeName></origPlace>
 	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
-	    <provenance type="found" subtype="discovered">
+	    <provenance type="found" subtype="discovered" notBefore="1966">
 	      <p>Found near Segiyappa’s house in the village.</p>
+	    </provenance>
+	    <provenance type="transferred" notBefore="2014">
+	      <p>Transferred to the Gulbarga State Archaeological Museum.</p>
+	    </provenance>
+	    <provenance type="observed" when="2017">
+	      <p>Observed at the Gulbarga State Archaeological Museum by Andrew Ollett in 2017.</p>
 	    </provenance>
 	  </history>
 	</msDesc>
@@ -55,27 +66,39 @@
   <text>
     <body>
       <div type="bibliography">
-	<bibl>
-	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
-	  <citedRange>203</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:NagarajaRao1985"/>
-	  <citedRange>18</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:Sarma1993"/>
-	  <citedRange>C13</citedRange>
-	</bibl>
+	<listBibl type="secondary-bibliography">
+	  <bibl>
+	    <ptr target="bibl:ARIE"/>:
+	    <citedRange>1966–1967, no. 203</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:NagarajaRao1985"/>:
+	    <citedRange>18</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Sarma1993"/>:
+	    <citedRange>C13</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Sarma1993"/></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <persName key="pers:Sa-Somaghosanikā">soma<app><lem source="#ARIE1996 #NagarajaRao1985">gho</lem><rdg source="#Sarma1993">gha</rdg></app>sa<app><lem source="#Sarma1993">nikā<unclear>ya</unclear></lem><rdg source="#ARIE1966">nikāya</rdg><rdg source="#NagarajaRao1985">nīkā</rdg></app></persName>
+	  <persName key="pers:Sa-Somaghosanikā">somaghosanikā</persName>
 	</ab>
+      </div>
+      <div type="apparatus">
+	<listApp>
+	  <app loc="1">
+	    <lem>ghosanikā<unclear>ya</unclear></lem>
+	    <rdg source="bibl:ARIE">ghosanikāya</rdg>
+	    <rdg source="bibl:NagarajaRao1985">ghosanīkā</rdg>
+	    <rdg source="bibl:Sarma1993">ghasanikā<unclear>ya</unclear></rdg>
+	  </app>
+	</listApp>
       </div>
       <div type="translation">
 	<ab>Of <persName key="pers:Sa-Somaghosanikā">Somaghosanikā</persName>.</ab>
