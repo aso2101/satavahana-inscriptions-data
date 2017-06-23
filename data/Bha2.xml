@@ -20,7 +20,9 @@
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
-		<p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
@@ -52,17 +54,19 @@
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-	  <ptr target="bibl:CTI"/>:
-	  <citedRange>Bhājā No. 2</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:LL"/>:
-	  <citedRange>no. 1079</citedRange>
-	</bibl>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:CTI"/>:
+	    <citedRange>Bhājā No. 2</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>no. 1079</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ptr target="bibl:CTI"/>.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:CTI"/></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>

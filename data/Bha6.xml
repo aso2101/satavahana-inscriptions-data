@@ -20,7 +20,9 @@
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
-		<p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
@@ -47,23 +49,25 @@
   </teiHeader>
   <facsimile>
     <graphic url="images/Bha6-CTI.jpg">
-      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+      <desc>Photograph of estampage from <bibl><ptr target="bibl:CTI"/></bibl>.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-	  <ptr target="bibl:CTI"/>:
-	  <citedRange>Bhājā No. 6</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:LL"/>:
-	  <citedRange>1083</citedRange>
-	</bibl>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:CTI"/>:
+	    <citedRange>Bhājā No. 6</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>1083</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>. They claim (and Lüders agrees) that the inscription is unfinished.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:CTI"/></bibl>. They claim (and Lüders agrees) that the inscription is unfinished.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>

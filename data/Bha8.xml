@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 8 ()</title>
+	<title>Bhājā No. 8</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -20,7 +20,9 @@
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
-		<p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
@@ -46,23 +48,25 @@
   </teiHeader>
   <facsimile>
     <graphic url="images/Bha8-CTI.jpg">
-      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+      <desc>Photograph of estampage from <bibl><ptr target="bibl:CTI"/></bibl>.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-	  <ptr target="bibl:CTI"/>:
-	  <citedRange>Bhājā No. 8</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:LL"/>:
-	  <citedRange>1085</citedRange>
-	</bibl>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:CTI"/>:
+	    <citedRange>Bhājā No. 8</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>1085</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>According to <ptr target="bibl:CTI"/>, this inscription is not legibile: Lüders says that it records the gift of a stūpa.</p>
+	<p>According to <bibl><ptr target="bibl:CTI"/></bibl>, this inscription is not legibile: Lüders says that it records the gift of a stūpa.</p>
       </div>
     </body>
   </text>
