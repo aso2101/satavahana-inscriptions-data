@@ -28,12 +28,8 @@
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace>
-		<placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
-		over the right-hand cell door in the back of the
-		vihāra cave no. 6, to the east of the caitya.
-	      </origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE? (lettering)</origDate>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, over the right-hand cell door in the back of the vihāra cave no. 6, to the east of the caitya</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian">2nd to 1st c. BCE?</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

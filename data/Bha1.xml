@@ -28,10 +28,8 @@
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace>
-		<placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
-		Cave 17, over the cell door.
-	      </origPlace>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
+		Cave 17, over the cell door</origPlace>
 	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">2nd c. BCE? (lettering)</origDate>
 	    </origin>
 	  </history>

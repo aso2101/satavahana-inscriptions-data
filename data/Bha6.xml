@@ -28,11 +28,7 @@
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace>
-		<placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
-		on the capital of one of the stūpas in the second
-		row, under the rock.
-	      </origPlace>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the capital of one of the stūpas in the second row, under the rock</origPlace>
 	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE? (lettering)</origDate>
 	    </origin>
 	  </history>
