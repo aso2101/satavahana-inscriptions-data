@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 7</title>
+	<title>Bhājā No. 7 (gift of Bādhā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -12,7 +12,18 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
-	  <physDesc/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<p>On the wall of an excavated <objectType>cave</objectType>.</p>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -20,25 +31,39 @@
 		over the right-hand cell door in the back of the
 		vihāra cave no. 6, to the east of the caitya.
 	      </origPlace>
-	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE? (lettering)</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
       </sourceDesc>
-      <profileDesc>
-      </profileDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="images/Bha7-CTI.jpg">
+      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+    </graphic>
+  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
 	<bibl>
-	  <ptr target="bibl:CTI"/>
+	  <ptr target="bibl:CTI"/>:
 	  <citedRange>Bhājā No. 7</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1084</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+	<p>This edition is based on <ptr target="bibl:CTI"/>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>

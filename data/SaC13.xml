@@ -60,7 +60,7 @@
   </teiHeader>
   <facsimile>
     <graphic url="images/SaC13-sarma1993.jpg">
-      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 21.</desc>
+      <desc>Photograph from <bibl><ptr target="bibl:Sarma1993"/>: <citedRange>plate 21</citedRange></bibl>.</desc>
     </graphic>
   </facsimile>
   <text>

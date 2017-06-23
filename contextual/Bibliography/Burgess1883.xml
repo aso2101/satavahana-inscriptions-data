@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -42,6 +43,7 @@
 	  </author>
 	  <title level="m" type="main">Report on the Buddhist Cave Temples and Their Inscriptions</title>
 	  <title level="m" type="sub">Being Part of the Results of the Fourth, Fifth, and Sixth Seasons’ Operations of the Archæological Survey of Western India, 1876–77, 1877–78, 1878–79</title>
+	  <title type="short">Burgess 1883</title>
 	  <imprint>
 	    <publisher>Trübner and Co.</publisher>
 	    <pubPlace>London</pubPlace>
