@@ -12,11 +12,16 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
 	  <physDesc>
 	    <objectDesc>
 	        <supportDesc>
 		<support>
-		  <p>An inscribed slab; <dimensions unit="cm">
+		  <p>An sculpted <material>limestone</material> <objectType>memorial stone</objectType>; <dimensions unit="cm">
 		    <height>94</height>
 		    <width>33</width>
 		    <depth>12</depth>
@@ -27,8 +32,7 @@
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace>
-		<placeName key="pl:Beḷvāḍigi">Beḷvāḍigi</placeName></origPlace>
+	      <origPlace><placeName key="pl:Beḷvāḍigi">Beḷvāḍigi</placeName></origPlace>
 	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	    <provenance type="found" subtype="discovered" notAfter="1965">
@@ -67,8 +71,16 @@
 	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Bel-Kalaka">kalakasa</persName>
-	  cha<app><lem>yā</lem><rdg source="bibl:Ramesh1967">ya</rdg></app>pa<unclear>ṭimā</unclear>
+	  chayāpa<unclear>ṭimā</unclear>
 	</ab>
+      </div>
+      <div type="apparatus">
+	<listApp>
+	  <app loc="1">
+	    <lem>chayā</lem>
+	    <rdg source="bibl:Ramesh1967">chaya</rdg>
+	  </app>
+	</listApp>
       </div>
       <div type="translation">
 	<ab>A memorial image of <persName key="pers:Bel-Kalaka">Kalaka</persName>.</ab>

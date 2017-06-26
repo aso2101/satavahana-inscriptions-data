@@ -21,16 +21,14 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>A sculptured stele, with a couple in the
-		     windows of the sculpted caitya.</p>
+		  <p>A sculptured <material>limestone</material> <objectType>memorial stone</objectType>, with a couple in the 		     windows of the sculpted caitya.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace>
-		<placeName key="pl:Sannati">Sannati</placeName></origPlace>
+	      <origPlace><placeName key="pl:Sannati">Sannati</placeName></origPlace>
 	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	    <provenance type="transferred" notAfter="1966">
@@ -63,14 +61,27 @@
 	</bibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Sarma1993"></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <app><lem source="#Sarma1993">vāṇī</lem><rdg source="#NagarajaRao1985">vaṇi</rdg><rdg source="#ARIE1966">vāni</rdg></app>yasa
-	  <persName key="pers:Sa-Senaṇha">senaṇha<app><lem source="#ARIE1966 #Sarma1993">sa</lem><rdg source="#NagarajaRao1985"><note>om.</note></rdg></app></persName>
+	  vāṇīyasa
+	  <persName key="pers:Sa-Senaṇha">senaṇhasa</persName>
 	</ab>
+      </div>
+      <div type="apparatus">
+	<listApp>
+	  <app loc="1">
+	    <lem source="bibl:Sarma1993">vāṇīyasa</lem>
+	    <rdg source="bibl:ARIE">vāniyasa</rdg>
+	    <rdg source="bibl:NagarajaRao1985">vaṇiyasa</rdg>
+	  </app>
+	  <app loc="1">
+	    <lem source="bibl:ARIE bibl:Sarma1993">senaṇhasa</lem>
+	    <rdg source="bibl:NagarajaRao1985">senaṇha</rdg>
+	  </app>
+	</listApp>
       </div>
       <div type="translation">
 	<ab>Of the merchant <persName key="pers:Sa-Senaṇha">Senaṇha</persName>.</ab>
