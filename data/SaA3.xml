@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati A.3 (of the time of Vāsiṣṭhīputra Śivaśrī Sātakarṇi)</title>
+	<title>Sannati A3 (of the time of Vāsiṣṭhīputra Śivaśrī Sātakarṇi)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -12,11 +12,22 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
-		<support>An inscribed limestone slab 
-	      measuring 46x35x17 cm.</support>
+		<support>
+		  <p>An inscribed limestone <objectType>slab</objectType>, 
+		  <dimensions unit="cm">
+		    <height>46</height>
+		    <width>35</width>
+		    <depth>17</depth>
+		  </dimensions>.</p>
+		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
@@ -37,7 +48,7 @@
   <text>
     <body>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Sarma1993"/></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<div type="textpart" subtype="face" n="1">

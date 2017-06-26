@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati A.2 (of the time of Vāsiṣṭhīputra Śrī Sātakarṇi)</title>
+	<title>Sannati A2 (donation of Yakṣa- from the time of Vāsiṣṭhīputra Śrī Sātakarṇi)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -12,7 +12,19 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
 	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A memorial <objectType>slab</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
@@ -27,11 +39,23 @@
 	</msDesc>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="images/SaA2-sarma1993.jpg">
+      <desc>Photograph from <bibl><ptr target="bibl:Sarma1993"/>: <citedRange>plate 21</citedRange></bibl>.</desc>
+    </graphic>
+  </facsimile>
   <text>
     <body>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>; the translation is by Andrew Ollett.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Sarma1993"/></bibl>; the translation is by Andrew Ollett.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
@@ -52,9 +76,10 @@
 	<ab>
 	Success! (During the rule of) 
 	<persName key="pers:VpŚrīSātakarṇi">Vāsiṣṭhīputra
-	Śrī Sāta(karṇi)</persName>, a nun internee named 
+	Śrī Sāta(karṇi)</persName>, of a nun named 
+	<persName key="pers:Sa-Yakṣa-">Yakṣa-</persName>, 
+	student of 
 	<persName key="pers:Nāgabuddhī">Nāgabuddhī</persName>
-	caused ... a yakṣa ...
 	</ab>
       </div>
     </body>

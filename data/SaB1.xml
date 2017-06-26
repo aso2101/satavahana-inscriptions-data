@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Sannati B1 (of Priyadatta)</title>
+	<title>Sannati B1 (memorial of Priyadatta)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -25,7 +25,7 @@
 	        <depth>7</depth>
 		<width>20</width>
 		<height>58</height>
-		</dimensions> cm. The upper panel has a seated couple flanked by two female attendants, and the lower panel, an unridden horse with an attendant and someone carrying a royal umbrella.</support>
+		</dimensions>. The upper panel has a seated couple flanked by two female attendants, and the lower panel, an unridden horse with an attendant and someone carrying a royal umbrella.</support>
 	      </supportDesc>
 	      <layoutDesc>
 		<layout>Inscribed on flat surface just above the lower register.</layout>
@@ -34,9 +34,7 @@
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace>
-		Found during the excavations at <placeName key="pl:Sannati">Sannati</placeName> (<placeName key="pl:SAN-1">SAN-1</placeName>).
-	      </origPlace>
+	      <origPlace>Found during the excavations at <placeName key="pl:Sannati">Sannati</placeName> (<placeName key="pl:SAN-1">SAN-1</placeName>)</origPlace>
 	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="paleography" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	    <provenance when="2016">Current whereabouts unknown.</provenance>
@@ -44,6 +42,13 @@
 	</msDesc>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial stone</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <facsimile>
     <graphic url="images/SaB1-sarma1993.jpg">
@@ -54,24 +59,24 @@
     <body>
       <div type="bibliography" xml:lang="eng">
 	<bibl>
-	  <ptr target="bibl:ARIE1966"/>
+	  <ptr target="bibl:ARIE1966"/>:
 	  <citedRange>no. 228</citedRange>
 	</bibl>
 	<bibl>
-	  <ptr target="bibl:Seshadri1972"/>
+	  <ptr target="bibl:Seshadri1972"/>:
 	  <citedRange>pl. 22</citedRange>
 	</bibl>
 	<bibl>
-	  <ptr target="bibl:NagarajaRao1985"/>
+	  <ptr target="bibl:NagarajaRao1985"/>:
 	  <citedRange>no. 3</citedRange>
 	</bibl>
 	<bibl>
-	  <ptr target="bibl:Sarma1993"/>
+	  <ptr target="bibl:Sarma1993"/>:
 	  <citedRange>B2</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Sarma1993"/></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>

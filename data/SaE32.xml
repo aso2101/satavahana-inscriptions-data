@@ -12,11 +12,16 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
 	  <physDesc>
             <objectDesc>
 	      <supportDesc>
 	      <support>
-		<p>A fragmentary record.</p>
+		<p>A fragmentary limestone <objectType>slab</objectType>.</p>
 	      </support>
 	    </supportDesc>
 	    </objectDesc>
@@ -48,12 +53,12 @@
     <body>
       <div type="bibliography" xml:lang="eng">
 	<bibl>
-	  <ptr target="bibl:Sarma1993"/>
+	  <ptr target="bibl:Sarma1993"/>:
 	  <citedRange>E32</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+	<p>Based on <bibl><ptr target="bibl:Sarma1993"/></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
