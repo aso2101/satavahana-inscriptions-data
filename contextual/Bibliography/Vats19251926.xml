@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Gaṅgaperūru</title>
+	<title xml:lang="en">Unpublished Votive Inscriptions in the Chaitya Cave at Karle</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -20,26 +20,38 @@
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 	  </licence>
 	</availability>
-	<date when="2017-06-16">June 16, 2017</date>
+	<date when="2017-06-28">June 28, 2017</date>
       </publicationStmt>
       <sourceDesc>
 	<p>Born digital.</p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2017-06-16" who="staff:Ollett">Created bibliographic entry</change>
+      <change when="2017-06-28" who="staff:Ollett">Created bibliographic entry</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <listPlace>
-	<place xml:id="Gaṅgaperūru">
-	  <placeName type="modern" xml:lang="tel-Latn">Gaṅgaperūru</placeName>
-	  <location>
-	    <geo>79.036352 14.421970</geo>
-	  </location>
-	</place>
-      </listPlace>
+      <biblStruct xml:id="Vats1925" type="article">
+	<analytic>
+	  <author>
+	    <name>
+              <surname>Vats</surname>
+              <forename>Madho Sarup</forename>
+	    </name>
+	  </author>
+	  <title level="a">Unpublished Votive Inscriptions in the Chaitya Cave at Karle</title>
+	  <title type="short">Vats 1925–1926</title>
+	</analytic>
+	<monogr>
+	  <title level="j">Epigraphia Indica</title>
+	  <imprint>
+	    <date from="1925" to="1925">1925–1926</date>
+	  </imprint>
+	  <biblScope unit="vol">18</biblScope>
+	  <biblScope unit="pp" from="325" to="329">325–329</biblScope>
+	</monogr>
+      </biblStruct>
     </body>
   </text>
 </TEI>

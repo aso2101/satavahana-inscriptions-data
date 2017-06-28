@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Vada1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Vaḍagāvi No. 1 (memorial pillar of Somayaśas)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Vada1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On a hexagonal <objectType>memorial pillar</objectType>, ‘not wellshaped and well dressed,’ and ‘tapering towards the top. The upper part of the stone measuring 2’5” in height is broken away diagonally, obviously due to an original flaw in the stone... The lower part of the stone measures about 8’3” in height above the platform on which the stone is set up in the museum. The bottom part of this stone is said to have been fashione dlike an ill-shaped baloon, measuring about 3’9” in width and 3’5” in height” (<bibl><ptr target="bibl:Sankaranarayanan1972"/></bibl>).</p>
+		</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>
+		  <p>“The pillar bears writing mainly on one face. There are altogether sixteen lines out of which the first line alone is found on the broken upper part of the pillar. The fifteenth line is continued on the side to the proper left of the main writing. In the middle of the stone on the face in the proper right of the inscription there seems to be a <hi rend="italics">Śivaliṅga</hi> faintly carved in a panel.” (<bibl><ptr target="bibl:Sankaranarayanan1972"/></bibl>)</p>
+		</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Vaḍagāvi">Vaḍagāvi</placeName></origPlace>
+	      <origDate notBefore-custom="0100" notAfter-custom="0150" precision="medium" datingMethod="cal:gregorian" evidence="lettering">first half of second c. BCE? (lettering)</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered" notBefore="1941">
+	      <p>Discovered by R. S. Panchamukhi between 1941 and 1946, the then director of the Kannada Research Institute, Dharwar, ‘found in an elevated site surrounded by cultivable fields at Vaḍgaon–Mādhavpur about two miles to the east of Belgam’ (<bibl><ptr target="bibl:Sankaranarayanan1972"/></bibl>).</p>	      
+	    </provenance>
+	    <provenance type="transferred" notAfter="1976">
+	      <p>Transferred to the Museum of the Kannada Research Institute in Dharwar sometime before 1976 (and probably when Shri Panchamukhi discovered the stone in the 1940s).</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/vadgaon-sankaranarayanan1972.jpg">
+      <desc>Photograph of estampage from <bibl><ptr target="bibl:Sankaranarayanan1972"/></bibl>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<p>First edited by <bibl><ptr target="bibl:Sankaranarayanan1972"/></bibl> on the basis of an estampage made by Shri P. R. Srinivasan.</p>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Sankaranarayanan1972"/>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Sankaranarayanan1972"/></bibl>; the translation is my own (AO).</p>
+	<p>Note that a few lines, viz. 1–3 and 16, are to be read from right to left, which is rarely the case in </p>
+	<p>Sankaranarayanan speculates that the number of days specified in the inscription (10,082), which corresponds to 27 years and 227 days, refers to the time elapsed within a certain era, which he tentatively identifies as the Śaka era. If that is the case, the inscription could be securely dated to November 3, 105 CE. I (AO) think it is possible, however, that the number of days refers to the life of the deceased Somayaśas.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  soth<unclear>i</unclear>
+	  <lb n="2"/>
+	  <persName key="pers:Vada-Somayaśas">so<lb n="3" break="no"/>mayasasa</persName> khaṃbhaḥ
+	  <lb n="4"/>
+	  molabhaṃdhuvage<unclear>na</unclear>
+	  <lb n="5"/>
+	  kāthañasa <persName key="pers:Vada-Somayaśas">somayasasa</persName> <unclear>kaṃ</unclear><lb n="6" break="no"/><unclear>bho</unclear> niṭhapito gāḍhaṃ asi<lb n="7" break="no"/>tivājapeyakā<unclear>ṃ</unclear>ya<lb n="8" break="no"/>katuyāyisya
+	  <lb n="9"/>
+	  anekayaña<lb n="10" break="no"/>homadhūma<lb n="11" break="no"/><unclear>gāhi</unclear>tadisā<unclear>bhāga</unclear><lb n="12" break="no"/><unclear>gasya</unclear> aṇakhavejas<unclear>ya</unclear> 
+	  <lb n="13"/>
+	  <placeName key="pl:Sāketa">sāketakasa</placeName>
+	  <lb n="14"/>
+	  <persName key="pl:Vada-Balappārya">balapārya</persName>sakha<lb n="15" break="no"/>sa kassapasag<unclear>o</unclear>ttrasa sva<unclear>rga</unclear>tasa
+	  <lb n="16"/>
+	  <unclear>diva</unclear> 10000 80 2
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  Svasti! The pillar of <persName key="pers:Vada-Somayaśas">Somayaśas</persName>.
+	  A group of his <hi rend="italics">maula</hi> relations
+	  has firmly established a pillar for <persName key="pers:Vada-Somayaśas">Somayaśas</persName>,
+	  who knows the Kāṭha, who performed eighty optional sacrifices such as the Vājapeya,
+	  who caused the sky to be covered over with the smoke from the oblations
+	  of so many sacrifices, who knows what is imperceptible,
+	  who was from <placeName key="pl:Sāketa">Sāketa</placeName>,
+	  who was the friend of <persName key="pers:Vada-Balappārya">Balappārya</persName>,
+	  who belonged to the Kaśyapa gotra, who died on his 10,082nd day.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

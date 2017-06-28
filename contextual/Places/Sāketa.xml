@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Gaṅgaperūru</title>
+	<title xml:lang="en">Sāketa</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -20,23 +20,24 @@
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 	  </licence>
 	</availability>
-	<date when="2017-06-16">June 16, 2017</date>
+	<date when="2017-06-28">June 28, 2017</date>
       </publicationStmt>
       <sourceDesc>
 	<p>Born digital.</p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2017-06-16" who="staff:Ollett">Created bibliographic entry</change>
+      <change when="2017-06-28" who="staff:Ollett">Created bibliographic entry</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
-	<place xml:id="Gaṅgaperūru">
-	  <placeName type="modern" xml:lang="tel-Latn">Gaṅgaperūru</placeName>
+	<place xml:id="Sāketa">
+	  <placeName type="ancient" xml:lang="san-Latn">Sāketa</placeName>
+	  <placeName type="ancient" xml:lang="san-Latn">Ayodhyā</placeName>
 	  <location>
-	    <geo>79.036352 14.421970</geo>
+	    <geo>26.790540 29.790540</geo>
 	  </location>
 	</place>
       </listPlace>

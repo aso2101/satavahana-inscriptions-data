@@ -1,6 +1,6 @@
 <place xmlns="http://www.tei-c.org/ns/1.0"
        xml:id="Dhānyakaṭaka">
-  <placeName type="ancient" xml:lang="san-Latn">Dhānyakaṭaka</placeName>
+  <placeName type="ancient" xml:lang="san-Latn">Dhānyakaṭa</placeName>
   <placeName type="modern" xml:lang="tel-Latn">Dharaṇikota</placeName>
   <geo>80.352706 16.577839</geo>
 </place>

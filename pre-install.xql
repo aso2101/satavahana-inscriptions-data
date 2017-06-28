@@ -13,7 +13,7 @@ declare variable $target external;
 
 declare function local:mkcol-recursive($collection, $components) {
     if (exists($components)) then
-        let $newColl := concat($collection, "/", $components[1])
+        let $newColl := concat($collection, "/", xdb:encode-uri($components[1]))
         return (
             xdb:create-collection($collection, $components[1]),
             local:mkcol-recursive($newColl, subsequence($components, 2))
