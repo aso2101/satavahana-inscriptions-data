@@ -49,7 +49,7 @@
     <profileDesc>
       <textClass>
 	<keywords>
-	  <term>Donative</term>
+	  <term>Memorial pillar</term>
 	</keywords>
       </textClass>
     </profileDesc>
@@ -89,7 +89,7 @@
 	  <lb n="13"/>
 	  <placeName key="pl:Sāketa">sāketakasa</placeName>
 	  <lb n="14"/>
-	  <persName key="pl:Vada-Balappārya">balapārya</persName>sakha<lb n="15" break="no"/>sa kassapasag<unclear>o</unclear>ttrasa sva<unclear>rga</unclear>tasa
+	  <persName key="pers:Vada-Balappārya">balapārya</persName>sakha<lb n="15" break="no"/>sa kassapasag<unclear>o</unclear>ttrasa sva<unclear>rga</unclear>tasa
 	  <lb n="16"/>
 	  <unclear>diva</unclear> 10000 80 2
 	</ab>
