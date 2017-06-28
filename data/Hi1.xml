@@ -12,10 +12,15 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
-	      <support>A sculpted <material>limestone</material> memorial slab.</support>
+	      <support>A sculpted <material>limestone</material> <objectType>memorial slab</objectType>.</support>
 	    </supportDesc>
 	    </objectDesc>
 	  </physDesc>
@@ -23,25 +28,32 @@
 	    <origin>
 	      <origPlace>
 		<placeName key="pl:Hipparagi">Hipparagi</placeName></origPlace>
-	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1nd c. CE</origDate>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1st c. CE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial stone</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <facsimile>
+    <graphic url="images/Hi1-NagarajaRao1985.jpg">
+      <desc>Photograph from <bibl><ptr target="bibl:NagarajaRao1985.jpg"/></bibl>.</desc>
+    </graphic>
   </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-	  <ptr target="bibl:NagarajaRao1985"/>
-	  <citedRange>no. 24</citedRange>
-	</bibl>
+	<p>First published by <bibl><ptr target="bibl:NagarajaRao1985"/>: <citedRange>no. 24</citedRange></bibl>.</p>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:NagarajaRao1985">Nagaraja Rao 1985</ref>.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:NagarajaRao1985"/></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>

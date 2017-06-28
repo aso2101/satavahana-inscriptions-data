@@ -1,8 +1,46 @@
-<person 
-    xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="Hi-Rakṣita">
-  <sex value="M"/>
-  <persName>Rakṣita</persName>
-  <state type="political">Bhojaka</state>
-  <note>Mahākulakiyāṇaṃ</note>
-</person>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Rakṣita</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI">Hi-Rakṣita</idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-06-28">June 28, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-06-28" who="staff:Ollett">Created prosopographical entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+	<person xml:id="Hi-Rakṣita" sex="M">
+	  <persName xml:lang="san-Latn" cert="low">Rakṣita</persName>
+	  <persName xml:lang="pra-Latn" cert="low">Rakkhita</persName>
+	  <persName xml:lang="pra-Latn">Rakhita</persName>
+	  <state type="political">Bhojaka</state>
+	  <note>Mahākulakiyāṇaṃ</note>
+	</person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
