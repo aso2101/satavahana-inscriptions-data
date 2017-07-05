@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">The Kodavali Rock-Inscription of Chandasati; the Second Year of Reign</title>
+	<title xml:lang="eng">The Kodavali Rock-Inscription of Chandasati; the Second Year of Reign</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="KrishnaSastri19251926" type="article">
+      <biblStruct xml:id="KrishnaSastri19251926" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>

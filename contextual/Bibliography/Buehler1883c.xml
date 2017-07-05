@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Nânâghâṭ Inscriptions</title>
+	<title xml:lang="eng">Nânâghâṭ Inscriptions</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="BuhlerNa" type="incollection">
+      <biblStruct xml:id="BuhlerNa" type="bookSection">
 	<analytic>
 	  <author>
 	    <name>
@@ -41,6 +41,7 @@
 	    </name>
 	  </author>
 	  <title level="a">Nânâghâṭ Inscriptions</title>
+	  <title type="short">Bühler 1883c</title>
 	</analytic>
 	<monogr>
 	  <title level="m">Archæological Survey of Western India</title>

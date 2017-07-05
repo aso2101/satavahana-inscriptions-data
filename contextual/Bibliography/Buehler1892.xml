@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">A New Inscription of the Andhra King Yajñaśrī Gautamīputra</title>
+	<title xml:lang="eng">A New Inscription of the Andhra King Yajñaśrī Gautamīputra</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Bühler1892" type="article">
+      <biblStruct xml:id="Bühler1892" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>
@@ -41,6 +41,7 @@
 	    </name>
 	  </author>
 	  <title level="a">A New Inscription of the Andhra King Yajñaśrī Gautamīputra</title>
+	  <title type="short">Bühler 1892</title>
 	</analytic>
 	<monogr>
 	  <title level="j">Epigraphia Indica</title>

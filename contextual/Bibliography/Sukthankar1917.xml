@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">A New Andhra Inscription of Siri-Pulumavi</title>
+	<title xml:lang="eng">A New Andhra Inscription of Siri-Pulumavi</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Sukthankar1917" type="article">
+      <biblStruct xml:id="Sukthankar1917" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>
@@ -41,7 +41,7 @@
 	    </name>
 	  </author>
 	  <title level="a">A New Andhra Inscription of Siri-Pulumavi</title>
-	  <title level="short">Sukthankar 1917–1918</title>
+	  <title type="short">Sukthankar 1917–1918</title>
 	</analytic>
 	<monogr>
 	  <title level="j">Epigraphia Indica</title>

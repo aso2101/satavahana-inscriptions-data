@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">A Newly Found Inscription in the Mahāḍ Caves, Maharashtra</title>
+	<title xml:lang="eng">A Newly Found Inscription in the Mahāḍ Caves, Maharashtra</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Dandekar2006" type="article">
+      <biblStruct xml:id="Dandekar2006" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>

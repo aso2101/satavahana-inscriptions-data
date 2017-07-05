@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Buddhist Monuments from Mysore</title>
+	<title xml:lang="eng">Buddhist Monuments from Mysore</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Seshadri1972" type="article">
+      <biblStruct xml:id="Seshadri1972" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>

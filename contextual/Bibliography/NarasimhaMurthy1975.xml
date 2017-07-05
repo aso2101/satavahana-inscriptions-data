@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Banavāsi Inscription of Siva Siri Puḷumāvi</title>
+	<title xml:lang="eng">Banavāsi Inscription of Siva Siri Puḷumāvi</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="NarasimhaMurthy1975" type="article">
+      <biblStruct xml:id="NarasimhaMurthy1975" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>
@@ -50,7 +50,7 @@
 	  <title type="short">Narasimha Murthy and Raghunatha Bhat 1975</title>
 	</analytic>
 	<monogr>
-	  <title level="m">Studies in Indian Epigraphy</title>
+	  <title level="j">Studies in Indian Epigraphy</title>
 	  <imprint>
 	    <date when="1975">1975</date>
 	  </imprint>

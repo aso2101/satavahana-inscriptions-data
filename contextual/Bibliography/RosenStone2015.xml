@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Kanganhalli (Sannati) and the Amaravati School</title>
+	<title xml:lang="eng">Kanganhalli (Sannati) and the Amaravati School</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="RosenStone2015" type="incollection">
+      <biblStruct xml:id="RosenStone2015" type="bookSection">
 	<analytic>
 	  <author>
 	    <name>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">A Comprehensive Study of the Indian Buddhist Inscriptions</title>
+	<title xml:lang="eng">A Comprehensive Study of the Indian Buddhist Inscriptions</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -40,7 +40,7 @@
 	      <forename>Keisho</forename>
 	    </name>
 	  </author>
-	  <title>A Comprehensive Study of the Indian Buddhist Inscriptions</title>
+	  <title level="m">A Comprehensive Study of the Indian Buddhist Inscriptions</title>
 	  <title type="short">Tsukamoto 1996</title>
 	  <imprint>
 	    <pubPlace>Kyoto</pubPlace>

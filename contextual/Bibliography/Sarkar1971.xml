@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Some Early Inscriptions in the Amaravati Museum</title>
+	<title xml:lang="eng">Some Early Inscriptions in the Amaravati Museum</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Sarkar1971" type="article">
+      <biblStruct xml:id="Sarkar1971" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>

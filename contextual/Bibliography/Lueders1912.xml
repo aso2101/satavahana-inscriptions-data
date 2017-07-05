@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Appendix to Epigraphia Indica and Record of the Archaeological Survey of India, Vol. X: A List of Brahmi Inscriptions from the Earliest Times to about A.D. 400 with the Exception of Those of Asoka</title>
+	<title xml:lang="eng">Appendix to Epigraphia Indica and Record of the Archaeological Survey of India, Vol. X: A List of Brahmi Inscriptions from the Earliest Times to about A.D. 400 with the Exception of Those of Asoka</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -40,7 +40,7 @@
 	      <forename>Heinrich</forename>
 	    </name>
 	  </author>
-	  <title>Appendix to Epigraphia Indica and Record of the Archaeological Survey of India, Vol. X: A List of Brahmi Inscriptions from the Earliest Times to about A.D. 400 with the Exception of Those of Asoka</title>
+	  <title level="m">Appendix to Epigraphia Indica and Record of the Archaeological Survey of India, Vol. X: A List of Brahmi Inscriptions from the Earliest Times to about A.D. 400 with the Exception of Those of Asoka</title>
 	  <title type="short">Lüders’ List</title>
 	  <imprint>
 	    <pubPlace>Calcutta</pubPlace>

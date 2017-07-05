@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Daśa Avatâra Inscription from Elurâ</title>
+	<title xml:lang="eng">Daśa Avatâra Inscription from Elurâ</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="BuhlerDa" type="incollection">
+      <biblStruct xml:id="BuhlerDa" type="bookSection">
 	<analytic>
 	  <author>
 	    <name>
@@ -41,9 +41,9 @@
 	    </name>
 	  </author>
 	  <title level="a">Daśa Avatâra Inscription from Elurâ</title>
+	  <title type="short">Bühler 1883b</title>
 	</analytic>
 	<monogr>
-
 	  <title level="m">Archæological Survey of Western India</title>
 	  <editor>
 	    <name>

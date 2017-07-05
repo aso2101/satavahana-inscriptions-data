@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">A Newly Discovered Prākrit Copper Plate Grant of Pallava Viṣṇugōpavarman, Year 1</title>
+	<title xml:lang="eng">A Newly Discovered Prākrit Copper Plate Grant of Pallava Viṣṇugōpavarman, Year 1</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Reddy2000" type="incollection">
+      <biblStruct xml:id="Reddy2000" type="bookSection">
 	<analytic>
 	  <author>
 	    <name>

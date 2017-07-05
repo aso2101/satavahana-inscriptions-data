@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">
+	<title xml:lang="eng">
 	  Transformations of Identity and the Buddha’s Infancy Narratives at Kanaganahalli
 	</title>
 	<respStmt>
@@ -33,7 +33,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Quintanilla2016" type="article">
+      <biblStruct xml:id="Quintanilla2016" type="journalArticle">
 	<analytic>
 	  <author>
 	    <persName>

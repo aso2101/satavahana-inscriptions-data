@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Two Dated Sātavāhana Epigraphs</title>
+	<title xml:lang="eng">Two Dated Sātavāhana Epigraphs</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -33,7 +33,7 @@
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Falk2009" type="article">
+      <biblStruct xml:id="Falk2009" type="journalArticle">
 	<analytic>
 	  <author>
 	    <name>
