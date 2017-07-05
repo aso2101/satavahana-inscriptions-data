@@ -40,7 +40,8 @@
 	      <forename>Dinesh Chandra</forename>
 	    </name>
 	  </author>
-	  <title>Select Inscriptions</title>
+	  <title level="m">Select Inscriptions</title>
+	  <title type="short">Sircar 1965</title>
 	  <edition>Second edition</edition>
 	  <imprint>
 	    <pubPlace>Calcutta</pubPlace>
