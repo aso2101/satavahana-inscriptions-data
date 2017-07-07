@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Nad1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Nad2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Nāḍsur No. 1 (Donation of Godatta)</title>
+	<title>Nāḍsur No. 2 (Donation of Godatta)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Nad1</idno><!-- ID follows CTI !-->
+	<idno>Nad2</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -47,39 +47,35 @@
       <div type="bibliography" xml:lang="eng">
 	<p>First published by Eugen Hultzsch in the <hi>Archaeological Survey of Western India</hi> vol. 12 p. 6.</p>
 	<listBibl>
-	  <bibl>
-	    <ptr target="bibl:Bühler1891"/>:
-	    <citedRange>pp. 231–232</citedRange>
-	  </bibl>
+
 	  <bibl>
 	    <ptr target="bibl:LL"/>:
-	    <citedRange>no. 1067</citedRange>
+	    <citedRange>no. 1068</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:Tsu"/>:
-	    <citedRange>Nādsur 1</citedRange>
+	    <citedRange>Nādsur 2</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:Nagaraju"/>:
-	    <citedRange>no 1., p. 342</citedRange>
+	    <citedRange>no 2., p. 342</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <bibl><ptr target="bibl:Bühler1891"/></bibl>. On Bühler’s interpretation, the inscription is to be read from below, i.e., starting with the lower line.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Tsu"/></bibl>. <bibl><ptr target="bibl:Bühler1891"/>: <citedRange>pp. 231–232</citedRange></bibl> suggests that this inscription, like <ref target="in:Nad1">Nāḍsur 1</ref>, may also be read from bottom to top.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <persName key="pers:Nad-Śivagaṇaka">ganaka</persName>putena kata
-	  <lb n="2"/>
-	  <persName key="pers:Nad-Godatta">godatena</persName> <persName key="pers:Nad-Śivagaṇaka">siva</persName>
+	  <gap reason="lost" extent="unknown" unit="character"/> <persName key="pers:Nad-Mitra">mitasa</persName> <persName key="pers:Nad-Saṅgharakṣita">sagharakhitasa</persName> <gap reason="illegible" quantity="4" unit="character"/><unclear>di</unclear>nabhātuno <persName key="pers:Nad-Stūpasakha">thūpa<unclear>sakhasa</unclear></persName> sa<gap reason="lost" extent="unknown" unit="character"/>
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  Made by <persName key="pers:Nad-Godatta">Godatta</persName>, son of <persName key="pers:Nad-Śivagaṇaka">Śivagaṇaka</persName>.
-	</ab>
+	  ... of <persName key="pers:Nad-Mitra">-mitra</persName>, 
+	  <persName key="pers:Nad-Saṅgharakṣita">Saṅgharakṣita</persName>...
+	  <persName key="pers:Nad-Stūpasakha">Stūpasakha</persName>, brother of -dinna...</ab>
       </div>
     </body>
   </text>
