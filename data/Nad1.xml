@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Nad1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nāḍsur No. 1 (Donation of Godatta)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Bha1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Nāḍsur">Nāḍsur</placeName></origPlace>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<p>First published by Eugen Hultzsch in the <hi>Archaeological Survey of Western India</hi> vol. 12 p. 6.</p>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Bühler1891"/>:
+	    <citedRange>pp. 231–232</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>no. 1067</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Nādsur 1</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>no 1., p. 342</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Bühler1891"/></bibl>. On Bühler’s interpretation, the inscription is to be read from below, i.e., starting with the lower line.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <persName key="pers:Nad-Śivagaṇaka">ganaka</persName>putena kata
+	  <lb n="2"/>
+	  <persName key="pers:Nad-Godatta">godatena</persName> <persName key="pers:Nad-Śivagaṇaka">siva</persName>
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  Made by <persName key="pers:Nad-Godatta">Godatta</persName>, son of <persName key="pers:Nad-Śivagaṇaka">Śivagaṇaka</persName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

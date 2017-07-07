@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Śivagaṇaka</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI">Nad-Śivagaṇaka</idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-07-07">July 7, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-07-07" who="staff:Ollett">Created prosopographical entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+	<person xml:id="Nad-Śivagaṇaka" sex="M">
+	  <persName xml:lang="san-Latn" cert="low">Śivagaṇaka</persName>
+	  <persName xml:lang="pra-Latn" cert="low">Sivagaṇaka</persName>
+	  <persName xml:lang="pra-Latn">Sivaganaka</persName>
+	</person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
