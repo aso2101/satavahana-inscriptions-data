@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Kon1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Koṇḍāṇe No. 1 (Donation of Balaka)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Kon1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Koṇḍāṇe">Koṇḍāṇe</placeName></origPlace>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Burgess1883"/>:
+	    <citedRange>p. 9</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>no. 1071</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Kondāṇe 1</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju"/>:
+	    <citedRange>p. 339</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Burgess1883"/></bibl>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <persName key="pers:Kon-Kṛṣṇa">kaṇhasa</persName>
+	  aṃtevāsinā <persName key="pers:Kon-Balaka">balakena</persName> 
+	  kataṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  Made by <persName key="pers:Kon-Balaka">Balaka</persName>,
+	  the student of <persName key="pers:Kon-Kṛṣṇa">Kṛṣṇa</persName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

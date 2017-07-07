@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Kon2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Koṇḍāṇe No. 2 (Donation of Dharmayakṣa)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Kon2</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Koṇḍāṇe">Koṇḍāṇe</placeName></origPlace>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<p>First published by <bibl><ptr target="bibl:Nagaraju"/>: <citedRange>p. 339</citedRange>.</bibl></p>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Kondāṇe 2</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Tsu"/></bibl>, who reports the reading of Nagaraju.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  sidha<unclear>ṃ</unclear> barakasa
+	  <persName key="pers:Kon-Dharmayakṣa"><unclear>dhaṃ</unclear>mayakhasa</persName>
+	  <persName key="pers:Kon-Kañcika">kaṃcika</persName>putasa
+	  po<gap reason="illegible" extent="unknown" unit="character"/>
+	</ab>
+      </div>
+      <div type="apparatus">
+	<appList>
+	  <app loc="1">
+	    <lem>po<gap reason="illegible" extent="unknown" unit="character"/></lem>
+	    <rdg source="bibl:Nagaraju">po<supplied reason="illegible">ṭhira</supplied></rdg>
+	    <note>Possible restore to <foreign xml:lang="pra-Latn">poṭhi</foreign>?</note>
+	  </app>
+	</appList>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  Success! The (well?) of Baraka <persName key="pers:Kon-Dharmayakṣa">Dharmayakṣa</persName>, the son of <persName key="pers:Kon-Kañcika">Kañcika</persName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

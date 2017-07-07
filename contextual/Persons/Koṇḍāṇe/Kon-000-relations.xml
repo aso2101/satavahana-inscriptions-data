@@ -1,7 +1,7 @@
 <listRelation
     xmlns="http://www.tei-c.org/ns/1.0">
   <listRelation>
-    <!-- from Nad1 !-->
-    <relation name="parent" active="#Nad-Śivagaṇaka" passive="#Nad-Godatta"/>
+    <!-- from Kon1 !-->
+    <relation name="teacher" active="#Kon-Kṛṣṇa" passive="#Kon-Balaka"/>
   </listRelation>
 </listRelation>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Burgess 1887</title>
+	<title xml:lang="en">Koṇḍāṇe</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -20,36 +20,27 @@
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 	  </licence>
 	</availability>
-	<date when="2017-05-01">April 1, 2017</date>
+	<date when="2017-07-07">June 7, 2017</date>
       </publicationStmt>
       <sourceDesc>
 	<p>Born digital.</p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+      <change when="2017-07-07" who="staff:Ollett">Created place entry</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <biblStruct xml:id="Jag" type="book">
-	<monogr>
-	  <author>
-	    <name>
-	      <surname>Burgess</surname>
-	      <forename>J. A. S.</forename>
-	    </name>
-	  </author>
-	  <title level="m">The Buddhist Stupas of Amaravati and Jaggayyapeta</title>
-	  <title type="short">Burgess 1887</title>
-	  <note>Reprint of 1887 edition</note>
-	  <imprint>
-	    <pubPlace>Varanasi</pubPlace>
-	    <publisher>Indological Book House</publisher>
-	    <date when="1970">1970</date>
-	  </imprint>
-	</monogr>
-      </biblStruct>
+      <listPlace>
+	<place xml:id="Koṇḍāṇe">
+	  <placeName type="modern" xml:lang="mar-Latn">Koṇḍāṇe</placeName>
+	  <placeName type="modern" xml:lang="mar">कोंडाणे</placeName>
+	  <location>
+	    <geo>73.384117 18.837577</geo>
+	  </location>
+	</place>
+      </listPlace>
     </body>
   </text>
 </TEI>
