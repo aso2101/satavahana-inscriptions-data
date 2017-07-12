@@ -70,7 +70,7 @@
 	  <app loc="1">
 	    <lem>po<gap reason="illegible" extent="unknown" unit="character"/></lem>
 	    <rdg source="bibl:Nagaraju">po<supplied reason="illegible">ṭhira</supplied></rdg>
-	    <note>Possible restore to <foreign xml:lang="pra-Latn">poṭhi</foreign>?</note>
+	    <note>Possibly restore to <foreign xml:lang="pra-Latn">poṭhi</foreign>?</note>
 	  </app>
 	</appList>
       </div>
