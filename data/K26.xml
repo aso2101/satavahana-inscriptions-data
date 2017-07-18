@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K26">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kārle No. 26 (donation of a pillar by Dharmadhaya)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K26</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the thirteenth <objectType>pillar</objectType> of the right row in the excavated <hi rend="italic">caitya</hi> <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Valūraka">Kārle</placeName>.</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">2nd c. BCE? (lettering)</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Vats1925"/>:
+	    <citedRange>no. 4</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Vats1925"/></bibl>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName> ya<supplied reason="lost">va</supplied>nasa <persName key="pers:K-Dharmadhaya">dhamadha<lb n="2" break="no"/>yānaṃ</persName> thabho dānaṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  (This) pillar (is) the gift of the Yavana <persName key="pers:K-Dhrmmadhaya">Dhamadhaya</persName> from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K32">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kārle No. 32 (donation of a pillar by Yaśovardhana)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K32</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the ninth <objectType>pillar</objectType> of the left row in the excavated <hi rend="italic">caitya</hi> <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Valūraka">Kārle</placeName>.</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">2nd c. BCE? (lettering)</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Vats1925"/>:
+	    <citedRange>no. 10</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Vats1925"/></bibl>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName> yavanasa
+	  <lb n="2"/>
+	  <persName key="pers:K-Yaśovardhana">yasavadhanāna<supplied reason="lost">ṃ</supplied></persName>
+	  <lb n="3"/>
+	  thabho dāna<supplied reason="lost">ṃ</supplied>
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  (This) pillar (is) the gift of the Yavana <persName key="pers:K-Yaśovardhana">Yaśovardhana</persName> from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

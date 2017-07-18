@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K25">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kārle No. 25 (donation of a pillar by a traders’ association)</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>Data input by</resp>
+	  <name>Caley Smith</name>
+	</respStmt>
+	<respStmt>
+	  <resp>Conversion to TEI by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K25</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the eleventh <objectType>pillar</objectType> of the right row in the excavated <hi rend="italic">caitya</hi> <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Valūraka">Kārle</placeName>.</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">2nd c. BCE? (lettering)</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2017-07-18" who="staff:Ollett">Created record on the basis of Caley Smith’s spreadsheet.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Vats1925"/>:
+	    <citedRange>no. 3</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Vats1925"/></bibl>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <placeName key="pl:Dhenukākaṭa">dhenukākaṭa</placeName>
+	  <lb n="2"/>
+	  vāniyagāma<lb n="3" breka="no"/>sa thabho dānaṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  (This) pillar (is) the gift of the ‘Community of Traders’ from <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

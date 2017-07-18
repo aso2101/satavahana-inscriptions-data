@@ -2,14 +2,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Valūraka</title>
+	<title xml:lang="eng">Viṭasaṃgaṭa</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
-	  <resp>Data entry by</resp>
+	  <resp>Data input by</resp>
 	  <name>Caley Smith</name>
 	</respStmt>
 	<respStmt>
-	  <resp>Transformation to TEI by</resp>
+	  <resp>Conversion to TEI by</resp>
 	  <name>Andrew Ollett</name>
 	</respStmt>
       </titleStmt>
@@ -18,7 +18,7 @@
       </editionStmt>
       <publicationStmt>
 	<authority>South Asian Inscriptions</authority>
-	<idno type="URI">Valūraka</idno>
+	<idno type="URI">Viṭasaṃgaṭa</idno>
 	<availability>
 	  <licence target="https://creativecommons.org/licenses/by/4.0/">
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
@@ -31,21 +31,25 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2017-07-18" who="staff:Ollett">Added TEI header to record.</change>
+      <change when="2017-07-18" who="staff:Ollett">Created record on the basis of Caley Smith’s spreadsheet.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <listPlace>
-	<place xml:id="Valūraka">
-	  <placeName type="ancient" xml:lang="san-Latn">Valūraka</placeName>
-	  <placeName type="ancient" xml:lang="pra-Latn">Valūraka</placeName>
-	  <placeName type="modern" xml:lang="mar-Latn">Kārle</placeName>
-	  <location>
-	    <geo>73.470556 18.783287</geo>
-	  </location>
-	</place>
-      </listPlace>
+      <listPerson>
+	<person xml:id="K-Viṭasaṃgaṭa">
+	  <sex value="M"/>
+	  <persName xml:lang="pra-Latn">Viṭasaṃgaṭa</persName>
+	  <persName xml:lang="san-Latn" cert="low">Viṭasaṃgaṭa</persName>
+	  <residence>
+	    <placeName key="pl:Umehanākaṭa">Umehanākaṭa</placeName>
+	  </residence>
+	  <trait type="ethnicity" key="terms:Yavana">
+	    <desc>Yavana</desc>
+	  </trait>
+	  <note>I have a hard time believing that this could be someone’s name.</note>
+	</person>
+      </listPerson>
     </body>
   </text>
 </TEI>

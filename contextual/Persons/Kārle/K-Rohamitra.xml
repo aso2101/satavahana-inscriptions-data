@@ -2,10 +2,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Dhenukākaṭa</title>
+	<title xml:lang="eng">Rohamitra</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
-	  <resp>Data entr by</resp>
+	  <resp>Data input by</resp>
+	  <name>Caley Smith</name>
+	</respStmt>
+	<respStmt>
+	  <resp>Conversion to TEI by</resp>
 	  <name>Andrew Ollett</name>
 	</respStmt>
       </titleStmt>
@@ -14,7 +18,7 @@
       </editionStmt>
       <publicationStmt>
 	<authority>South Asian Inscriptions</authority>
-	<idno type="URI">Dhenukākaṭa</idno>
+	<idno type="URI">K-Rohamitra</idno>
 	<availability>
 	  <licence target="https://creativecommons.org/licenses/by/4.0/">
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
@@ -27,21 +31,22 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2017-07-18" who="staff:Ollett">Added full TEI header to document.</change>
+      <change when="2017-07-18" who="staff:Ollett">Created record on the basis of Caley Smith’s spreadsheet.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <listPlace>
-	<place xml:id="Dhenukākaṭa">
-	  <placeName type="ancient" xml:lang="pra-Latn">Dhenukākaṭa</placeName>
-	  <placeName type="modern" xml:lang="mar-Latn">Devghaṛ</placeName>
-	  <location>
-	    <geo>73.469702 18.754397</geo>
-	  </location>
-	  <note>Identified with Devghar, just south of <ref target="pl:Valūraka">Kārle</ref>, by <bibl><ptr target="bibl:Kosambi1955"/></bibl>.</note>
-	</place>
-      </listPlace>
+      <listPerson>
+	<person xml:id="K-Rohamitra">
+	  <sex value="M"/>
+	  <persName xml:lang="san-Latn" cert="low">Rohamitra</persName>
+	  <persName xml:lang="pra-Latn" cert="low">Rohamitta</persName>
+	  <persName xml:lang="pra-Latn">Rohamita</persName>
+	  <residence>
+	    <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>
+	  </residence>
+	</person>
+      </listPerson>
     </body>
   </text>
 </TEI>

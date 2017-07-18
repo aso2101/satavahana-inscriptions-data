@@ -1,0 +1,7 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <listRelation>
+    <relation name="parent" active="#K-Gola" passive="#K-Isillaka"/>
+    <!-- Aseka is also said to be a relation of Dhamadevi in Vats 12 !-->
+  </listRelation>
+</listRelation>
