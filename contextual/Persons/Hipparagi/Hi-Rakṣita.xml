@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Rakṣita</title>
+	<title xml:lang="eng">Rakṣita</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -28,17 +28,22 @@
     </fileDesc>
     <revisionDesc>
       <change when="2017-06-28" who="staff:Ollett">Created prosopographical entry</change>
+      <change when="2017-07-18" who="staff:Ollett">changed normalization encoding</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPerson>
 	<person xml:id="Hi-Rakṣita" sex="M">
-	  <persName xml:lang="san-Latn" cert="low">Rakṣita</persName>
-	  <persName xml:lang="pra-Latn" cert="low">Rakkhita</persName>
 	  <persName xml:lang="pra-Latn">Rakhita</persName>
-	  <state type="political">Bhojaka</state>
-	  <note>Mahākulakiyāṇaṃ</note>
+	  <persName xml:lang="pra-Latn" type="pra-reconstruction">Rakkhita</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction">Rakṣita</persName>
+	  <state type="political" key="terms:Bhojaka">
+	    <desc>Bhojaka</desc>
+	  </state>
+	  <state type="familial">
+	    <desc>Mahākulakiya</desc>
+	  </state>
 	</person>
       </listPerson>
     </body>
