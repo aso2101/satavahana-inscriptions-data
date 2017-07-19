@@ -4,5 +4,5 @@
   <sex value="F"/>
   <persName xml:lang="san-Latn" cert="low">Dharmottarakā</persName>
   <persName xml:lang="pra-Latn">Dhamutarayā</persName>
-  <persName xml:lang="pra-Latn" cert="low">Dhammuttarayā</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Dhammuttarayā</persName>
 </person>

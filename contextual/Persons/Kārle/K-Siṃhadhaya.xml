@@ -39,8 +39,8 @@
       <listPerson>
 	<person xml:id="K-Siṃhadhaya">
 	  <sex value="M"/>
-	  <persName xml:lang="san-Latn" cert="low">Siṃhadhaya (?)</persName>
-	  <persName xml:lang="pra-Latn" cert="low">Siṃhadhaya (?)</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction" cert="low">Siṃhadhaya</persName>
+	  <persName xml:lang="pra-Latn" type="pra-reconstruction" cert="low">Siṃhadhaya</persName>
 	  <persName xml:lang="pra-Latn">Sihadhaya</persName>
 	  <residence>
 	    <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>

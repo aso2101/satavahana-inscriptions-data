@@ -4,5 +4,5 @@
   <sex value="M"/>
   <persName xml:lang="san-Latn" cert="low">Nāgabuddhi</persName>
   <persName xml:lang="pra-Latn">Nāgabudhi</persName>
-  <persName xml:lang="pra-Latn" cert="low">Nāgabuddhi</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Nāgabuddhi</persName>
 </person>

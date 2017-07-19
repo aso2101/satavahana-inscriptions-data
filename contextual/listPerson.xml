@@ -414,40 +414,6 @@
     <persName>Gṛhapati</persName>
   </person>
 
-<!-- Bhājā people !-->
-  <person xml:id="Naḍasava" sex="M">
-    <persName>Naḍasava</persName>
-    <note>He is described as nāya-, which <ref target="bibl:CTI">Burgess and Indraji 1881</ref> equate with the clan Jñāta- (to which Vardhamāna belonged); it could equally be Nāga-.</note>
-  </person>
-
-  <person xml:id="Viṣṇudatta" sex="M">
-    <persName>Kauśikīputra Viṣṇudatta</persName>
-    <state type="political">Mahāraṭṭhi</state>
-  </person>
-
-  <person xml:id="BhDharmagiri" sex="M">
-    <persName>Dharmagiri</persName>
-    <state type="religious">Bhadanta</state>
-    <state type="religious">Sthavira</state>
-  </person>
-
-  <person xml:id="BhAṃpikiṇaka" sex="M">
-    <persName>Aṃpikiṇaka</persName>
-    <state type="religious">Bhadanta</state>
-    <state type="religious">Sthavira</state>
-  </person>
-
-  <person xml:id="BhSaṃghadinna" sex="M">
-    <persName>Saṃghadinna</persName>
-    <state type="religious">Bhadanta</state>
-    <state type="religious">Sthavira</state>
-  </person>
-
-  <person xml:id="Bādhā" sex="feM">
-    <persName>Bādhā</persName>
-    <note>the wife of a hālika</note>
-  </person>
-
 <!-- Beḍsā people !-->
   <person xml:id="Gobhūti" sex="M">
     <persName>Gobhūti</persName>

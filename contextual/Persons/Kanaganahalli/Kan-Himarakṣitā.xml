@@ -4,6 +4,6 @@
   <sex value="F"/>
   <persName xml:lang="san-Latn" cert="low">Himarakṣitā</persName>
   <persName xml:lang="pra-Latn">Himarakhita</persName>
-  <persName xml:lang="pra-Latn" cert="low">Himarakkhitā</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Himarakkhitā</persName>
   <faith>Buddhist</faith>
 </person>

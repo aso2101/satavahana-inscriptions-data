@@ -2,9 +2,9 @@
     xmlns="http://www.tei-c.org/ns/1.0"
     xml:id="Kan-Ṛṣimitra">
   <sex value="F"/>
-  <persName xml:lang="pra-Latn" cert="low">Ṛṣimitra</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Ṛṣimitra</persName>
   <persName xml:lang="pra-Latn">Isimita</persName>
-  <persName xml:lang="pra-Latn" cert="low">Isimitta</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Isimitta</persName>
   <state type="social" key="terms:Gṛhapati">Gṛhapati</state>
   <residence>
     <placeName key="pl:Bhogavardhana">Bhogavardhana</placeName>

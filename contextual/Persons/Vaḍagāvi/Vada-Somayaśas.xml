@@ -34,7 +34,7 @@
     <body>
       <listPerson>
 	<person xml:id="Vada-Somayaśas" sex="M">
-	  <persName xml:lang="san-Latn">Somayaśas</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction">Somayaśas</persName>
 	  <persName xml:lang="pra-Latn">Somayasa</persName>
 	  <residence>
 	    <placeName key="pl:Sāketa">Sāketa</placeName>

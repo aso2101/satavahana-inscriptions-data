@@ -34,8 +34,8 @@
     <body>
       <listPerson>
 	<person xml:id="Kon-Balaka" sex="M">
-	  <persName xml:lang="san-Latn" cert="low">Balaka</persName>
-	  <persName xml:lang="pra-Latn" cert="low">Balaka</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction">Balaka</persName>
+	  <persName xml:lang="pra-Latn" type="pra-reconstruction">Balaka</persName>
 	  <persName xml:lang="pra-Latn">Balaka</persName>
 	</person>
       </listPerson>

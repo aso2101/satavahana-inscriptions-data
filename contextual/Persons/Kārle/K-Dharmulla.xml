@@ -39,8 +39,8 @@
       <listPerson>
 	<person xml:id="K-Dharmulla">
 	  <sex value="M"/>
-	  <persName xml:lang="san-Latn" cert="low">Dharmulla</persName>
-	  <persName xml:lang="pra-Latn" cert="low">Dhammulla</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction">Dharmulla</persName>
+	  <persName xml:lang="pra-Latn" type="pra-reconstruction">Dhammulla</persName>
 	  <persName xml:lang="pra-Latn">Dhamula</persName>
 	  <faith key="pers:Buddhism">Buddhist</faith>
 	  <residence>

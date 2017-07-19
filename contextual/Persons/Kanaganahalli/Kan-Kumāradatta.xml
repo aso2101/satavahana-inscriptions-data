@@ -2,6 +2,6 @@
     xmlns="http://www.tei-c.org/ns/1.0"
     xml:id="Kan-Kumāradatta">
   <sex value="M"/>
-  <persName xml:lang="pra-Latn" cert="low">Kumāradatta</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Kumāradatta</persName>
   <persName xml:lang="pra-Latn">Kumāradata</persName>
 </person>

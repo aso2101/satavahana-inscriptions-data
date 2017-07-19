@@ -2,7 +2,7 @@
     xmlns="http://www.tei-c.org/ns/1.0"
     xml:id="Kan-Buddhiṇaka">
   <sex value="M"/>
-  <persName xml:lang="pra-Latn" cert="low">Buddhiṇaka</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Buddhiṇaka</persName>
   <persName xml:lang="pra-Latn">Budhiṇaka</persName>
   <state type="political" key="terms:Amātya">Amātya</state>
 </person>

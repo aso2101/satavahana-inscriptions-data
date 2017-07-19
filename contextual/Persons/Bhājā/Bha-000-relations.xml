@@ -1,0 +1,7 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- from Bha7 !-->
+  <listRelation>
+    <relation name="spouse" mutual="#Bha-Bādhā #Bha-Hālika"/>
+  </listRelation>
+</listRelation>

@@ -4,7 +4,7 @@
   <sex value="F"/>
   <persName xml:lang="san-Latn" cert="low">Śrīkasambodhī</persName>
   <persName xml:lang="pra-Latn">Sirikasabodhi</persName>
-  <persName xml:lang="pra-Latn" cert="low">Sirikasaṃbodhī</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Sirikasaṃbodhī</persName>
   <residence>
     <placeName key="pl:Sapuḍi">Sapuḍi</placeName>
   </residence>

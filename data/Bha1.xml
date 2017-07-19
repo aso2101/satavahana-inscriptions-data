@@ -68,7 +68,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <persName key="pers:Naḍasava">naḍasavasa</persName>
+	  <persName key="pers:Bha-Naḍasava">naḍasavasa</persName>
 	  nāyasa
 	  <lb n="2"/>
 	  <placeName key="pl:Bhogavatī">bhogavatasa</placeName>
@@ -78,7 +78,7 @@
       <div type="translation" xml:lang="eng">
 	<ab>
 	  The gift of a cell from
-	  <persName key="pers:Naḍasava">Naḍasava</persName>,
+	  <persName key="pers:Bha-Naḍasava">Naḍasava</persName>,
 	  a Nāya of 
 	  <placeName key="pl:Bhogavatī">Bhogavatī</placeName>.
 	</ab>

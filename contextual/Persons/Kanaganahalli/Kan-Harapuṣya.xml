@@ -3,7 +3,7 @@
     xml:id="Kan-Harapuṣya">
   <sex value="M"/>
   <persName xml:lang="san-Latn" cert="low">Harapuṣya</persName>
-  <persName xml:lang="pra-Latn" cert="low">Harapussa</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Harapussa</persName>
   <residence>
     <placeName key="pl:Dhānyakaṭaka">Dhānyakaṭaka</placeName>
   </residence>

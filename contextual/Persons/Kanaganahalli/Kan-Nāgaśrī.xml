@@ -4,7 +4,7 @@
   <sex value="M"/>
   <persName xml:lang="san-Latn" cert="low">Nāgaśrī</persName>
   <persName xml:lang="pra-Latn">Nāgasiri</persName>
-  <persName xml:lang="pra-Latn" cert="low">Nāgasiri</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Nāgasiri</persName>
   <faith>Buddhist</faith>
   <state type="religious" key="terms:Dharmakathika">Dharmakathika</state>
 </person>

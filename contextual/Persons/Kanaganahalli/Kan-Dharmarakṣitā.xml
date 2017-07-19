@@ -4,7 +4,7 @@
   <sex value="F"/>
   <persName xml:lang="san-Latn" cert="low">Dharmarakṣitā</persName>
   <persName xml:lang="pra-Latn">Dhamaarakhitā</persName>
-  <persName xml:lang="pra-Latn" cert="low">Dhammarakkhitā</persName>
+  <persName xml:lang="pra-Latn" type="pra-reconstruction">Dhammarakkhitā</persName>
   <faith>Buddhist</faith>
   <state type="religious" key="terms:Bhikṣuṇī">Bhikṣuṇī</state>
 </person>
