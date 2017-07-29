@@ -41,7 +41,9 @@
 	  <state type="political"
 		 notBefore-custom="0060"
 		 notAfter-custom="0084"
-		 precision="low">King</state>
+		 precision="low">
+	    <desc>King</desc>
+	  </state>
 	</person>
       </listPerson>
     </body>

@@ -1,10 +1,50 @@
-<person 
-    xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="GpŚrīyajñaSātakarṇi"
-    sex="M">
-  <persName>Gautamīputra Śrīyajña Sātakarṇi</persName>
-  <state type="political"
-	 notBefore-custom="0171"
-	 notAfter-custom="0199"
-	 precision="low">King</state>
-</person>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="eng">Gautamīputra Śrīyajña Sātakarṇi</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI">GpŚrīyajñaSātakarṇi</idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-07-20">June 28, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-07-20" who="staff:Ollett">Added TEI header.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+	<person xml:id="GpŚrīyajñaSātakarṇi">
+	  <sex value="M"/>
+	  <persName>Gautamīputra Śrīyajña Sātakarṇi</persName>
+	  <state type="political"
+		 notBefore-custom="0171"
+		 notAfter-custom="0199"
+		 precision="low"
+		 key="terms:Rājan">
+	    <desc>King</desc>
+	  </state>
+	</person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>

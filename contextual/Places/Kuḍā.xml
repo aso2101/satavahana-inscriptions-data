@@ -1,66 +1,140 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" 
-       xml:id="Kuḍā">
-    <placeName type="modern" xml:lang="mar-Latn">Kuḍā</placeName>
-    <geo>73.083 18.283</geo>
-    <desc>
-        <p>From <ref target="bibl:CTI">Burgess and Indraji 1881</ref>: 3: “Kuḍā is on the east side of the north-east arm of the Rājapur creek. A small branch creek runs up through mangrove bushes nearly to the village. The caves are about 150 to 200 feet above the sea lvel in a hill which is about 250 feet high at this point. They face to west-south-west, and the whole 26 caves are within about 200 years in two lines of elevation,—Nos. I to XV below, and Nos. XVI to XXVI some fort feet higher up the hill. The view from the caves is splendid, the wide expanse of the Rājapur creek, like a mountain like, some 5 miles wide, is right in front, entirely shut in by hills from 200 to 600 feet in height, which in most places run down nearly to the water, and a rocky islet occupies nearly the centre of the seeming lake. From the top of the hill, the hill fort of Ṭhala is plainly visible, and another to the north. The creek is called Kālwa khāḍī, and the hill north-east of the caves Mohola.”</p>
-    </desc>
-    <place xml:id="Kuḍā-1">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 1</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-    <place xml:id="Kuḍā-2">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 2</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-    <place xml:id="Kuḍā-3">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 3</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-    <place xml:id="Kuḍā-4">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 4</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-    <place xml:id="Kuḍā-5">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 5</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-        <desc>
-            <p>According to <ref target="in:Ku5">Ku5</ref>, 
-         the cave and the accompanying cisterns were donated by 
-	 <persName key="pers:Ku-Padmanikā">Padmanikā</persName>.</p>
-        </desc>
-    </place>
-    <place xml:id="Kuḍā-6">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 6</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-        <desc>
-            <p>The cave was donated by <persName key="pers:Ku-Śivama">Śivama</persName>,
-         the pillars by his daughters, and the rock-carving
-	 by his wife and sons. The original carvings are pairs
-	 of figures in the corners of the cave.
-	 There are a number of later carvings of the Buddha
-	 and other figures, which were added at the time of the
-	 Sanskrit inscriptions in the cave.</p>
-        </desc>
-    </place>
-    <place xml:id="Kuḍā-7">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 7</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-    <place xml:id="Kuḍā-8">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 8</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-    <place xml:id="Kuḍā-9">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 9</placeName>
-        <trait type="architectural" key="terms:Caitya">Caitya</trait>
-    </place>
-    <place xml:id="Kuḍā-10">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 10</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-    <place xml:id="Kuḍā-11">
-        <placeName type="modern" xml:lang="en">Kuḍā Cave 11</placeName>
-        <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
-    </place>
-</place>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="eng">Kuḍā</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-07-29">June 29, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-07-29" who="staff:Ollett">Added TEI header.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+	<place xml:id="Kuḍā">
+	  <placeName type="modern" xml:lang="mar-Latn">Kuḍā</placeName>
+	  <location>
+	    <geo>73.083 18.283</geo>
+	  </location>
+	  <p>From <ref target="bibl:CTI">Burgess and Indraji 1881</ref>: 3: “Kuḍā is on the east side of the north-east arm of the Rājapur creek. A small branch creek runs up through mangrove bushes nearly to the village. The caves are about 150 to 200 feet above the sea lvel in a hill which is about 250 feet high at this point. They face to west-south-west, and the whole 26 caves are within about 200 years in two lines of elevation,—Nos. I to XV below, and Nos. XVI to XXVI some fort feet higher up the hill. The view from the caves is splendid, the wide expanse of the Rājapur creek, like a mountain like, some 5 miles wide, is right in front, entirely shut in by hills from 200 to 600 feet in height, which in most places run down nearly to the water, and a rocky islet occupies nearly the centre of the seeming lake. From the top of the hill, the hill fort of Ṭhala is plainly visible, and another to the north. The creek is called Kālwa khāḍī, and the hill north-east of the caves Mohola.”</p>
+	  <listPlace type="subsidiary">
+	    <place xml:id="Kuḍā-1">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 1</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	      <p>
+		<figure>
+		  <graphic url="images/Ku-cave01.jpg"/>
+		  <figDesc>A map of Cave 1, from <bibl><ptr target="bibl:Burgess1883"/>: <citedRange>plate 8</citedRange></bibl>.</figDesc>
+		</figure>
+	      </p>
+	    </place>
+	    <place xml:id="Kuḍā-2">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 2</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	    </place>
+	    <place xml:id="Kuḍā-3">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 3</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	      <p>
+		<figure>
+		  <graphic url="images/Ku-cave03.jpg"/>
+		  <figDesc>A map of Cave 3, from <bibl><ptr target="bibl:Burgess1883"/>: <citedRange>plate 8</citedRange></bibl>.</figDesc>
+		</figure>
+	      </p>
+	    </place>
+	    <place xml:id="Kuḍā-4">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 4</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	      <p>
+		<figure>
+		  <graphic url="images/Ku-cave04.jpg"/>
+		  <figDesc>A map of Cave 4, from <bibl><ptr target="bibl:Burgess1883"/>: <citedRange>plate 8</citedRange></bibl>.</figDesc>
+		</figure>
+	      </p>
+	    </place>
+	    <place xml:id="Kuḍā-5">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 5</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	      <p>
+		According to <ref target="in:Ku5">Ku5</ref>, 
+		the cave and the accompanying cisterns were donated by 
+	      <persName key="pers:Ku-Padmanikā">Padmanikā</persName>.
+	      </p>
+	    </place>
+	    <place xml:id="Kuḍā-6">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 6</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	      <p>
+		The cave was donated by <persName key="pers:Ku-Śivama">Śivama</persName>,
+		the pillars by his daughters, and the rock-carving
+		by his wife and sons. The original carvings are pairs
+		of figures in the corners of the cave.
+		There are a number of later carvings of the Buddha
+		and other figures, which were added at the time of the
+		Sanskrit inscriptions in the cave.
+	      </p>
+	      <p>
+		<figure>
+		  <graphic url="images/Ku-cave06-figures.jpg"/>
+		  <figDesc>Figures in Cave 6, from <bibl><ptr target="bibl:Burgess1883"/>: <citedRange>plate 8</citedRange></bibl>.</figDesc>
+		</figure>
+		<figure>
+		  <graphic url="images/Ku-cave06-wall.jpg"/>
+		  <figDesc>Right wall of Cave 6, from <bibl><ptr target="bibl:Burgess1883"/>: <citedRange>plate 8</citedRange></bibl>.</figDesc>
+		</figure>
+	      </p>
+	    </place>
+	    <place xml:id="Kuḍā-7">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 7</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	    </place>
+	    <place xml:id="Kuḍā-8">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 8</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	    </place>
+	    <place xml:id="Kuḍā-9">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 9</placeName>
+              <trait type="architectural" key="terms:Caitya">Caitya</trait>
+	      <p>
+		<figure>
+		  <graphic url="images/Ku-cave09.jpg"/>
+		  <figDesc>Figures in Cave 9, from <bibl><ptr target="bibl:Burgess1883"/>: <citedRange>plate 8</citedRange></bibl>.</figDesc>
+		</figure>
+	      </p>
+	    </place>
+	    <place xml:id="Kuḍā-10">
+              <placeName type="modern" xml:lang="en">Kuḍā Cave 10</placeName>
+              <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	    </place>
+	    <place xml:id="Kuḍā-11">
+	      <placeName type="modern" xml:lang="en">Kuḍā Cave 11</placeName>
+	      <trait type="architectural" key="terms:Vihāra">Vihāra</trait>
+	    </place>
+	  </listPlace>
+	</place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>
