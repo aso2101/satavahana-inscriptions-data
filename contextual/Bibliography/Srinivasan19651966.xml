@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Inscriptions of the Ikshvaku Period</title>
+	<title xml:lang="eng">Srinivasan 1965–1966</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -27,7 +27,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2017-05-01" who="staff:Ollett">Created bibliographic entry</change>
+      <change when="2017-05-01" who="staff:Ollett">Created bibliographic bentry</change>
     </revisionDesc>
   </teiHeader>
   <text>

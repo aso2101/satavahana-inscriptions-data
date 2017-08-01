@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Penugonda Plates of Hastivarman</title>
+	<title xml:lang="eng">Sircar 1963–1964</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -41,6 +41,7 @@
 	    </name>
 	  </author>
 	  <title level="a">Penugonda Plates of Hastivarman</title>
+	  <title type="short">Sircar 1963–1964</title>
 	</analytic>
 	<monogr>
 	  <title level="j">Epigraphia Indica</title>
