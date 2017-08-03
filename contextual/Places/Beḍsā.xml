@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Bhāje</title>
+	<title xml:lang="en">Beḍsā</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -14,7 +14,7 @@
       </editionStmt>
       <publicationStmt>
 	<authority>South Asian Inscriptions</authority>
-	<idno type="URI">Bhājā</idno>
+	<idno type="URI">Beḍsā</idno>
 	<availability>
 	  <licence target="https://creativecommons.org/licenses/by/4.0/">
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
@@ -58,6 +58,7 @@
 		<graphic url="bedse-chaitya.jpg"/>
 		<figDesc>A plan of the Bedṣā <hi rend="italic">caitya</hi>, from <bibl><ptr target="bibl:CTI"/></bibl>.</figDesc>
 	      </figure>
+	    </place>
 	  </desc>
 	</place>
       </listPlace>

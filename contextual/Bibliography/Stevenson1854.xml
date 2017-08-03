@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="eng">Stevenson 1854</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-08-03">August 3, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-08-03" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="Stevenson1854" type="journalArticle">
+	<analytic>
+	  <author>
+	    <name>
+	      <surname>Stevenson</surname>
+	      <forename>J.</forename>
+	    </name>
+	  </author>
+	  <title level="a">Sahyadri Inscriptions, with Impressions taken by F.P.F. Brett</title>
+	  <title type="short">Stevenson 1854</title>
+	</analytic>
+	<monogr>
+	  <title level="j">Journal of the Bombay Branch of the Royal Asiatic Society</title>
+	  <imprint>
+	    <date when="1854">1854</date>
+	  </imprint>
+	  <biblScope unit="vol">5</biblScope>
+	  <biblScope unit="pp" from="151" to="178">151–178</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

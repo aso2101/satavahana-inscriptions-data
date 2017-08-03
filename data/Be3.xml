@@ -36,7 +36,7 @@
 	      <origPlace>
 		<placeName type="modern" key="pl:Beḍsā">Beḍsā</placeName>.
 	      </origPlace>
-	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian" notBefore="-0100" notAfter="0001">c. 1st c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -55,48 +55,50 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/Be3-CTI.jpg">
+    <graphic url="images/Beḍsā/Be3-CTI.jpg">
       <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
     </graphic>
-    <graphic url="images/Be3-West.jpg">
+    <graphic url="images/Beḍsā/Be3-West.jpg">
       <desc>Eye copy from <ptr target="bibl:West18641866"/>.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-          <ptr target="bibl:BirdWestergaard1844"/>
-          <citedRange>No. 1, 440f. (Plate 1)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:West18641866"/>
-          <citedRange>No. 3, p. 224 (Plate)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:CTI"/>
-          <citedRange>No. 3, p. 27 (Plate)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:ASWI4"/>
-          <citedRange>No. 1, p. 89 (Plate XLVII)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:Franke1896"/>
-          <citedRange>p. 593</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:LL"/>
-          <citedRange>No. 1109</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:Nagaraju1981"/>
-          <citedRange>No. 3, p. 329</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:Tsu"/>
-          <citedRange>Beḍsā3</citedRange>
-	</bibl>
+	<listBibl>
+	  <bibl>
+            <ptr target="bibl:BirdWestergaard1844"/>:
+            <citedRange>No. 1, 440f. (Plate 1)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:West18641866"/>:
+            <citedRange>No. 3, p. 224 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:CTI"/>:
+            <citedRange>No. 3, p. 27 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:ASWI4"/>:
+            <citedRange>No. 1, p. 89 (Plate XLVII)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:Franke1896"/>:
+            <citedRange>p. 593</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:LL"/>:
+            <citedRange>No. 1109</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:Nagaraju1981"/>:
+            <citedRange>No. 3, p. 329</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:Tsu"/>:
+            <citedRange>Beḍsā3</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
 	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> and photographs taken at the time, but the inscription is now very worn, and the estampage published by Burgess in <bibl><ptr target="bibl:ASWI4"/></bibl> was taken into consideration.</p>
@@ -104,7 +106,7 @@
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <placeName key="pl:Nāsikya">nāsikāto</placeName>
+	  <placeName key="pl:Nāsikya">nāsikato</placeName>
 	  <persName key="pers:Be-Ānanda">ānadasa</persName>
 	  seṭhisa putasa
 	  <persName key="pers:Be-Puṣyaṇṇaka">pusaṇakasa</persName> 

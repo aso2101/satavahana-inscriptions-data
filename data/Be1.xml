@@ -51,6 +51,7 @@
       <textClass>
 	<keywords>
 	  <term>Memorial stūpa</term>
+	  <term>Donative</term>
 	</keywords>
       </textClass>
     </profileDesc>
@@ -73,30 +74,32 @@
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-          <ptr target="bibl:West18641866"/>
-          <citedRange>No. 1, p. 223f (Plate)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:CTI"/>
-          <citedRange>No. 1, p. 26 (Plate)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:ASWI4"/>
-          <citedRange>No. 2, p. 89 (Plate XLVII)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:LL"/>
-          <citedRange>No. 1110</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:Nagaraju1981"/>
-          <citedRange>No. 1, p. 329</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:Tsu"/>
-          <citedRange>Beḍsā1</citedRange>
-	</bibl>
+	<listBibl>
+	  <bibl>
+            <ptr target="bibl:West18641866"/>:
+            <citedRange>No. 1, p. 223f (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:CTI"/>:
+            <citedRange>No. 1, p. 26 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:ASWI4"/>:
+            <citedRange>No. 2, p. 89 (Plate XLVII)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:LL"/>:
+            <citedRange>No. 1110</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:Nagaraju1981"/>:
+            <citedRange>No. 1, p. 329</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:Tsu"/>:
+            <citedRange>Beḍsā1</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
 	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> and photographs taken in February 2017.</p>

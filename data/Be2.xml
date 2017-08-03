@@ -55,47 +55,49 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/Be2-AO.jpg">
+    <graphic url="images/Beḍsā/Be2-AO.jpg">
       <desc>Photograph taken by Andrew Ollett in February 2017.</desc>
     </graphic>
-    <graphic url="images/Be2-CTI.jpg">
+    <graphic url="images/Beḍsā/Be2-CTI.jpg">
       <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
     </graphic>
-    <graphic url="images/Be2-West.jpg">
+    <graphic url="images/Beḍsā/Be2-West.jpg">
       <desc>Eye copy of estampage from <ptr target="bibl:West18641866"/>.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-          <ptr target="bibl:BirdWestergaard1844"/>
-          <citedRange>No. 2, p. 441 (Plate 2)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:West18641866"/>
-          <citedRange>No. 2, p. 224 (Plate)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:CTI"/>
-          <citedRange>No. 2, p. 26f (Plate)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:ASWI4"/>
-          <citedRange>No. 3, p.90 (Plate XLVII)</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:LL"/>
-          <citedRange>No. 1111</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:Nagaraju1981"/>
-          <citedRange>No. 2, p. 329</citedRange>
-	</bibl>
-	<bibl>
-          <ptr target="bibl:Tsu"/>
-          <citedRange>Beḍsā2</citedRange>
-	</bibl>
+	<listBibl>
+	  <bibl>
+            <ptr target="bibl:BirdWestergaard1844"/>:
+            <citedRange>No. 2, p. 441 (Plate 2)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:West18641866"/>:
+            <citedRange>No. 2, p. 224 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:CTI"/>:
+            <citedRange>No. 2, p. 26f (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:ASWI4"/>:
+            <citedRange>No. 3, p.90 (Plate XLVII)</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:LL"/>:
+            <citedRange>No. 1111</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:Nagaraju1981"/>:
+            <citedRange>No. 2, p. 329</citedRange>
+	  </bibl>
+	  <bibl>
+            <ptr target="bibl:Tsu"/>:
+            <citedRange>Beḍsā2</citedRange>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
 	<p>This edition is based on Andrew Ollett’s rereading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time.</p>

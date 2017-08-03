@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="eng">Burgess 1883</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-08-03">April 3, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-08-03" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="ASWI4" type="book">
+	<monogr>
+	  <author>
+	    <name>
+              <surname>Burgess</surname>
+              <forename>J. A. S.</forename>
+	    </name>
+	  </author>
+	  <title level="m">Report on the Buddhist Cave Temples and their Inscriptions, being part of the results of the fourth, fifth, and sixth seasons’ operations of the Archaeological survey of Western India, 1876–77, 1877–78, 1878–79, supplementary to the volume on “The Cave Temples of India”</title>
+	  <title type="short">Burgess 1883</title>
+	  <imprint>
+	    <publisher>Government Central Press</publisher>
+	    <pubPlace>Bombay</pubPlace>
+	    <date when="1881">1881</date>
+	  </imprint>
+	</monogr>
+	<series>
+	  <title level="s">Archaeological Survey of Western India</title>
+	  <biblScope unit="vol">4</biblScope>
+	</series>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

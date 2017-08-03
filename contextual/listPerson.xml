@@ -414,30 +414,6 @@
     <persName>Gṛhapati</persName>
   </person>
 
-<!-- Beḍsā people !-->
-  <person xml:id="Sāmaḍinikā" sex="feM">
-    <persName>Sāmaḍinikā</persName>
-    <state type="political">daughter of a Mahābhoja</state>
-    <state type="political">Mahādevī</state>
-    <state type="political">Mahāraṭṭhinī</state>
-  </person>
-
-  <person xml:id="Āpadevaṇaka" sex="M">
-    <persName>Āpadevaṇaka</persName>
-
-  </person>
-
-  <person xml:id="Ānanda2" sex="M">
-    <persName>Ānanda</persName>
-    <occupation>seṭhi</occupation>
-  </person>
-
-  <person xml:id="Puṣyaṇaka" sex="M">
-    <persName>Puṣyaṇaka</persName>
-    <residence><placeName key="pl:Nāsikya">Nāsikya</placeName></residence>
-  </person>
-
-
   <!-- Other Rulers !-->
   <person xml:id="Ayama" sex="M">
     <persName>Ayama</persName>
