@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="eng">Senarakṣita</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI">Kan-Senarakṣita</idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-08-01">August 1, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-08-01" who="staff:Ollett">Created prosopographical entry from Caley Smith’s spreadsheet.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+	<person xml:id="Kan-Senarakṣita">
+          <gender value="M"/>
+          <persName xml:lang="pra-Latn">Senarakhita</persName>
+          <persName xml:lang="pra-Latn" type="pra-reconstruction">Senarakkhita</persName>
+          <persName xml:lang="san-Latn" type="san-reconstruction">Senarakṣita</persName>
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>

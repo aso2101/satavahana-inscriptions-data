@@ -1,0 +1,9 @@
+<listRelation
+    xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- from Be1 !-->
+  <relation name="teacher" active="#Be-Gobhūti" passive="#Be-Āṣāḍhamitra"/>
+  <!-- from Be2 !-->
+  <relation name="spouse" mutual="#Be-Āpadevaṇṇaka #Be-Sāmaḍinnikā"/>
+  <!-- from Be3 !-->
+  <relation name="parent" active="#Be-Ānanda" passive="#Be-Puṣyaṇṇaka"/>
+</listRelation>

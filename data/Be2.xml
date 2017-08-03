@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Beḍsā No. 2 (of Sāmaḍinikā)</title>
+	<title>Beḍsā No. 2 (Donation of Sāmaḍinikā)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -12,52 +17,123 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
-	  <physDesc/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>Over a water <objectType>cistern</objectType> near the <placeName key="pl:Beḍsā-Caitya"><hi rend="italic">caitya</hi></placeName>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc> 
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Beḍsā">Beḍsā</placeName>,
-		over a water cistern near the caitya.
+		<placeName type="modern" key="pl:Beḍsā">Beḍsā</placeName>
 	      </origPlace>
-	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	      <origDate datingMethod="cal:gregorian" notBefore="-0100" notAfter="0001">1st. c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
       </sourceDesc>
-      <profileDesc>
-      </profileDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2017-08-03" who="staff:Ollett">Reread inscription, and added Tsukamoto bibliography from Caley Smith’s spreadsheet.</change>
+      <change when="2017-07-28" who="staff:Smith">Updated in accordance with new document structure.</change>
+    </revisionDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="images/Be2-AO.jpg">
+      <desc>Photograph taken by Andrew Ollett in February 2017.</desc>
+    </graphic>
+    <graphic url="images/Be2-CTI.jpg">
+      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+    </graphic>
+    <graphic url="images/Be2-West.jpg">
+      <desc>Eye copy of estampage from <ptr target="bibl:West18641866"/>.</desc>
+    </graphic>
+  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
 	<bibl>
-	  <ptr target="bibl:CTI"/>
-	  <citedRange>Beḍsā No. 2</citedRange>
+          <ptr target="bibl:BirdWestergaard1844"/>
+          <citedRange>No. 2, p. 441 (Plate 2)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:West18641866"/>
+          <citedRange>No. 2, p. 224 (Plate)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:CTI"/>
+          <citedRange>No. 2, p. 26f (Plate)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:ASWI4"/>
+          <citedRange>No. 3, p.90 (Plate XLVII)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:LL"/>
+          <citedRange>No. 1111</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:Nagaraju1981"/>
+          <citedRange>No. 2, p. 329</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:Tsu"/>
+          <citedRange>Beḍsā2</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+	<p>This edition is based on Andrew Ollett’s rereading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  mahābhoyabālikāya 
-	  <choice><sic>ma</sic><corr resp="#CTI">mahā</corr></choice>devi<lb n="2" break="no"/>ya mahāraṭhiniya
-	  <persName key="pers:Sāmaḍinikā">sāmaḍinikāya</persName> 
+	  <g ref="#Nandipada"/>
+	  mahābhoyabālikāya
+	  madevi<lb n="2" break="no"/>ya
+	  mahāraṭhiniya
+	  <persName key="pers:Be-Sāmaḍinnikā">sāmaḍinikāya</persName> 
 	  <lb n="3"/>
-	  <supplied reason="lost">de</supplied>yadhama
-	  <persName key="pers:Āpadevaṇaka">āpadevaṇakasa</persName>
+	  <unclear>de</unclear>yadhama
+	  <persName key="pers:Be-Āpadevaṇṇaka">°āpadevaṇakasa</persName>
+	  bitiyikāya
 	</ab>
+      </div>
+      <div type="apparatus" xml:lang="eng">
+	<appList>
+	  <app loc="1">
+	    <lem>madevi</lem>
+	    <note>Read <foreign xml:lang="pra-Latn">mahādevi</foreign>.</note>
+	  </app>
+	  <app loc="3">
+	    <lem><unclear>de</unclear>yadhama</lem>
+	    <note>The <hi>de</hi> is unclear (it looks rather like a <hi>ka</hi>) but is contextually required.</note>
+	  </app>
+	</appList>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
 	  The religious gift of
-	  <persName key="pers:Sāmaḍinikā">Sāmaḍinikā</persName>,
+	  <persName key="pers:Be-Sāmaḍinnikā">Sāmaḍinnikā</persName>,
 	  daughter of a Mahābhoja,
 	  a Mahādevī, and a Mahāraṭṭhinī,
-	  and the second wife of 
-	  <persName key="pers:Āpadevaṇaka">Āpadevaṇaka</persName>.
+	  the second wife of 
+	  <persName key="pers:Be-Āpadevaṇṇaka">Āpadevaṇṇaka</persName>.
 	</ab>
       </div>
     </body>

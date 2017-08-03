@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Beḍsā No. 3 (of Puṣyaṇaka)</title>
+	<title>Beḍsā No. 3 (Donation of Puṣyaṇaka)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -12,51 +17,105 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
-	  <physDesc/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>Inscribed on the <objectType>wall</objectType>, above the door of a cell in the right end of the veranda of the <placeName key="pl:Beḍsā-Caitya"><hi rend="italic">caitya</hi></placeName>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc> 
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName type="modern" key="pl:Beḍsā">Beḍsā</placeName>,
-		over the door of a cell in the right end of
-		the veranda of the caitya.
+		<placeName type="modern" key="pl:Beḍsā">Beḍsā</placeName>.
 	      </origPlace>
 	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
 	    </origin>
 	  </history>
 	</msDesc>
       </sourceDesc>
-      <profileDesc>
-      </profileDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2017-08-03" who="staff:Ollett">Reread and updated bibliography with data from Tsukamoto, from Caley Smith’s spreadsheet.</change>
+      <change when="2017-07-28" who="staff:Smith">Updated in accordance with new document structure.</change>
+    </revisionDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="images/Be3-CTI.jpg">
+      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+    </graphic>
+    <graphic url="images/Be3-West.jpg">
+      <desc>Eye copy from <ptr target="bibl:West18641866"/>.</desc>
+    </graphic>
+  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
 	<bibl>
-	  <ptr target="bibl:CTI"/>
-	  <citedRange>Beḍsā No. 3</citedRange>
+          <ptr target="bibl:BirdWestergaard1844"/>
+          <citedRange>No. 1, 440f. (Plate 1)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:West18641866"/>
+          <citedRange>No. 3, p. 224 (Plate)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:CTI"/>
+          <citedRange>No. 3, p. 27 (Plate)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:ASWI4"/>
+          <citedRange>No. 1, p. 89 (Plate XLVII)</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:Franke1896"/>
+          <citedRange>p. 593</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:LL"/>
+          <citedRange>No. 1109</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:Nagaraju1981"/>
+          <citedRange>No. 3, p. 329</citedRange>
+	</bibl>
+	<bibl>
+          <ptr target="bibl:Tsu"/>
+          <citedRange>Beḍsā3</citedRange>
 	</bibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> and photographs taken at the time, but the inscription is now very worn, and the estampage published by Burgess in <bibl><ptr target="bibl:ASWI4"/></bibl> was taken into consideration.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <placeName key="pl:Nāsikya">nāsikāna</placeName>
-	  <persName key="pers:Ānanda2">anadasa</persName>
+	  <placeName key="pl:Nāsikya">nāsikāto</placeName>
+	  <persName key="pers:Be-Ānanda">ānadasa</persName>
 	  seṭhisa putasa
-	  <persName key="pers:Puṣyaṇaka">pusaṇakasa</persName> 
+	  <persName key="pers:Be-Puṣyaṇṇaka">pusaṇakasa</persName> 
 	  dāna
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  A gift of
-	  <persName key="pers:Puṣyaṇaka">Puṣyaṇaka</persName>,
-	  son of <persName key="pers:Ānanda2">Ānanda</persName>,
-	  the merchant, inhabitants of 
-	  <placeName key="pl:Nāsikya">Nāsikya</placeName>.
+	  Donation of <persName key="pers:Be-Puṣyaṇṇaka">Puṣyaṇṇaka</persName>,
+	  son of <persName key="pers:Be-Ānanda">Ānanda</persName>,
+	  the merchant, from <placeName key="pl:Nāsikya">Nāsikya</placeName>.
 	</ab>
       </div>
     </body>

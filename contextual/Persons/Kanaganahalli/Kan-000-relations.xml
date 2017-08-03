@@ -26,4 +26,25 @@
   <relation name="parent" active="#Kan-Bhīṣmaṇaka" passive="#Kan-Vīranikā"/>
   <!-- from KanB6-1 !-->
   <relation name="teacher" active="#Kan-Buddhatrāta" passive="#Kan-Siṃha"/>
+  <!-- from KanB6-3 and KanB6-4 !--> 
+  <relation name="teacher" active="#Kan-Buddhatrāta" passive="#Kan-Siṃhakāśyapa"/>
+  <!-- from KanB7-1, KanB7-2, and KanB7-3 !-->
+  <relation name="parent" active="#Kan-Māḍha" passive="#Kan-Bodhigupta"/>
+  <relation name="parent" active="#Kan-Māḍha" passive="#Kan-Nāgabuddhi"/>
+  <relation name="parent" active="#Kan-Samināga" passive="#Kan-Māḍha"/>
+  <relation name="parent" active="#Kan-Āśādeva" passive="#Kan-Samināga"/>
+  <!-- from KanB7-9 !-->
+  <relation name="spouse" mutual="#Kan-Rādhā #Kan-Mathakumāra"/>
+  <!-- from KanC2-1 !-->
+  <relation name="sibling" mutual="#Kan-Kṛṣṇaśrī2 #Kan-Nāṇakā"/>
+  <!-- from KanC2-2 !-->
+  <relation name="teacher" active="#Kan-Saṃgha" passive="#Kan-Kṛṣṇaśrī2"/>
+  <!-- from KanD-7 !-->
+  <relation name="parent" active="#Kan-Ghumaṇḍha" passive="#Kan-Īśvaradahika"/>
+  <!-- from KanE-1 !-->
+  <relation name="teacher" active="#Kan-Gola" passive="#Kan-Sama-"/>
+  <!-- from KanE-3 !-->
+  <relation name="parent" active="#Kan-Hadā" passive="#Kan-Malla"/>
+  <!-- from KanE2-8 !-->
+  <relation name="spouse" mutual="#Kan-Paramakṛṣṇa #Kan-Sivāsinikā"/>
 </listRelation>

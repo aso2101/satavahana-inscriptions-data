@@ -1,5 +1,66 @@
-<place xmlns="http://www.tei-c.org/ns/1.0" 
-       xml:id="Beḍsā">
-  <placeName type="modern" xml:lang="mar-Latn">Beḍse</placeName>
-  <geo>73.535467 18.720860</geo>
-</place>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="en">Bhāje</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI">Bhājā</idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-06-23">June 23, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-06-23" who="staff:Ollett">Created place entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+	<place xml:id="Beḍsā">
+	  <placeName type="modern" xml:lang="mar-Latn">Beḍse</placeName>
+	  <placeName type="modern" xml:lang="mar-Latn">Beḍsā</placeName>
+	  <placeName type="ancient" xml:lang="pra-Latn">Mārakuḍa</placeName>
+	  <placeName type="ancient" xml:lang="pra-Latn" cert="low">Mārakūṭa</placeName>
+	  <location>
+	    <geo>73.535467 18.720860</geo>
+	  </location>
+	  <desc>
+	    <p>According to Burgess (<bibl><ptr target="bibl:ASWI4"/>p. 89<citedRange></citedRange></bibl>), the ancient name of the Beḍsā hill was Mārakuḍa, attested in <ptr target="in:Be1"/>, which he reconstructs as ‘Devil’s Peak’ (Skt. <foreign xml:lang="san-Latn">mārakūṭa</foreign>).</p>
+	    <figure>
+	      <graphic url="bedse-west1866.jpg"/>
+	      <figDesc>A map of the Bedṣā cave complex, from <bibl><ptr target="bibl:West18641866"/></bibl>.</figDesc>
+	    </figure>
+	    <p>Beḍsā consists of two major caves, a <hi rend="italic">caitya</hi> and a <hi rend="italic">vihāra</hi>, as well as a small memorial <hi rend="italic">stūpa</hi> and a cistern.</p>
+	    <place xml:id="Beḍsā-Caitya">
+	      <placeName><hi rend="italic">Caitya</hi> cave</placeName>
+	      <figure>
+		<graphic url="bedse-chaitya-architectural_section.jpg"/>
+		<figDesc>A cross-section of the Bedṣā <hi rend="italic">caitya</hi>, from <bibl><ptr target="bibl:CTI"/></bibl>.</figDesc>
+	      </figure>
+	      <figure>
+		<graphic url="bedse-chaitya.jpg"/>
+		<figDesc>A plan of the Bedṣā <hi rend="italic">caitya</hi>, from <bibl><ptr target="bibl:CTI"/></bibl>.</figDesc>
+	      </figure>
+	  </desc>
+	</place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>

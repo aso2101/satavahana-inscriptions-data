@@ -415,15 +415,6 @@
   </person>
 
 <!-- Beḍsā people !-->
-  <person xml:id="Gobhūti" sex="M">
-    <persName>Gobhūti</persName>
-  </person>
-
-  <person xml:id="BhaṭṭaAṣāḍhamitra" sex="M">
-    <persName>Bhaṭṭa Aṣāḍhamitra</persName>
-    <residence><placeName key="pl:Mārakuḍa">Mārakuḍa</placeName></residence>
-  </person>
-
   <person xml:id="Sāmaḍinikā" sex="feM">
     <persName>Sāmaḍinikā</persName>
     <state type="political">daughter of a Mahābhoja</state>
