@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ca1">
-
   <teiHeader>
     <fileDesc>
       <titleStmt>
 	<title>Candankhedā Seal (of Śrī Sātakarṇi)</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -13,7 +13,20 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
-	  <physDesc/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A <objectType>sealing</objectType>, <dimensions unit="cm"><height>65</height><width>70</width></dimensions>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,11 +37,17 @@
 	</msDesc>
       </sourceDesc>
       <profileDesc>
+	<textClass>
+	  <keywords>
+	    <term>Seal</term>
+	  </keywords>
+	</textClass>
       </profileDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2017-08-06" who="staff:Ollett">Added some information from the Falk article.</change>
+    </revisionDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">

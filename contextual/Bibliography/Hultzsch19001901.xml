@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="eng">Hultzsch 1900–1901</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI"><!-- URI goes here !--></idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  </licence>
+	</availability>
+	<date when="2017-08-06">August 6, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-08-06" who="staff:Ollett">Created bibliographic entry</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <biblStruct xml:id="Hultzsch19001901" type="journalArticle">
+	<analytic>
+	  <author>
+	    <name>
+	      <surname>Hultzsch</surname>
+	      <forname>E.</forname>
+	    </name>
+	  </author>
+	  <title level="a">Kondamudi Plates of Jayavarman</title>
+	  <title type="short">Hultzsch 1900–1901</title>
+	</analytic>
+	<monogr>
+	  <title level="j">Epigraphia Indica</title>
+	  <imprint>
+	    <date from="1900" to="1901">1900–1901</date>
+	  </imprint>
+	  <biblScope unit="vol">6</biblScope>
+	  <biblScope unit="pp" from="315" to="319">315–319</biblScope>
+	</monogr>
+      </biblStruct>
+    </body>
+  </text>
+</TEI>

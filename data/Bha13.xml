@@ -29,7 +29,7 @@
 	  <history>
 	    <origin>
 	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName></origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE</origDate>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 2nd c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>

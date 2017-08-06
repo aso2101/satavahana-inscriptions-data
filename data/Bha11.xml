@@ -62,7 +62,7 @@
       <div type="commentary" xml:lang="eng">
 	<p>This edition is based on <bibl><ptr target="bibl:Tsu"/>: <citedRange>Bhājā11</citedRange></bibl>. I was not able to verify the reading <hi rend="italic">in situ</hi>.</p>
       </div>
-      <div type="edition" xml:lang="san-Latn">
+      <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
 	  paca<gap reason="lost" quantity="2" unit="character"/>navasibhutasatānaṃ thūpa

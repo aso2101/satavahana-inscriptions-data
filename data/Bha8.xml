@@ -26,7 +26,7 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>On an excavated <objectType>stupa</objectType>.</p>
+		  <p>On an excavated <objectType>stūpa</objectType>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
@@ -34,7 +34,7 @@
 	  <history>
 	    <origin>
 	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the base of the third stūpa.</origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 1st c. BCE</origDate>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 2nd c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
