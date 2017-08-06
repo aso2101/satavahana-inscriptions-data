@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha7">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha10">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 7 (stūpa of Saṅghadinna)</title>
-        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
-        <respStmt>
-          <resp>With contributions by</resp>
-          <name key="staff:Smith">Caley Smith</name>
-        </respStmt>
+	<title>Bhājā No. 10</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Bha7</idno><!-- ID follows CTI !-->
+	<idno>Bha10</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -26,14 +21,14 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>On an excavated <objectType>stūpa</objectType>.</p>
+		  <p>On an excavated  <objectType>stūpa</objectType>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the base of the fourth stūpa.</origPlace>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the capital of one of the stūpas in the second row, under the rock</origPlace>
 	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 2nd c. BCE</origDate>
 	    </origin>
 	  </history>
@@ -43,13 +38,13 @@
     <profileDesc>
       <textClass>
 	<keywords>
-	  <term>Memorial stupa</term>
+	  <term>Memorial stūpa</term>
 	</keywords>
       </textClass>
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/Bha7-CTI.jpg">
+    <graphic url="images/Bha10-CTI.jpg">
       <desc>Photograph of estampage from <bibl><ptr target="bibl:CTI"/></bibl>.</desc>
     </graphic>
   </facsimile>
@@ -59,42 +54,38 @@
 	<listBibl>
 	  <bibl>
 	    <ptr target="bibl:CTI"/>
-	    <citedRange>No. 5, p. 25 (Plate)</citedRange>
+	    <citedRange>No. 6, p. 25 (Plate)</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:ASWI4"/>
-	    <citedRange>No. 2, p. 83 (Plate XLIV)</citedRange>
+	    <citedRange>No. 5, p. 83 (Plate XLIV)</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:LL"/>
-	    <citedRange>No. 1082</citedRange>
+	    <citedRange>No 1083</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:Nagaraju1981"/>
-	    <citedRange>No. 7, p. 330</citedRange>
+	    <citedRange>No. 10, p. 330</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:Tsu"/>
-	    <citedRange>Bhājā7</citedRange>
+	    <citedRange>Bhājā10</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time. The inscription, however, is very worn, and the published estampages were consulted.</p>
+	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time. The inscription is unfinished.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <g ref="#Svastika"/>
 	  therānāṃ bhayaṃta 
-	  <persName key="pers:Bha-Saṅghadinna">saṃghadinānaṃ</persName> 
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  <g ref="#Svastika"/>
-	  [The <hi rend="italic">stūpa</hi>] of the Venerable Reverend
-	  <persName key="pers:Bha-Saṅghadinna">Saṃghadinna</persName>.
+	  the Venerable Reverend
 	</ab>
       </div>
     </body>

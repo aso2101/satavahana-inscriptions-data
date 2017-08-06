@@ -36,6 +36,8 @@
 	<person xml:id="Bha-Hālika">
 	  <sex value="M"/>
 	  <persName xml:lang="pra-Latn">Hālika</persName>
+	  <persName xml:lang="pra-Latn" type="pra-reconstruction">Hālika</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction">Hālika</persName>
 	</person>
       </listPerson>
     </body>

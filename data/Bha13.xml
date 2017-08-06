@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha13">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Bhājā No. 13</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Bha13</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>Inscribed on the dome of the large <objectType>stūpa</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName></origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:BirdWestergaard1844"/>
+	    <citedRange>p. 441f (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:CTI"/>
+	    <citedRange>No. 8, p. 25 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>No. 1085</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Bhājā13</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>According to <bibl><ptr target="bibl:CTI"/></bibl>, this inscription is not legibile: Lüders says that it records the gift of a <hi rend="italic">stūpa</hi>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

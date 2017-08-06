@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha7">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 1 (of Naḍasava)</title>
+	<title>Bhājā No. 1 (gift of Bādhā)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -28,8 +28,8 @@
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, cave 17, over the cell door</origPlace>
-	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">2nd c. BCE? (lettering)</origDate>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, over the right-hand cell door in the back of the <placeName key="pl:Bhājā-6">vihāra cave no. 6</placeName>, to the east of the caitya</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian">c. 2nd c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -44,8 +44,8 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/Bha1-CTI.jpg">
-      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+    <graphic url="images/Bhājā/Bha1-CTI.jpg">
+      <desc>Photograph of estampage from <bibl><ptr target="bibl:CTI"/></bibl>.</desc>
     </graphic>
   </facsimile>
   <text>
@@ -54,33 +54,50 @@
 	<listBibl>
 	  <bibl>
 	    <ptr target="bibl:CTI"/>:
-	    <citedRange>Bhājā No. 1</citedRange>
+	    <citedRange>No. 7, p. 25 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:ASWI4"/>:
+	    <citedRange>No. 6, p. 83 (Plate XLIV)</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:LL"/>:
-	    <citedRange>no. 1078</citedRange>
+	    <citedRange>No. 1084</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju1981"/>:
+	    <citedRange>No. 1, p. 329</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Bhājā1</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <bibl><ptr target="bibl:CTI"/></bibl>.</p>
+	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time.</p>
+	<p>The word <foreign xml:lang="pra-Latn">hālika</foreign> is probably a proper name; <bibl><ptr target="bibl:CTI"/></bibl> and <bibl><ptr target="bibl:ASWI4"/></bibl> interpreted it as “ploughman.”</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  <persName key="pers:Bha-Naḍasava">naḍasavasa</persName>
-	  nāyasa
-	  <lb n="2"/>
-	  <placeName key="pl:Bhogavatī">bhogavatasa</placeName>
-	  gābho dānaṃ
+	  <persName key="pers:Bha-Bādhā">bādhaya</persName> <persName key="pers:Bha-Hālika">hālika</persName>jayāya dānaṃ
 	</ab>
+      </div>
+      <div type="apparatus" xml:lang="eng">
+	<listApp>
+	  <app loc="1">
+	    <lem>bādhaya</lem>
+	    <rdg source="#CTI">bodhiyā</rdg>
+	    <note resp="staff:Ollett">I do not see a long-vowel mark after the <hi rend="italic">ya</hi>, although the inscription is quite worn.</note>
+	  </app>
+	</listApp>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  The gift of a cell from
-	  <persName key="pers:Bha-Naḍasava">Naḍasava</persName>,
-	  a Nāya of 
-	  <placeName key="pl:Bhogavatī">Bhogavatī</placeName>.
+	  The gift of 
+	  <persName key="pers:Bha-Bādhā">Bādhā</persName>, the 
+	  wife of <persName key="pers:Bha-Hālika">Hālika</persName>.
 	</ab>
       </div>
     </body>

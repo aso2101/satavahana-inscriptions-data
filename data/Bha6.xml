@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 6</title>
+	<title>Bhājā No. 6 (gift of Viṣṇudatta)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,15 +26,16 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>On an excavated  <objectType>stupa</objectType>.</p>
+		  <p>On the <objectType>wall</objectType> of an excavated <objectType>cave</objectType>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the capital of one of the stūpas in the second row, under the rock</origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE? (lettering)</origDate>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
+	      over two wells in recess, west from the last</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 2nd c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -38,14 +44,14 @@
     <profileDesc>
       <textClass>
 	<keywords>
-	  <term>Memorial stupa</term>
+	  <term>Donative</term>
 	</keywords>
       </textClass>
     </profileDesc>
   </teiHeader>
   <facsimile>
     <graphic url="images/Bha6-CTI.jpg">
-      <desc>Photograph of estampage from <bibl><ptr target="bibl:CTI"/></bibl>.</desc>
+      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
     </graphic>
   </facsimile>
   <text>
@@ -53,27 +59,51 @@
       <div type="bibliography" xml:lang="eng">
 	<listBibl>
 	  <bibl>
+	    <ptr target="bibl:Stevenson1854"/>:
+	    <citedRange>No. 1, p.159f (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
 	    <ptr target="bibl:CTI"/>:
-	    <citedRange>Bhājā No. 6</citedRange>
+	    <citedRange>No. 2, p. 24 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:ASWI4"/>:
+	    <citedRange>No. 7, p. 83 (Plate XLIV)</citedRange>
 	  </bibl>
 	  <bibl>
 	    <ptr target="bibl:LL"/>:
-	    <citedRange>1083</citedRange>
+	    <citedRange>No. 1079</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju1981"/>:
+	    <citedRange>No. 6, p. 330</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Bhājā6</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <bibl><ptr target="bibl:CTI"/></bibl>. They claim (and Lüders agrees) that the inscription is unfinished.</p>
+	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time.</p>
+	<p>Note that the looping long <hi rend="italic">ī</hi> is clearly distinguishable from short <hi rend="italic">i</hi>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  therānāṃ bhayaṃta 
+	  <g ref="#Bhajasymbol"/>
+	  mahāraṭhisa kosikīputasa
+	  <lb n="2"/>
+	  <persName key="pers:Bha-Viṣṇudatta">viṇhudatasa</persName>
+	  deyadhamaṃ poḍhi
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  the Venerable Reverend
+	  The religious donation of a cistern of
+	  the Mahāraṭṭhi 
+	  Kauśikīputra
+	  <persName key="pers:Bha-Viṣṇudatta">Viṣṇudatta</persName>.
 	</ab>
       </div>
     </body>

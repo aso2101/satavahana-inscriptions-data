@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Dharmagiri</title>
+	<title xml:lang="eng">Saṅghadinna</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -14,13 +14,13 @@
       </editionStmt>
       <publicationStmt>
 	<authority>South Asian Inscriptions</authority>
-	<idno type="URI">Bha-BhDharmagiri</idno>
+	<idno type="URI">Bha-Saṅghadinna</idno>
 	<availability>
 	  <licence target="https://creativecommons.org/licenses/by/4.0/">
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 	  </licence>
 	</availability>
-	<date when="2017-07-19">July 19, 2017</date>
+	<date when="2017-07-19">June 28, 2017</date>
       </publicationStmt>
       <sourceDesc>
 	<p>Born digital.</p>
@@ -33,11 +33,11 @@
   <text>
     <body>
       <listPerson>
-	<person xml:id="Bha-BhDharmagiri">
+	<person xml:id="Bha-Saṅghadinna">
 	  <sex value="M"/>
-	  <persName xml:lang="pra-Latn">Dhamagiri</persName>
-	  <persName xml:lang="pra-Latn" type="pra-reconstruction">Dhammagiri</persName>
-	  <persName xml:lang="san-Latn" type="san-reconstruction">Dharmagiri</persName>
+	  <persName xml:lang="pra-Latn">Saṃghadina</persName>
+	  <persName xml:lang="pra-Latn" type="pra-reconstruction">Saṅghadinna</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction">Saṅghadatta</persName>
 	  <faith key="terms:Buddhism">
 	    <desc>Buddhist</desc>
 	  </faith>

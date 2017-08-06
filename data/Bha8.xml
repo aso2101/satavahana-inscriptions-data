@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 8</title>
+	<title>Bhājā No. 8 (stūpa of Apikiṇaka)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,15 +26,15 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		  <p>On an excavated <objectType>stupa</objectType>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the dome of the large stūpa</origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE? (lettering)</origDate>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the base of the third stūpa.</origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 1st c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -38,7 +43,7 @@
     <profileDesc>
       <textClass>
 	<keywords>
-	  <term>Donative</term>
+	  <term>Memorial stupa</term>
 	</keywords>
       </textClass>
     </profileDesc>
@@ -53,17 +58,57 @@
       <div type="bibliography" xml:lang="eng">
 	<listBibl>
 	  <bibl>
-	    <ptr target="bibl:CTI"/>:
-	    <citedRange>Bhājā No. 8</citedRange>
+	    <ptr target="bibl:CTI"/>
+	    <citedRange>No. 4, p. 24 (Plate)</citedRange>
 	  </bibl>
 	  <bibl>
-	    <ptr target="bibl:LL"/>:
-	    <citedRange>1085</citedRange>
+	    <ptr target="bibl:ASWI4"/>
+	    <citedRange>No. 3, p. 82 (Plate XLIV)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Franke1896"/>
+	    <citedRange>p. 587</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>No. 1081</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju1981"/>
+	    <citedRange>No. 8, p. 330</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Bhājā8</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>According to <bibl><ptr target="bibl:CTI"/></bibl>, this inscription is not legibile: Lüders says that it records the gift of a stūpa.</p>
+	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at the time.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <g ref="#Bhajasymbol2"/>
+	  therānāṃ bhayaṃta 
+	  <persName key="pers:Bha-Apikiṇaka">apikiṇakānaṃ</persName> thūpo
+	</ab>
+      </div>
+      <div type="apparatus" xml:lang="eng">
+	<listApp>
+	  <app loc="1">
+	    <lem>apikiṇakānaṃ</lem>
+	    <rdg source="bibl:CTI">aṃpikiṇakānaṃ</rdg>
+	    <note>I cannot see any trace of an <hi rend="italic">anusvāra</hi>.</note>
+	  </app>
+	</listApp>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  <g ref="#Bhajasymbol2"/>
+	  The <hi rend="italic">stūpa</hi> of the Venerable Reverend
+	  <persName key="pers:Bha-Apikiṇaka">Apikiṇaka</persName>.
+	</ab>
       </div>
     </body>
   </text>

@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 5 (stūpa of Saṃghadinna)</title>
+	<title>Bhājā No. 5 (gift of Naḍasava)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,15 +26,17 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>On an excavated <objectType>stupa</objectType>.</p>
+		  <p>On the <objectType>wall</objectType> of an excavated <objectType>cave</objectType>, over the cell door.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, on the base of the fourth stūpa.</origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE? (lettering)</origDate>
+	      <origPlace>
+		<placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, <placeName key="pl:Bhājā-17">cave 17</placeName>
+	      </origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 2nd c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
@@ -38,14 +45,14 @@
     <profileDesc>
       <textClass>
 	<keywords>
-	  <term>Memorial stupa</term>
+	  <term>Donative</term>
 	</keywords>
       </textClass>
     </profileDesc>
   </teiHeader>
   <facsimile>
     <graphic url="images/Bha5-CTI.jpg">
-      <desc>Photograph of estampage from <bibl><ptr target="bibl:CTI"/></bibl>.</desc>
+      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
     </graphic>
   </facsimile>
   <text>
@@ -53,29 +60,62 @@
       <div type="bibliography" xml:lang="eng">
 	<listBibl>
 	  <bibl>
-	    <ptr target="bibl:CTI"/>:
-	    <citedRange>Bhājā No. 5</citedRange>
+	    <ptr target="bibl:Stevenson1854"/>
+	    <citedRange>No. 2, p. 160 (Plate)</citedRange>
 	  </bibl>
 	  <bibl>
-	    <ptr target="bibl:LL"/>:
-	    <citedRange>1082</citedRange>
+	    <ptr target="bibl:CTI"/>
+	    <citedRange>No. 1, p. 23 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:ASWI4"/>
+	    <citedRange>No. 1, p.82 (Plate XLIV)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Franke1896"/>
+	    <citedRange>p. 586</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>No. 1078</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju1981"/>
+	    <citedRange>No. 5, p. 329</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Bhājā5</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <bibl><ptr target="bibl:CTI"/></bibl>.</p>
+	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  therānāṃ bhayaṃta 
-	  <persName key="pers:Bha-BhSaṅghadinna">saṃghadinānaṃ</persName> 
+	  <persName key="pers:Bha-Naḍasava">naḍasavasa</persName>
+	  nāyasa
+	  <lb n="2"/>
+	  <placeName key="pl:Bhogavatī">bhogavatasa</placeName>
+	  gābho dānaṃ
 	</ab>
+      </div>
+      <div type="apparatus" xml:lang="eng">
+	<appList>
+	  <app loc="1">
+	    <lem>naḍasavasa</lem>
+	    <rdg source="bibl:Tsu">nāḍasavasa</rdg>
+	  </app>
+	</appList>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  [The Stūpa] of the Venerable Reverend
-	  <persName key="pers:Bha-BhSaṅghadinna">Saṃghadinna</persName>.
+	  The gift of a cell from
+	  <persName key="pers:Bha-Naḍasava">Naḍasava</persName>,
+	  a Nāya of 
+	  <placeName key="pl:Bhogavatī">Bhogavatī</placeName>.
 	</ab>
       </div>
     </body>

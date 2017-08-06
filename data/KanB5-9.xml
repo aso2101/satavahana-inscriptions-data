@@ -56,15 +56,24 @@
       </div>
       <div type="commentary" xml:lang="eng">
 	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+	<p>Vincent Tournier sensibly recommends reading the name of the <hi rend="italic">nikāya</hi> here, <hi rend="italic">mahāvinaseli</hi>. Oskar von Hinüber accepts the emendation, and I have adopted his reading here.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  mahāvinase<unclear>pa</unclear><gap reason="lost" unit="character" quantity="1"/>i<gap reason="lost" unit="character" extent="unknown"/>
+	  mahāvinaseli<gap reason="lost" unit="character" extent="unknown"/>
 	</ab>
       </div>
+      <div type="apparatus" xml:lang="eng">
+	<appList>
+	  <app loc="1">
+	    <lem>mahāvinaseli<gap reason="lost" unit="character" extent="unknown"/></lem>
+	    <rdg source="bibl:MVOVH2014">mahāvinase<unclear>pa</unclear><gap reason="lost" unit="character" quantity="1"/>i<gap reason="lost" unit="character" extent="unknown"/></rdg>
+	  </app>
+	</appList>
+      </div>
       <div type="translation" xml:lang="eng">
-	<ab>Of the great...</ab>
+	<ab>Of the Mahāvinaseliyas...</ab>
       </div>
     </body>
   </text>

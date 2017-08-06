@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha12">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 4</title>
+	<title>Bhājā No. 12</title>
         <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
-	<idno>Bha4</idno><!-- ID follows CTI !-->
+	<idno>Bha12</idno><!-- ID follows CTI !-->
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -22,7 +22,7 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>Not known to me at this time.</p>
+		  <p>Inscribed on a small memorial <objectType>stūpa</objectType>.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
@@ -36,39 +36,42 @@
 	</msDesc>
       </sourceDesc>
     </fileDesc>
-    <!--
-	<profileDesc>
-	  <textClass>
-	    <keywords>
-	      <term>Donative</term>
-	    </keywords>
-	  </textClass>
-	</profileDesc>
-	!-->
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial stūpa</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<p>First reported by <bibl><ptr target="bibl:Deshpande1959"/>: <citedRange>No. 6, p. 30</citedRange></bibl>.</p>
+	<p>First recorded in <bibl><ptr target="bibl:ARIE"/>: <citedRange>1969-70, C, 2876</citedRange></bibl>.</p>
 	<listBibl>
-
 	  <bibl>
-	    <ptr target="bibl:Nagaraju1981"/>:
-	    <citedRange>No. 4, p. 329</citedRange>
+	    <ptr target="bibl:Nagaraju1981"/>
+	    <citedRange>No. 12, p. 330</citedRange>
 	  </bibl>
 	  <bibl>
-	    <ptr target="bibl:Tsu"/>:
-	    <citedRange>Bhājā4</citedRange>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Bhājā12</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <bibl><ptr target="bibl:Tsu"/>: <citedRange>Bhājā4</citedRange></bibl>. I was not able to verify the reading <hi rend="italic">in situ</hi>, and I do not feel confident enough about the reading or its meaning to present a translation.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Tsu"/>: <citedRange>Bhājā11</citedRange></bibl>. I was not able to verify the reading <hi rend="italic">in situ</hi>.</p>
       </div>
-      <div type="edition" xml:lang="pra-Latn">
+      <div type="edition" xml:lang="san-Latn">
 	<ab>
 	  <lb n="1"/>
-	  veḍa
+	  therānaṃ <unclear>bhayaṃta</unclear>
+	  <gap reason="lost" quantity="4" unit="character"/>ri<unclear>ṇa</unclear>ṃ thūpa
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  The <hi rend="italic">stūpa</hi> of the Elder...
 	</ab>
       </div>
     </body>

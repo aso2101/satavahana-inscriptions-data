@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Aṃpikiṇaka</title>
+	<title xml:lang="eng">Apikiṇaka</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -14,7 +14,7 @@
       </editionStmt>
       <publicationStmt>
 	<authority>South Asian Inscriptions</authority>
-	<idno type="URI">Bha-BhAṃpikiṇaka</idno>
+	<idno type="URI">Bha-Apikiṇaka</idno>
 	<availability>
 	  <licence target="https://creativecommons.org/licenses/by/4.0/">
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
@@ -33,9 +33,9 @@
   <text>
     <body>
       <listPerson>
-	<person xml:id="Bha-BhAṃpikiṇaka">
+	<person xml:id="Bha-Apikiṇaka">
 	  <sex value="M"/>
-	  <persName xml:lang="pra-Latn">Aṃpikiṇaka</persName>
+	  <persName xml:lang="pra-Latn">Apikiṇaka</persName>
 	  <faith key="terms:Buddhism">
 	    <desc>Buddhist</desc>
 	  </faith>
@@ -45,6 +45,7 @@
 	  <state type="religious" key="terms:Sthavira">
 	    <desc>Sthavira</desc>
 	  </state>
+	  <note>The reading and analysis of the name is uncertain.</note>
 	</person>
       </listPerson>
     </body>

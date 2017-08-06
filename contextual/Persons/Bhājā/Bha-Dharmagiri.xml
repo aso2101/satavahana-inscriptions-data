@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="eng">Naḍasava</title>
+	<title xml:lang="eng">Dharmagiri</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -14,7 +14,7 @@
       </editionStmt>
       <publicationStmt>
 	<authority>South Asian Inscriptions</authority>
-	<idno type="URI">Bha-Naḍasava</idno>
+	<idno type="URI">Bha-Dharmagiri</idno>
 	<availability>
 	  <licence target="https://creativecommons.org/licenses/by/4.0/">
 	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
@@ -33,10 +33,20 @@
   <text>
     <body>
       <listPerson>
-	<person xml:id="Bha-Naḍasava">
+	<person xml:id="Bha-Dharmagiri">
 	  <sex value="M"/>
-	  <persName xml:lang="pra-Latn">Naḍasava</persName>
-	  <note>He is described as nāya-, which <ref target="bibl:CTI">Burgess and Indraji 1881</ref> equate with the clan <hi rend="italic">Jñāta-</hi> (to which Vardhamāna belonged); it could equally be <hi rend="italic">Nāga-</hi>.</note>
+	  <persName xml:lang="pra-Latn">Dhamagiri</persName>
+	  <persName xml:lang="pra-Latn" type="pra-reconstruction">Dhammagiri</persName>
+	  <persName xml:lang="san-Latn" type="san-reconstruction">Dharmagiri</persName>
+	  <faith key="terms:Buddhism">
+	    <desc>Buddhist</desc>
+	  </faith>
+	  <state type="religious" key="terms:Bhadanta">
+	    <desc>Bhadanta</desc>
+	  </state>
+	  <state type="religious" key="terms:Sthavira">
+	    <desc>Sthavira</desc>
+	  </state>
 	</person>
       </listPerson>
     </body>

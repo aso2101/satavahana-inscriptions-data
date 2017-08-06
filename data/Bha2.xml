@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Bhājā No. 2 (of Viṣṇudatta)</title>
+	<title>Bhājā No. 2 (gift of Dharmabhāga)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -21,17 +26,19 @@
 	    <objectDesc>
 	      <supportDesc>
 		<support>
-		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		  <p>On a wooden <objectType>beam</objectType> in the ceiling of the <hi rend="italic">caitya</hi> cave.</p>
 		</support>
 	      </supportDesc>
 	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
-	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
-		over two wells in recess, west from the last</origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" datingMethod="cal:gregorian" evidence="lettering">1st c. BCE? (lettering)</origDate>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, the <placeName key="pl:Bhājā-Caitya"><hi rend="italic">caitya</hi></placeName> cave.</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 2nd c. BCE</origDate>
 	    </origin>
+	    <provenance type="found" subtype="discovered" notAfter="1955">
+	      <p>Discovered by Shri Shankar Das, Archaeological Engineer, sometime before 1955.</p>
+	    </provenance>
 	  </history>
 	</msDesc>
       </sourceDesc>
@@ -45,42 +52,43 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="images/Bha2-CTI.jpg">
-      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+    <graphic url="images/Bhājā/Bha2-IAR.jpg">
+      <desc>Photograph of estampage from <bibl><ptr target="bibl:Ghosh1956"/></bibl>.</desc>
     </graphic>
   </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
+	<p>First read by B. Ch. Chhabra in <bibl><ptr target="bibl:Ghosh1956"/>: <citedRange>p. 29</citedRange></bibl>.</p>
 	<listBibl>
 	  <bibl>
-	    <ptr target="bibl:CTI"/>:
-	    <citedRange>Bhājā No. 2</citedRange>
+	    <ptr target="bibl:Deshpande1959"/>
+	    <citedRange>No. 6, p. 30</citedRange>
 	  </bibl>
 	  <bibl>
-	    <ptr target="bibl:LL"/>:
-	    <citedRange>no. 1079</citedRange>
+	    <ptr target="bibl:Nagaraju1981"/>
+	    <citedRange>No. 2, p. 329</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Bhājā2</citedRange>
 	  </bibl>
 	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>This edition is based on <bibl><ptr target="bibl:CTI"/></bibl>.</p>
+	<p>This edition is based on <bibl><ptr target="bibl:Tsu"/>: <citedRange>Bhājā2</citedRange></bibl>. I was not able to examine the inscription <hi rend="italic">in situ</hi>.</p>
+	<p>The characters of the inscription look relatively archaic.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
 	  <lb n="1"/>
-	  mahārathisa kosikīputasa
-	  <lb n="2"/>
-	  <persName key="pers:Bha-Viṣṇudatta">viṇhudatasa</persName>
-	  deyadhama poḍhī
+	  <persName key="pers:Bha-Dharmabhāga">dhamabhāgasa</persName> pasādo
 	</ab>
       </div>
       <div type="translation" xml:lang="eng">
 	<ab>
-	  The religious gift of a cistern from
-	  Kauśikīputra
-	  <persName key="pers:Bha-Viṣṇudatta">Viṣṇudatta</persName>,
-	  the Mahāraṭṭhi.
+	  The ceiling of 
+	  <persName key="pers:Bha-Dharmabhāga">Dharmabhāga</persName>.
 	</ab>
       </div>
     </body>
