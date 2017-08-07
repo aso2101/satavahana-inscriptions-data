@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Pale 1 (of Indrarakṣita)</title>
+	<title>Pale 1 (gift of Indrarakṣita)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>	
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -12,7 +17,19 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
 	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the <objectType>wall</objectType> of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
 	  </physDesc>
 	  <history>
 	    <origin>
@@ -20,20 +37,28 @@
 		<placeName key="pl:Pāle">Pāle</placeName>,
 		in an east-facing cave at a height of about 70m.
 	      </origPlace>
-	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1st c. BCE</origDate>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">c. 1st c. BCE</origDate>
 	    </origin>
 	  </history>
 	</msDesc>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
-  <facsimile/>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-	  <ptr target="bibl:Sankalia1969"/>
-	</bibl>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Sankalia1969"/>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="notes" xml:lang="eng">
 	<p>This edition is based on <ref target="bibl:Sankalia1969">Sankalia and Gokhale 1969</ref>.</p>
@@ -44,12 +69,20 @@
 	  <lb n="1"/>
 	  namo arahaṃtānam kātuna<unclear>ṃ</unclear>
 	  <lb n="2"/>
-	  <unclear>bha</unclear><note resp="#Sankalia1969">The letter seems to have been chipped off at the time of engraving and so the engraver had to incise bha a second time.</note> bhadaṃta <persName key="pers:Pale-Indrarakṣita">idarakhitena</persName> lena<unclear>ṃ</unclear>
+	  <unclear>bha</unclear>bhadaṃta <persName key="pers:Pale-Indrarakṣita">idarakhitena</persName> lena<unclear>ṃ</unclear>
 	  <lb n="3"/>
 	  kārāpita<unclear>ṃ</unclear> poḍhi ca sāh<unclear>ā</unclear> kāhi<lb n="4" break="no"/>saha
 	</ab>
       </div>
-      <div type="translation">
+      <div type="apparatus" xml:lang="eng">
+	<appList>
+	  <app loc="2">
+	    <lem><unclear>bha</unclear></lem>
+	    <note resp="bibl:Sankalia1969">The letter seems to have been chipped off at the time of engraving and so the engraver had to incise bha a second time.</note>
+	  </app>
+	</appList>
+      </div>
+      <div type="translation" xml:lang="eng">
 	<p>With reverence to the Arahants,
 	   the revered <persName key="pers:Pale-Indrarakṣita">Indrarakṣita</persName>
 	   caused this cave to be constructed, as well

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title xml:lang="en">Beḍsā</title>
+	<title xml:lang="eng">Beḍsā</title>
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
@@ -37,29 +37,33 @@
 	  <placeName type="modern" xml:lang="mar-Latn">Beḍse</placeName>
 	  <placeName type="modern" xml:lang="mar-Latn">Beḍsā</placeName>
 	  <placeName type="ancient" xml:lang="pra-Latn">Mārakuḍa</placeName>
-	  <placeName type="ancient" xml:lang="pra-Latn" cert="low">Mārakūṭa</placeName>
+	  <placeName type="ancient" xml:lang="san-Latn" cert="low">Mārakūṭa</placeName>
 	  <location>
 	    <geo>73.535467 18.720860</geo>
 	  </location>
 	  <desc>
-	    <p>According to Burgess (<bibl><ptr target="bibl:ASWI4"/>p. 89<citedRange></citedRange></bibl>), the ancient name of the Beḍsā hill was Mārakuḍa, attested in <ptr target="in:Be1"/>, which he reconstructs as ‘Devil’s Peak’ (Skt. <foreign xml:lang="san-Latn">mārakūṭa</foreign>).</p>
+	    <p>According to Burgess (<bibl><ptr target="bibl:ASWI4"/>: <citedRange>p. 89</citedRange></bibl>), the ancient name of the Beḍsā hill was Mārakuḍa, attested in <ptr target="in:Be1"/>, which he reconstructs as ‘Devil’s Peak’ (Skt. <foreign xml:lang="san-Latn">mārakūṭa</foreign>).</p>
+	    <p>Beḍsā consists of two major caves, a <hi rend="italic">caitya</hi> and a <hi rend="italic">vihāra</hi>, as well as a small memorial <hi rend="italic">stūpa</hi> and a cistern.</p>
 	    <figure>
-	      <graphic url="bedse-west1866.jpg"/>
+	      <graphic url="images/Beḍsā/bedse-west1866.jpg" width="400px"/>
 	      <figDesc>A map of the Bedṣā cave complex, from <bibl><ptr target="bibl:West18641866"/></bibl>.</figDesc>
 	    </figure>
-	    <p>Beḍsā consists of two major caves, a <hi rend="italic">caitya</hi> and a <hi rend="italic">vihāra</hi>, as well as a small memorial <hi rend="italic">stūpa</hi> and a cistern.</p>
+	  </desc>
+	  <listPlace type="subsidiary">
 	    <place xml:id="Beḍsā-Caitya">
 	      <placeName><hi rend="italic">Caitya</hi> cave</placeName>
-	      <figure>
-		<graphic url="bedse-chaitya-architectural_section.jpg"/>
-		<figDesc>A cross-section of the Bedṣā <hi rend="italic">caitya</hi>, from <bibl><ptr target="bibl:CTI"/></bibl>.</figDesc>
-	      </figure>
-	      <figure>
-		<graphic url="bedse-chaitya.jpg"/>
-		<figDesc>A plan of the Bedṣā <hi rend="italic">caitya</hi>, from <bibl><ptr target="bibl:CTI"/></bibl>.</figDesc>
-	      </figure>
+	      <desc>
+		<figure>
+		  <graphic url="images/Beḍsā/bedse-chaitya-architectural_section.jpg" width="400px"/>
+		  <figDesc>A cross-section of the Bedṣā <hi rend="italic">caitya</hi>, from <bibl><ptr target="bibl:CTI"/></bibl>.</figDesc>
+		</figure>
+		<figure>
+		  <graphic url="images/Beḍsā/bedse-chaitya.jpg" width="400px"/>
+		  <figDesc>A plan of the Bedṣā <hi rend="italic">caitya</hi>, from <bibl><ptr target="bibl:CTI"/></bibl>.</figDesc>
+		</figure>
+	      </desc>
 	    </place>
-	  </desc>
+	  </listPlace>
 	</place>
       </listPlace>
     </body>
