@@ -9,11 +9,13 @@
             <text qname="tei:place"/>
             <text qname="tei:bibl"/>
             <text qname="tei:biblStruct"/>
+            <inline qname="tei:add"/>
+            <inline qname="tei:del"/>
             <inline qname="tei:app"/>
             <inline qname="tei:supplied"/>
             <inline qname="tei:unclear"/>
-            <inline qname="tei:gap"/>
             <inline qname="tei:choice"/>
+            <ignore qname="tei:gap"/>
             <ignore qname="tei:rdg"/>
             <ignore qname="tei:lb"/>
         </lucene>
