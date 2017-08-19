@@ -60,8 +60,8 @@
 	  </bibl>
 	</listBibl>
       </div>
-      <div type="notes" xml:lang="eng">
-	<p>This edition is based on <ref target="bibl:Sankalia1969">Sankalia and Gokhale 1969</ref>.</p>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Sankalia1969"/></bibl>.</p>
 	<p>This is evidently the only Jain record from the Western Deccan of the early centuries CE.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
@@ -78,7 +78,7 @@
 	<appList>
 	  <app loc="2">
 	    <lem><unclear>bha</unclear></lem>
-	    <note resp="bibl:Sankalia1969">The letter seems to have been chipped off at the time of engraving and so the engraver had to incise bha a second time.</note>
+	    <note>“The letter seems to have been chipped off at the time of engraving and so the engraver had to incise bha a second time” (<bibl><ptr target="bibl:Sankalia1969"/></bibl>).</note>
 	  </app>
 	</appList>
       </div>

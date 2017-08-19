@@ -45,7 +45,7 @@
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<p>First published by <bibl><ptr target="bibl:Nagaraju"/>: <citedRange>p. 339</citedRange>.</bibl></p>
+	<p>First published by <bibl><ptr target="bibl:Nagaraju1981"/>: <citedRange>p. 339</citedRange>.</bibl></p>
 	<listBibl>
 	  <bibl>
 	    <ptr target="bibl:Tsu"/>:
@@ -69,7 +69,7 @@
 	<appList>
 	  <app loc="1">
 	    <lem>po<gap reason="illegible" extent="unknown" unit="character"/></lem>
-	    <rdg source="bibl:Nagaraju">po<supplied reason="illegible">ṭhira</supplied></rdg>
+	    <rdg source="bibl:Nagaraju1981">po<supplied reason="illegible">ṭhira</supplied></rdg>
 	    <note>Possibly restore to <foreign xml:lang="pra-Latn">poṭhi</foreign>?</note>
 	  </app>
 	</appList>
