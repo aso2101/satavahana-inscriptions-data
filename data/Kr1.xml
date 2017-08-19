@@ -12,7 +12,20 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
-	  <physDesc/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
 	  <history>
 	    <origin>
 	      <origPlace>
@@ -24,40 +37,50 @@
 	</msDesc>
       </sourceDesc>
       <profileDesc>
+	<textClass>
+	  <keywords>
+	    <term>Donative</term>
+	  </keywords>
+	</textClass>
       </profileDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile>
-  </facsimile>
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-	  <ptr target="bibl:AS"/>
-	  <citedRange>Mahāḍ, Kol, and Karāḍh, No. 6</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:LL"/>
-	  <citedRange>1077</citedRange>
-	</bibl>
+	<p>First published by Bühler/Burgess in <bibl><ptr target="bibl:ASWI4"/>: <citedRange>Mahāḍ, Kol, and Karāḍh, No. 6</citedRange></bibl>, on which the current edition is based.</p>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>1184</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju1981"/>:
+	    <citedRange>no. 1 (p. 336)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Karāḍh 1 (p. 454)</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:ASWI4"/></bibl>.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
-	<div type="commentary" xml:lang="eng">
-	  <p>This edition is based on <ref target="bibl:AS">Bühler 1883</ref>.</p>
-	</div>
-	<p>
+	<ab>
 	  <lb n="1"/>
 	  <persName key="pers:Kr-Gopāla">g<unclear>o</unclear>p<unclear>ā</unclear>laputasa</persName> 
 	  <persName key="pers:Kr-Saṅghamitra">saṃgha<lb n="2" break="no"/>m<unclear>i</unclear>tarasa</persName>
 	  leṇa deyadhama		  
-        </p>
+        </ab>
       </div>
       <div type="translation" xml:lang="eng">
-	<p>
+	<ab>
 	  (This) cave (is) the religious gift of
 	  <persName key="pers:Kr-Saṅghamitra">Saṅghamitra</persName>,
 	  the son of <persName key="pers:Kr-Gopāla">Gopāla</persName>.
-	</p>
+	</ab>
       </div>
     </body>
   </text>
