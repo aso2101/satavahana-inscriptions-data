@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Karāḍh No. 1 (of Saṅghamitra)</title>
+	<title>Karāḍh No. 1 (gift of Saṅghamitra)</title>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -49,7 +49,7 @@
     <body>
       <div type="bibliography" xml:lang="eng">
 	<p>First published by Bühler/Burgess in <bibl><ptr target="bibl:ASWI4"/>: <citedRange>Mahāḍ, Kol, and Karāḍh, No. 6</citedRange></bibl>, on which the current edition is based.</p>
-	<listBibl>
+	<listBibl type="secondary-bibliography">
 	  <bibl>
 	    <ptr target="bibl:LL"/>:
 	    <citedRange>1184</citedRange>
