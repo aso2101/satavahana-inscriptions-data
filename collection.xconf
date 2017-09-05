@@ -9,17 +9,22 @@
             <text qname="tei:place"/>
             <text qname="tei:bibl"/>
             <text qname="tei:biblStruct"/>
+            <!-- Inline elements are indexed as part of the parent string (no spaces are added. ex: 'imp<add>ort</add>ant' will be indexed as 'important')-->
             <inline qname="tei:add"/>
             <inline qname="tei:del"/>
             <inline qname="tei:app"/>
             <inline qname="tei:supplied"/>
             <inline qname="tei:unclear"/>
             <inline qname="tei:choice"/>
+            <inline qname="tei:pb"/>
+            <!-- Ignored elements are not indexed at all.  -->
             <ignore qname="tei:gap"/>
             <ignore qname="tei:rdg"/>
             <ignore qname="tei:lb"/>
+            <ignore qname="tei:space"/>
+            <ignore qname="tei:milestone"/>
         </lucene>
-        <!-- Range indexes -->
+        <!-- Range indexes, used to speed xquery processing.  -->
         <range>
             <create qname="@xml:lang" type="xs:string"/>
             <create qname="@xml:id" type="xs:string"/>
