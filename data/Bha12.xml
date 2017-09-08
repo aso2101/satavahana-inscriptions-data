@@ -5,6 +5,14 @@
       <titleStmt>
 	<title>Bhājā No. 12</title>
         <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>Record created and maintained by</resp>
+	  <name key="staff:Ollett">Andrew Ollett</name>
+	</respStmt>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>

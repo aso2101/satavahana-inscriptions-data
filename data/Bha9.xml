@@ -4,7 +4,11 @@
     <fileDesc>
       <titleStmt>
 	<title>Bhājā No. 9 (stūpa of Dharmagiri)</title>
-        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>	
+	<respStmt>
+	  <resp>Record created and maintained by</resp>
+	  <name key="staff:Ollett">Andrew Ollett</name>
+	</respStmt>
         <respStmt>
           <resp>With contributions by</resp>
           <name key="staff:Smith">Caley Smith</name>

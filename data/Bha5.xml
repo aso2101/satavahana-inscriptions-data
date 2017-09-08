@@ -5,6 +5,10 @@
       <titleStmt>
 	<title>Bhājā No. 5 (gift of Naḍasava)</title>
         <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>Record created and maintained by</resp>
+	  <name key="staff:Ollett">Andrew Ollett</name>
+	</respStmt>
         <respStmt>
           <resp>With contributions by</resp>
           <name key="staff:Smith">Caley Smith</name>

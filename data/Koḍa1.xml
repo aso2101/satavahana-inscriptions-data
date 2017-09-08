@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-	<title>Koḍavali 1 (Vāsiṣṭhīputra Śrīcaṇḍa Sātakarṇi, year 11)</title>
+	<title>Koḍavali 1 (time of Vāsiṣṭhīputra Śrīcaṇḍa Sātakarṇi, year 11)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>Creation of record by</resp>
+	  <name key="staff:Ollett">Andrew Ollett</name>
+	</respStmt>
       </titleStmt>
       <publicationStmt>
 	<authority>Sātavāhana Inscriptions</authority>
@@ -12,11 +17,16 @@
       <sourceDesc>
 	<msDesc>
 	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
 	  <physDesc>
 	    <objectDesc>
 	      <supportDesc>
 	      <support>
-		<p>The wall of a well.</p>
+		<p>On the wall of an excavated <objectType>well</objectType>.</p>
 	      </support>
 	    </supportDesc>
 	    </objectDesc>
@@ -24,7 +34,7 @@
 	  <history>
 	    <origin>
 	      <origPlace>
-		<placeName key="pl:Koḍavali">Koḍavali</placeName>, on the wall of one of the rock-cut well near the mound locally known as <hi rend="italic">dhanam ḍibbā</hi>.
+		<placeName key="pl:Koḍavali">Koḍavali</placeName>, on the wall of one of the rock-cut wells near the mound locally known as <hi rend="italic">dhanam ḍibbā</hi>.
 	      </origPlace>
 	      <origDate when-custom="0206" precision="low" datingMethod="cal:gregorian">c. 206 CE</origDate>
 	    </origin>
@@ -43,19 +53,21 @@
   <text>
     <body>
       <div type="bibliography" xml:lang="eng">
-	<bibl>
-	  <ptr target="bibl:KrishnaSastri19251926"/>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:LL"/>
-	  <citedRange>no. 1341</citedRange>
-	</bibl>
-	<bibl>
-	  <ptr target="bibl:Konow1908"/>
-	</bibl>
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:KrishnaSastri19251926"/>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>no. 1341</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Konow1908"/>
+	  </bibl>
+	</listBibl>
       </div>
       <div type="commentary" xml:lang="eng">
-	<p>Based on <ref target="bibl:KrishnaSastri19251926">Krishna Sastri 1925–1926</ref>, with the reservations of Sten Konow (supplied by the editor of EI) taken into account.</p>
+	<p>Based on <bibl><ptr target="bibl:KrishnaSastri19251926"/></bibl>, with the reservations of Sten Konow (supplied by the editor of EI) taken into account.</p>
       </div>
       <div type="edition" xml:lang="pra-Latn">
 	<ab>
