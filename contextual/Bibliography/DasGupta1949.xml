@@ -6,7 +6,7 @@
 	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
 	<respStmt>
 	  <resp>XML input by</resp>
-	  <name>Andrew Ollett</name>
+	  <name key="staff:Ollett">Andrew Ollett</name>
 	</respStmt>
       </titleStmt>
       <editionStmt>
