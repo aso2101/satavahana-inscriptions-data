@@ -1,8 +1,49 @@
-<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ku-Mahika">
-    <sex value="M"/>
-    <persName>Mahika</persName>
-    <occupation key="terms:Lohavaṇij">ironmonger</occupation>
-    <residence>
-        <placeName key="pl:Karahākaḍa">Karahākaḍa</placeName>
-    </residence>
-</person>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="eng">Mahika</title>
+	<editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>XML input by</resp>
+	  <name>Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <editionStmt>
+	<edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+	<authority>South Asian Inscriptions</authority>
+	<idno type="URI">Ku-Mahika</idno>
+	<availability>
+	  <licence target="https://creativecommons.org/licenses/by/4.0/">
+	    Distributed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+	  d</licence>
+	</availability>
+	<date when="2017-09-12">September 12, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-09-12" who="staff:Ollett">Added full TEI structure to record, with metadata.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+	<person xml:id="Ku-Mahika">
+	  <sex value="M"/>
+	  <persName xml:lang="pra-Latn">Mahika</persName>
+	  <occupation key="terms:Lohavaṇij">
+	    <desc>Lohavaṇij</desc>
+	  </occupation>
+	  <residence>
+            <placeName key="pl:Karahākaḍa">Karahākaḍa</placeName>
+	  </residence>
+	</person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
