@@ -62,10 +62,10 @@
   </teiHeader>
   <facsimile>
     <graphic url="images/Beḍsā/Be1-CTI.jpg">
-      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+      <desc>Photograph of estampage from <bibl><ptr target="bibl:CTI"/></bibl>.</desc>
     </graphic>
     <graphic url="images/Beḍsā/Be1-West.jpg">
-      <desc>Eye-copy from <ptr target="bibl:West18641866"/>.</desc>
+      <desc>Eye-copy from <bibl><ptr target="bibl:West18641866"/></bibl>.</desc>
     </graphic>
     <graphic url="images/Beḍsā/Be1-AO.jpg">
       <desc>Photograph by Andrew Ollett in Feburary 2017.</desc>
